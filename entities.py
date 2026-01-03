@@ -131,10 +131,12 @@ daysDF =  groupSentiments(objNewsDF, 'day')
 daysDF = daysDF.sort_values(by=['day'], ascending=True)
 daysDF.to_csv(DATA_PATH / 'csv' / 'sentiments_days.csv',index=False) 
 
+'''
 keywordsSentimentDF =  groupSentiments(objNewsDF, 'keyword')
 keywordsSentimentDF = keywordsSentimentDF.sort_values(by=['keyword'], ascending=True)
 keywordsSentimentDF.to_csv(DATA_PATH / 'csv' / 'sentiments_keywords.csv',index=False) 
-
+'''
+#todo: group by extreme
 
 print(list(newsDf.columns))
 print(list(objNewsDF.columns))
