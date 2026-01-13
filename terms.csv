@@ -1,12 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'0820907322',extremes,Storm,#b3b2b1,wmo,stormrottum,2025-12-15T03:54:00+00:00,Netherlands,0.6530092176469494,0,1,nl,NEU,Europe
 '998c9f84db',extremes,Storm,#b3b2b1,wmo,storm nederland,2025-12-02T03:41:00+00:00,Netherlands,0.6467073046462182,1,2,nl,NEU,Europe
 '90fce750f8',extremes,Fog,#d60d2b,wmo,mist Henegouwen,2025-12-14T03:49:00+00:00,Belgium,0.6458763004807578,1,1,nl,WCE,Europe
 '2bb3d20abc',extremes,Fog,#d60d2b,wmo,mist belgië,2025-12-14T03:49:00+00:00,Belgium,0.6419349488757918,1,2,nl,WCE,Europe
 'b32cdf78a9',extremes,Storm,#b3b2b1,wmo,stormvloed ijmuiden,2025-12-18T03:44:00+00:00,Netherlands,0.6344587946810741,0,1,nl,NEU,Europe
 '1ff36d7a46',extremes,Drought,#edc291,edo,droogte belgie,2025-12-08T03:45:00+00:00,Belgium,0.6340143298042665,1,1,nl,WCE,Europe
 '58275fcc95',extremes,Fog,#d60d2b,wmo,mist west-vlaanderen,2025-12-14T03:49:00+00:00,Belgium,0.6296928021209627,1,1,nl,WCE,Europe
-'4f633591bc',extremes,Storm,#b3b2b1,wmo,stormhoek van holland,2025-12-15T03:54:00+00:00,Netherlands,0.6288154208347793,0,1,nl,NEU,Europe
 'd46ac7becc',extremes,Drought,#edc291,edo,gebrek aan regen Aruba,2025-12-16T03:47:00+00:00,Aruba,0.6271396751167083,0,1,nl,CAR,North-America
 '26b7df1ccf',extremes,Drought,#edc291,edo,droogte sint maarten,2025-12-07T03:47:00+00:00,Sint Maarten,0.6241501613627046,0,1,nl,CAR,North-America
 '0c4c529b3b',extremes,Storm,#b3b2b1,wmo,storm belgie,2025-12-14T03:49:00+00:00,Belgium,0.6204032215610633,1,1,nl,WCE,Europe
@@ -19,15 +17,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'db5f39549c',extremes,Earthquake,#870007,usgs,aardbeving indonesië,2025-12-07T03:46:00+00:00,Indonesia,0.5833862317197157,0,1,nl,SEA,Asia
 '1512e9c6b2',extremes,Drought,#edc291,edo,droogte suriname,2025-12-09T03:41:00+00:00,Suriname,0.5788380819790799,1,1,nl,NSA,South-America
 '90353f7f8d',extremes,Fog,#d60d2b,wmo,mist nederland,2025-12-05T03:41:00+00:00,Netherlands,0.5777084078853159,2,2,nl,NEU,Europe
-'ad0d79f37c',extremes,Drought,#edc291,edo,droogte bonaire sint eustatius en saba,2025-12-04T03:42:00+00:00,Bonaire; Saint Eustatius and Saba ,0.5768882114552758,0,1,nl,CAR,North-America
 '9ea0e31db4',extremes,Drought,#edc291,edo,gebrek aan regen belgië,2025-12-10T03:45:00+00:00,Belgium,0.5723081229841069,1,1,nl,WCE,Europe
 '15eb1e7038',extremes,Earthquake,#870007,usgs,aardbeving tambolaka,2025-12-07T03:46:00+00:00,Indonesia,0.5677454728805034,0,1,nl,NAU,Oceania
-'bd208748d0',extremes,Earthquake,#870007,usgs,aardbeving lombok,2025-12-05T03:40:00+00:00,Indonesia,0.5673500606901438,0,1,nl,NAU,Oceania
 'ae236a7b44',extremes,Fog,#d60d2b,wmo,mist utrecht,2025-12-14T03:49:00+00:00,Netherlands,0.5668752630424431,3,1,nl,NEU,Europe
 'f2b29262f2',extremes,Drought,#edc291,edo,droge periode belgië,2025-12-12T03:46:00+00:00,Belgium,0.5650560426193214,1,1,nl,WCE,Europe
 'baa9cd639a',extremes,Fog,#d60d2b,wmo,mist noord-brabant,2025-12-05T03:41:00+00:00,Netherlands,0.5582780539137225,0,1,nl,NEU,Europe
 '5689409e06',extremes,Storm,#b3b2b1,wmo,storm texel,2025-12-14T03:49:00+00:00,Netherlands,0.5570257721363403,1,1,nl,NEU,Europe
 'd17aefc684',extremes,Storm,#b3b2b1,wmo,stormvloed hoek van holland,2025-12-07T03:47:00+00:00,Netherlands,0.5569866224817224,1,1,nl,NEU,Europe
+'0820907322',extremes,Storm,#b3b2b1,wmo,stormrottum,2025-12-15T03:54:00+00:00,Netherlands,0.555057834999907,1,1,nl,NEU,Europe
 '06a732cd94',extremes,Storm,#b3b2b1,wmo,stormvloed vlissingen,2025-12-07T03:47:00+00:00,Netherlands,0.554505010874222,1,1,nl,NEU,Europe
 '511543dad8',extremes,Drought,#edc291,edo,gebrek aan regen nederland,2025-12-11T03:46:00+00:00,Netherlands,0.5531793336462999,0,1,nl,NEU,Europe
 'f593c935b4',extremes,Storm,#b3b2b1,wmo,storm vlissingen,2025-12-09T03:41:00+00:00,Netherlands,0.5527451796599813,1,1,nl,NEU,Europe
@@ -39,6 +36,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a4c2cea6a7',extremes,Drought,#edc291,edo,gebrek aan regen curacao,2025-12-16T03:47:00+00:00,Curacao,0.5395996991122582,1,1,nl,CAR,North-America
 '7da716f8d7',extremes,Precipitation,#d60d2b,wmo,neerslag indonesië,2025-12-10T03:45:00+00:00,Indonesia,0.5379449140547847,0,1,nl,SEA,Asia
 '61a00c0855',extremes,Drought,#edc291,edo,droogte suriname,2025-12-15T03:54:00+00:00,Suriname,0.534682037849268,0,1,nl,NSA,South-America
+'4f633591bc',extremes,Storm,#b3b2b1,wmo,stormhoek van holland,2025-12-15T03:54:00+00:00,Netherlands,0.5344931077095624,1,1,nl,NEU,Europe
 'a1eed1b9f3',extremes,Precipitation,#d60d2b,wmo,hevige regen indonesië,2025-12-07T03:47:00+00:00,Indonesia,0.5286837658706565,0,1,nl,SEA,Asia
 '28f9809f85',extremes,Drought,#edc291,edo,droogte bonaire sint eustatius en saba,2025-12-05T03:41:00+00:00,Bonaire; Saint Eustatius and Saba ,0.5009425530003417,0,1,nl,CAR,North-America
 'da0803d83b',extremes,Precipitation,#d60d2b,wmo,stortbui Indonesië,2025-12-10T03:45:00+00:00,Indonesia,0.500560243634705,1,1,nl,SEA,Asia
