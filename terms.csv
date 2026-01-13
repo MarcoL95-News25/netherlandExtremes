@@ -1,6 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'708206a69e',extremes,Storm,#b3b2b1,wmo,stormvloed nederland,2025-11-30T03:46:00+00:00,Netherlands,0.7194955844057063,0,1,nl,NEU,Europe
-'90353f7f8d',extremes,Fog,#d60d2b,wmo,mist nederland,2025-12-05T03:41:00+00:00,Netherlands,0.6625975975121363,1,2,nl,NEU,Europe
 '0820907322',extremes,Storm,#b3b2b1,wmo,stormrottum,2025-12-15T03:54:00+00:00,Netherlands,0.6530092176469494,0,1,nl,NEU,Europe
 '998c9f84db',extremes,Storm,#b3b2b1,wmo,storm nederland,2025-12-02T03:41:00+00:00,Netherlands,0.6467073046462182,1,2,nl,NEU,Europe
 '90fce750f8',extremes,Fog,#d60d2b,wmo,mist Henegouwen,2025-12-14T03:49:00+00:00,Belgium,0.6458763004807578,1,1,nl,WCE,Europe
@@ -23,6 +21,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '80a1b6ba6b',extremes,Drought,#edc291,edo,droogte belgie,2025-12-09T03:41:00+00:00,Belgium,0.5837637554165427,1,1,nl,WCE,Europe
 'db5f39549c',extremes,Earthquake,#870007,usgs,aardbeving indonesië,2025-12-07T03:46:00+00:00,Indonesia,0.5833862317197157,0,1,nl,SEA,Asia
 '1512e9c6b2',extremes,Drought,#edc291,edo,droogte suriname,2025-12-09T03:41:00+00:00,Suriname,0.5788380819790799,1,1,nl,NSA,South-America
+'90353f7f8d',extremes,Fog,#d60d2b,wmo,mist nederland,2025-12-05T03:41:00+00:00,Netherlands,0.5777084078853159,2,2,nl,NEU,Europe
 'ad0d79f37c',extremes,Drought,#edc291,edo,droogte bonaire sint eustatius en saba,2025-12-04T03:42:00+00:00,Bonaire; Saint Eustatius and Saba ,0.5768882114552758,0,1,nl,CAR,North-America
 '9ea0e31db4',extremes,Drought,#edc291,edo,gebrek aan regen belgië,2025-12-10T03:45:00+00:00,Belgium,0.5723081229841069,1,1,nl,WCE,Europe
 '15eb1e7038',extremes,Earthquake,#870007,usgs,aardbeving tambolaka,2025-12-07T03:46:00+00:00,Indonesia,0.5677454728805034,0,1,nl,NAU,Oceania
@@ -43,14 +42,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '61a00c0855',extremes,Drought,#edc291,edo,droogte suriname,2025-12-15T03:54:00+00:00,Suriname,0.534682037849268,0,1,nl,NSA,South-America
 '19ce294d18',extremes,Drought,#edc291,edo,droogte curacao,2025-12-02T03:41:00+00:00,Curacao,0.5329767554281953,0,1,nl,CAR,North-America
 'a1eed1b9f3',extremes,Precipitation,#d60d2b,wmo,hevige regen indonesië,2025-12-07T03:47:00+00:00,Indonesia,0.5286837658706565,0,1,nl,SEA,Asia
-'3d690ea060',extremes,Drought,#edc291,edo,droogte Aruba,2025-12-01T04:02:00+00:00,Aruba,0.5126824389565332,0,1,nl,CAR,North-America
-'07babddb74',extremes,Drought,#edc291,edo,droogte sint maarten,2025-11-30T03:47:00+00:00,Sint Maarten,0.5030123765387557,0,1,nl,CAR,North-America
 '28f9809f85',extremes,Drought,#edc291,edo,droogte bonaire sint eustatius en saba,2025-12-05T03:41:00+00:00,Bonaire; Saint Eustatius and Saba ,0.5009425530003417,0,1,nl,CAR,North-America
 'da0803d83b',extremes,Precipitation,#d60d2b,wmo,stortbui Indonesië,2025-12-10T03:45:00+00:00,Indonesia,0.500560243634705,1,1,nl,SEA,Asia
 'c3776cfc46',extremes,Drought,#edc291,edo,droge periode Aruba,2025-12-10T03:45:00+00:00,Aruba,0.5005486599497437,0,1,nl,CAR,North-America
-'a95678c0b5',extremes,Precipitation,#d60d2b,wmo,stortbui kalimantan selatan,2025-12-01T04:02:00+00:00,Indonesia,0.491998760023731,0,1,nl,SEA,Asia
-'a77c5c4f2b',extremes,Precipitation,#d60d2b,wmo,neerslag kep. bangka belitung,2025-12-02T03:41:00+00:00,Indonesia,0.4844059249626433,0,1,nl,SEA,Asia
 '95ce1fcf89',extremes,Precipitation,#d60d2b,wmo,neerslag atjeh,2025-12-14T03:49:00+00:00,Indonesia,0.4839062235871364,0,1,nl,SEA,Asia
 '4ab07339f4',extremes,Precipitation,#d60d2b,wmo,neerslag kalimantan timur,2025-12-03T03:40:00+00:00,Indonesia,0.4830837855535352,0,1,nl,SEA,Asia
 'd50337eb90',extremes,Precipitation,#d60d2b,wmo,stortbui sumatera utara,2025-12-14T03:49:00+00:00,Indonesia,0.4812127232261715,0,1,nl,SEA,Asia
-'314ce0eea0',extremes,Precipitation,#d60d2b,wmo,regen sulawesi selatan,2025-12-12T03:45:00+00:00,Indonesia,0.48121001172991984,0,1,nl,SEA,Asia
+'314ce0eea0',extremes,Precipitation,#d60d2b,wmo,regen sulawesi selatan,2025-12-12T03:45:00+00:00,Indonesia,0.4812100117299198,0,1,nl,SEA,Asia
