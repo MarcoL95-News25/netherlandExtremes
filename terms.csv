@@ -1,9 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'a834b33b6c',extremes,Drought,#edc291,edo,droogte nederland,2026-01-15T10:57:00+00:00,Netherlands,0.8212996056612798,1,2,nl,NEU,Europe
 '07babddb74',extremes,Drought,#edc291,edo,droogte sint maarten,2026-01-15T10:57:00+00:00,Sint Maarten,0.6716744203895683,1,1,nl,CAR,North-America
 '5342f1532c',extremes,Drought,#edc291,edo,droogte nederland,2026-01-15T12:14:00+00:00,Netherlands,0.6678563930067067,1,2,nl,NEU,Europe
-'708206a69e',extremes,Storm,#b3b2b1,wmo,stormvloed nederland,2026-01-15T10:56:00+00:00,Netherlands,0.655966124677214,1,1,nl,NEU,Europe
-'998c9f84db',extremes,Storm,#b3b2b1,wmo,storm nederland,2025-12-02T03:41:00+00:00,Netherlands,0.6467073046462182,1,2,nl,NEU,Europe
 '90fce750f8',extremes,Fog,#d60d2b,wmo,mist Henegouwen,2025-12-14T03:49:00+00:00,Belgium,0.6458763004807578,1,1,nl,WCE,Europe
 '2bb3d20abc',extremes,Fog,#d60d2b,wmo,mist belgië,2025-12-14T03:49:00+00:00,Belgium,0.6419349488757918,1,2,nl,WCE,Europe
 '1ff36d7a46',extremes,Drought,#edc291,edo,droogte belgie,2025-12-08T03:45:00+00:00,Belgium,0.6340143298042665,1,1,nl,WCE,Europe
@@ -15,6 +12,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '90353f7f8d',extremes,Fog,#d60d2b,wmo,mist nederland,2025-12-05T03:41:00+00:00,Netherlands,0.5777084078853159,2,2,nl,NEU,Europe
 'ae236a7b44',extremes,Fog,#d60d2b,wmo,mist utrecht,2025-12-14T03:49:00+00:00,Netherlands,0.5668752630424431,3,1,nl,NEU,Europe
 'f2b29262f2',extremes,Drought,#edc291,edo,droge periode belgië,2025-12-12T03:46:00+00:00,Belgium,0.5650560426193214,1,1,nl,WCE,Europe
+'708206a69e',extremes,Storm,#b3b2b1,wmo,stormvloed nederland,2026-01-15T10:56:00+00:00,Netherlands,0.5575712059756319,2,1,nl,NEU,Europe
 '5689409e06',extremes,Storm,#b3b2b1,wmo,storm texel,2025-12-14T03:49:00+00:00,Netherlands,0.5570257721363403,1,1,nl,NEU,Europe
 '0820907322',extremes,Storm,#b3b2b1,wmo,stormrottum,2025-12-15T03:54:00+00:00,Netherlands,0.555057834999907,1,1,nl,NEU,Europe
 'f593c935b4',extremes,Storm,#b3b2b1,wmo,storm vlissingen,2025-12-09T03:41:00+00:00,Netherlands,0.5527451796599813,1,1,nl,NEU,Europe
@@ -28,7 +26,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b9418001ff',extremes,Earthquake,#870007,usgs,aardbeving bitung,2026-01-15T10:56:00+00:00,Indonesia,0.5443268901969502,1,1,nl,SEA,Asia
 '707a25fcab',extremes,Earthquake,#870007,usgs,aardbeving sungai penuh,2026-01-15T12:13:00+00:00,Indonesia,0.5438864412180854,1,1,nl,SEA,Asia
 'cdb3eaf147',extremes,Drought,#edc291,edo,droogte Indonesië,2026-01-15T10:57:00+00:00,Indonesia,0.5430107877642535,1,1,nl,SEA,Asia
-'30bc906e71',extremes,Precipitation,#d60d2b,wmo,regen Indonesië,2025-12-08T03:44:00+00:00,Indonesia,0.5422977733710608,0,1,nl,SEA,Asia
 'b0d80a3f36',extremes,Storm,#b3b2b1,wmo,stormvloed rottum,2025-12-11T03:46:00+00:00,Netherlands,0.5410987101278739,1,1,nl,NEU,Europe
 'a4c2cea6a7',extremes,Drought,#edc291,edo,gebrek aan regen curacao,2025-12-16T03:47:00+00:00,Curacao,0.5395996991122582,1,1,nl,CAR,North-America
 'b32cdf78a9',extremes,Storm,#b3b2b1,wmo,stormvloed ijmuiden,2025-12-18T03:44:00+00:00,Netherlands,0.539289975478913,1,1,nl,NEU,Europe
