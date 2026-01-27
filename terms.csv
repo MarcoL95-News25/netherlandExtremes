@@ -39,7 +39,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cdb3eaf147',extremes,Drought,#edc291,edo,droogte Indonesië,2026-01-15T10:57:00+00:00,Indonesia,0.5430107877642535,1,1,nl,SEA,Asia
 '322366f732',extremes,Snow&Ice,#d60d2b,wmo,ijs drenthe,2026-01-24T03:48:00+00:00,Netherlands,0.5429767231322667,1,1,nl,NEU,Europe
 '03584bc06f',extremes,Snow&Ice,#d60d2b,wmo,ijs overijssel,2026-01-24T03:48:00+00:00,Netherlands,0.5399529564355727,1,1,nl,NEU,Europe
-'b32cdf78a9',extremes,Storm,#b3b2b1,wmo,stormvloed ijmuiden,2025-12-18T03:44:00+00:00,Netherlands,0.539289975478913,1,1,nl,NEU,Europe
 'b0d80a3f36',extremes,Storm,#b3b2b1,wmo,stormvloed rottum,2026-01-26T04:09:00+00:00,Netherlands,0.539028657845759,1,1,nl,NEU,Europe
 '47161f5932',extremes,Earthquake,#870007,usgs,aardbeving gorontalo,2026-01-15T12:13:00+00:00,Indonesia,0.5381790061511457,1,1,nl,SEA,Asia
 '5060a75fa3',extremes,Snow&Ice,#d60d2b,wmo,sneeuwflevoland,2026-01-23T04:03:00+00:00,Netherlands,0.537156258759768,1,1,nl,NEU,Europe
@@ -129,7 +128,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3fa143a609',extremes,Storm,#b3b2b1,random,stofstorm,2026-01-15T10:39:00+00:00,,0.3484155837900779,1,1,nl,,
 '40f675561f',extremes,Heat Wave,#c40202,random,heetste zomer,2026-01-15T10:56:00+00:00,,0.3470966900262298,0,1,nl,,
 '2c6a8d65d9',extremes,Earthquake,#870007,usgs,aardbeving paciran,2026-01-17T03:44:00+00:00,Indonesia,0.3449176890963447,1,1,nl,SEA,Asia
-'845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-01-17T03:44:00+00:00,,0.3438796635272074,0,1,nl,,
 '55c39b351d',extremes,Storm,#b3b2b1,random,stofduivel,2026-01-15T10:56:00+00:00,,0.34341234140124,0,1,nl,,
 '2c3e19e4c4',extremes,Drought,#edc291,edo,droogte curacao,2026-01-15T10:57:00+00:00,Curacao,0.3428402309422709,1,1,nl,CAR,North-America
 '93df1e3a8f',extremes,Earthquake,#870007,usgs,aardbeving amahai,2026-01-17T03:44:00+00:00,Indonesia,0.3424629856862422,1,1,nl,SEA,Asia
@@ -182,7 +180,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '26349abe17',extremes,Tsunami,#690191,usgs,tsunami attu-station,2026-01-15T12:13:00+00:00,Alaska,0.3198458782942405,0,1,nl,NPO,Pacific Ocean
 '464d595634',extremes,Earthquake,#870007,usgs,aardbeving camiña,2026-01-15T12:13:00+00:00,Chile,0.3198429479823136,0,1,nl,SWS,South-America
 '018b9ccc96',extremes,Earthquake,#870007,usgs,aardbeving mauritius reünie regio,2026-01-15T10:56:00+00:00,,0.3198426792048654,0,1,nl,SIO,Indian Ocean
-'6b1cc9478a',extremes,Earthquake,#870007,usgs,aardbeving mabaruma,2026-01-15T10:56:00+00:00,Guyana,0.31983046756362477,0,1,nl,NSA,South-America
+'6b1cc9478a',extremes,Earthquake,#870007,usgs,aardbeving mabaruma,2026-01-15T10:56:00+00:00,Guyana,0.3198304675636247,0,1,nl,NSA,South-America
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,aardbeving san antonio de los cobres,2026-01-15T10:56:00+00:00,Argentina,0.3198285138531148,0,1,nl,SES,South-America
 'e77612afad',extremes,Earthquake,#870007,usgs,aardbeving tul,2026-01-15T10:56:00+00:00,Indonesia,0.3190245805980998,1,1,nl,SEA,Asia
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,antarctisch zee-ijs,2026-01-21T03:55:00+00:00,,0.3108999208214229,1,1,nl,,
@@ -193,6 +191,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a652c78afc',extremes,Drought,#edc291,random,megadroogte,2026-01-18T03:56:00+00:00,,0.3006146746719527,1,1,nl,,
 '72aad0ef2e',extremes,Tsunami,#690191,usgs,tsunami Indonesië,2026-01-17T03:44:00+00:00,Indonesia,0.2981427680721755,1,1,nl,SEA,Asia
 '538eadceb4',extremes,Heat Wave,#c40202,random,milde winter,2026-01-17T03:44:00+00:00,,0.296499498127642,1,1,nl,,
+'845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-01-17T03:44:00+00:00,,0.29259774399812627,1,1,nl,,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,koudste jaar,2026-01-15T10:20:00+00:00,,0.25717214146115,0,1,nl,,
 'b6cef22543',extremes,Drought,#edc291,random,waterbeperking,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,nl,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmosferische rivier,2026-01-15T10:20:00+00:00,,0.2565769511973332,0,1,nl,,
