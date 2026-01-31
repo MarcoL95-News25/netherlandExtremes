@@ -1,6 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'abd48f77c3',extremes,Snow&Ice,#d60d2b,wmo,sneeuw nederland,2026-01-22T03:59:00+00:00,Netherlands,0.7611253937739418,1,3,nl,NEU,Europe
-'2bb3d20abc',extremes,Fog,#d60d2b,wmo,mist belgië,2026-01-28T03:56:00+00:00,Belgium,0.7423004479860152,0,1,nl,WCE,Europe
+'2bb3d20abc',extremes,Fog,#d60d2b,wmo,mist belgië,2026-01-28T03:56:00+00:00,Belgium,0.745855620788113,1,2,nl,WCE,Europe
 '6cfc55b8b1',extremes,Drought,#edc291,edo,droogte bonaire sint eustatius en saba,2026-01-15T10:57:00+00:00,Bonaire; Saint Eustatius and Saba ,0.6717499933733723,1,1,nl,CAR,North-America
 'd46ac7becc',extremes,Drought,#edc291,edo,gebrek aan regen Aruba,2026-01-15T10:57:00+00:00,Aruba,0.6717174357810362,1,1,nl,CAR,North-America
 '5342f1532c',extremes,Drought,#edc291,edo,droogte nederland,2026-01-15T12:14:00+00:00,Netherlands,0.6681279790557006,2,2,nl,NEU,Europe
@@ -13,7 +13,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '77ad77fbfe',extremes,Fog,#d60d2b,wmo,mist namen,2026-01-28T03:56:00+00:00,Belgium,0.6259901518589173,1,1,nl,WCE,Europe
 'a75fedddc6',extremes,Snow&Ice,#d60d2b,wmo,sneeuw drenthe,2026-01-27T03:58:00+00:00,Netherlands,0.6180484318457694,1,2,nl,NEU,Europe
 '78219f2583',extremes,Snow&Ice,#d60d2b,wmo,ijs luxemburg,2026-01-21T03:56:00+00:00,Belgium,0.6176498231482435,1,1,nl,WCE,Europe
-'d17aefc684',extremes,Storm,#b3b2b1,wmo,stormvloed hoek van holland,2026-01-31T04:16:00+00:00,Netherlands,0.6093915723840723,0,1,nl,NEU,Europe
 '480597f996',extremes,Fog,#d60d2b,wmo,mist friesland,2026-01-17T03:44:00+00:00,Netherlands,0.608623542175926,1,2,nl,NEU,Europe
 'e77a1f72bb',extremes,Fog,#d60d2b,wmo,mist Zeeland,2026-01-28T03:56:00+00:00,Netherlands,0.5981220462629319,1,1,nl,NEU,Europe
 '1f06bf574a',extremes,Snow&Ice,#d60d2b,wmo,vorst nederland,2026-01-23T04:03:00+00:00,Netherlands,0.5962167962481786,3,2,nl,NEU,Europe
@@ -59,8 +58,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dca9d42636',extremes,Snow&Ice,#d60d2b,wmo,sneeuwfriesland,2026-01-24T03:48:00+00:00,Netherlands,0.5324135890380873,1,1,nl,NEU,Europe
 'a6206dc774',extremes,Drought,#edc291,edo,gebrek aan regen bonaire sint eustatius en saba,2026-01-15T12:14:00+00:00,Bonaire; Saint Eustatius and Saba ,0.532405293055606,1,1,nl,CAR,North-America
 '3d690ea060',extremes,Drought,#edc291,edo,droogte Aruba,2026-01-15T12:14:00+00:00,Aruba,0.5316850664106358,1,1,nl,CAR,North-America
-'4ab07339f4',extremes,Precipitation,#d60d2b,wmo,neerslag kalimantan timur,2026-01-15T10:56:00+00:00,Indonesia,0.5316725609225281,1,1,nl,SEA,Asia
 '64cbc1eb6b',extremes,Precipitation,#d60d2b,wmo,neerslag papoea selatan,2026-01-15T10:56:00+00:00,Indonesia,0.5316725609225281,1,1,nl,SEA,Asia
+'4ab07339f4',extremes,Precipitation,#d60d2b,wmo,neerslag kalimantan timur,2026-01-15T10:56:00+00:00,Indonesia,0.5316725609225281,1,1,nl,SEA,Asia
 'a1eed1b9f3',extremes,Precipitation,#d60d2b,wmo,hevige regen indonesië,2026-01-15T10:56:00+00:00,Indonesia,0.5314333521297137,1,1,nl,SEA,Asia
 '30bc906e71',extremes,Precipitation,#d60d2b,wmo,regen Indonesië,2026-01-15T10:56:00+00:00,Indonesia,0.5314285728834284,1,1,nl,SEA,Asia
 'd3969b23b4',extremes,Precipitation,#d60d2b,wmo,regen bengkulu,2026-01-15T12:14:00+00:00,Indonesia,0.5313697529712993,1,1,nl,SEA,Asia
@@ -72,6 +71,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0eda5968a0',extremes,Snow&Ice,#d60d2b,wmo,vorst waddeneilanden,2026-01-29T04:19:00+00:00,Netherlands,0.5256149775433743,1,1,nl,NEU,Europe
 '1cf2c69869',extremes,Snow&Ice,#d60d2b,wmo,sneeuwwaddeneilanden,2026-01-27T03:58:00+00:00,Netherlands,0.5195340154904109,1,1,nl,NEU,Europe
 'b78b976ea3',extremes,Snow&Ice,#d60d2b,wmo,vorst groningen,2026-01-30T04:21:00+00:00,Netherlands,0.5194294234450129,1,1,nl,NEU,Europe
+'d17aefc684',extremes,Storm,#b3b2b1,wmo,stormvloed hoek van holland,2026-01-31T04:16:00+00:00,Netherlands,0.5179828365264614,1,1,nl,NEU,Europe
 '19fe62501d',extremes,Earthquake,#870007,usgs,aardbeving bukittinggi,2026-01-15T10:56:00+00:00,Indonesia,0.516584490589417,1,1,nl,SEA,Asia
 'c0e14f82d3',extremes,Snow&Ice,#d60d2b,wmo,vorst gelderland,2026-01-29T04:19:00+00:00,Netherlands,0.5041328187598403,1,1,nl,NEU,Europe
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,sneeuwbui,2026-01-15T10:39:00+00:00,,0.5005591016075219,1,2,nl,,
