@@ -7,7 +7,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5342f1532c',extremes,Drought,#edc291,edo,droogte nederland,2026-01-15T12:14:00+00:00,Netherlands,0.6681279790557006,2,2,nl,NEU,Europe
 'a834b33b6c',extremes,Drought,#edc291,edo,droogte nederland,2026-01-15T10:57:00+00:00,Netherlands,0.6662297098120877,2,1,nl,NEU,Europe
 'ae83d286c7',extremes,Snow&Ice,#d60d2b,wmo,ijskoud België,2026-01-21T03:56:00+00:00,Belgium,0.6606560251358001,2,1,nl,WCE,Europe
-'1f06bf574a',extremes,Snow&Ice,#d60d2b,wmo,vorst nederland,2026-01-23T04:03:00+00:00,Netherlands,0.6584131960385811,2,2,nl,NEU,Europe
 '2bb3d20abc',extremes,Fog,#d60d2b,wmo,mist belgië,2025-12-14T03:49:00+00:00,Belgium,0.6419349488757918,1,2,nl,WCE,Europe
 '8efab12aed',extremes,Fog,#d60d2b,wmo,mist Luik,2026-01-28T03:56:00+00:00,Belgium,0.6418027859090338,1,1,nl,WCE,Europe
 '6279d44f5f',extremes,Fog,#d60d2b,wmo,mist limburg,2026-01-28T03:56:00+00:00,Belgium,0.636390943221803,1,1,nl,WCE,Europe
@@ -19,6 +18,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '78219f2583',extremes,Snow&Ice,#d60d2b,wmo,ijs luxemburg,2026-01-21T03:56:00+00:00,Belgium,0.6176498231482435,1,1,nl,WCE,Europe
 '480597f996',extremes,Fog,#d60d2b,wmo,mist friesland,2026-01-17T03:44:00+00:00,Netherlands,0.608623542175926,1,2,nl,NEU,Europe
 'e77a1f72bb',extremes,Fog,#d60d2b,wmo,mist Zeeland,2026-01-28T03:56:00+00:00,Netherlands,0.5981220462629319,1,1,nl,NEU,Europe
+'1f06bf574a',extremes,Snow&Ice,#d60d2b,wmo,vorst nederland,2026-01-23T04:03:00+00:00,Netherlands,0.5962167962481786,3,2,nl,NEU,Europe
 '998c9f84db',extremes,Storm,#b3b2b1,wmo,storm nederland,2026-01-15T10:56:00+00:00,Netherlands,0.5797193150803616,1,2,nl,NEU,Europe
 '7da716f8d7',extremes,Precipitation,#d60d2b,wmo,neerslag indonesië,2026-01-15T10:56:00+00:00,Indonesia,0.5796992045341489,2,2,nl,SEA,Asia
 'de932dfa95',extremes,Snow&Ice,#d60d2b,wmo,sneeuw groningen,2026-01-27T03:58:00+00:00,Netherlands,0.5731839514109677,1,1,nl,NEU,Europe
@@ -79,7 +79,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,bomcycloon,2026-01-15T10:56:00+00:00,,0.4594475137090162,1,2,nl,,
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,sneeuwstorm,2026-01-15T10:39:00+00:00,,0.4587089228814417,1,3,nl,,
 '914dbb16b0',extremes,Fog,#d60d2b,wmo,mist groningen,2026-01-17T03:44:00+00:00,Netherlands,0.4582708997723536,1,1,nl,NEU,Europe
-'7723498421',extremes,Precipitation,#d60d2b,wmo,hevige regen nusa tenggara timur,2026-01-30T04:21:00+00:00,Indonesia,0.4556654352725195,0,1,nl,SEA,Asia
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,ijskoud,2026-01-22T03:59:00+00:00,,0.4501796999888465,1,3,nl,,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,zware regen,2026-01-17T03:44:00+00:00,,0.4498731077905208,1,2,nl,,
 '1512e9c6b2',extremes,Drought,#edc291,edo,droogte suriname,2026-01-17T03:44:00+00:00,Suriname,0.443577304287276,1,1,nl,NSA,South-America
@@ -119,6 +118,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '41b16cb606',extremes,Precipitation,#d60d2b,wmo,hevige regen sulawesi barat,2026-01-28T03:56:00+00:00,Indonesia,0.3909684081537083,1,1,nl,SEA,Asia
 'b5b3fea589',extremes,Precipitation,#d60d2b,wmo,stortregens maluku,2026-01-20T03:56:00+00:00,Indonesia,0.390614971718938,1,1,nl,SEA,Asia
 '7e89c1baf3',extremes,Precipitation,#d60d2b,wmo,regen sulawesi tenggara,2026-01-28T03:56:00+00:00,Indonesia,0.3890774856234995,1,1,nl,SEA,Asia
+'7723498421',extremes,Precipitation,#d60d2b,wmo,hevige regen nusa tenggara timur,2026-01-30T04:21:00+00:00,Indonesia,0.3873156199816416,1,1,nl,SEA,Asia
 'ac9d918ce2',extremes,Precipitation,#d60d2b,wmo,neerslag sulawesi selatan,2026-01-28T03:56:00+00:00,Indonesia,0.3845180225912294,1,1,nl,SEA,Asia
 '4e64b96216',extremes,Precipitation,#d60d2b,wmo,regen nusa tenggara barat,2026-01-29T04:19:00+00:00,Indonesia,0.38320354884115,1,1,nl,SEA,Asia
 'e5d9717cc6',extremes,Drought,#edc291,edo,gebrek aan regen sint maarten,2026-01-25T04:06:00+00:00,Sint Maarten,0.3809892646554125,1,1,nl,CAR,North-America
