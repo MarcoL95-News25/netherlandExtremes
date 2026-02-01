@@ -195,6 +195,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,kwikdaling,2026-01-22T03:59:00+00:00,,0.3202101394246374,1,1,nl,,
 '52af874334',extremes,Drought,#edc291,random,dorheid,2026-01-21T03:55:00+00:00,,0.3201609706431698,1,1,nl,,
 '45f861329d',extremes,Landslide,#572c03,aidr,aardverschuiving Adelaide Hills Zuid-Australië,2026-01-15T10:57:00+00:00,Australia,0.3200075473236523,0,1,nl,SAU,Oceania
+'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,Noord-Amerikaanse winterstorm New York,2026-01-31T04:17:00+00:00,United States,0.3200075473236523,0,1,nl,ENA,North-America
+'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,tropische cycloon Italië,2026-01-28T03:57:00+00:00,Italy,0.3200075473236523,0,1,nl,MED,Europe
 'a241cba1ba',extremes,Volcano,#b83202,eonet,ambrym-vulkaan vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.3199887686613118,0,1,nl,SPO,Oceania
 '6f7179aa00',extremes,Volcano,#b83202,eonet,vulkaan Filippijnen,2026-01-15T10:56:00+00:00,Philippines,0.3199774831115323,0,1,nl,SEA,Asia
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,rivier die Australië overspoelt,2026-01-15T10:57:00+00:00,Australia,0.3199159511405632,0,1,nl,EAU,Oceania
@@ -210,8 +212,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '464d595634',extremes,Earthquake,#870007,usgs,aardbeving camiña,2026-01-15T12:13:00+00:00,Chile,0.3198429479823136,0,1,nl,SWS,South-America
 '018b9ccc96',extremes,Earthquake,#870007,usgs,aardbeving mauritius reünie regio,2026-01-15T10:56:00+00:00,,0.3198426792048654,0,1,nl,SIO,Indian Ocean
 '76ad379230',extremes,Earthquake,#870007,usgs,aardbeving Petropavlovsk Kamtsjatski,2026-01-15T10:56:00+00:00,Russia,0.319841949147882,0,1,nl,RFE,Asia
+'4d51911b1d',extremes,Earthquake,#870007,usgs,aardbeving sola,2026-01-15T10:56:00+00:00,Vanuatu,0.319832409967632,0,1,nl,SPO,Pacific Ocean
 '6b1cc9478a',extremes,Earthquake,#870007,usgs,aardbeving mabaruma,2026-01-15T10:56:00+00:00,Guyana,0.3198304675636247,0,1,nl,NSA,South-America
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,aardbeving san antonio de los cobres,2026-01-15T10:56:00+00:00,Argentina,0.3198285138531148,0,1,nl,SES,South-America
+'fa8badb0c3',extremes,Tsunami,#690191,usgs,tsunami-baculine,2026-01-15T10:56:00+00:00,Philippines,0.31982732708285266,0,1,nl,SEA,Asia
+'23ad2bb822',extremes,Earthquake,#870007,usgs,aardbeving Rusland,2026-01-15T10:56:00+00:00,Russia,0.31982705319807875,0,1,nl,EAS,Asia
+'2617cc6cc9',extremes,Earthquake,#870007,usgs,aardbeving nieuw-zeeland,2026-01-15T10:56:00+00:00,New Zealand,0.31982595775366973,0,1,nl,NZ,Oceania
+'73d01d320c',extremes,Earthquake,#870007,usgs,aardbeving afghanistan,2026-01-15T12:13:00+00:00,Afghanistan,0.31982132950774916,0,1,nl,WCA,Asia
+'f4e7397282',extremes,Tsunami,#690191,usgs,tsunami-haven alsworth,2026-01-15T10:56:00+00:00,United States,0.3198213068509887,0,1,nl,NWN,North-America
+'072f41af80',extremes,Earthquake,#870007,usgs,aardbeving aratoca,2026-01-15T10:56:00+00:00,Colombia,0.31981706112928426,0,1,nl,NWS,South-America
+'43165fdae0',extremes,Earthquake,#870007,usgs,aardbeving villa basilicum nievas,2026-01-15T12:13:00+00:00,Argentina,0.31981692308899035,0,1,nl,SWS,South-America
 'e77612afad',extremes,Earthquake,#870007,usgs,aardbeving tul,2026-01-15T10:56:00+00:00,Indonesia,0.3190245805980998,1,1,nl,SEA,Asia
 '8b4587c763',extremes,Storm,#b3b2b1,random,stofstorm,2026-01-24T03:48:00+00:00,,0.3140180103395362,1,1,nl,,
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,antarctisch zee-ijs,2026-01-21T03:55:00+00:00,,0.3108999208214229,1,1,nl,,
