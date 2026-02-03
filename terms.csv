@@ -68,21 +68,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,ijsberg antarctica,2026-01-18T03:56:00+00:00,,0.4990556806416936,1,2,nl,,
 '6a705b08c5',extremes,Earthquake,#870007,usgs,aardbeving bireun,2026-01-15T12:13:00+00:00,Indonesia,0.4952687115145054,1,1,nl,SEA,Asia
 '1ff36d7a46',extremes,Drought,#edc291,edo,droogte belgie,2026-01-15T12:14:00+00:00,Belgium,0.4819598688503673,2,1,nl,WCE,Europe
-'90353f7f8d',extremes,Fog,#d60d2b,wmo,mist nederland,2026-01-17T03:44:00+00:00,Netherlands,0.47678389688143086,2,2,nl,NEU,Europe
+'90353f7f8d',extremes,Fog,#d60d2b,wmo,mist nederland,2026-01-17T03:44:00+00:00,Netherlands,0.4767838968814308,2,2,nl,NEU,Europe
 'ff1cb7b245',extremes,Snow&Ice,#d60d2b,wmo,ijskoud drenthe,2026-01-22T03:59:00+00:00,Netherlands,0.4709487802503335,2,1,nl,NEU,Europe
 '5689409e06',extremes,Storm,#b3b2b1,wmo,storm texel,2026-01-23T04:03:00+00:00,Netherlands,0.4659556179896948,2,1,nl,NEU,Europe
 'dfd7c05912',extremes,Fog,#d60d2b,wmo,mist flevoland,2026-01-17T03:44:00+00:00,Netherlands,0.4656362183110872,1,1,nl,NEU,Europe
-'7cd4a5ace7',extremes,Fog,#d60d2b,wmo,mist noord holland,2026-01-17T03:44:00+00:00,Netherlands,0.4634784767594503,1,1,nl,NEU,Europe
 'd59a7e48d7',extremes,Drought,#edc291,random,verdamping,2026-01-20T03:55:00+00:00,,0.4632965495573042,1,2,nl,,
 '7d79b2a1fb',extremes,Earthquake,#870007,usgs,aardbeving kencong,2026-01-15T12:13:00+00:00,Indonesia,0.4631413497098283,2,1,nl,NAU,Oceania
 'e1559df16c',extremes,Earthquake,#870007,usgs,aardbeving tobelo,2026-01-15T10:56:00+00:00,Indonesia,0.4627297163621942,2,1,nl,SEA,Asia
 'b9418001ff',extremes,Earthquake,#870007,usgs,aardbeving bitung,2026-01-15T10:56:00+00:00,Indonesia,0.4626778566674077,2,1,nl,SEA,Asia
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,lawine,2026-01-23T04:02:00+00:00,,0.4617573170636652,1,2,nl,,
 'cdb3eaf147',extremes,Drought,#edc291,edo,droogte Indonesië,2026-01-15T10:57:00+00:00,Indonesia,0.4617091845996154,2,1,nl,SEA,Asia
-'f69c27ecd4',extremes,Precipitation,#d60d2b,wmo,regen sulawesi barat,2026-02-02T04:36:00+00:00,Indonesia,0.4613220325573953,0,1,nl,SEA,Asia
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,bomcycloon,2026-01-15T10:56:00+00:00,,0.4594475137090162,1,2,nl,,
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,sneeuwstorm,2026-01-15T10:39:00+00:00,,0.4587089228814417,1,3,nl,,
-'ff848f8a0e',extremes,Precipitation,#d60d2b,wmo,stortbui sumatera selatan,2026-02-02T04:36:00+00:00,Indonesia,0.4586342794461532,0,1,nl,SEA,Asia
 '914dbb16b0',extremes,Fog,#d60d2b,wmo,mist groningen,2026-01-17T03:44:00+00:00,Netherlands,0.4582708997723536,1,1,nl,NEU,Europe
 '47161f5932',extremes,Earthquake,#870007,usgs,aardbeving gorontalo,2026-01-15T12:13:00+00:00,Indonesia,0.4574521552284738,2,1,nl,SEA,Asia
 'a6206dc774',extremes,Drought,#edc291,edo,gebrek aan regen bonaire sint eustatius en saba,2026-01-15T12:14:00+00:00,Bonaire; Saint Eustatius and Saba ,0.4525444990972651,2,1,nl,CAR,North-America
@@ -123,14 +120,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '19ce294d18',extremes,Drought,#edc291,edo,droogte curacao,2026-01-19T04:03:00+00:00,Curacao,0.3969210458425394,1,1,nl,CAR,North-America
 '560b05d603',extremes,Heat Wave,#c40202,random,hittegolf,2026-01-18T03:56:00+00:00,,0.3943921058851556,1,2,nl,,
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,hitte,2026-01-15T10:39:00+00:00,,0.3943389638139657,1,2,nl,,
+'7cd4a5ace7',extremes,Fog,#d60d2b,wmo,mist noord holland,2026-01-17T03:44:00+00:00,Netherlands,0.3941067202455328,2,1,nl,NEU,Europe
 '24ce3bf296',extremes,Precipitation,#d60d2b,wmo,regen Jawa Tengah,2026-02-01T04:41:00+00:00,Indonesia,0.3934650366889047,1,1,nl,SEA,Asia
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,overstromingen,2026-01-23T04:02:00+00:00,,0.3930145226914445,1,2,nl,,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,warmste jaar,2026-01-29T04:18:00+00:00,,0.3928346941468599,0,1,nl,,
 'b13743c828',extremes,Precipitation,#d60d2b,wmo,hevige regen nusa tenggara barat,2026-02-02T04:36:00+00:00,Indonesia,0.3927158582193711,1,1,nl,SEA,Asia
 '7a124ae459',extremes,Precipitation,#d60d2b,wmo,neerslag sulawesi tengah,2026-01-31T04:16:00+00:00,Indonesia,0.3925939652832317,1,1,nl,SEA,Asia
+'f69c27ecd4',extremes,Precipitation,#d60d2b,wmo,regen sulawesi barat,2026-02-02T04:36:00+00:00,Indonesia,0.392123727673786,1,1,nl,SEA,Asia
 '784b5e8109',extremes,Precipitation,#d60d2b,wmo,stortbui sulawesi utara,2026-01-31T04:16:00+00:00,Indonesia,0.3917522597054967,1,1,nl,SEA,Asia
 '41b16cb606',extremes,Precipitation,#d60d2b,wmo,hevige regen sulawesi barat,2026-01-28T03:56:00+00:00,Indonesia,0.3909684081537083,1,1,nl,SEA,Asia
 'b5b3fea589',extremes,Precipitation,#d60d2b,wmo,stortregens maluku,2026-01-20T03:56:00+00:00,Indonesia,0.390614971718938,1,1,nl,SEA,Asia
+'ff848f8a0e',extremes,Precipitation,#d60d2b,wmo,stortbui sumatera selatan,2026-02-02T04:36:00+00:00,Indonesia,0.3898391375292302,1,1,nl,SEA,Asia
 '7e89c1baf3',extremes,Precipitation,#d60d2b,wmo,regen sulawesi tenggara,2026-01-28T03:56:00+00:00,Indonesia,0.3890774856234995,1,1,nl,SEA,Asia
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,koudegolf,2026-01-27T03:58:00+00:00,,0.3889780071121753,1,2,nl,,
 '7723498421',extremes,Precipitation,#d60d2b,wmo,hevige regen nusa tenggara timur,2026-01-30T04:21:00+00:00,Indonesia,0.3873156199816416,1,1,nl,SEA,Asia
@@ -197,17 +197,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,zwaar weer,2026-01-20T03:55:00+00:00,,0.3280706368449123,1,2,nl,,
 '63cb22b655',extremes,Earthquake,#870007,usgs,aardbeving masohi,2026-01-20T03:56:00+00:00,Indonesia,0.3248977198903561,1,1,nl,SEA,Asia
 '053bb10e09',extremes,Heat Wave,#c40202,random,nazomer,2026-01-23T04:02:00+00:00,,0.3246827185180697,0,1,nl,,
-'7cac7af0d7',extremes,Earthquake,#870007,usgs,aardbeving manado,2026-02-01T04:41:00+00:00,Indonesia,0.32341862074362354,1,1,nl,SEA,Asia
+'7cac7af0d7',extremes,Earthquake,#870007,usgs,aardbeving manado,2026-02-01T04:41:00+00:00,Indonesia,0.3234186207436235,1,1,nl,SEA,Asia
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,natte sneeuw,2026-01-15T12:13:00+00:00,,0.3228564832365115,1,1,nl,,
 '776fe47817',extremes,Wildfire,#d60d2b,random,wildvuur,2026-01-17T03:44:00+00:00,,0.3226361435783431,0,1,nl,,
-'9b8927c1d6',extremes,Earthquake,#870007,usgs,aardbeving lahat,2026-02-01T04:41:00+00:00,Indonesia,0.32232128281139033,1,1,nl,SEA,Asia
-'45500dcb47',extremes,Precipitation,#d60d2b,random,recordregenval,2026-01-27T03:58:00+00:00,,0.32208484202924925,1,1,nl,,
+'9b8927c1d6',extremes,Earthquake,#870007,usgs,aardbeving lahat,2026-02-01T04:41:00+00:00,Indonesia,0.3223212828113903,1,1,nl,SEA,Asia
+'45500dcb47',extremes,Precipitation,#d60d2b,random,recordregenval,2026-01-27T03:58:00+00:00,,0.3220848420292492,1,1,nl,,
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,bosbrand,2026-01-24T03:48:00+00:00,,0.3208888226590353,0,1,nl,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,kwikdaling,2026-01-22T03:59:00+00:00,,0.3202101394246374,1,1,nl,,
 '52af874334',extremes,Drought,#edc291,random,dorheid,2026-01-21T03:55:00+00:00,,0.3201609706431698,1,1,nl,,
-'45f861329d',extremes,Landslide,#572c03,aidr,aardverschuiving Adelaide Hills Zuid-Australië,2026-01-15T10:57:00+00:00,Australia,0.3200075473236523,0,1,nl,SAU,Oceania
 '6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,Noord-Amerikaanse winterstorm New York,2026-01-31T04:17:00+00:00,United States,0.3200075473236523,0,1,nl,ENA,North-America
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,tropische cycloon Italië,2026-01-28T03:57:00+00:00,Italy,0.3200075473236523,0,1,nl,MED,Europe
+'45f861329d',extremes,Landslide,#572c03,aidr,aardverschuiving Adelaide Hills Zuid-Australië,2026-01-15T10:57:00+00:00,Australia,0.3200075473236523,0,1,nl,SAU,Oceania
 'a241cba1ba',extremes,Volcano,#b83202,eonet,ambrym-vulkaan vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.3199887686613118,0,1,nl,SPO,Oceania
 '6f7179aa00',extremes,Volcano,#b83202,eonet,vulkaan Filippijnen,2026-01-15T10:56:00+00:00,Philippines,0.3199774831115323,0,1,nl,SEA,Asia
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,rivier die Australië overspoelt,2026-01-15T10:57:00+00:00,Australia,0.3199159511405632,0,1,nl,EAU,Oceania
@@ -221,7 +221,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '76ad379230',extremes,Earthquake,#870007,usgs,aardbeving Petropavlovsk Kamtsjatski,2026-01-15T10:56:00+00:00,Russia,0.319841949147882,0,1,nl,RFE,Asia
 '4d51911b1d',extremes,Earthquake,#870007,usgs,aardbeving sola,2026-01-15T10:56:00+00:00,Vanuatu,0.319832409967632,0,1,nl,SPO,Pacific Ocean
 '6b1cc9478a',extremes,Earthquake,#870007,usgs,aardbeving mabaruma,2026-01-15T10:56:00+00:00,Guyana,0.3198304675636247,0,1,nl,NSA,South-America
-'d18c9a3f35',extremes,Earthquake,#870007,usgs,aardbeving san antonio de los cobres,2026-01-15T10:56:00+00:00,Argentina,0.3198285138531148,0,1,nl,SES,South-America
 'fa8badb0c3',extremes,Tsunami,#690191,usgs,tsunami-baculine,2026-01-15T10:56:00+00:00,Philippines,0.3198273270828526,0,1,nl,SEA,Asia
 '23ad2bb822',extremes,Earthquake,#870007,usgs,aardbeving Rusland,2026-01-15T10:56:00+00:00,Russia,0.3198270531980787,0,1,nl,EAS,Asia
 '2617cc6cc9',extremes,Earthquake,#870007,usgs,aardbeving nieuw-zeeland,2026-01-15T10:56:00+00:00,New Zealand,0.3198259577536697,0,1,nl,NZ,Oceania
@@ -236,13 +235,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e6998a615e',extremes,Earthquake,#870007,usgs,aardbeving murghob,2026-01-15T12:13:00+00:00,Tajikistan,0.3198049562481557,0,1,nl,WCA,Asia
 'c605f8759a',extremes,Earthquake,#870007,usgs,aardbeving guam,2026-01-15T10:56:00+00:00,Guam,0.3198027513793051,0,1,nl,NPO,Pacific Ocean
 '9f3b29621a',extremes,Earthquake,#870007,usgs,aardbeving centrale midden Atlantische rug,2026-01-15T10:56:00+00:00,,0.3198024693508642,0,1,nl,EAO,Atlantic Ocean
-'70773b5956',extremes,Earthquake,#870007,usgs,aardbeving Alaska,2026-01-15T10:56:00+00:00,Alaska,0.3198017125682,0,1,nl,NWN,North-America
 '4594f1a372',extremes,Earthquake,#870007,usgs,aardbeving Iran,2026-01-15T10:56:00+00:00,Iran,0.3197940875986025,0,1,nl,WCA,Asia
 '957a7a09df',extremes,Earthquake,#870007,usgs,aardbeving attu station,2026-01-15T10:56:00+00:00,Alaska,0.3197938741364492,0,1,nl,NPO,Pacific Ocean
 'db2a276fc1',extremes,Earthquake,#870007,usgs,aardbeving ontstaan,2026-01-15T12:13:00+00:00,Chile,0.3197935412133924,0,1,nl,SWS,South-America
 '7e7895dc7a',extremes,Earthquake,#870007,usgs,aardbeving Tadzjikistan,2026-01-15T10:56:00+00:00,Tajikistan,0.319793045756558,0,1,nl,WCA,Asia
 '8710bd49ea',extremes,Earthquake,#870007,usgs,aardbeving ernstige kuril'sk,2026-01-15T10:56:00+00:00,Russia,0.3197921675817287,0,1,nl,RFE,Asia
-'85a135fac3',extremes,Earthquake,#870007,usgs,aardbeving ozernovskiy,2026-01-15T10:56:00+00:00,Russia,0.3197876248263615,0,1,nl,RFE,Asia
 '51dfc3f3e1',extremes,Earthquake,#870007,usgs,aardbeving kokopo,2026-01-15T10:56:00+00:00,Papua New Guinea,0.3197855556545587,0,1,nl,EPO,Pacific Ocean
 'fc0fd225f3',extremes,Earthquake,#870007,usgs,aardbeving birma myanmar,2026-01-15T12:13:00+00:00,Burma (Myanmar),0.3197854094247633,0,1,nl,SAS,Asia
 '066ed457ed',extremes,Earthquake,#870007,usgs,aardbeving noordelijke Marianen,2026-01-15T12:13:00+00:00,Northern Mariana Islands,0.3197822395529101,0,1,nl,NPO,Pacific Ocean
@@ -274,7 +271,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6bad2a8cbc',extremes,Earthquake,#870007,usgs,aardbeving san augustusín de valle fértil,2026-01-15T12:13:00+00:00,Argentina,0.2718757205905468,1,1,nl,SES,South-America
 '26349abe17',extremes,Tsunami,#690191,usgs,tsunami attu-station,2026-01-15T12:13:00+00:00,Alaska,0.2718689965501044,1,1,nl,NPO,Pacific Ocean
 '464d595634',extremes,Earthquake,#870007,usgs,aardbeving camiña,2026-01-15T12:13:00+00:00,Chile,0.2718665057849666,1,1,nl,SWS,South-America
-'73d01d320c',extremes,Earthquake,#870007,usgs,aardbeving afghanistan,2026-01-15T12:13:00+00:00,Afghanistan,0.27184813008158676,1,1,nl,WCA,Asia
+'d18c9a3f35',extremes,Earthquake,#870007,usgs,aardbeving san antonio de los cobres,2026-01-15T10:56:00+00:00,Argentina,0.2718542367751476,1,1,nl,SES,South-America
+'73d01d320c',extremes,Earthquake,#870007,usgs,aardbeving afghanistan,2026-01-15T12:13:00+00:00,Afghanistan,0.2718481300815867,1,1,nl,WCA,Asia
+'70773b5956',extremes,Earthquake,#870007,usgs,aardbeving Alaska,2026-01-15T10:56:00+00:00,Alaska,0.27183145568297,1,1,nl,NWN,North-America
+'85a135fac3',extremes,Earthquake,#870007,usgs,aardbeving ozernovskiy,2026-01-15T10:56:00+00:00,Russia,0.2718194811024073,1,1,nl,RFE,Asia
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,koudste jaar,2026-01-15T10:20:00+00:00,,0.25717214146115,0,1,nl,,
 'b6cef22543',extremes,Drought,#edc291,random,waterbeperking,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,nl,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,recordkoude,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,nl,,
