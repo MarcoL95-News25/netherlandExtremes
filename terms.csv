@@ -108,6 +108,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '511543dad8',extremes,Drought,#edc291,edo,gebrek aan regen nederland,2026-01-17T03:44:00+00:00,Netherlands,0.4272226189926741,1,1,nl,NEU,Europe
 'd9a743c38f',extremes,Precipitation,#d60d2b,wmo,regen maluku utara,2026-01-21T03:56:00+00:00,Indonesia,0.4268839064995074,1,1,nl,SEA,Asia
 '2022b76598',extremes,Earthquake,#870007,usgs,aardbeving Bengkulu,2026-01-15T10:56:00+00:00,Indonesia,0.4255127534071535,1,1,nl,SEA,Asia
+'e4c0eb1729',extremes,Wildfire,#d60d2b,random,bosbrand,2026-01-24T03:48:00+00:00,,0.42320554426018,1,2,nl,,
 '42070917ba',extremes,Precipitation,#d60d2b,wmo,stortregens Jawa Tengah,2026-01-21T03:56:00+00:00,Indonesia,0.4218850913853513,1,1,nl,SEA,Asia
 '59fe64444b',extremes,Drought,#edc291,edo,gebrek aan regen Indonesië,2026-01-15T12:14:00+00:00,Indonesia,0.4206745828772122,1,1,nl,SEA,Asia
 '82cfc05680',extremes,Precipitation,#d60d2b,wmo,neerslag maluku utara,2026-01-22T03:59:00+00:00,Indonesia,0.4196471939663754,1,1,nl,SEA,Asia
@@ -221,7 +222,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,natte sneeuw,2026-01-15T12:13:00+00:00,,0.3228564832365115,1,1,nl,,
 '9b8927c1d6',extremes,Earthquake,#870007,usgs,aardbeving lahat,2026-02-01T04:41:00+00:00,Indonesia,0.3223212828113903,1,1,nl,SEA,Asia
 '45500dcb47',extremes,Precipitation,#d60d2b,random,recordregenval,2026-01-27T03:58:00+00:00,,0.3220848420292492,1,1,nl,,
-'e4c0eb1729',extremes,Wildfire,#d60d2b,random,bosbrand,2026-01-24T03:48:00+00:00,,0.3208888226590353,0,1,nl,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,kwikdaling,2026-01-22T03:59:00+00:00,,0.3202101394246374,1,1,nl,,
 '52af874334',extremes,Drought,#edc291,random,dorheid,2026-01-21T03:55:00+00:00,,0.3201609706431698,1,1,nl,,
 '02f56319a7',extremes,Flood,#030ba1,wmo,overstroming Australië,2026-01-15T10:56:00+00:00,Australia,0.3199135658236194,0,1,nl,CAU,Oceania
@@ -304,8 +304,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '053bb10e09',extremes,Heat Wave,#c40202,random,nazomer,2026-01-23T04:02:00+00:00,,0.2759803107403592,1,1,nl,,
 '776fe47817',extremes,Wildfire,#d60d2b,random,wildvuur,2026-01-17T03:44:00+00:00,,0.2742407220415916,1,1,nl,,
 'ebe314dd99',extremes,Flood,#030ba1,aidr,zware regenval en overstromingen Queensland februari 2020,2026-01-15T10:57:00+00:00,Australia,0.2720775029956287,1,1,nl,EAU,Oceania
-'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,tropische cycloon Italië,2026-01-28T03:57:00+00:00,Italy,0.2720064152251044,1,1,nl,MED,Europe
 '45f861329d',extremes,Landslide,#572c03,aidr,aardverschuiving Adelaide Hills Zuid-Australië,2026-01-15T10:57:00+00:00,Australia,0.2720064152251044,1,1,nl,SAU,Oceania
+'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,tropische cycloon Italië,2026-01-28T03:57:00+00:00,Italy,0.2720064152251044,1,1,nl,MED,Europe
 '6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,Noord-Amerikaanse winterstorm New York,2026-01-31T04:17:00+00:00,United States,0.2720064152251044,1,1,nl,ENA,North-America
 'a241cba1ba',extremes,Volcano,#b83202,eonet,ambrym-vulkaan vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.271990453362115,1,1,nl,SPO,Oceania
 '6f7179aa00',extremes,Volcano,#b83202,eonet,vulkaan Filippijnen,2026-01-15T10:56:00+00:00,Philippines,0.2719808606448024,1,1,nl,SEA,Asia
