@@ -1,6 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'ae83d286c7',extremes,Snow&Ice,#d60d2b,wmo,ijskoud België,2026-01-21T03:56:00+00:00,Belgium,0.63685765136543,3,2,nl,WCE,Europe
-'77ad77fbfe',extremes,Fog,#d60d2b,wmo,mist namen,2026-01-28T03:56:00+00:00,Belgium,0.6259901518589173,1,1,nl,WCE,Europe
 'a75fedddc6',extremes,Snow&Ice,#d60d2b,wmo,sneeuw drenthe,2026-01-27T03:58:00+00:00,Netherlands,0.6180484318457694,1,2,nl,NEU,Europe
 '1f06bf574a',extremes,Snow&Ice,#d60d2b,wmo,vorst nederland,2026-01-23T04:03:00+00:00,Netherlands,0.5962167962481786,3,2,nl,NEU,Europe
 'abd48f77c3',extremes,Snow&Ice,#d60d2b,wmo,sneeuw nederland,2026-01-22T03:59:00+00:00,Netherlands,0.5871178330684675,4,3,nl,NEU,Europe
@@ -28,12 +26,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '707a25fcab',extremes,Earthquake,#870007,usgs,aardbeving sungai penuh,2026-01-15T12:13:00+00:00,Indonesia,0.5438864412180854,1,1,nl,SEA,Asia
 '322366f732',extremes,Snow&Ice,#d60d2b,wmo,ijs drenthe,2026-01-24T03:48:00+00:00,Netherlands,0.5429767231322667,1,1,nl,NEU,Europe
 '6279d44f5f',extremes,Fog,#d60d2b,wmo,mist limburg,2026-01-28T03:56:00+00:00,Belgium,0.5413823467385326,2,1,nl,WCE,Europe
+'ae83d286c7',extremes,Snow&Ice,#d60d2b,wmo,ijskoud België,2026-01-21T03:56:00+00:00,Belgium,0.5413290186606156,4,1,nl,WCE,Europe
 '03584bc06f',extremes,Snow&Ice,#d60d2b,wmo,ijs overijssel,2026-01-24T03:48:00+00:00,Netherlands,0.5399529564355727,1,1,nl,NEU,Europe
 '998c9f84db',extremes,Storm,#b3b2b1,wmo,storm nederland,2026-01-15T10:56:00+00:00,Netherlands,0.5397493978183073,2,2,nl,NEU,Europe
 '9ea0e31db4',extremes,Drought,#edc291,edo,gebrek aan regen belgië,2026-01-19T04:03:00+00:00,Belgium,0.5391590749446595,2,1,nl,WCE,Europe
 'b0d80a3f36',extremes,Storm,#b3b2b1,wmo,stormvloed rottum,2026-01-26T04:09:00+00:00,Netherlands,0.539028657845759,1,1,nl,NEU,Europe
 '5060a75fa3',extremes,Snow&Ice,#d60d2b,wmo,sneeuwflevoland,2026-01-23T04:03:00+00:00,Netherlands,0.537156258759768,1,1,nl,NEU,Europe
 'da8a0a0841',extremes,Drought,#edc291,edo,droge periode sint maarten,2026-01-15T12:14:00+00:00,Sint Maarten,0.5341722686243,1,1,nl,CAR,North-America
+'77ad77fbfe',extremes,Fog,#d60d2b,wmo,mist namen,2026-01-28T03:56:00+00:00,Belgium,0.5340418240800797,2,1,nl,WCE,Europe
 '96957773c4',extremes,Fog,#d60d2b,wmo,mist luxemburg,2026-01-21T03:56:00+00:00,Belgium,0.5338709822961886,2,1,nl,WCE,Europe
 '3b8ec0c54a',extremes,Storm,#b3b2b1,wmo,storm ijmuiden,2026-01-27T03:58:00+00:00,Netherlands,0.5334945369387405,1,1,nl,NEU,Europe
 '9ceb207362',extremes,Snow&Ice,#d60d2b,wmo,sneeuw noord-brabant,2026-01-29T04:19:00+00:00,Netherlands,0.5326317663568443,2,1,nl,NEU,Europe
@@ -245,14 +245,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f7921ef009',extremes,Earthquake,#870007,usgs,aardbeving Vilyuchinsk,2026-01-15T10:56:00+00:00,Russia,0.3197735132787656,0,1,nl,RFE,Asia
 '6bf5e2061d',extremes,Earthquake,#870007,usgs,aardbeving kasteelpunt,2026-01-15T10:56:00+00:00,New Zealand,0.3197713996694106,0,1,nl,NZ,Oceania
 '17c827a010',extremes,Earthquake,#870007,usgs,aardbeving Japan,2026-01-15T10:56:00+00:00,Japan,0.3197648775137647,0,1,nl,EAS,Asia
-'0a2120b175',extremes,Earthquake,#870007,usgs,aardbeving diego de almagro,2026-01-15T10:56:00+00:00,Chile,0.3197547085914504,0,1,nl,SWS,South-America
 '3e797c4058',extremes,Earthquake,#870007,usgs,aardbeving fiji,2026-01-15T10:56:00+00:00,Fiji,0.3197488869798659,0,1,nl,SPO,Pacific Ocean
 '6628268bda',extremes,Earthquake,#870007,usgs,aardbeving korla,2026-01-15T10:56:00+00:00,China,0.3197488214779085,0,1,nl,ECA,Asia
 'd920e41c1e',extremes,Earthquake,#870007,usgs,aardbeving mek'ele,2026-01-15T12:13:00+00:00,Ethiopia,0.3197475341186085,0,1,nl,NEAF,Africa
 '29aa7b93c5',extremes,Earthquake,#870007,usgs,aardbeving ten zuiden van de Fiji-eilanden,2026-01-15T10:56:00+00:00,,0.3197461987924075,0,1,nl,SPO,Pacific Ocean
 '8bf8909453',extremes,Earthquake,#870007,usgs,aardbeving levuka,2026-01-15T10:56:00+00:00,Fiji,0.3197390800577933,0,1,nl,SPO,Pacific Ocean
 'b0d647e9d3',extremes,Earthquake,#870007,usgs,aardbeving zuidoost-Indische bergkam,2026-01-15T10:56:00+00:00,,0.3197330455307343,0,1,nl,SOO,Antarctica
-'0f6b56852d',extremes,Earthquake,#870007,usgs,aardbeving baculine,2026-01-15T10:56:00+00:00,Philippines,0.319730831712139,0,1,nl,SEA,Asia
 'c797f587a9',extremes,Flood,#030ba1,aidr,overstroming boonah queensland,2026-01-15T10:57:00+00:00,Australia,0.3197274241818447,0,1,nl,EAU,Oceania
 'e77612afad',extremes,Earthquake,#870007,usgs,aardbeving tul,2026-01-15T10:56:00+00:00,Indonesia,0.3190245805980998,1,1,nl,SEA,Asia
 'c660d659ce',extremes,Tropical Cyclone,#4f4f4f,eonet,tropische cycloon fytia,2026-01-31T04:16:00+00:00,,0.3187607686933643,0,1,nl,ESAF,Africa
@@ -381,9 +379,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f5afb20efd',extremes,Earthquake,#870007,usgs,aardbeving regio zuidelijke sandwicheilanden,2026-01-15T10:56:00+00:00,,0.2718016652419222,1,1,nl,SOO,Antarctica
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,aardbeving papoea-nieuw-guinea,2026-01-15T10:56:00+00:00,Papua New Guinea,0.2717999965031588,1,1,nl,SEA,Asia
 '03f33e230d',extremes,Earthquake,#870007,usgs,aardbeving chili,2026-01-15T10:56:00+00:00,Chile,0.2717925587436505,1,1,nl,SWS,South-America
+'0a2120b175',extremes,Earthquake,#870007,usgs,aardbeving diego de almagro,2026-01-15T10:56:00+00:00,Chile,0.2717915023027328,1,1,nl,SWS,South-America
 '3e36cbc783',extremes,Earthquake,#870007,usgs,aardbeving la concepción,2026-01-15T12:13:00+00:00,Venezuela,0.2717807307390981,1,1,nl,NWS,South-America
 '9de3c9007e',extremes,Earthquake,#870007,usgs,aardbeving yakutat,2026-01-15T10:56:00+00:00,Alaska,0.2717744004149364,1,1,nl,NWN,North-America
 '2fa9116266',extremes,Earthquake,#870007,usgs,aardbeving haven Alsworth,2026-01-15T12:13:00+00:00,United States,0.2717739625015415,1,1,nl,NWN,North-America
+'0f6b56852d',extremes,Earthquake,#870007,usgs,aardbeving baculine,2026-01-15T10:56:00+00:00,Philippines,0.27177120695531815,1,1,nl,SEA,Asia
 '80f83e2f4e',extremes,Earthquake,#870007,usgs,aardbeving Bolivia,2026-01-15T12:13:00+00:00,Bolivia,0.2717690503530537,1,1,nl,SES,South-America
 'c1c906585f',extremes,Tropical Cyclone,#4f4f4f,eonet,tropische cycloon 18p,2026-01-29T04:18:00+00:00,,0.2705833282606931,1,1,nl,SPO,Pacific Ocean
 'eabe6169ab',extremes,Earthquake,#870007,usgs,aardbeving tonga,2026-02-05T04:27:00+00:00,Tonga,0.2681707930026051,1,1,nl,SPO,Pacific Ocean
@@ -409,7 +409,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f90601fa23',extremes,Volcano,#b83202,random,vulkaanuitbarsting,2026-01-15T10:20:00+00:00,,0.2556038068151502,0,1,nl,,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,koudste jaar,2026-01-15T10:20:00+00:00,,0.2546299235753108,1,1,nl,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,afkalven van gletsjers,2026-01-15T10:20:00+00:00,,0.2545099887501987,0,1,nl,,
-'72aad0ef2e',extremes,Tsunami,#690191,usgs,tsunami Indonesië,2026-01-17T03:44:00+00:00,Indonesia,0.25357136786134915,2,1,nl,SEA,Asia
+'72aad0ef2e',extremes,Tsunami,#690191,usgs,tsunami Indonesië,2026-01-17T03:44:00+00:00,Indonesia,0.2535713678613491,2,1,nl,SEA,Asia
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,aardbeving san antonio de los cobres,2026-01-15T10:56:00+00:00,Argentina,0.2310761012588754,2,1,nl,SES,South-America
 'b6cef22543',extremes,Drought,#edc291,random,waterbeperking,2026-01-15T10:20:00+00:00,,0.2181947166591417,1,1,nl,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmosferische rivier,2026-01-15T10:20:00+00:00,,0.2180904085177332,1,1,nl,,
