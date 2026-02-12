@@ -57,7 +57,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c0e14f82d3',extremes,Snow&Ice,#d60d2b,wmo,vorst gelderland,2026-01-29T04:19:00+00:00,Netherlands,0.5041328187598403,1,1,nl,NEU,Europe
 'fd5e2c90dc',extremes,Snow&Ice,#d60d2b,wmo,ijs-friesland,2026-01-30T04:21:00+00:00,Netherlands,0.5040694875983385,1,1,nl,NEU,Europe
 'd8385681af',extremes,Snow&Ice,#d60d2b,wmo,ijs gelderland,2026-02-03T04:27:00+00:00,Netherlands,0.5033736781069215,1,1,nl,NEU,Europe
-'2bf24dfb2f',extremes,Snow&Ice,#d60d2b,wmo,vorst noord holland,2026-02-04T04:21:00+00:00,Netherlands,0.5028369916555059,1,1,nl,NEU,Europe
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,sneeuwbui,2026-01-15T10:39:00+00:00,,0.5005591016075219,1,2,nl,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,ijsberg antarctica,2026-01-18T03:56:00+00:00,,0.4990556806416936,1,2,nl,,
 '228e39232d',extremes,Snow&Ice,#d60d2b,wmo,ijskoud Nederland,2026-01-23T04:03:00+00:00,Netherlands,0.4983414510426815,3,1,nl,NEU,Europe
@@ -67,7 +66,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1ff36d7a46',extremes,Drought,#edc291,edo,droogte belgie,2026-01-15T12:14:00+00:00,Belgium,0.4819598688503673,2,1,nl,WCE,Europe
 'f7a86f9ecd',extremes,Fog,#d60d2b,wmo,mist overijssel,2026-02-08T04:43:00+00:00,Netherlands,0.4777710471193345,2,1,nl,NEU,Europe
 '751eb90eff',extremes,Storm,#b3b2b1,wmo,stormvloed Texel,2026-01-22T03:59:00+00:00,Netherlands,0.4740083268744816,2,1,nl,NEU,Europe
-'4f633591bc',extremes,Storm,#b3b2b1,wmo,stormhoek van holland,2026-01-22T03:59:00+00:00,Netherlands,0.47300603292263543,2,1,nl,NEU,Europe
+'4f633591bc',extremes,Storm,#b3b2b1,wmo,stormhoek van holland,2026-01-22T03:59:00+00:00,Netherlands,0.4730060329226354,2,1,nl,NEU,Europe
 'dfef3989ad',extremes,Drought,#edc291,edo,droge periode nederland,2026-01-22T04:00:00+00:00,Netherlands,0.471350137418928,2,1,nl,NEU,Europe
 'ff1cb7b245',extremes,Snow&Ice,#d60d2b,wmo,ijskoud drenthe,2026-01-22T03:59:00+00:00,Netherlands,0.4709487802503335,2,1,nl,NEU,Europe
 'bc2841f09c',extremes,Snow&Ice,#d60d2b,wmo,ijs noord holland,2026-01-23T04:03:00+00:00,Netherlands,0.4685950524618056,2,1,nl,NEU,Europe
@@ -102,6 +101,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fb4d5ee37e',extremes,Precipitation,#d60d2b,wmo,hevige regen bali,2026-01-20T03:56:00+00:00,Indonesia,0.4332981038962283,1,1,nl,SEA,Asia
 'a4c2cea6a7',extremes,Drought,#edc291,edo,gebrek aan regen Curacao,2026-01-17T03:44:00+00:00,Curacao,0.4332885547688189,1,1,nl,CAR,North-America
 '69791e5a17',extremes,Flood,#030ba1,random,plotselinge overstroming,2026-01-17T03:44:00+00:00,,0.4283784822948677,1,2,nl,,
+'2bf24dfb2f',extremes,Snow&Ice,#d60d2b,wmo,vorst noord holland,2026-02-04T04:21:00+00:00,Netherlands,0.42756145790718,2,1,nl,NEU,Europe
 '511543dad8',extremes,Drought,#edc291,edo,gebrek aan regen nederland,2026-01-17T03:44:00+00:00,Netherlands,0.4272226189926741,1,1,nl,NEU,Europe
 'd9a743c38f',extremes,Precipitation,#d60d2b,wmo,regen maluku utara,2026-01-21T03:56:00+00:00,Indonesia,0.4268839064995074,1,1,nl,SEA,Asia
 'fe14986475',extremes,Snow&Ice,#d60d2b,wmo,ijs noord brabant,2026-02-03T04:27:00+00:00,Netherlands,0.4259251202541178,2,1,nl,NEU,Europe
@@ -332,7 +332,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '538eadceb4',extremes,Heat Wave,#c40202,random,milde winter,2026-01-17T03:44:00+00:00,,0.296499498127642,1,1,nl,,
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,wervelwind,2026-01-15T10:56:00+00:00,,0.2958049457845242,1,2,nl,,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,nachtvorst,2026-01-15T10:56:00+00:00,,0.2957738714736743,1,2,nl,,
-'1405131905',extremes,Thunderstorm,#53785a,random,hagel,2026-01-22T03:59:00+00:00,,0.29553809894833827,1,1,nl,,
+'1405131905',extremes,Thunderstorm,#53785a,random,hagel,2026-01-22T03:59:00+00:00,,0.2955380989483382,1,1,nl,,
 '40f675561f',extremes,Heat Wave,#c40202,random,heetste zomer,2026-01-15T10:56:00+00:00,,0.2951822015222953,1,1,nl,,
 '2c6a8d65d9',extremes,Earthquake,#870007,usgs,aardbeving paciran,2026-01-17T03:44:00+00:00,Indonesia,0.293180035731893,2,1,nl,SEA,Asia
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-01-17T03:44:00+00:00,,0.2925977439981262,1,1,nl,,
