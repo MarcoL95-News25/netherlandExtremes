@@ -1,39 +1,39 @@
 ,phrase,label,sentiment,subjectivity,language,count
-winter,winter,DATE,,,en,16.200000000000003
+winter,winter,DATE,,,en,19.799999999999997
 Friday,Friday,DATE,,,en,15.000000000000002
 Wednesday,Wednesday,DATE,,,en,13.200000000000001
 Christmas,Christmas,DATE,,,en,12.700000000000005
 Saturday,Saturday,DATE,,,en,11.6
+first,first,ORDINAL,,,en,11.100000000000003
 Australian,Australian,NORP,,,en,10.800000000000002
-first,first,ORDINAL,,,en,9.6
 French,French,NORP,,,en,9.300000000000002
-two,two,CARDINAL,,,en,7.500000000000001
+two,two,CARDINAL,,,en,7.800000000000001
+three,three,CARDINAL,,,en,7.2
 Three,Three,CARDINAL,,,en,7.000000000000001
+Dutch,Dutch,NORP,,,en,6.800000000000001
 Monday,Monday,DATE,,,en,6.7
 Tuesday,Tuesday,DATE,,,en,6.6000000000000005
-three,three,CARDINAL,,,en,6.3
 American,American,NORP,,,en,6.200000000000001
-Dutch,Dutch,NORP,,,en,6.200000000000001
 morning,morning,TIME,,,en,6.0
 Two,Two,CARDINAL,,,en,5.8
 Sunday,Sunday,DATE,,,en,5.799999999999999
 One,One,CARDINAL,,,en,5.700000000000001
 hundreds,hundreds,CARDINAL,,,en,5.2
-Thursday,Thursday,DATE,,,en,4.8999999999999995
+Thursday,Thursday,DATE,,,en,5.2
 today,today,DATE,,,en,4.8
 evening,evening,TIME,,,en,4.300000000000001
 Flemish,Flemish,NORP,,,en,4.3
+one,one,CARDINAL,,,en,4.1000000000000005
 the coming days,the coming days,DATE,,,en,4.1
-Winter,Winter,DATE,,,en,3.9999999999999996
 2025,2025,DATE,,,en,3.9999999999999996
+Winter,Winter,DATE,,,en,3.9999999999999996
 years,years,DATE,,,en,3.8
+6.2,6.2,CARDINAL,,,en,3.6999999999999997
 second,second,ORDINAL,,,en,3.6999999999999997
 German,German,NORP,,,en,3.6999999999999997
-6.2,6.2,CARDINAL,,,en,3.6999999999999997
 Indonesian,Indonesian,NORP,,,en,3.6999999999999997
 tens of thousands,tens of thousands,CARDINAL,,,en,3.5999999999999996
 Sunday afternoon,Sunday afternoon,TIME,,,en,3.5
-one,one,CARDINAL,,,en,3.2
 the day,the day,DATE,,,en,3.1999999999999997
 a week,a week,DATE,,,en,3.0999999999999996
 six,six,CARDINAL,,,en,3.0
@@ -41,214 +41,218 @@ afternoon,afternoon,TIME,,,en,3.0
 thousands,thousands,CARDINAL,,,en,3.0
 Belgian,Belgian,NORP,,,en,2.9000000000000004
 tonight,tonight,TIME,,,en,2.8999999999999995
-Eight,Eight,CARDINAL,,,en,2.8
-days,days,DATE,,,en,2.8
-Sunday morning,Sunday morning,TIME,,,en,2.8
-annual,annual,DATE,,,en,2.8
-Five,Five,CARDINAL,,,en,2.8
-At least two,At least two,CARDINAL,,,en,2.8
 this weekend,this weekend,DATE,,,en,2.8
+Sunday morning,Sunday morning,TIME,,,en,2.8
+days,days,DATE,,,en,2.8
 At least 25,At least 25,CARDINAL,,,en,2.8
+At least two,At least two,CARDINAL,,,en,2.8
+Eight,Eight,CARDINAL,,,en,2.8
+Five,Five,CARDINAL,,,en,2.8
 At least one,At least one,CARDINAL,,,en,2.8
+annual,annual,DATE,,,en,2.8
 Russian,Russian,NORP,,,en,2.6000000000000005
-recent days,recent days,DATE,,,en,2.6
 5,5,CARDINAL,,,en,2.6
+recent days,recent days,DATE,,,en,2.6
+last night,last night,TIME,,,en,2.4
 Last week,Last week,DATE,,,en,2.4
 2,2,CARDINAL,,,en,2.4
-last night,last night,TIME,,,en,2.4
 WINTER,WINTER,DATE,,,en,2.2
 Four,Four,CARDINAL,,,en,2.2
 third,third,ORDINAL,,,en,2.1999999999999997
 Thousands,Thousands,CARDINAL,,,en,2.1
 the year,the year,DATE,,,en,2.1
-daily,daily,DATE,,,en,2.0
-next night,next night,TIME,,,en,2.0
-European,European,NORP,,,en,2.0
 the night,the night,TIME,,,en,2.0
+daily,daily,DATE,,,en,2.0
+European,European,NORP,,,en,2.0
+next night,next night,TIME,,,en,2.0
+Six,Six,CARDINAL,,,en,1.9
+five,five,CARDINAL,,,en,1.9
+Briton,Briton,NORP,,,en,1.9
 34,34,CARDINAL,,,en,1.9
-6.5,6.5,CARDINAL,,,en,1.9
-this afternoon,this afternoon,TIME,,,en,1.9
-At least 18,At least 18,CARDINAL,,,en,1.9
-6.7,6.7,CARDINAL,,,en,1.9
 Rovaniemi airport,Rovaniemi airport,FAC,,,en,1.9
 Polish,Polish,NORP,,,en,1.9
 More than 100,More than 100,CARDINAL,,,en,1.9
-five,five,CARDINAL,,,en,1.9
-a few more centimeters,a few more centimeters,QUANTITY,,,en,1.9
-Italian,Italian,NORP,,,en,1.9
-11 a.m.,11 a.m.,TIME,,,en,1.9
-weeks,weeks,DATE,,,en,1.9
-At least 30,At least 30,CARDINAL,,,en,1.9
-Briton,Briton,NORP,,,en,1.9
-this morning,this morning,TIME,,,en,1.9
-6,6,CARDINAL,,,en,1.9
 38,38,CARDINAL,,,en,1.9
+Italian,Italian,NORP,,,en,1.9
 British,British,NORP,,,en,1.9
-Six,Six,CARDINAL,,,en,1.9
-Greek,Greek,NORP,,,en,1.9
+At least 30,At least 30,CARDINAL,,,en,1.9
+weeks,weeks,DATE,,,en,1.9
+this afternoon,this afternoon,TIME,,,en,1.9
+a few more centimeters,a few more centimeters,QUANTITY,,,en,1.9
+6.5,6.5,CARDINAL,,,en,1.9
+6,6,CARDINAL,,,en,1.9
 the driest year,the driest year,DATE,,,en,1.9
+11 a.m.,11 a.m.,TIME,,,en,1.9
 Saturday 8 p.m. to Sunday 10 a.m.,Saturday 8 p.m. to Sunday 10 a.m.,TIME,,,en,1.9
-Flanders,Flanders,NORP,0.0,0.125,en,1.8
+Greek,Greek,NORP,,,en,1.9
+this morning,this morning,TIME,,,en,1.9
+At least 18,At least 18,CARDINAL,,,en,1.9
+6.7,6.7,CARDINAL,,,en,1.9
 Ukrainian,Ukrainian,NORP,,,en,1.8
+Flanders,Flanders,NORP,0.0,0.125,en,1.8
 Kruger Park,Kruger Park,FAC,,,en,1.7
 9,9,CARDINAL,,,en,1.7
 New Year's Eve,New Year's Eve,EVENT,,,en,1.6
-40 percent,40 percent,PERCENT,,,en,1.5
 40%,40%,PERCENT,,,en,1.5
+40 percent,40 percent,PERCENT,,,en,1.5
 2026,2026,DATE,,,en,1.4000000000000001
-42.2 percent,42.2 percent,PERCENT,,,en,1.3
-eighth,eighth,ORDINAL,,,en,1.3
-33,33,CARDINAL,,,en,1.3
-the afternoon,the afternoon,TIME,,,en,1.3
-244,244,CARDINAL,,,en,1.3
 last weekend,last weekend,DATE,,,en,1.3
+53,53,CARDINAL,,,en,1.3
+eighth,eighth,ORDINAL,,,en,1.3
+25 years,25 years,DATE,,,en,1.3
 eleven,eleven,CARDINAL,,,en,1.3
+33,33,CARDINAL,,,en,1.3
+244,244,CARDINAL,,,en,1.3
+23,23,CARDINAL,,,en,1.3
+42.2 percent,42.2 percent,PERCENT,,,en,1.3
 51,51,DATE,,,en,1.3
-52,52,CARDINAL,,,en,1.2
+November,November,DATE,,,en,1.3
+the afternoon,the afternoon,TIME,,,en,1.3
 "140,000 euros","140,000 euros",MONEY,,,en,1.2
-an additional 10 million euros,an additional 10 million euros,MONEY,,,en,1.2
 more than 500,more than 500,CARDINAL,,,en,1.2
-the new year,the new year,DATE,,,en,1.1
-almost 23 years,almost 23 years,DATE,,,en,1.1
-this week,this week,DATE,,,en,1.1
+an additional 10 million euros,an additional 10 million euros,MONEY,,,en,1.2
+52,52,CARDINAL,,,en,1.2
 "133,000","133,000",CARDINAL,,,en,1.1
-50,50,CARDINAL,,,en,1.1
+this week,this week,DATE,,,en,1.1
 2 years,2 years,DATE,,,en,1.1
 the weekend,the weekend,DATE,,,en,1.1
 Ukrainians,Ukrainians,NORP,,,en,1.1
-February 6 to 15,February 6 to 15,DATE,,,en,1.0
-the opening day,the opening day,DATE,,,en,1.0
-European Championship,European Championship,EVENT,,,en,1.0
-the coldest winter month,the coldest winter month,DATE,,,en,1.0
-"the 3,000m","the 3,000m",QUANTITY,,,en,1.0
-First,First,ORDINAL,,,en,1.0
-sixth,sixth,ORDINAL,,,en,1.0
-the European Championships,the European Championships,EVENT,,,en,1.0
-Zoo Planckendael,Zoo Planckendael,FAC,,,en,1.0
-the cold days,the cold days,DATE,,,en,1.0
-the first week of January,the first week of January,DATE,,,en,1.0
-the sixth year in a row,the sixth year in a row,DATE,,,en,1.0
-22 degrees below zero,22 degrees below zero,QUANTITY,,,en,1.0
-the three kilometers,the three kilometers,QUANTITY,,,en,1.0
-recent winter,recent winter,DATE,,,en,1.0
-Last weekend,Last weekend,DATE,,,en,1.0
+50,50,CARDINAL,,,en,1.1
+the new year,the new year,DATE,,,en,1.1
+almost 23 years,almost 23 years,DATE,,,en,1.1
+The last few days,The last few days,DATE,,,en,1.0
+more than a million,more than a million,CARDINAL,,,en,1.0
+"Tuesday, January 27","Tuesday, January 27",DATE,,,en,1.0
 8),8),CARDINAL,,,en,1.0
 four years,four years,DATE,,,en,1.0
-two days,two days,DATE,,,en,1.0
+17 years,17 years,DATE,,,en,1.0
 More than a thousand,More than a thousand,CARDINAL,,,en,1.0
-a black day,a black day,DATE,,,en,1.0
 the darkest winter,the darkest winter,DATE,,,en,1.0
-fifteenth,fifteenth,ORDINAL,,,en,1.0
+above 40 degrees Celsius,above 40 degrees Celsius,QUANTITY,,,en,1.0
 "2023, 2024","2023, 2024",DATE,,,en,1.0
-About 800,About 800,CARDINAL,,,en,1.0
 1.52 degrees,1.52 degrees,QUANTITY,,,en,1.0
-Ten,Ten,CARDINAL,,,en,1.0
-a quarter century,a quarter century,DATE,,,en,1.0
+32,32,DATE,,,en,1.0
 year,year,DATE,,,en,1.0
-25 years,25 years,DATE,,,en,1.0
 only 2024,only 2024,CARDINAL,,,en,1.0
 2023,2023,DATE,,,en,1.0
+"12,000","12,000",CARDINAL,,,en,1.0
 the hottest year,the hottest year,DATE,,,en,1.0
-e2,e2,CARDINAL,,,en,1.0
-10,10,CARDINAL,,,en,1.0
-the coldest day of the year,the coldest day of the year,DATE,,,en,1.0
-the Belgian Championship,the Belgian Championship,EVENT,,,en,1.0
-hundreds of thousands,hundreds of thousands,CARDINAL,,,en,1.0
-the past year,the past year,DATE,,,en,1.0
-At least 9,At least 9,CARDINAL,,,en,1.0
-17 years,17 years,DATE,,,en,1.0
-32,32,DATE,,,en,1.0
-more than a million,more than a million,CARDINAL,,,en,1.0
 -45 degrees,-45 degrees,QUANTITY,,,en,1.0
 million,million,CARDINAL,,,en,1.0
 more than million,more than million,CARDINAL,,,en,1.0
+"More than 700,000","More than 700,000",CARDINAL,,,en,1.0
+the cold days,the cold days,DATE,,,en,1.0
 90-89,90-89,DATE,,,en,1.0
+the first week of January,the first week of January,DATE,,,en,1.0
+First,First,ORDINAL,,,en,1.0
+Zoo Planckendael,Zoo Planckendael,FAC,,,en,1.0
 Leemans,Leemans,NORP,,,en,1.0
-recent months,recent months,DATE,,,en,1.0
-the first half,the first half,DATE,,,en,1.0
-a few sunny days,a few sunny days,DATE,,,en,1.0
-a sunny weekend,a sunny weekend,DATE,,,en,1.0
-"at least 36,000 hectares","at least 36,000 hectares",QUANTITY,,,en,1.0
-Argentine,Argentine,NORP,,,en,1.0
-sunny weekend,sunny weekend,DATE,,,en,1.0
-21,21,CARDINAL,,,en,1.0
-above 40 degrees Celsius,above 40 degrees Celsius,QUANTITY,,,en,1.0
-"Tuesday, January 27","Tuesday, January 27",DATE,,,en,1.0
-East Flemish,East Flemish,NORP,,,en,1.0
+sixth,sixth,ORDINAL,,,en,1.0
 the Australian Open,the Australian Open,EVENT,,,en,1.0
+Last weekend,Last weekend,DATE,,,en,1.0
+the sixth year in a row,the sixth year in a row,DATE,,,en,1.0
+two days,two days,DATE,,,en,1.0
+Ten,Ten,CARDINAL,,,en,1.0
+the Belgian Championship,the Belgian Championship,EVENT,,,en,1.0
+the coldest day of the year,the coldest day of the year,DATE,,,en,1.0
+4,4,CARDINAL,,,en,1.0
 Arctic,Arctic,PRODUCT,,,en,1.0
+10,10,CARDINAL,,,en,1.0
 3,3,CARDINAL,,,en,1.0
+e2,e2,CARDINAL,,,en,1.0
 1,1,CARDINAL,,,en,1.0
 Every week,Every week,DATE,,,en,1.0
 at least five,at least five,CARDINAL,,,en,1.0
 "450,000","450,000",CARDINAL,,,en,1.0
+a quarter century,a quarter century,DATE,,,en,1.0
 At least five,At least five,CARDINAL,,,en,1.0
+recent winter,recent winter,DATE,,,en,1.0
+Two months later,Two months later,DATE,,,en,1.0
 more than two years,more than two years,DATE,,,en,1.0
+About 800,About 800,CARDINAL,,,en,1.0
+fifteenth,fifteenth,ORDINAL,,,en,1.0
 31,31,DATE,,,en,1.0
 a year,a year,DATE,,,en,1.0
 22,22,CARDINAL,,,en,1.0
+a black day,a black day,DATE,,,en,1.0
 next month,next month,DATE,,,en,1.0
-23,23,DATE,,,en,1.0
 "At least 560,000","At least 560,000",CARDINAL,,,en,1.0
-"12,000","12,000",CARDINAL,,,en,1.0
-Chilean,Chilean,NORP,,,en,1.0
-Achel,Achel,FAC,,,en,1.0
-Austrian,Austrian,NORP,,,en,1.0
-one year,one year,DATE,,,en,1.0
-December,December,DATE,,,en,1.0
-54,54,DATE,,,en,1.0
-1986,1986,DATE,,,en,1.0
-"over 2,000 kilometers","over 2,000 kilometers",QUANTITY,,,en,1.0
-The Kruger Park,The Kruger Park,FAC,,,en,1.0
-nearly two hundred,nearly two hundred,CARDINAL,,,en,1.0
+recent months,recent months,DATE,,,en,1.0
+February 6 to 15,February 6 to 15,DATE,,,en,1.0
+the opening day,the opening day,DATE,,,en,1.0
 the beginning of this year,the beginning of this year,DATE,,,en,1.0
-More than a hundred,More than a hundred,CARDINAL,,,en,1.0
-about 10 kilometers,about 10 kilometers,QUANTITY,,,en,1.0
-the start this spring,the start this spring,DATE,,,en,1.0
-the end of the year,the end of the year,DATE,,,en,1.0
-dozens,dozens,CARDINAL,,,en,1.0
-One week,One week,DATE,,,en,1.0
-barely 12 years old,barely 12 years old,DATE,,,en,1.0
-At least nine,At least nine,CARDINAL,,,en,1.0
+The Kruger Park,The Kruger Park,FAC,,,en,1.0
+"over 2,000 kilometers","over 2,000 kilometers",QUANTITY,,,en,1.0
+1986,1986,DATE,,,en,1.0
+54,54,DATE,,,en,1.0
+Achel,Achel,FAC,,,en,1.0
+December,December,DATE,,,en,1.0
 2003,2003,DATE,,,en,1.0
-day,day,DATE,,,en,1.0
 up to 140 kilometers per hour,up to 140 kilometers per hour,QUANTITY,,,en,1.0
-Neerpelt,Neerpelt,FAC,,,en,1.0
 between 3,between 3,CARDINAL,,,en,1.0
+one year,one year,DATE,,,en,1.0
+the past year,the past year,DATE,,,en,1.0
+Neerpelt,Neerpelt,FAC,,,en,1.0
+338 km,338 km,QUANTITY,,,en,1.0
 February 1,February 1,DATE,,,en,1.0
 New Year's,New Year's,EVENT,,,en,1.0
 August,August,DATE,,,en,1.0
 Spartans,Spartans,NORP,,,en,1.0
+Japanese,Japanese,NORP,,,en,1.0
 the Allianz Arena,the Allianz Arena,WORK_OF_ART,,,en,1.0
 Unionists,Unionists,NORP,,,en,1.0
-'Winter,'Winter,DATE,,,en,1.0
-53,53,CARDINAL,,,en,1.0
-Winter Full of Love,Winter Full of Love,DATE,,,en,1.0
-The last few days,The last few days,DATE,,,en,1.0
-338 kilometers,338 kilometers,QUANTITY,,,en,1.0
-40,40,DATE,,,en,1.0
 every three hours,every three hours,TIME,,,en,1.0
-338 km,338 km,QUANTITY,,,en,1.0
-the first day,the first day,DATE,,,en,1.0
-Almost 350 kilometers,Almost 350 kilometers,QUANTITY,,,en,1.0
-working day,working day,DATE,,,en,1.0
-the evening and night,the evening and night,TIME,,,en,1.0
-the Winter Games,the Winter Games,EVENT,,,en,1.0
-Olympics,Olympics,EVENT,,,en,1.0
-the start of 2026,the start of 2026,DATE,,,en,1.0
-the end of 2025,the end of 2025,DATE,,,en,1.0
-the Jeugdjournaal Annual Overview,the Jeugdjournaal Annual Overview,EVENT,,,en,1.0
-years this weekend,years this weekend,DATE,,,en,1.0
-Spent the night in the departure hall,Spent the night in the departure hall,WORK_OF_ART,,,en,1.0
-"more than 200,000","more than 200,000",CARDINAL,,,en,1.0
-almost 24 hours,almost 24 hours,TIME,,,en,1.0
+40,40,DATE,,,en,1.0
+338 kilometers,338 kilometers,QUANTITY,,,en,1.0
+'Winter,'Winter,DATE,,,en,1.0
+Winter Full of Love,Winter Full of Love,DATE,,,en,1.0
+nearly two hundred,nearly two hundred,CARDINAL,,,en,1.0
+More than a hundred,More than a hundred,CARDINAL,,,en,1.0
+the first half,the first half,DATE,,,en,1.0
+30,30,DATE,,,en,1.0
+the coldest winter month,the coldest winter month,DATE,,,en,1.0
+a few sunny days,a few sunny days,DATE,,,en,1.0
+hundreds of thousands,hundreds of thousands,CARDINAL,,,en,1.0
+a sunny weekend,a sunny weekend,DATE,,,en,1.0
+"at least 36,000 hectares","at least 36,000 hectares",QUANTITY,,,en,1.0
+22 degrees below zero,22 degrees below zero,QUANTITY,,,en,1.0
+At least 9,At least 9,CARDINAL,,,en,1.0
+Austrian,Austrian,NORP,,,en,1.0
+At least nine,At least nine,CARDINAL,,,en,1.0
+barely 12 years old,barely 12 years old,DATE,,,en,1.0
+Argentine,Argentine,NORP,,,en,1.0
+One week,One week,DATE,,,en,1.0
+sunny weekend,sunny weekend,DATE,,,en,1.0
+seven,seven,CARDINAL,,,en,1.0
+21,21,CARDINAL,,,en,1.0
+Chilean,Chilean,NORP,,,en,1.0
+dozens,dozens,CARDINAL,,,en,1.0
+2011,2011,DATE,,,en,1.0
+the Kashiwazaki-Kariwa power,the Kashiwazaki-Kariwa power,FAC,,,en,1.0
+the end of the year,the end of the year,DATE,,,en,1.0
+the start this spring,the start this spring,DATE,,,en,1.0
+about 10 kilometers,about 10 kilometers,QUANTITY,,,en,1.0
+Thibau,Thibau,PRODUCT,,,en,1.0
+East Flemish,East Flemish,NORP,,,en,1.0
+one weekend,one weekend,DATE,,,en,1.0
+the three kilometers,the three kilometers,QUANTITY,,,en,1.0
+weekly,weekly,DATE,,,en,1.0
+European Championship,European Championship,EVENT,,,en,1.0
 "more than 60,000","more than 60,000",CARDINAL,,,en,1.0
-"more than 100,000","more than 100,000",CARDINAL,,,en,1.0
-Scandinavian,Scandinavian,NORP,,,en,1.0
-ten days,ten days,DATE,,,en,1.0
-"more than 160,000","more than 160,000",CARDINAL,,,en,1.0
 6.0,6.0,CARDINAL,,,en,1.0
-7 degrees,7 degrees,QUANTITY,,,en,1.0
+the evening and night,the evening and night,TIME,,,en,1.0
+"more than 160,000","more than 160,000",CARDINAL,,,en,1.0
+ten days,ten days,DATE,,,en,1.0
+Scandinavian,Scandinavian,NORP,,,en,1.0
+"more than 100,000","more than 100,000",CARDINAL,,,en,1.0
+almost 24 hours,almost 24 hours,TIME,,,en,1.0
+the Winter Games,the Winter Games,EVENT,,,en,1.0
+"more than 200,000","more than 200,000",CARDINAL,,,en,1.0
+Spent the night in the departure hall,Spent the night in the departure hall,WORK_OF_ART,,,en,1.0
+years this weekend,years this weekend,DATE,,,en,1.0
+the Jeugdjournaal Annual Overview,the Jeugdjournaal Annual Overview,EVENT,,,en,1.0
+the end of 2025,the end of 2025,DATE,,,en,1.0
+the start of 2026,the start of 2026,DATE,,,en,1.0
 at least 25,at least 25,CARDINAL,,,en,1.0
 three years,three years,DATE,,,en,1.0
 the last day of the year,the last day of the year,DATE,,,en,1.0
@@ -263,30 +267,32 @@ January 2,January 2,DATE,,,en,1.0
 a week full of,a week full of,DATE,,,en,1.0
 10 centimeters,10 centimeters,QUANTITY,,,en,1.0
 Saturday January 3 and Sunday January 4,Saturday January 3 and Sunday January 4,DATE,,,en,1.0
-The first days of frost,The first days of frost,DATE,,,en,1.0
-around 4 degrees,around 4 degrees,QUANTITY,,,en,1.0
+-12 degrees,-12 degrees,QUANTITY,,,en,1.0
 Tonight,Tonight,TIME,,,en,1.0
-early this morning,early this morning,TIME,,,en,1.0
-zero,zero,CARDINAL,,,en,1.0
-"more than 237,000 euros","more than 237,000 euros",MONEY,,,en,1.0
-"5,000 square meters","5,000 square meters",QUANTITY,,,en,1.0
-almost half a century,almost half a century,DATE,,,en,1.0
-almost 50 years,almost 50 years,DATE,,,en,1.0
-2024,2024,DATE,,,en,1.0
-the Bourla Theater,the Bourla Theater,FAC,,,en,1.0
+every morning,every morning,TIME,,,en,1.0
+Olympics,Olympics,EVENT,,,en,1.0
+The first days of frost,The first days of frost,DATE,,,en,1.0
+hour,hour,TIME,,,en,1.0
 the holidays,the holidays,DATE,,,en,1.0
-between 1 and 6 degrees,between 1 and 6 degrees,QUANTITY,,,en,1.0
-the morning,the morning,TIME,,,en,1.0
-higher than 1,higher than 1,CARDINAL,,,en,1.0
-2 degrees,2 degrees,QUANTITY,,,en,1.0
-6 degrees,6 degrees,QUANTITY,,,en,1.0
 the Warmest Week,the Warmest Week,DATE,,,en,1.0
+6 degrees,6 degrees,QUANTITY,,,en,1.0
+2 degrees,2 degrees,QUANTITY,,,en,1.0
+higher than 1,higher than 1,CARDINAL,,,en,1.0
+the morning,the morning,TIME,,,en,1.0
+between 1 and 6 degrees,between 1 and 6 degrees,QUANTITY,,,en,1.0
+the Bourla Theater,the Bourla Theater,FAC,,,en,1.0
+7 degrees,7 degrees,QUANTITY,,,en,1.0
+2024,2024,DATE,,,en,1.0
+almost 50 years,almost 50 years,DATE,,,en,1.0
+almost half a century,almost half a century,DATE,,,en,1.0
+"5,000 square meters","5,000 square meters",QUANTITY,,,en,1.0
+"more than 237,000 euros","more than 237,000 euros",MONEY,,,en,1.0
+zero,zero,CARDINAL,,,en,1.0
+early this morning,early this morning,TIME,,,en,1.0
 WWII,WWII,EVENT,,,en,1.0
-3 degrees,3 degrees,QUANTITY,,,en,1.0
 the Second World War,the Second World War,EVENT,,,en,1.0
 27 centimeters,27 centimeters,QUANTITY,,,en,1.0
 Every day,Every day,DATE,,,en,1.0
-November,November,DATE,,,en,1.0
 at least three,at least three,CARDINAL,,,en,1.0
 Christmas Eve and Christmas Day,Christmas Eve and Christmas Day,DATE,,,en,1.0
 Hundreds,Hundreds,CARDINAL,,,en,1.0
@@ -297,29 +303,27 @@ Olympic,Olympic,EVENT,,,en,1.0
 "the 1,000 meters","the 1,000 meters",QUANTITY,,,en,1.0
 New Year,New Year,EVENT,,,en,1.0
 the last weekend of the year,the last weekend of the year,DATE,,,en,1.0
--12 degrees,-12 degrees,QUANTITY,,,en,1.0
-every morning,every morning,TIME,,,en,1.0
-Protection for birds and hedgehogs,Protection for birds and hedgehogs,WORK_OF_ART,,,en,1.0
-Americans,Americans,NORP,,,en,1.0
-July,July,DATE,,,en,1.0
-weekly,weekly,DATE,,,en,1.0
-Haacht,Haacht,NORP,,,en,1.0
-a month,a month,DATE,,,en,1.0
-A few weeks,A few weeks,DATE,,,en,1.0
-2022,2022,DATE,,,en,1.0
-Germans,Germans,NORP,,,en,1.0
-ten years,ten years,DATE,,,en,1.0
-seven-year,seven-year,DATE,,,en,1.0
-seven years,seven years,DATE,,,en,1.0
-39,39,CARDINAL,,,en,1.0
+3 degrees,3 degrees,QUANTITY,,,en,1.0
+around 4 degrees,around 4 degrees,QUANTITY,,,en,1.0
+Leie,Leie,NORP,-0.05,0.17142857142857143,en,1.0
+the first working day,the first working day,DATE,,,en,1.0
+"the 3,000m","the 3,000m",QUANTITY,,,en,1.0
 months,months,DATE,,,en,1.0
-September,September,DATE,,,en,1.0
-a month later,a month later,DATE,,,en,1.0
-US Marines,US Marines,NORP,,,en,1.0
-a long travel day,a long travel day,DATE,,,en,1.0
 More than 500 kilometers,More than 500 kilometers,QUANTITY,,,en,1.0
-"More than 1,000 kilometers","More than 1,000 kilometers",QUANTITY,,,en,1.0
 all week,all week,DATE,,,en,1.0
+US Marines,US Marines,NORP,,,en,1.0
+Americans,Americans,NORP,,,en,1.0
+a month later,a month later,DATE,,,en,1.0
+September,September,DATE,,,en,1.0
+39,39,CARDINAL,,,en,1.0
+Haacht,Haacht,NORP,,,en,1.0
+seven years,seven years,DATE,,,en,1.0
+seven-year,seven-year,DATE,,,en,1.0
+ten years,ten years,DATE,,,en,1.0
+Germans,Germans,NORP,,,en,1.0
+2022,2022,DATE,,,en,1.0
+A few weeks,A few weeks,DATE,,,en,1.0
+"More than 1,000 kilometers","More than 1,000 kilometers",QUANTITY,,,en,1.0
 the CES fair,the CES fair,EVENT,,,en,1.0
 This coming week,This coming week,DATE,,,en,1.0
 snow dunes,snow dunes,WORK_OF_ART,,,en,1.0
@@ -331,27 +335,29 @@ the Belgian Championships,the Belgian Championships,EVENT,,,en,1.0
 several days,several days,DATE,,,en,1.0
 Twelve,Twelve,CARDINAL,,,en,1.0
 Up to 50 liters,Up to 50 liters,QUANTITY,,,en,1.0
-two hours,two hours,TIME,,,en,1.0
-68 kilometers,68 kilometers,QUANTITY,,,en,1.0
-Leie,Leie,NORP,-0.05,0.17142857142857143,en,1.0
-2.3,2.3,CARDINAL,,,en,1.0
-hour,hour,TIME,,,en,1.0
-the first working day,the first working day,DATE,,,en,1.0
+Protection for birds and hedgehogs,Protection for birds and hedgehogs,WORK_OF_ART,,,en,1.0
+working day,working day,DATE,,,en,1.0
+day,day,DATE,,,en,1.0
+the first day,the first day,DATE,,,en,1.0
+the European Championships,the European Championships,EVENT,,,en,1.0
+a month,a month,DATE,,,en,1.0
+July,July,DATE,,,en,1.0
 the Christmas holidays,the Christmas holidays,DATE,,,en,1.0
-tomorrow,tomorrow,DATE,,,en,1.0
-Brazilian,Brazilian,NORP,,,en,1.0
-Two years ago,Two years ago,DATE,,,en,1.0
-33 million euros,33 million euros,MONEY,,,en,1.0
-Warmest Week,Warmest Week,EVENT,,,en,1.0
-This year,This year,DATE,,,en,1.0
-350,350,CARDINAL,,,en,1.0
 180 kilometers,180 kilometers,QUANTITY,,,en,1.0
-the final weekend,the final weekend,DATE,,,en,1.0
-2.4,2.4,CARDINAL,,,en,1.0
-Sunday to Monday,Sunday to Monday,DATE,,,en,1.0
-2:04 am,2:04 am,TIME,,,en,1.0
-about 42 miles,about 42 miles,QUANTITY,,,en,1.0
 Sixty,Sixty,CARDINAL,,,en,1.0
+2:04 am,2:04 am,TIME,,,en,1.0
+2.3,2.3,CARDINAL,,,en,1.0
+Sunday to Monday,Sunday to Monday,DATE,,,en,1.0
+2.4,2.4,CARDINAL,,,en,1.0
+the final weekend,the final weekend,DATE,,,en,1.0
+350,350,CARDINAL,,,en,1.0
+two hours,two hours,TIME,,,en,1.0
+This year,This year,DATE,,,en,1.0
+Warmest Week,Warmest Week,EVENT,,,en,1.0
+33 million euros,33 million euros,MONEY,,,en,1.0
+Two years ago,Two years ago,DATE,,,en,1.0
+Brazilian,Brazilian,NORP,,,en,1.0
+tomorrow,tomorrow,DATE,,,en,1.0
 fourteen,fourteen,CARDINAL,,,en,1.0
 At least fourteen,At least fourteen,CARDINAL,,,en,1.0
 "3,247","3,247",CARDINAL,,,en,1.0
@@ -365,4 +371,8 @@ at least 16,at least 16,CARDINAL,,,en,1.0
 Venezuelan,Venezuelan,NORP,,,en,1.0
 the end of December,the end of December,DATE,,,en,1.0
 years-long,years-long,DATE,,,en,1.0
-4,4,CARDINAL,,,en,1.0
+about 42 miles,about 42 miles,QUANTITY,,,en,1.0
+68 kilometers,68 kilometers,QUANTITY,,,en,1.0
+Almost 350 kilometers,Almost 350 kilometers,QUANTITY,,,en,1.0
+a long travel day,a long travel day,DATE,,,en,1.0
+more than 10 years,more than 10 years,DATE,,,en,1.0
