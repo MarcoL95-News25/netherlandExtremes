@@ -115,7 +115,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a4c2cea6a7',extremes,Drought,#edc291,edo,gebrek aan regen Curacao,2026-01-17T03:44:00+00:00,Curacao,0.4332885547688189,1,1,nl,CAR,North-America
 '4bdb570c2d',extremes,Snow&Ice,#d60d2b,wmo,vorst flevoland,2026-02-04T04:21:00+00:00,Netherlands,0.4316180670307079,2,1,nl,NEU,Europe
 '90242a2cda',extremes,Precipitation,#d60d2b,wmo,stortbui sulawesi barat,2026-02-12T04:37:00+00:00,Indonesia,0.4303817837774182,1,1,nl,SEA,Asia
-'da8a0a0841',extremes,Drought,#edc291,edo,droge periode sint maarten,2026-02-06T04:28:00+00:00,Sint Maarten,0.42969048973413565,1,1,nl,CAR,North-America
+'da8a0a0841',extremes,Drought,#edc291,edo,droge periode sint maarten,2026-02-06T04:28:00+00:00,Sint Maarten,0.4296904897341356,1,1,nl,CAR,North-America
 '69791e5a17',extremes,Flood,#030ba1,random,plotselinge overstroming,2026-01-17T03:44:00+00:00,,0.4283784822948677,1,2,nl,,
 '2bf24dfb2f',extremes,Snow&Ice,#d60d2b,wmo,vorst noord holland,2026-02-04T04:21:00+00:00,Netherlands,0.42756145790718,2,1,nl,NEU,Europe
 '511543dad8',extremes,Drought,#edc291,edo,gebrek aan regen nederland,2026-01-17T03:44:00+00:00,Netherlands,0.4272226189926741,1,1,nl,NEU,Europe
@@ -293,7 +293,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0d99295f2f',extremes,Drought,#edc291,edo,gebrek aan regen Somalië,2026-02-06T04:28:00+00:00,Somalia,0.3102172923736128,0,1,nl,NEAF,Africa
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,ijsschots,2026-01-23T04:02:00+00:00,,0.3101990723909686,1,1,nl,,
 'd389bc4f63',extremes,Earthquake,#870007,usgs,aardbeving Mexico,2026-02-05T04:27:00+00:00,Mexico,0.3099264814993108,0,1,nl,SCA,North-America
-'45278c4de3',extremes,Drought,#edc291,edo,droge periode Somalië,2026-01-22T04:00:00+00:00,Somalia,0.3098307487131462,0,1,nl,NEAF,Africa
 'fcc3f80d6b',extremes,Heat Wave,#c40202,wmo,hittegolf paraguay,2026-01-24T03:48:00+00:00,Paraguay,0.3093991540358694,0,1,nl,SES,South-America
 '221e658bfd',extremes,Drought,#edc291,edo,droogte luxemburg,2026-02-10T04:43:00+00:00,Luxembourg,0.3090229214900688,0,1,nl,WCE,Europe
 '8ebd9f213e',extremes,Wildfire,#d60d2b,acwe,bosbrand Zuid-Australië,2026-01-27T03:59:00+00:00,Australia,0.3089280531027499,0,1,nl,SAU,Oceania
@@ -376,7 +375,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a486f7aaa7',extremes,Snow Avalanche,#deddd5,wmo,lawinerepubliek adygea,2026-02-10T04:43:00+00:00,Russia,0.3051462385098296,0,1,nl,ESB,Europe
 '2e5d011ec9',extremes,Heat Wave,#c40202,wmo,hittegolf monte caseros y alrededores,2026-01-30T04:21:00+00:00,Argentina,0.3051343770897579,0,1,nl,SES,South-America
 '11ece58a02',extremes,Storm,#b3b2b1,wmo,stormvloed bahrein,2026-02-10T04:43:00+00:00,Bahrain,0.305128636111951,0,1,nl,ARP,Asia
-'3aa88c5699',extremes,Thunderstorm,#53785a,wmo,hagel Iran,2026-02-04T04:21:00+00:00,Iran,0.305125026816602,0,1,nl,WCA,Asia
 '82ed5705b2',extremes,Precipitation,#d60d2b,wmo,stortbui costa rica,2026-01-30T04:21:00+00:00,Costa Rica,0.3051212206234084,0,1,nl,SCA,North-America
 '84a2fde8e0',extremes,Heat Wave,#c40202,wmo,hittegolf Australië,2026-02-05T04:27:00+00:00,Australia,0.305112155911064,0,1,nl,CAU,Oceania
 '55b46ae31c',extremes,Storm,#b3b2b1,wmo,stormvloed naâma,2026-02-03T04:27:00+00:00,Algeria,0.3051078649584971,0,1,nl,SAH,Africa
@@ -533,6 +531,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '731557e0bc',extremes,Earthquake,#870007,usgs,aardbeving Oost-Timor,2026-02-05T04:27:00+00:00,Timor Leste,0.264288339657726,1,1,nl,SEA,Asia
 '56dca2743f',extremes,Drought,#edc291,edo,droge periode Equatoriaal-Guinea,2026-02-06T04:28:00+00:00,Equatorial Guinea,0.2641855301057863,1,1,nl,WAF,Africa
 'aa704a9a6b',extremes,Earthquake,#870007,usgs,aardbeving gizo,2026-02-02T04:36:00+00:00,Solomon Islands,0.264113671985043,1,1,nl,EPO,Pacific Ocean
+'45278c4de3',extremes,Drought,#edc291,edo,droge periode Somalië,2026-01-22T04:00:00+00:00,Somalia,0.2633561364061743,1,1,nl,NEAF,Africa
 'd3353562c0',extremes,Drought,#edc291,edo,droogte djibouti,2026-02-06T04:28:00+00:00,Djibouti,0.2626106963739711,1,1,nl,NEAF,Africa
 '676a85a2fa',extremes,Drought,#edc291,edo,droogte sao tome en principe,2026-02-02T04:36:00+00:00,Sao Tome and Principe,0.2623219212299609,1,1,nl,WAF,Africa
 '9349bd9c5e',extremes,Drought,#edc291,edo,droogte Equatoriaal-Guinea,2026-01-26T04:09:00+00:00,Equatorial Guinea,0.261482142333132,1,1,nl,WAF,Africa
@@ -544,6 +543,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a54633be0',extremes,Drought,#edc291,edo,gebrek aan regen luxemburg,2026-02-05T04:28:00+00:00,Luxembourg,0.2603878916640682,1,1,nl,WCE,Europe
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,hittegolf Chili,2026-02-05T04:27:00+00:00,Chile,0.2603520179944278,1,1,nl,SWS,South-America
 '9ceba27bb5',extremes,Heat Wave,#c40202,wmo,hittegolf Brazilië,2026-02-03T04:27:00+00:00,Brazil,0.2601242723328676,1,1,nl,SAM,South-America
+'3aa88c5699',extremes,Thunderstorm,#53785a,wmo,hagel Iran,2026-02-04T04:21:00+00:00,Iran,0.25965630279411167,1,1,nl,WCA,Asia
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,recordkoude,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,nl,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,arctisch zee-ijs,2026-01-15T10:20:00+00:00,,0.256417319727148,0,1,nl,,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-01-15T10:20:00+00:00,,0.2562914317228042,0,1,nl,,
@@ -553,6 +553,3 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,koudste jaar,2026-01-15T10:20:00+00:00,,0.2546299235753108,1,1,nl,,
 '72aad0ef2e',extremes,Tsunami,#690191,usgs,tsunami Indonesië,2026-01-17T03:44:00+00:00,Indonesia,0.2535713678613491,2,1,nl,SEA,Asia
 'c1c906585f',extremes,Tropical Cyclone,#4f4f4f,eonet,tropische cycloon 18p,2026-01-29T04:18:00+00:00,,0.2299958290215891,2,1,nl,SPO,Pacific Ocean
-'b6cef22543',extremes,Drought,#edc291,random,waterbeperking,2026-01-15T10:20:00+00:00,,0.2181947166591417,1,1,nl,,
-'95b2881221',extremes,Precipitation,#d60d2b,random,atmosferische rivier,2026-01-15T10:20:00+00:00,,0.2180904085177332,1,1,nl,,
-'1fefacbadb',extremes,Iceberg,#d60d2b,random,afkalven van gletsjers,2026-01-15T10:20:00+00:00,,0.2163334904376689,1,1,nl,,
