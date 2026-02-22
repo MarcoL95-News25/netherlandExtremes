@@ -94,7 +94,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b7e376363d',extremes,Snow&Ice,#d60d2b,wmo,sneeuw utrecht,2026-02-15T04:35:00+00:00,Netherlands,0.4460393957650491,2,1,nl,NEU,Europe
 '70ad41fbbe',extremes,Snow&Ice,#d60d2b,wmo,sneeuw noord holland,2026-02-03T04:27:00+00:00,Netherlands,0.4455243377434151,2,1,nl,NEU,Europe
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,natte sneeuw,2026-02-05T04:27:00+00:00,,0.4451384648501182,1,2,nl,,
-'9f0423d739',extremes,Drought,#edc291,random,droogte,2026-02-15T04:34:00+00:00,,0.44504104613934836,1,2,nl,,
+'9f0423d739',extremes,Drought,#edc291,random,droogte,2026-02-15T04:34:00+00:00,,0.4450410461393483,1,2,nl,,
 '2c3e19e4c4',extremes,Drought,#edc291,edo,droogte curacao,2026-02-08T04:43:00+00:00,Curacao,0.4441439135064362,1,1,nl,CAR,North-America
 '1512e9c6b2',extremes,Drought,#edc291,edo,droogte suriname,2026-01-17T03:44:00+00:00,Suriname,0.443577304287276,1,1,nl,NSA,South-America
 'f37139fe2d',extremes,Landslide,#572c03,random,modderstroom,2026-02-12T04:36:00+00:00,,0.443520775530135,1,2,nl,,
@@ -206,7 +206,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b3c70e88b6',extremes,Precipitation,#d60d2b,wmo,neerslag kalimantan selatan,2026-02-04T04:21:00+00:00,Indonesia,0.3858515647809695,1,1,nl,SEA,Asia
 '7cd116b03d',extremes,Precipitation,#d60d2b,wmo,neerslag sulawesi utara,2026-01-30T04:21:00+00:00,Indonesia,0.3854912094462796,1,1,nl,SEA,Asia
 '1ece437eb6',extremes,Precipitation,#d60d2b,wmo,regenmaluku,2026-02-04T04:21:00+00:00,Indonesia,0.3852897698239155,1,1,nl,SEA,Asia
-'faed77392d',extremes,Precipitation,#d60d2b,wmo,stortbui Atjeh,2026-02-21T04:18:00+00:00,Indonesia,0.38525199720453934,1,1,nl,SEA,Asia
+'faed77392d',extremes,Precipitation,#d60d2b,wmo,stortbui Atjeh,2026-02-21T04:18:00+00:00,Indonesia,0.3852519972045393,1,1,nl,SEA,Asia
 'ac9d918ce2',extremes,Precipitation,#d60d2b,wmo,neerslag sulawesi selatan,2026-01-28T03:56:00+00:00,Indonesia,0.3845180225912294,1,1,nl,SEA,Asia
 '4e64b96216',extremes,Precipitation,#d60d2b,wmo,regen nusa tenggara barat,2026-01-29T04:19:00+00:00,Indonesia,0.38320354884115,1,1,nl,SEA,Asia
 '06addb427e',extremes,Precipitation,#d60d2b,wmo,stortbui sulawesi tenggara,2026-02-11T04:41:00+00:00,Indonesia,0.381620954945864,1,1,nl,SEA,Asia
@@ -214,7 +214,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e874fee514',extremes,Precipitation,#d60d2b,wmo,regen Jawa Barat,2026-02-07T04:19:00+00:00,Indonesia,0.3807514383256934,1,1,nl,SEA,Asia
 '82d648b882',extremes,Drought,#edc291,random,droogte,2026-01-15T10:39:00+00:00,,0.3801841705968804,1,2,nl,,
 'cf16ced5cf',extremes,Precipitation,#d60d2b,wmo,hevige regen bengkulu,2026-02-10T04:43:00+00:00,Indonesia,0.3799591126461961,1,1,nl,SEA,Asia
-'633ed59c63',extremes,Iceberg,#d60d2b,random,arctisch zee-ijs,2026-02-07T04:19:00+00:00,,0.3797237605306205,0,1,nl,,
 '045f25d55b',extremes,Earthquake,#870007,usgs,aardbeving trenggalek,2026-02-07T04:19:00+00:00,Indonesia,0.379136797955606,1,1,nl,SEA,Asia
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,nationaal orkaancentrum,2026-02-08T04:43:00+00:00,,0.3785042599484534,0,1,nl,,
 'c2d2621627',extremes,Precipitation,#d60d2b,wmo,stortbui nusa tenggara barat,2026-02-18T04:34:00+00:00,Indonesia,0.3778567136233931,1,1,nl,SEA,Asia
@@ -223,9 +222,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '21e2a967ef',extremes,Precipitation,#d60d2b,wmo,regen papoea,2026-01-21T03:56:00+00:00,Indonesia,0.375637766138451,1,1,nl,SEA,Asia
 'dca332a61d',extremes,Precipitation,#d60d2b,wmo,hevige regen sulawesi selatan,2026-02-04T04:21:00+00:00,Indonesia,0.3756034351995081,1,1,nl,SEA,Asia
 '28f9809f85',extremes,Drought,#edc291,edo,droogte bonaire sint eustatius en saba,2026-01-23T04:03:00+00:00,Bonaire; Saint Eustatius and Saba ,0.3755129389349415,1,1,nl,CAR,North-America
-'2fe1ef231c',extremes,Precipitation,#d60d2b,wmo,neerslag Jawa Tengah,2026-02-08T04:43:00+00:00,Indonesia,0.37461483479132845,1,1,nl,SEA,Asia
+'2fe1ef231c',extremes,Precipitation,#d60d2b,wmo,neerslag Jawa Tengah,2026-02-08T04:43:00+00:00,Indonesia,0.3746148347913284,1,1,nl,SEA,Asia
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-02-05T04:27:00+00:00,,0.3744991500127601,0,1,nl,,
 'a416dc846f',extremes,Precipitation,#d60d2b,wmo,neerslag bali,2026-02-04T04:21:00+00:00,Indonesia,0.3741952088871931,1,1,nl,SEA,Asia
+'633ed59c63',extremes,Iceberg,#d60d2b,random,arctisch zee-ijs,2026-02-07T04:19:00+00:00,,0.3732152414510274,1,1,nl,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,cycloon,2026-02-05T04:27:00+00:00,,0.3727353114031219,0,1,nl,,
 '35a31822d1',extremes,Precipitation,#d60d2b,wmo,neerslag papoea barat daya,2026-01-21T03:56:00+00:00,Indonesia,0.3725887200659,1,1,nl,SEA,Asia
 'f8f606549c',extremes,Earthquake,#870007,usgs,aardbeving pariaman,2026-02-20T04:27:00+00:00,Indonesia,0.3718642742377437,1,1,nl,SEA,Asia
@@ -279,7 +279,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '776fe47817',extremes,Wildfire,#d60d2b,random,wildvuur,2026-02-18T04:33:00+00:00,,0.3327545698315642,1,1,nl,,
 'f90601fa23',extremes,Volcano,#b83202,random,vulkaanuitbarsting,2026-02-21T04:17:00+00:00,,0.3312913203073108,0,1,nl,,
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,opwaaiende sneeuw,2026-02-07T04:19:00+00:00,,0.3311597115701493,1,1,nl,,
-'5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,aanlanding,2026-02-06T04:27:00+00:00,,0.32869932169969424,1,1,nl,,
+'5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,aanlanding,2026-02-06T04:27:00+00:00,,0.3286993216996942,1,1,nl,,
 '40f675561f',extremes,Heat Wave,#c40202,random,heetste zomer,2026-02-13T04:33:00+00:00,,0.3285518821387494,0,1,nl,,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,zwaar weer,2026-01-20T03:55:00+00:00,,0.3280706368449123,1,2,nl,,
 'c948617fef',extremes,Heat Wave,#c40202,random,blootstelling aan extreme hitte,2026-02-06T04:27:00+00:00,,0.3276369716469687,1,1,nl,,
