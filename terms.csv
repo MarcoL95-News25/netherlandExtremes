@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'1ff36d7a46',extremes,Drought,#edc291,edo,droogte belgie,2026-02-07T04:19:00+00:00,Belgium,0.6544978886940714,1,1,nl,WCE,Europe
 'f2b29262f2',extremes,Drought,#edc291,edo,droge periode belgië,2026-02-05T04:28:00+00:00,Belgium,0.6517391196998148,2,1,nl,WCE,Europe
 '92a89d7e96',extremes,Snow&Ice,#d60d2b,wmo,ijs limburg,2026-02-18T04:34:00+00:00,Netherlands,0.6207232105109655,2,2,nl,NEU,Europe
 'a834b33b6c',extremes,Drought,#edc291,edo,droogte nederland,2026-02-05T04:28:00+00:00,Netherlands,0.6106937351399434,2,2,nl,NEU,Europe
@@ -9,8 +8,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6cf82d579e',extremes,Snow&Ice,#d60d2b,wmo,ijskoud noord-holland,2026-02-15T04:35:00+00:00,Netherlands,0.5813303919426877,2,2,nl,NEU,Europe
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,sneeuwbui,2026-01-15T10:39:00+00:00,,0.5756252513663936,2,2,nl,,
 'd65ecb1cf6',extremes,Snow&Ice,#d60d2b,wmo,sneeuw luxemburg,2026-02-15T04:35:00+00:00,Belgium,0.5648620361418852,1,1,nl,WCE,Europe
-'b32cdf78a9',extremes,Storm,#b3b2b1,wmo,stormvloed ijmuiden,2026-01-15T10:56:00+00:00,Netherlands,0.5571754098564006,1,1,nl,NEU,Europe
 '4074facf05',extremes,Snow&Ice,#d60d2b,wmo,ijs nederland,2026-01-22T03:59:00+00:00,Netherlands,0.5567616459763363,2,2,nl,NEU,Europe
+'1ff36d7a46',extremes,Drought,#edc291,edo,droogte belgie,2026-02-07T04:19:00+00:00,Belgium,0.5563232053899607,2,1,nl,WCE,Europe
 '1c68827807',extremes,Snow&Ice,#d60d2b,wmo,sneeuw namen,2026-02-15T04:35:00+00:00,Belgium,0.5465143454371477,1,1,nl,WCE,Europe
 '8efab12aed',extremes,Fog,#d60d2b,wmo,mist Luik,2026-01-28T03:56:00+00:00,Belgium,0.5458323980226788,2,1,nl,WCE,Europe
 '03585eb59a',extremes,Snow&Ice,#d60d2b,wmo,ijskoud limburg,2026-01-29T04:19:00+00:00,Netherlands,0.5452196063368072,2,1,nl,NEU,Europe
@@ -338,8 +337,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a1f794d6b8',extremes,Storm,#b3b2b1,wmo,stormvloed oran,2026-02-08T04:43:00+00:00,Algeria,0.305949135432995,0,1,nl,SAH,Africa
 'be647fc7a4',extremes,Storm,#b3b2b1,wmo,stormvloed Ecuador,2026-01-27T03:58:00+00:00,Ecuador,0.3059346595700953,0,1,nl,NWS,South-America
 '2fbb3e12ae',extremes,Heat Wave,#c40202,wmo,hittegolf concordia y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.3059223715406891,0,1,nl,SES,South-America
-'2cfcf7a5d7',extremes,Storm,#b3b2b1,wmo,storm,2026-02-08T04:43:00+00:00,Bahrain,0.3058710941005423,0,1,nl,ARP,Asia
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,stormvloed Brazilië,2026-02-07T04:19:00+00:00,Brazil,0.3058613562953738,0,1,nl,SAM,South-America
+'2cfcf7a5d7',extremes,Storm,#b3b2b1,wmo,storm,2026-02-08T04:43:00+00:00,Bahrain,0.30585111089455186,1,2,nl,ARP,Asia
 '453697199c',extremes,Storm,#b3b2b1,wmo,storm ghana,2026-02-17T04:31:00+00:00,Ghana,0.3058068818485187,0,1,nl,WAF,Africa
 'dbc72b57f2',extremes,Heat Wave,#c40202,wmo,hittegolf gebied 1 – ernstig,2026-02-17T04:31:00+00:00,Paraguay,0.3057877105283349,0,1,nl,SES,South-America
 '01b678efbf',extremes,Heat Wave,#c40202,wmo,hittegolfreg. 3 precordillera,2026-02-17T04:31:00+00:00,Chile,0.3057876921280838,0,1,nl,SWS,South-America
@@ -513,8 +512,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,storm paraguay,2026-02-13T04:34:00+00:00,Paraguay,0.2598980961386601,1,1,nl,SES,South-America
 '3aa88c5699',extremes,Thunderstorm,#53785a,wmo,hagel Iran,2026-02-04T04:21:00+00:00,Iran,0.2596563027941116,1,1,nl,WCA,Asia
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,overstroming van de Verenigde Staten,2026-02-07T04:19:00+00:00,United States,0.259578051149759,1,1,nl,CNA,North-America
-'b36377911d',extremes,Storm,#b3b2b1,wmo,stormvloed in het noorden van de Stille Oceaan.,2026-02-03T04:27:00+00:00,Costa Rica,0.25949119087500444,1,1,nl,SCA,North-America
-'e9f2b42100',extremes,Heat Wave,#c40202,wmo,hittegolf la plata y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.25939844172629634,1,1,nl,SES,South-America
+'b36377911d',extremes,Storm,#b3b2b1,wmo,stormvloed in het noorden van de Stille Oceaan.,2026-02-03T04:27:00+00:00,Costa Rica,0.2594911908750044,1,1,nl,SCA,North-America
+'e9f2b42100',extremes,Heat Wave,#c40202,wmo,hittegolf la plata y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.2593984417262963,1,1,nl,SES,South-America
 'fa84ab2ea0',extremes,Thunderstorm,#53785a,wmo,zwaar weer Zuid-Afrika,2026-02-07T04:19:00+00:00,South Africa,0.2592679868485627,1,1,nl,WSAF,Africa
 'c1c906585f',extremes,Tropical Cyclone,#4f4f4f,eonet,tropische cycloon 18p,2026-01-29T04:18:00+00:00,,0.2299958290215891,2,1,nl,SPO,Pacific Ocean
-'95694d19cf',extremes,Earthquake,#870007,usgs,aardbeving jemen,2026-02-05T04:27:00+00:00,Yemen,0.22735382736828275,2,1,nl,ARS,Indian Ocean
+'95694d19cf',extremes,Earthquake,#870007,usgs,aardbeving jemen,2026-02-05T04:27:00+00:00,Yemen,0.2273538273682827,2,1,nl,ARS,Indian Ocean
