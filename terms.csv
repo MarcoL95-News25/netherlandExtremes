@@ -98,7 +98,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '01814f1f7e',extremes,Precipitation,#d60d2b,wmo,stortregens luxemburg,2026-02-12T04:37:00+00:00,Belgium,0.4072878194634403,2,1,nl,WCE,Europe
 'ef648b276b',extremes,Snow&Ice,#d60d2b,wmo,ijskoud Luik,2026-02-18T04:34:00+00:00,Belgium,0.4016695692143173,3,1,nl,WCE,Europe
 '7325f4a12e',extremes,Precipitation,#d60d2b,wmo,neerslag jakarta,2026-01-28T03:56:00+00:00,Indonesia,0.4013843989793764,1,1,nl,SEA,Asia
-'fa7ea6bec7',extremes,Precipitation,#d60d2b,wmo,stortbui banten,2026-03-05T04:24:00+00:00,Indonesia,0.39748101203917396,1,1,nl,SEA,Asia
+'fa7ea6bec7',extremes,Precipitation,#d60d2b,wmo,stortbui banten,2026-03-05T04:24:00+00:00,Indonesia,0.3974810120391739,1,1,nl,SEA,Asia
 'e3c939cbb2',extremes,Precipitation,#d60d2b,wmo,regenlampung,2026-02-04T04:21:00+00:00,Indonesia,0.3974674973998116,2,1,nl,SEA,Asia
 '314ce0eea0',extremes,Precipitation,#d60d2b,wmo,regen sulawesi selatan,2026-02-25T04:32:00+00:00,Indonesia,0.3963295093594022,1,1,nl,SEA,Asia
 '15eb1e7038',extremes,Earthquake,#870007,usgs,aardbeving tambolaka,2026-02-07T04:19:00+00:00,Indonesia,0.3957784117430087,2,1,nl,NAU,Oceania
@@ -249,7 +249,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9b6669f818',extremes,Earthquake,#870007,usgs,aardbeving ambon,2026-02-16T04:38:00+00:00,Indonesia,0.3330867785832206,1,1,nl,SEA,Asia
 'a95678c0b5',extremes,Precipitation,#d60d2b,wmo,stortbui kalimantan selatan,2026-02-21T04:18:00+00:00,Indonesia,0.3328323411526794,2,1,nl,SEA,Asia
 '776fe47817',extremes,Wildfire,#d60d2b,random,wildvuur,2026-02-18T04:33:00+00:00,,0.3327545698315642,1,1,nl,,
-'10f476720b',extremes,Insect Infestation,#d60d2b,random,sprinkhaan,2026-02-19T04:31:00+00:00,,0.3325441202220689,0,1,nl,,
 '59fe64444b',extremes,Drought,#edc291,edo,gebrek aan regen Indonesië,2026-02-11T04:42:00+00:00,Indonesia,0.3320290926845158,2,1,nl,SEA,Asia
 'fe7cd5c086',extremes,Precipitation,#d60d2b,wmo,stortbui in Yogyakarta,2026-02-09T04:39:00+00:00,Indonesia,0.33170626592816,2,1,nl,SEA,Asia
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,opwaaiende sneeuw,2026-02-07T04:19:00+00:00,,0.3311597115701493,1,1,nl,,
@@ -402,6 +401,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a90b04c8cb',extremes,Earthquake,#870007,usgs,aardbeving Kepulauan Babar Indonesië,2026-03-01T04:34:00+00:00,Indonesia,0.2919961737028143,1,1,nl,SEA,Asia
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,ijsberg arctis,2026-02-14T04:21:00+00:00,,0.2874597063607129,1,1,nl,,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,nachtvorst,2026-02-17T04:30:00+00:00,,0.2868793606071867,1,1,nl,,
+'10f476720b',extremes,Insect Infestation,#d60d2b,random,sprinkhaan,2026-02-19T04:31:00+00:00,,0.28281251718875855,1,1,nl,,
 'f90601fa23',extremes,Volcano,#b83202,random,vulkaanuitbarsting,2026-02-21T04:17:00+00:00,,0.2817476372612141,1,1,nl,,
 '40f675561f',extremes,Heat Wave,#c40202,random,heetste zomer,2026-02-13T04:33:00+00:00,,0.279269099817937,1,1,nl,,
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,zandstorm,2026-02-20T04:27:00+00:00,,0.2781068372623445,1,1,nl,,
