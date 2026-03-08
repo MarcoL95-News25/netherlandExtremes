@@ -66,12 +66,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3f2d60b7aa',extremes,Snow&Ice,#d60d2b,wmo,ijskoud friesland,2026-02-15T04:35:00+00:00,Netherlands,0.4418077348664743,2,1,nl,NEU,Europe
 '2de8283219',extremes,Snow&Ice,#d60d2b,wmo,ijs utrecht,2026-02-03T04:27:00+00:00,Netherlands,0.4413476458155075,2,1,nl,NEU,Europe
 '53aff3460b',extremes,Snow&Ice,#d60d2b,wmo,ijskoud Utrecht,2026-02-19T04:32:00+00:00,Netherlands,0.4399519805307126,2,1,nl,NEU,Europe
+'4e64b96216',extremes,Precipitation,#d60d2b,wmo,regen nusa tenggara barat,2026-03-07T04:12:00+00:00,Indonesia,0.43880087622343616,0,1,nl,SEA,Asia
 '0820907322',extremes,Storm,#b3b2b1,wmo,stormrottum,2026-02-19T04:32:00+00:00,Netherlands,0.4366340363668545,2,1,nl,NEU,Europe
 'e110cd14b1',extremes,Snow&Ice,#d60d2b,wmo,sneeuw gelderland,2026-02-18T04:34:00+00:00,Netherlands,0.4360897382164437,2,1,nl,NEU,Europe
 '83a1cc0ac0',extremes,Snow&Ice,#d60d2b,wmo,ijskoud flevoland,2026-02-15T04:35:00+00:00,Netherlands,0.4356702769201984,2,1,nl,NEU,Europe
 'dc16b03269',extremes,Snow&Ice,#d60d2b,wmo,vorst west-vlaanderen,2026-02-15T04:35:00+00:00,Belgium,0.4344014050946654,2,1,nl,WCE,Europe
 'c3776cfc46',extremes,Drought,#edc291,edo,droge periode Aruba,2026-01-29T04:19:00+00:00,Aruba,0.4342433988102455,1,1,nl,CAR,North-America
 'c873c30e78',extremes,Precipitation,#d60d2b,wmo,hevige regen sumatera utara,2026-02-20T04:27:00+00:00,Indonesia,0.434164909940086,1,1,nl,SEA,Asia
+'7e89c1baf3',extremes,Precipitation,#d60d2b,wmo,regen sulawesi tenggara,2026-03-07T04:12:00+00:00,Indonesia,0.43401392355574187,0,1,nl,SEA,Asia
 '3482c6f2f7',extremes,Snow&Ice,#d60d2b,wmo,ijskoud overijssel,2026-02-15T04:35:00+00:00,Netherlands,0.4339869080028227,2,1,nl,NEU,Europe
 'e77612afad',extremes,Earthquake,#870007,usgs,aardbeving tul,2026-02-05T04:27:00+00:00,Indonesia,0.4323266421354996,2,1,nl,SEA,Asia
 '07babddb74',extremes,Drought,#edc291,edo,droogte sint maarten,2026-02-05T04:28:00+00:00,Sint Maarten,0.4318958843845629,2,1,nl,CAR,North-America
@@ -105,6 +107,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9391f481ee',extremes,Storm,#b3b2b1,random,storm,2026-03-06T04:20:00+00:00,,0.3944680336706476,1,3,nl,,
 'd46ac7becc',extremes,Drought,#edc291,edo,gebrek aan regen Aruba,2026-02-09T04:39:00+00:00,Aruba,0.394086234360636,1,1,nl,CAR,North-America
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-02-28T04:07:00+00:00,,0.3931280518355408,1,1,nl,,
+'63cb22b655',extremes,Earthquake,#870007,usgs,aardbeving masohi,2026-03-07T04:12:00+00:00,Indonesia,0.39303710847363404,0,1,nl,SEA,Asia
 '5075c633ae',extremes,Precipitation,#d60d2b,wmo,neerslag maluku,2026-02-10T04:43:00+00:00,Indonesia,0.3928642758170916,1,1,nl,SEA,Asia
 'a6206dc774',extremes,Drought,#edc291,edo,gebrek aan regen bonaire sint eustatius en saba,2026-02-12T04:37:00+00:00,Bonaire; Saint Eustatius and Saba ,0.3916864125292039,1,1,nl,CAR,North-America
 '1974024f9a',extremes,Precipitation,#d60d2b,wmo,neerslag sulawesi barat,2026-02-21T04:18:00+00:00,Indonesia,0.3899562596441503,1,1,nl,SEA,Asia
@@ -205,6 +208,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e1559df16c',extremes,Earthquake,#870007,usgs,aardbeving tobelo,2026-02-11T04:41:00+00:00,Indonesia,0.3468558493301976,2,1,nl,SEA,Asia
 '87af8cf49d',extremes,Precipitation,#d60d2b,wmo,hevige regen kalimantan selatan,2026-02-12T04:37:00+00:00,Indonesia,0.3450434059989993,2,1,nl,SEA,Asia
 '95ce1fcf89',extremes,Precipitation,#d60d2b,wmo,neerslag atjeh,2026-02-12T04:37:00+00:00,Indonesia,0.3450358001142063,2,1,nl,SEA,Asia
+'59b5340b69',extremes,Precipitation,#d60d2b,random,weerfront,2026-03-07T04:12:00+00:00,,0.34483598625857176,0,1,nl,,
 'd9aa39b588',extremes,Precipitation,#d60d2b,wmo,stortregens in Yogyakarta,2026-02-21T04:18:00+00:00,Indonesia,0.3447940532237933,2,1,nl,SEA,Asia
 '86ce26c7f8',extremes,Precipitation,#d60d2b,wmo,regen nusa tenggara timur,2026-02-05T04:27:00+00:00,Indonesia,0.3435223131447773,2,1,nl,SEA,Asia
 'b9bc8c4190',extremes,Precipitation,#d60d2b,wmo,neerslag nusa tenggara barat,2026-02-10T04:43:00+00:00,Indonesia,0.3433677235409878,2,1,nl,SEA,Asia
@@ -259,6 +263,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c02e9e8830',extremes,Precipitation,#d60d2b,wmo,stortbui nusa tenggara timur,2026-02-08T04:43:00+00:00,Indonesia,0.3208982055883547,1,1,nl,SEA,Asia
 '931c533b56',extremes,Earthquake,#870007,usgs,aardbeving nusa dua,2026-03-02T04:27:00+00:00,Indonesia,0.3197939517612937,1,1,nl,SEA,Asia
 '45500dcb47',extremes,Precipitation,#d60d2b,random,recordregenval,2026-02-16T04:37:00+00:00,,0.3197030517366626,1,1,nl,,
+'30406c7856',extremes,Flood,#030ba1,cmeter,overstromingen in Brazilië,2026-03-07T04:13:00+00:00,Brazil,0.31883397024540744,0,1,nl,SES,South-America
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-02-05T04:27:00+00:00,,0.3183242775108461,1,1,nl,,
 '68b210e33f',extremes,Earthquake,#870007,usgs,aardbeving kawalu,2026-02-18T04:33:00+00:00,Indonesia,0.3170491528134427,1,1,nl,SEA,Asia
 'eba0dae408',extremes,Iceberg,#d60d2b,eonet,ijsberg b15ab,2026-03-06T04:21:00+00:00,,0.3162923766964107,0,1,nl,EAN,
@@ -281,6 +286,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,neerslag ecuador,2026-02-18T04:34:00+00:00,Ecuador,0.3071802862074735,0,1,nl,NWS,South-America
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,ijs Canada,2026-02-06T04:27:00+00:00,Canada,0.3069798588737309,0,1,nl,NEN,North-America
 '3281a2283c',extremes,Snow&Ice,#d60d2b,wmo,vorst Canada,2026-02-07T04:19:00+00:00,Canada,0.3069573044751004,0,1,nl,NEN,North-America
+'945465874b',extremes,Drought,#edc291,edo,droogte djibouti,2026-03-07T04:13:00+00:00,Djibouti,0.3068762478612015,0,1,nl,NEAF,Africa
 '8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,ijskoud IJsland,2026-02-18T04:34:00+00:00,Iceland,0.3068718313985285,0,1,nl,GIC,Europe
 '16ec7582c8',extremes,Drought,#edc291,edo,droogte Indonesië,2026-02-16T04:38:00+00:00,Indonesia,0.3068652091873342,1,1,nl,SEA,Asia
 'ce9a11c9c9',extremes,Tropical Cyclone,#4f4f4f,aidr,cycloon 2019 met ernstige tropische cycloon veronica,2026-02-23T04:37:00+00:00,Australia,0.3068316102329143,0,1,nl,CAU,Oceania
@@ -314,6 +320,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,stortbui Brazilië,2026-02-05T04:27:00+00:00,Brazil,0.3056709187230583,0,1,nl,SAM,South-America
 '9fb2a0ec0f',extremes,Precipitation,#d60d2b,wmo,hevige regen maeneo machache ya mkoa wa ruvuma.,2026-02-22T04:30:00+00:00,Tanzania,0.3056451524245608,0,1,nl,SEAF,Africa
 '97a5343951',extremes,Precipitation,#d60d2b,wmo,regen Seychellen,2026-02-16T04:38:00+00:00,Seychelles,0.3056363313316763,0,1,nl,EIO,Africa
+'9801f8158e',extremes,Precipitation,#d60d2b,wmo,regen Ecuador,2026-02-17T04:31:00+00:00,Ecuador,0.30560813323656255,0,1,nl,NWS,South-America
 '3421a57149',extremes,Storm,#b3b2b1,wmo,storm Ecuador,2026-02-17T04:31:00+00:00,Ecuador,0.3056011259887339,0,1,nl,NWS,South-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,regen Argentinië,2026-02-05T04:27:00+00:00,Argentina,0.3055862975867796,0,1,nl,SES,South-America
 'dbc33f3019',extremes,Snow&Ice,#d60d2b,wmo,vorst republiek Moldavië,2026-02-05T04:27:00+00:00,Republic of Moldova,0.3055491868484402,0,1,nl,WCE,Europe
@@ -336,6 +343,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '97bdbea9e0',extremes,Precipitation,#d60d2b,wmo,hevige regen amazone.,2026-03-04T04:20:00+00:00,Ecuador,0.3052637813688805,0,1,nl,NWS,South-America
 'f0dc39c1d8',extremes,Storm,#b3b2b1,wmo,storm sierra sur,2026-02-13T04:34:00+00:00,Ecuador,0.3052558376157547,0,1,nl,NWS,South-America
 '3c2108148e',extremes,Earthquake,#870007,usgs,aardbeving heidense regio noordelijke Marianen,2026-02-05T04:27:00+00:00,,0.3052540098088987,0,1,nl,NPO,Pacific Ocean
+'9f6910b9f3',extremes,Precipitation,#d60d2b,wmo,hevige regen op de Seychellen,2026-03-07T04:12:00+00:00,Seychelles,0.3052499073042314,0,1,nl,EIO,Africa
 '5cb766f03d',extremes,Storm,#b3b2b1,wmo,stormvloed gebied 2 – matig,2026-02-01T04:41:00+00:00,Paraguay,0.305248351647356,0,1,nl,SES,South-America
 '0c9a570bb1',extremes,Storm,#b3b2b1,aidr,tornado murray river townships victoria 2013,2026-02-26T04:29:00+00:00,Australia,0.3052348712702683,0,1,nl,SAU,Oceania
 'd04f754034',extremes,Thunderstorm,#53785a,wmo,onweersbui Zuid-Afrika,2026-02-07T04:19:00+00:00,South Africa,0.3052265357945408,0,1,nl,WSAF,Africa
@@ -358,6 +366,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '994fe03563',extremes,Snow Avalanche,#deddd5,wmo,lawine slovenië,2026-01-30T04:21:00+00:00,Slovenia,0.3050687672670658,0,1,nl,WCE,Europe
 '8d4343544c',extremes,Precipitation,#d60d2b,wmo,regen litoraal,2026-02-17T04:31:00+00:00,Ecuador,0.30506863226274,0,1,nl,NWS,South-America
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,stormvloed nieuw-zeeland,2026-02-14T04:21:00+00:00,New Zealand,0.3050605621585456,0,1,nl,NZ,Oceania
+'628c910b11',extremes,Flood,#030ba1,aidr,overstroming overstroming Nieuw Zuid-Wales 2022,2026-02-23T04:37:00+00:00,Australia,0.30504160602877584,0,1,nl,EAU,Oceania
 'd98aa38709',extremes,Fog,#d60d2b,wmo,mist Saoedi-Arabië,2026-02-07T04:19:00+00:00,Saudi Arabia,0.3050296149179436,0,1,nl,ARP,Asia
 '9bfe6adaf5',extremes,Snow Avalanche,#deddd5,wmo,lawine Tsjetsjeense republiek,2026-02-26T04:29:00+00:00,Russia,0.3050225018868593,0,1,nl,ESB,Europe
 'fda000bba3',extremes,Storm,#b3b2b1,wmo,stormvloed litoraal en sierra,2026-02-03T04:27:00+00:00,Ecuador,0.3050219418357425,0,1,nl,NWS,South-America
@@ -377,6 +386,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '468d60ef3d',extremes,Snow&Ice,#d60d2b,wmo,ijskoude taloyoak gjoa haven,2026-02-21T04:18:00+00:00,Canada,0.3048214356763383,0,1,nl,NEN,North-America
 'f2c0c2874a',extremes,Snow&Ice,#d60d2b,wmo,ijskoude paulatuk,2026-02-22T04:30:00+00:00,Canada,0.304795505263385,0,1,nl,NEN,North-America
 'b46d43381d',extremes,Snow&Ice,#d60d2b,wmo,sneeuw Grand Falls Windsor en omgeving,2026-02-21T04:18:00+00:00,Canada,0.3047605695454427,0,1,nl,NEN,North-America
+'00dadb6ad1',extremes,Tropical Cyclone,#4f4f4f,aidr,cycloon Australië,2026-02-26T04:29:00+00:00,Australia,0.30474890239459623,0,1,nl,CAU,Oceania
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,afkalven van ijsbergen,2026-02-09T04:38:00+00:00,,0.3011173067389521,1,1,nl,,
 'ccefefc59e',extremes,Drought,#edc291,random,plotselinge droogte,2026-02-16T04:37:00+00:00,,0.3009743772590446,3,1,nl,,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medicane,2026-02-11T04:41:00+00:00,,0.3009203989211476,1,1,nl,,
