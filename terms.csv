@@ -1,7 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'0d9b148c07',extremes,Fog,#d60d2b,wmo,mist antwerpen,2026-03-07T04:12:00+00:00,Belgium,0.7425843659490945,1,2,nl,WCE,Europe
 '2bb3d20abc',extremes,Fog,#d60d2b,wmo,mist belgië,2026-03-07T04:12:00+00:00,Belgium,0.7170306249422412,0,1,nl,WCE,Europe
 '4074facf05',extremes,Snow&Ice,#d60d2b,wmo,ijs nederland,2026-02-15T04:35:00+00:00,Netherlands,0.7138750643994035,0,1,nl,NEU,Europe
-'0d9b148c07',extremes,Fog,#d60d2b,wmo,mist antwerpen,2026-03-07T04:12:00+00:00,Belgium,0.6969815893518758,0,1,nl,WCE,Europe
 'fa1ad4c940',extremes,Fog,#d60d2b,wmo,mist oost-vlaanderen,2026-03-07T04:12:00+00:00,Belgium,0.6399980030324485,1,2,nl,WCE,Europe
 '1f06bf574a',extremes,Snow&Ice,#d60d2b,wmo,vorst nederland,2026-02-15T04:35:00+00:00,Netherlands,0.6326607482553807,5,1,nl,NEU,Europe
 'abd48f77c3',extremes,Snow&Ice,#d60d2b,wmo,sneeuw nederland,2026-02-15T04:35:00+00:00,Netherlands,0.6281713990093334,1,2,nl,NEU,Europe
@@ -414,7 +414,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4ea40cfaf4',extremes,Earthquake,#870007,usgs,aardbeving regio Prins Edwardeilanden,2026-02-05T04:27:00+00:00,,0.2675542887751005,1,1,nl,SOO,Antarctica
 '02f56319a7',extremes,Flood,#030ba1,aidr,overstroming Australië,2026-02-05T04:28:00+00:00,Australia,0.2673960526426518,1,1,nl,EAU,Oceania
 'ebe314dd99',extremes,Flood,#030ba1,aidr,zware regenval en overstromingen Queensland februari 2020,2026-02-08T04:44:00+00:00,Australia,0.2672427589824749,1,1,nl,EAU,Oceania
-'ec6bc64ec7',extremes,Tropical Cyclone,#4f4f4f,eonet,tropische cycloon urmil,2026-03-06T04:21:00+00:00,,0.26724050486945183,1,1,nl,SPO,Pacific Ocean
+'ec6bc64ec7',extremes,Tropical Cyclone,#4f4f4f,eonet,tropische cycloon urmil,2026-03-06T04:21:00+00:00,,0.2672405048694518,1,1,nl,SPO,Pacific Ocean
 '90e6558608',extremes,Earthquake,#870007,usgs,aardbeving zuidelijke midden-Atlantische rug,2026-02-05T04:27:00+00:00,,0.2672321518347599,1,1,nl,SAO,Atlantic Ocean
 'f7921ef009',extremes,Earthquake,#870007,usgs,aardbeving Vilyuchinsk,2026-02-05T04:27:00+00:00,Russia,0.267117329613579,1,1,nl,RFE,Asia
 '53e17b7a15',extremes,Earthquake,#870007,usgs,aardbeving houma,2026-02-05T04:27:00+00:00,Tonga,0.2670752713975374,1,1,nl,SPO,Pacific Ocean
@@ -459,7 +459,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd2e515b87c',extremes,Flood,#030ba1,cmeter,overstroming Colombia,2026-02-22T04:31:00+00:00,Colombia,0.263232456455023,1,1,nl,NWS,South-America
 '27ff8af872',extremes,Drought,#edc291,edo,droogte Denemarken,2026-02-16T04:38:00+00:00,Denmark,0.2632013100590806,1,1,nl,NEU,Europe
 'a1fcc33dde',extremes,Drought,#edc291,edo,droge periode hong kong,2026-02-25T04:33:00+00:00,Hong Kong,0.263185318849701,1,1,nl,EAS,Asia
-'053bb10e09',extremes,Heat Wave,#c40202,random,nazomer,2026-02-14T04:21:00+00:00,,0.26269696625012995,1,1,nl,,
+'053bb10e09',extremes,Heat Wave,#c40202,random,nazomer,2026-02-14T04:21:00+00:00,,0.2626969662501299,1,1,nl,,
 '221e658bfd',extremes,Drought,#edc291,edo,droogte luxemburg,2026-02-10T04:43:00+00:00,Luxembourg,0.2626694832665585,1,1,nl,WCE,Europe
 'd3353562c0',extremes,Drought,#edc291,edo,droogte djibouti,2026-02-06T04:28:00+00:00,Djibouti,0.2626106963739711,1,1,nl,NEAF,Africa
 '395db40dcf',extremes,Heat Wave,#c40202,wmo,hittegolf corrientes en alrededores,2026-02-18T04:34:00+00:00,Argentina,0.262309463030738,1,1,nl,SES,South-America
@@ -468,7 +468,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9349bd9c5e',extremes,Drought,#edc291,edo,droogte Equatoriaal-Guinea,2026-02-15T04:35:00+00:00,Equatorial Guinea,0.2620935224573269,1,1,nl,WAF,Africa
 'd4757169ad',extremes,Tropical Cyclone,#4f4f4f,aidr,cycloon cycloon Yasi Queensland 2011,2026-02-05T04:28:00+00:00,,0.2620233328591654,1,1,nl,NAU,Oceania
 '1f1fab5693',extremes,Precipitation,#d60d2b,wmo,stortbui republiek congo,2026-02-13T04:34:00+00:00,Republic of the Congo,0.2620021377015885,1,1,nl,CAF,Africa
-'96f0408faf',extremes,Drought,#edc291,edo,droogte letland,2026-02-25T04:33:00+00:00,Latvia,0.26198851762726977,1,1,nl,WCE,Europe
+'96f0408faf',extremes,Drought,#edc291,edo,droogte letland,2026-02-25T04:33:00+00:00,Latvia,0.2619885176272697,1,1,nl,WCE,Europe
 'aacf82e274',extremes,Drought,#edc291,edo,droge periode Faeröer,2026-02-12T04:37:00+00:00,Faroe Islands,0.2619820033638784,1,1,nl,NEU,Europe
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,rivier die Australië overspoelt,2026-02-05T04:28:00+00:00,Australia,0.2619691526541011,1,1,nl,SAU,Oceania
 'd2761af41e',extremes,Tropical Cyclone,#4f4f4f,aidr,2018 cycloon nt tropische cycloon marcus,2026-02-19T04:32:00+00:00,,0.2618680996118849,1,1,nl,NAU,Oceania
