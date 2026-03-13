@@ -1,7 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'90353f7f8d',extremes,Fog,#d60d2b,wmo,mist nederland,2026-03-05T04:24:00+00:00,Netherlands,0.7292924136669967,0,1,nl,NEU,Europe
 '2bb3d20abc',extremes,Fog,#d60d2b,wmo,mist belgië,2026-03-07T04:12:00+00:00,Belgium,0.6319547076294764,1,1,nl,WCE,Europe
 '0d9b148c07',extremes,Fog,#d60d2b,wmo,mist antwerpen,2026-03-07T04:12:00+00:00,Belgium,0.6313467260567303,2,2,nl,WCE,Europe
+'90353f7f8d',extremes,Fog,#d60d2b,wmo,mist nederland,2026-03-05T04:24:00+00:00,Netherlands,0.6301917237598044,1,2,nl,NEU,Europe
 'abd48f77c3',extremes,Snow&Ice,#d60d2b,wmo,sneeuw nederland,2026-02-15T04:35:00+00:00,Netherlands,0.6281713990093334,1,2,nl,NEU,Europe
 '511543dad8',extremes,Drought,#edc291,edo,gebrek aan regen nederland,2026-02-11T04:42:00+00:00,Netherlands,0.6272161115984207,3,1,nl,NEU,Europe
 '4074facf05',extremes,Snow&Ice,#d60d2b,wmo,ijs nederland,2026-02-15T04:35:00+00:00,Netherlands,0.6253807983758566,1,2,nl,NEU,Europe
@@ -70,7 +70,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3f2d60b7aa',extremes,Snow&Ice,#d60d2b,wmo,ijskoud friesland,2026-02-15T04:35:00+00:00,Netherlands,0.4418077348664743,2,1,nl,NEU,Europe
 '53aff3460b',extremes,Snow&Ice,#d60d2b,wmo,ijskoud Utrecht,2026-02-19T04:32:00+00:00,Netherlands,0.4399519805307126,2,1,nl,NEU,Europe
 '6451efa4f2',extremes,Precipitation,#d60d2b,wmo,regen sumatera barat,2026-03-06T04:21:00+00:00,Indonesia,0.4385437119500125,1,1,nl,SEA,Asia
-'2f5bc36e8b',extremes,Precipitation,#d60d2b,wmo,stortregens sumatera selatan,2026-03-12T04:26:00+00:00,Indonesia,0.4383627956118174,0,1,nl,SEA,Asia
 '0820907322',extremes,Storm,#b3b2b1,wmo,stormrottum,2026-02-19T04:32:00+00:00,Netherlands,0.4366340363668545,2,1,nl,NEU,Europe
 'e110cd14b1',extremes,Snow&Ice,#d60d2b,wmo,sneeuw gelderland,2026-02-18T04:34:00+00:00,Netherlands,0.4360897382164437,2,1,nl,NEU,Europe
 '83a1cc0ac0',extremes,Snow&Ice,#d60d2b,wmo,ijskoud flevoland,2026-02-15T04:35:00+00:00,Netherlands,0.4356702769201984,2,1,nl,NEU,Europe
@@ -154,6 +153,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,arctisch zee-ijs,2026-02-07T04:19:00+00:00,,0.3732152414510274,1,1,nl,,
 'f3f3f6d19a',extremes,Precipitation,#d60d2b,wmo,stortbui maluku,2026-03-12T04:26:00+00:00,Indonesia,0.373211574901608,1,1,nl,SEA,Asia
 '4e64b96216',extremes,Precipitation,#d60d2b,wmo,regen nusa tenggara barat,2026-03-07T04:12:00+00:00,Indonesia,0.3729807447899206,1,1,nl,SEA,Asia
+'2f5bc36e8b',extremes,Precipitation,#d60d2b,wmo,stortregens sumatera selatan,2026-03-12T04:26:00+00:00,Indonesia,0.3726083762700448,1,1,nl,SEA,Asia
 'bf94dc5e84',extremes,Precipitation,#d60d2b,wmo,hevige regen jakarta,2026-03-05T04:24:00+00:00,Indonesia,0.3720459298935647,1,1,nl,SEA,Asia
 '1b846b85cb',extremes,Earthquake,#870007,usgs,aardbeving ternate,2026-02-08T04:43:00+00:00,Indonesia,0.3719873439956124,1,1,nl,SEA,Asia
 'f8f606549c',extremes,Earthquake,#870007,usgs,aardbeving pariaman,2026-02-20T04:27:00+00:00,Indonesia,0.3718642742377437,1,1,nl,SEA,Asia
