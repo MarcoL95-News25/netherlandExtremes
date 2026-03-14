@@ -14,7 +14,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fa1ad4c940',extremes,Fog,#d60d2b,wmo,mist oost-vlaanderen,2026-03-07T04:12:00+00:00,Belgium,0.5944483475775812,2,2,nl,WCE,Europe
 '0c4c529b3b',extremes,Storm,#b3b2b1,wmo,storm belgie,2026-03-08T04:24:00+00:00,Belgium,0.592436739762446,1,1,nl,WCE,Europe
 '228e39232d',extremes,Snow&Ice,#d60d2b,wmo,ijskoud Nederland,2026-02-16T04:38:00+00:00,Netherlands,0.5900786576136801,2,2,nl,NEU,Europe
-'c0c66d281b',extremes,Fog,#d60d2b,wmo,mist zuid holland,2026-03-07T04:12:00+00:00,Netherlands,0.589538790798529,1,1,nl,NEU,Europe
 'fa532c3ea4',extremes,Fog,#d60d2b,wmo,mist brabant,2026-03-07T04:12:00+00:00,Belgium,0.5844531042698676,1,1,nl,WCE,Europe
 '6cf82d579e',extremes,Snow&Ice,#d60d2b,wmo,ijskoud noord-holland,2026-02-15T04:35:00+00:00,Netherlands,0.5813303919426877,2,2,nl,NEU,Europe
 '58275fcc95',extremes,Fog,#d60d2b,wmo,mist west-vlaanderen,2026-03-08T04:24:00+00:00,Belgium,0.5767702144279336,1,1,nl,WCE,Europe
@@ -41,6 +40,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '708206a69e',extremes,Storm,#b3b2b1,wmo,stormvloed nederland,2026-02-15T04:35:00+00:00,Netherlands,0.5075593047132628,2,1,nl,NEU,Europe
 'c3776cfc46',extremes,Drought,#edc291,edo,droge periode Aruba,2026-02-19T04:32:00+00:00,Aruba,0.5075101667630784,1,1,nl,CAR,North-America
 'a1eed1b9f3',extremes,Precipitation,#d60d2b,wmo,hevige regen indonesië,2026-02-06T04:27:00+00:00,Indonesia,0.5046298600531828,1,1,nl,SEA,Asia
+'c0c66d281b',extremes,Fog,#d60d2b,wmo,mist zuid holland,2026-03-07T04:12:00+00:00,Netherlands,0.5012579871787496,2,1,nl,NEU,Europe
 '4b47826e63',extremes,Snow&Ice,#d60d2b,wmo,vorst belgië,2026-02-15T04:35:00+00:00,Belgium,0.5011242556534128,2,1,nl,WCE,Europe
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,sprinkhanen,2026-03-08T04:24:00+00:00,,0.4986564302251044,1,2,nl,,
 'b32cdf78a9',extremes,Storm,#b3b2b1,wmo,stormvloed ijmuiden,2026-02-18T04:34:00+00:00,Netherlands,0.4981394404718131,1,1,nl,NEU,Europe
@@ -478,4 +478,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '468d60ef3d',extremes,Snow&Ice,#d60d2b,wmo,ijskoude taloyoak gjoa haven,2026-02-21T04:18:00+00:00,Canada,0.2590982203248875,1,1,nl,NEN,North-America
 'f2c0c2874a',extremes,Snow&Ice,#d60d2b,wmo,ijskoude paulatuk,2026-02-22T04:30:00+00:00,Canada,0.2590761794738772,1,1,nl,NEN,North-America
 '3d6bde5b08',extremes,Storm,#b3b2b1,wmo,stormvloed Seychellen,2026-02-19T04:32:00+00:00,Seychelles,0.2588601529698158,1,1,nl,EIO,Africa
-'395db40dcf',extremes,Heat Wave,#c40202,wmo,hittegolf corrientes en alrededores,2026-02-18T04:34:00+00:00,Argentina,0.22296304357612728,2,1,nl,SES,South-America
+'395db40dcf',extremes,Heat Wave,#c40202,wmo,hittegolf corrientes en alrededores,2026-02-18T04:34:00+00:00,Argentina,0.2229630435761272,2,1,nl,SES,South-America
