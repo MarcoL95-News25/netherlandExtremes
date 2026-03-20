@@ -300,6 +300,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c893beb51c',extremes,Snow&Ice,#d60d2b,wmo,sneeuw kugaaruk,2026-02-21T04:18:00+00:00,Canada,0.3049755959872282,0,1,nl,NEN,North-America
 'f4865eec16',extremes,Snow&Ice,#d60d2b,wmo,ijs paulatuk,2026-02-19T04:32:00+00:00,Canada,0.3049539709899563,0,1,nl,NEN,North-America
 'ffcbb36b12',extremes,Storm,#b3b2b1,wmo,stormvloed litoraal,2026-02-16T04:38:00+00:00,Ecuador,0.3049514642577838,0,1,nl,NWS,South-America
+'f63711b763',extremes,Snow Avalanche,#deddd5,wmo,lawine sunnmøre,2026-03-19T04:35:00+00:00,Norway,0.3049235609937491,0,1,nl,NEU,Europe
 '68c5837832',extremes,Fog,#d60d2b,wmo,mist regio Moermansk,2026-02-18T04:34:00+00:00,Russia,0.304871198239852,0,1,nl,ESB,Europe
 'ea0aa28870',extremes,Drought,#edc291,edo,gebrek aan regen Finland,2026-02-26T04:29:00+00:00,Finland,0.3048308172590284,0,1,nl,NEU,Europe
 'b81a7e08cc',extremes,Precipitation,#d60d2b,wmo,stortbui santa elena.,2026-03-10T04:22:00+00:00,Ecuador,0.3048195864298911,0,1,nl,NWS,South-America
@@ -337,6 +338,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'be4e178bab',extremes,Storm,#b3b2b1,wmo,stormvloed uruguay,2026-02-24T04:31:00+00:00,Uruguay,0.3040794460434937,0,1,nl,SES,South-America
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,regen nieuw-zeeland,2026-03-05T04:24:00+00:00,New Zealand,0.3040609440158224,0,1,nl,NZ,Oceania
 'dc8be80c47',extremes,Drought,#edc291,edo,droogte Faeröer,2026-03-16T05:05:00+00:00,Faroe Islands,0.3040515693462315,0,1,nl,NEU,Europe
+'1613eab3ee',extremes,Drought,#edc291,edo,gebrek aan regen Ethiopië,2026-03-04T04:21:00+00:00,Ethiopia,0.3039771181073929,0,1,nl,NEAF,Africa
+'0a54633be0',extremes,Drought,#edc291,edo,gebrek aan regen luxemburg,2026-02-28T04:07:00+00:00,Luxembourg,0.3038834972891434,0,1,nl,WCE,Europe
+'9fb010255c',extremes,Precipitation,#d60d2b,wmo,neerslag cordoba gral roca rio cuarto.,2026-03-06T04:21:00+00:00,Argentina,0.30383889340513714,0,1,nl,SES,South-America
+'a960cc00c4',extremes,Precipitation,#d60d2b,wmo,hevige regen mendoza gral alvear san rafael.,2026-03-16T05:05:00+00:00,Argentina,0.30381743960794216,0,1,nl,SES,South-America
+'1c0214d974',extremes,Storm,#b3b2b1,wmo,storm Zuid-Afrika,2026-02-28T04:07:00+00:00,South Africa,0.30373657003007926,0,1,nl,WSAF,Africa
+'23c3deb0ec',extremes,Precipitation,#d60d2b,wmo,stortbui Tanzania,2026-03-04T04:20:00+00:00,Tanzania,0.3035679296525882,0,1,nl,SEAF,Africa
+'c528204ef7',extremes,Wildfire,#d60d2b,wmo,wildvuur lekwa teemane bloemhof,2026-03-01T04:35:00+00:00,South Africa,0.30354063997041614,0,1,nl,WSAF,Africa
+'1ec98711db',extremes,Snow&Ice,#d60d2b,wmo,sneeuw IJsland,2026-03-02T04:27:00+00:00,Iceland,0.3034539284538005,0,1,nl,GIC,Europe
+'9bd86172ae',extremes,Storm,#b3b2b1,wmo,storm litoral y estribación,2026-03-13T04:25:00+00:00,Ecuador,0.30345387677035607,0,1,nl,NWS,South-America
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,kwikdaling,2026-02-13T04:33:00+00:00,,0.2998232291544918,1,1,nl,,
 '52a05313d8',extremes,Earthquake,#870007,usgs,aardbeving sabang,2026-02-18T04:33:00+00:00,Indonesia,0.2996045211473009,1,1,nl,SEA,Asia
 '2022b76598',extremes,Earthquake,#870007,usgs,aardbeving Bengkulu,2026-03-04T04:20:00+00:00,Indonesia,0.2994368202795244,1,1,nl,SEA,Asia
@@ -351,7 +361,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0d261f252d',extremes,Storm,#b3b2b1,random,winterstorm,2026-03-11T04:21:00+00:00,,0.2899447404534158,1,1,nl,,
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,aanlanding,2026-03-15T04:44:00+00:00,,0.2881800582833336,1,1,nl,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,ijsberg arctis,2026-02-14T04:21:00+00:00,,0.2874597063607129,1,1,nl,,
-'3e2894fd0c',extremes,Iceberg,#d60d2b,random,antarctisch zee-ijs,2026-03-17T04:30:00+00:00,,0.28727991599565816,1,1,nl,,
+'3e2894fd0c',extremes,Iceberg,#d60d2b,random,antarctisch zee-ijs,2026-03-17T04:30:00+00:00,,0.2872799159956581,1,1,nl,,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,nachtvorst,2026-02-17T04:30:00+00:00,,0.2868793606071867,1,1,nl,,
 '560b05d603',extremes,Heat Wave,#c40202,random,hittegolf,2026-03-17T04:30:00+00:00,,0.2868269301237006,1,1,nl,,
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,kwikdalingen,2026-03-12T04:25:00+00:00,,0.2832966439197469,1,1,nl,,
