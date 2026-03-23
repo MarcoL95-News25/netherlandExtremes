@@ -2,7 +2,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2f19038a09',extremes,Snow&Ice,#d60d2b,wmo,sneeuw België,2026-02-15T04:35:00+00:00,Belgium,0.6045957563629787,1,1,nl,WCE,Europe
 'fa1ad4c940',extremes,Fog,#d60d2b,wmo,mist oost-vlaanderen,2026-03-07T04:12:00+00:00,Belgium,0.5944483475775812,2,2,nl,WCE,Europe
 '6cf82d579e',extremes,Snow&Ice,#d60d2b,wmo,ijskoud noord-holland,2026-02-15T04:35:00+00:00,Netherlands,0.5813303919426877,2,2,nl,NEU,Europe
-'4b47826e63',extremes,Snow&Ice,#d60d2b,wmo,vorst belgië,2026-03-14T04:22:00+00:00,Belgium,0.5711534420202431,1,1,nl,WCE,Europe
 '2c3e19e4c4',extremes,Drought,#edc291,edo,droogte curacao,2026-03-01T04:35:00+00:00,Curacao,0.5627985949476536,1,1,nl,CAR,North-America
 '7cd4a5ace7',extremes,Fog,#d60d2b,wmo,mist noord holland,2026-03-10T04:22:00+00:00,Netherlands,0.5604296254825708,2,1,nl,NEU,Europe
 '998c9f84db',extremes,Storm,#b3b2b1,wmo,storm nederland,2026-02-28T04:07:00+00:00,Netherlands,0.5518051528204293,2,1,nl,NEU,Europe
@@ -35,6 +34,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1a199d3cb5',extremes,Precipitation,#d60d2b,wmo,stortregen belgië,2026-03-14T04:22:00+00:00,Belgium,0.4916822380697008,2,1,nl,WCE,Europe
 '58275fcc95',extremes,Fog,#d60d2b,wmo,mist west-vlaanderen,2026-03-08T04:24:00+00:00,Belgium,0.4905547122637436,2,1,nl,WCE,Europe
 'e77a1f72bb',extremes,Fog,#d60d2b,wmo,mist Zeeland,2026-03-07T04:12:00+00:00,Netherlands,0.4862970607137703,2,1,nl,NEU,Europe
+'4b47826e63',extremes,Snow&Ice,#d60d2b,wmo,vorst belgië,2026-03-14T04:22:00+00:00,Belgium,0.4857804557172066,2,1,nl,WCE,Europe
 '71149fa5b9',extremes,Fog,#d60d2b,wmo,mist kustgebied,2026-03-08T04:24:00+00:00,Belgium,0.484967646658297,2,1,nl,WCE,Europe
 '7da716f8d7',extremes,Precipitation,#d60d2b,wmo,neerslag indonesië,2026-02-25T04:32:00+00:00,Indonesia,0.4815015415708159,1,1,nl,SEA,Asia
 '1ff36d7a46',extremes,Drought,#edc291,edo,droogte belgie,2026-02-28T04:07:00+00:00,Belgium,0.4807001055145452,2,1,nl,WCE,Europe
@@ -245,7 +245,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '16ec7582c8',extremes,Drought,#edc291,edo,droogte Indonesië,2026-02-16T04:38:00+00:00,Indonesia,0.3068652091873342,1,1,nl,SEA,Asia
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,regen Argentinië,2026-02-26T04:29:00+00:00,Argentina,0.3063758801444256,1,1,nl,SES,South-America
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,wervelwind,2026-03-14T04:22:00+00:00,,0.3062337714213271,1,1,nl,,
-'bed53cc600',extremes,Precipitation,#d60d2b,wmo,stortbui Brazilië,2026-02-25T04:32:00+00:00,Brazil,0.306210022618449,0,1,nl,SAM,South-America
 '6fbc657cf9',extremes,Storm,#b3b2b1,wmo,stormreg. 1 litoraal,2026-03-17T04:30:00+00:00,Chile,0.3059117822330246,0,1,nl,SWS,South-America
 '02711610b5',extremes,Storm,#b3b2b1,wmo,storm Argentinië,2026-03-17T04:30:00+00:00,Argentina,0.3058272156012692,0,1,nl,SES,South-America
 '24e7169f97',extremes,Storm,#b3b2b1,wmo,storm trinidad en tobago,2026-03-04T04:20:00+00:00,Trinidad and Tobago,0.3058145105321779,0,1,nl,NSA,North-America
@@ -430,6 +429,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,stortbui Argentinië,2026-02-27T04:26:00+00:00,Argentina,0.2604434417060022,1,1,nl,SES,South-America
 '157e8ae8a6',extremes,Precipitation,#d60d2b,wmo,hevige regengebieden in de ruvuma-regio.,2026-02-18T04:34:00+00:00,Tanzania,0.2604414286411046,1,1,nl,SEAF,Africa
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,hevige regen Brazilië,2026-02-28T04:07:00+00:00,Brazil,0.2603856525248071,1,1,nl,SAM,South-America
+'bed53cc600',extremes,Precipitation,#d60d2b,wmo,stortbui Brazilië,2026-02-25T04:32:00+00:00,Brazil,0.2602785192256816,1,1,nl,SAM,South-America
 '422773ffe0',extremes,Heat Wave,#c40202,wmo,hittegolfgebied 2 – matig,2026-02-17T04:31:00+00:00,Paraguay,0.2602541410874837,1,1,nl,SES,South-America
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,neerslag Brazilië,2026-02-28T04:07:00+00:00,Brazil,0.2602308641890627,1,1,nl,SAM,South-America
 'a63efd7f21',extremes,Heat Wave,#c40202,wmo,hittegolf tartagal y alrededores,2026-02-17T04:31:00+00:00,Argentina,0.2601561634821294,1,1,nl,SES,South-America
