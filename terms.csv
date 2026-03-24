@@ -1,4 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'2f19038a09',extremes,Snow&Ice,#d60d2b,wmo,sneeuw België,2026-03-15T04:45:00+00:00,Belgium,0.7259121980545337,0,1,nl,WCE,Europe
+'286f532382',extremes,Snow&Ice,#d60d2b,wmo,ijs België,2026-03-15T04:45:00+00:00,Belgium,0.6667611763366925,0,1,nl,WCE,Europe
+'708206a69e',extremes,Storm,#b3b2b1,wmo,stormvloed nederland,2026-03-12T04:26:00+00:00,Netherlands,0.6596639544696181,0,1,nl,NEU,Europe
+'3b8ec0c54a',extremes,Storm,#b3b2b1,wmo,storm ijmuiden,2026-03-24T04:31:00+00:00,Netherlands,0.6126683955067117,0,1,nl,NEU,Europe
 '2c3e19e4c4',extremes,Drought,#edc291,edo,droogte curacao,2026-03-01T04:35:00+00:00,Curacao,0.5627985949476536,1,1,nl,CAR,North-America
 '7cd4a5ace7',extremes,Fog,#d60d2b,wmo,mist noord holland,2026-03-10T04:22:00+00:00,Netherlands,0.5604296254825708,2,1,nl,NEU,Europe
 '998c9f84db',extremes,Storm,#b3b2b1,wmo,storm nederland,2026-02-28T04:07:00+00:00,Netherlands,0.5518051528204293,2,1,nl,NEU,Europe
@@ -85,6 +89,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '24ce3bf296',extremes,Precipitation,#d60d2b,wmo,regen Jawa Tengah,2026-02-24T04:31:00+00:00,Indonesia,0.3983017875102625,1,1,nl,SEA,Asia
 '1ece437eb6',extremes,Precipitation,#d60d2b,wmo,regenmaluku,2026-02-25T04:32:00+00:00,Indonesia,0.3975684389245144,1,1,nl,SEA,Asia
 'fa7ea6bec7',extremes,Precipitation,#d60d2b,wmo,stortbui banten,2026-03-05T04:24:00+00:00,Indonesia,0.3974810120391739,1,1,nl,SEA,Asia
+'1fefacbadb',extremes,Iceberg,#d60d2b,random,afkalven van gletsjers,2026-03-24T04:31:00+00:00,,0.3968981540064376,0,1,nl,,
 '314ce0eea0',extremes,Precipitation,#d60d2b,wmo,regen sulawesi selatan,2026-02-25T04:32:00+00:00,Indonesia,0.3963295093594022,1,1,nl,SEA,Asia
 '9391f481ee',extremes,Storm,#b3b2b1,random,storm,2026-03-06T04:20:00+00:00,,0.3944680336706476,1,3,nl,,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-02-28T04:07:00+00:00,,0.3931280518355408,1,1,nl,,
@@ -218,12 +223,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '68b210e33f',extremes,Earthquake,#870007,usgs,aardbeving kawalu,2026-02-18T04:33:00+00:00,Indonesia,0.3170491528134427,1,1,nl,SEA,Asia
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,recordkoude,2026-03-17T04:30:00+00:00,,0.3151827846790475,1,1,nl,,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-02-27T04:25:00+00:00,,0.3146620739730586,1,1,nl,,
+'792a35d4a4',extremes,Flood,#030ba1,random,wateroverlast,2026-03-24T04:31:00+00:00,,0.31368389839034705,0,1,nl,,
 '83923f83ef',extremes,Storm,#b3b2b1,aidr,storm Australië,2026-03-17T04:31:00+00:00,Australia,0.3133346984513982,1,1,nl,SAU,Oceania
 '1b846b85cb',extremes,Earthquake,#870007,usgs,aardbeving ternate,2026-03-20T04:26:00+00:00,Indonesia,0.31240874486101,1,1,nl,SEA,Asia
 'd59a7e48d7',extremes,Drought,#edc291,random,verdamping,2026-03-03T04:26:00+00:00,,0.3112272184521668,1,1,nl,,
+'9969e8e386',extremes,Flood,#030ba1,emdat,overstroming centrale regio,2026-03-24T04:32:00+00:00,Kenya,0.31119107108889305,0,1,nl,SEAF,Africa
+'8d5bbc659e',extremes,Flood,#030ba1,emdat,overstroming malawi,2026-03-24T04:32:00+00:00,Malawi,0.3110488392092518,0,1,nl,ESAF,Africa
 '8cb5b173c1',extremes,Earthquake,#870007,usgs,aardbeving halmahera,2026-02-18T04:33:00+00:00,Indonesia,0.3107946892098026,1,1,nl,SEA,Asia
 '30406c7856',extremes,Flood,#030ba1,cmeter,overstromingen in Brazilië,2026-03-07T04:13:00+00:00,Brazil,0.3091089347085962,1,1,nl,SES,South-America
+'548a967433',extremes,Storm,#b3b2b1,emdat,stormtete,2026-03-24T04:32:00+00:00,Mozambique,0.3080423630688019,0,1,nl,ESAF,Africa
 '62084daeb0',extremes,Earthquake,#870007,random,aardbeving,2026-02-27T04:25:00+00:00,,0.3079005847682544,1,1,nl,,
+'aff561d50a',extremes,Storm,#b3b2b1,wmo,storm nieuw-zeeland,2026-03-24T04:31:00+00:00,New Zealand,0.3077925354998936,0,1,nl,NZ,Oceania
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,zwaar weer,2026-03-04T04:20:00+00:00,,0.3075347476621451,1,2,nl,,
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,regen Argentinië,2026-02-26T04:29:00+00:00,Argentina,0.3063758801444256,1,1,nl,SES,South-America
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,wervelwind,2026-03-14T04:22:00+00:00,,0.3062337714213271,1,1,nl,,
