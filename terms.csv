@@ -219,7 +219,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,recordkoude,2026-03-17T04:30:00+00:00,,0.3151827846790475,1,1,nl,,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-02-27T04:25:00+00:00,,0.3146620739730586,1,1,nl,,
 '83923f83ef',extremes,Storm,#b3b2b1,aidr,storm Australië,2026-03-17T04:31:00+00:00,Australia,0.3133346984513982,1,1,nl,SAU,Oceania
-'15a9c61e3e',extremes,Landslide,#572c03,random,aardverschuiving,2026-03-06T04:20:00+00:00,,0.3125493241899419,0,1,nl,,
 '1b846b85cb',extremes,Earthquake,#870007,usgs,aardbeving ternate,2026-03-20T04:26:00+00:00,Indonesia,0.31240874486101,1,1,nl,SEA,Asia
 'd59a7e48d7',extremes,Drought,#edc291,random,verdamping,2026-03-03T04:26:00+00:00,,0.3112272184521668,1,1,nl,,
 '8cb5b173c1',extremes,Earthquake,#870007,usgs,aardbeving halmahera,2026-02-18T04:33:00+00:00,Indonesia,0.3107946892098026,1,1,nl,SEA,Asia
@@ -271,7 +270,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eeacc80474',extremes,Storm,#b3b2b1,wmo,storm vanuatu,2026-02-18T04:34:00+00:00,Vanuatu,0.3044508270846068,0,1,nl,SPO,Oceania
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,stormvloed Argentinië,2026-02-25T04:32:00+00:00,Argentina,0.3044026607230085,0,1,nl,SES,South-America
 'b313634312',extremes,Precipitation,#d60d2b,wmo,neerslag mikoa ya lindi mtwara na ruvuma.,2026-03-14T04:22:00+00:00,Tanzania,0.3043944163608485,0,1,nl,SEAF,Africa
-'b9e5a5873a',extremes,Flood,#030ba1,wmo,overstroming van Canada,2026-02-23T04:37:00+00:00,Canada,0.30434954312449775,1,1,nl,NEN,North-America
+'b9e5a5873a',extremes,Flood,#030ba1,wmo,overstroming van Canada,2026-02-23T04:37:00+00:00,Canada,0.3043495431244977,1,1,nl,NEN,North-America
 '83354d3f6e',extremes,Wildfire,#d60d2b,wmo,wildvuur shizong county,2026-02-19T04:32:00+00:00,China,0.3043246491035716,0,1,nl,EAS,Asia
 '6560ef8c08',extremes,Storm,#b3b2b1,wmo,storm litoraal,2026-02-19T04:32:00+00:00,Ecuador,0.3042618254246013,0,1,nl,NWS,South-America
 '2876c1c93a',extremes,Landslide,#572c03,wmo,modderstroom Noorwegen,2026-02-25T04:32:00+00:00,Norway,0.3042156647110242,0,1,nl,NEU,Europe
@@ -332,6 +331,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '13519cd08c',extremes,Earthquake,#870007,usgs,aardbeving padang,2026-02-18T04:33:00+00:00,Indonesia,0.2988360242721457,1,1,nl,SEA,Asia
 '7b765a4d4c',extremes,Precipitation,#d60d2b,random,stortbui,2026-03-04T04:20:00+00:00,,0.2985361359556877,1,1,nl,,
 'b320c39ee1',extremes,Earthquake,#870007,usgs,aardbeving bandar lampung,2026-02-21T04:17:00+00:00,Indonesia,0.2979422113763283,1,1,nl,SEA,Asia
+'15a9c61e3e',extremes,Landslide,#572c03,random,aardverschuiving,2026-03-06T04:20:00+00:00,,0.2964170005614506,1,1,nl,,
 '615d82085b',extremes,Landslide,#572c03,emdat,modderstroom magelang,2026-03-15T04:45:00+00:00,Indonesia,0.2949847918045983,1,1,nl,SEA,Asia
 'd63f3f5f6a',extremes,Earthquake,#870007,usgs,aardbeving palu,2026-03-20T04:26:00+00:00,Indonesia,0.2941212577697474,1,1,nl,SEA,Asia
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medicane,2026-03-05T04:23:00+00:00,,0.2938301312239971,1,1,nl,,
