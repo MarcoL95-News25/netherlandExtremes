@@ -1,7 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'bdeeebc881',extremes,Storm,#b3b2b1,wmo,stormvloed gelderland,2026-03-25T04:33:00+00:00,Netherlands,0.6704724757647901,0,1,nl,NEU,Europe
 'b32cdf78a9',extremes,Storm,#b3b2b1,wmo,stormvloed ijmuiden,2026-03-11T04:22:00+00:00,Netherlands,0.6209664123326463,0,1,nl,NEU,Europe
+'d65ecb1cf6',extremes,Snow&Ice,#d60d2b,wmo,sneeuw luxemburg,2026-03-27T04:57:00+00:00,Belgium,0.6113723826802122,0,1,nl,WCE,Europe
 '1a9f36f193',extremes,Storm,#b3b2b1,wmo,storm waddenzee,2026-03-25T04:33:00+00:00,Netherlands,0.6096525780786948,0,1,nl,NEU,Europe
+'b01d0bffd5',extremes,Snow&Ice,#d60d2b,wmo,ijskoud Henegouwen,2026-03-27T04:57:00+00:00,Belgium,0.6046175498821454,0,1,nl,WCE,Europe
 'eb32bf4b87',extremes,Storm,#b3b2b1,wmo,stormvloed drenthe,2026-03-25T04:33:00+00:00,Netherlands,0.6033497697429421,0,1,nl,NEU,Europe
 'b5c7eaac43',extremes,Snow&Ice,#d60d2b,wmo,vorst luxemburg,2026-03-26T04:56:00+00:00,Belgium,0.6011230411344426,0,1,nl,WCE,Europe
 '2f19038a09',extremes,Snow&Ice,#d60d2b,wmo,sneeuw België,2026-03-15T04:45:00+00:00,Belgium,0.6000266185944005,2,2,nl,WCE,Europe
@@ -60,6 +62,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b7e376363d',extremes,Snow&Ice,#d60d2b,wmo,sneeuw utrecht,2026-02-15T04:35:00+00:00,Netherlands,0.4550335764002917,3,2,nl,NEU,Europe
 'ae7f05dd01',extremes,Storm,#b3b2b1,wmo,stormkustzone,2026-03-09T04:31:00+00:00,Belgium,0.4533599506150254,2,1,nl,WCE,Europe
 '511543dad8',extremes,Drought,#edc291,edo,gebrek aan regen nederland,2026-03-06T04:21:00+00:00,Netherlands,0.4531176794240719,1,1,nl,NEU,Europe
+'7723498421',extremes,Precipitation,#d60d2b,wmo,hevige regen nusa tenggara timur,2026-03-13T04:25:00+00:00,Indonesia,0.4526516386998987,0,1,nl,SEA,Asia
 '472bb6b31c',extremes,Snow&Ice,#d60d2b,wmo,ijs Luik,2026-03-15T04:45:00+00:00,Belgium,0.4515763729585127,2,1,nl,WCE,Europe
 '7ebd4b0801',extremes,Precipitation,#d60d2b,wmo,stortbui kalimantan tengah,2026-03-20T04:26:00+00:00,Indonesia,0.4514144204683328,1,1,nl,SEA,Asia
 'dd4c653a93',extremes,Drought,#edc291,edo,droogte curacao,2026-03-02T04:27:00+00:00,Curacao,0.4513701814535776,1,1,nl,CAR,North-America
@@ -77,7 +80,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dfef3989ad',extremes,Drought,#edc291,edo,droge periode nederland,2026-03-10T04:22:00+00:00,Netherlands,0.4322471965182114,1,1,nl,NEU,Europe
 'c3776cfc46',extremes,Drought,#edc291,edo,droge periode Aruba,2026-02-19T04:32:00+00:00,Aruba,0.4313836417486166,2,1,nl,CAR,North-America
 'da8a0a0841',extremes,Drought,#edc291,edo,droge periode sint maarten,2026-02-26T04:29:00+00:00,Sint Maarten,0.4302828206634573,2,1,nl,CAR,North-America
-'06addb427e',extremes,Precipitation,#d60d2b,wmo,stortbui sulawesi tenggara,2026-03-25T04:33:00+00:00,Indonesia,0.42779459604412734,0,1,nl,SEA,Asia
+'06addb427e',extremes,Precipitation,#d60d2b,wmo,stortbui sulawesi tenggara,2026-03-25T04:33:00+00:00,Indonesia,0.4277945960441273,0,1,nl,SEA,Asia
 '11d04a5a87',extremes,Snow&Ice,#d60d2b,wmo,vorst antwerpen,2026-03-15T04:45:00+00:00,Belgium,0.4274697374850386,2,1,nl,WCE,Europe
 'f94480c6dc',extremes,Precipitation,#d60d2b,wmo,neerslag kep. riau,2026-03-10T04:22:00+00:00,Indonesia,0.4272893703049119,0,1,nl,SEA,Asia
 'e5d9717cc6',extremes,Drought,#edc291,edo,gebrek aan regen sint maarten,2026-03-03T04:27:00+00:00,Sint Maarten,0.4269571217840676,1,1,nl,CAR,North-America
@@ -240,6 +243,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dba9977fc1',extremes,Drought,#edc291,edo,gebrek aan regen Faeröer,2026-03-20T04:26:00+00:00,Faroe Islands,0.311445665446138,0,1,nl,NEU,Europe
 'd59a7e48d7',extremes,Drought,#edc291,random,verdamping,2026-03-03T04:26:00+00:00,,0.3112272184521668,1,1,nl,,
 'ed806b22f8',extremes,Drought,#edc291,edo,droogte bhutan,2026-03-19T04:35:00+00:00,Bhutan,0.3107393905397488,0,1,nl,TIB,Asia
+'af5e4ac005',extremes,Drought,#edc291,edo,droge periode Denemarken,2026-03-23T04:42:00+00:00,Denmark,0.3100632347004806,0,1,nl,NEU,Europe
 '30406c7856',extremes,Flood,#030ba1,cmeter,overstromingen in Brazilië,2026-03-07T04:13:00+00:00,Brazil,0.3091089347085962,1,1,nl,SES,South-America
 '62084daeb0',extremes,Earthquake,#870007,random,aardbeving,2026-02-27T04:25:00+00:00,,0.3079005847682544,1,1,nl,,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,zwaar weer,2026-03-04T04:20:00+00:00,,0.3075347476621451,1,2,nl,,
