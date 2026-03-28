@@ -10,6 +10,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a22e073273',extremes,Storm,#b3b2b1,wmo,stormvloed Zeeland,2026-03-25T04:33:00+00:00,Netherlands,0.5867518975922594,0,1,nl,NEU,Europe
 '26b7df1ccf',extremes,Drought,#edc291,edo,droogte sint maarten,2026-03-12T04:26:00+00:00,Sint Maarten,0.5830083722865398,0,1,nl,CAR,North-America
 '9e3a106138',extremes,Storm,#b3b2b1,wmo,storm overijssel,2026-03-25T04:33:00+00:00,Netherlands,0.5760796216621646,0,1,nl,NEU,Europe
+'b1042f7ce5',extremes,Snow&Ice,#d60d2b,wmo,vorst Henegouwen,2026-03-27T04:57:00+00:00,Belgium,0.5757962436174547,0,1,nl,WCE,Europe
 'b60d712c2d',extremes,Snow&Ice,#d60d2b,wmo,ijskoud antwerpen,2026-03-27T04:57:00+00:00,Belgium,0.575334056468136,0,1,nl,WCE,Europe
 'fd68baa97f',extremes,Storm,#b3b2b1,wmo,stormvloed zuid holland,2026-03-25T04:33:00+00:00,Netherlands,0.574597774309323,0,1,nl,NEU,Europe
 'd17aefc684',extremes,Storm,#b3b2b1,wmo,stormvloed hoek van holland,2026-03-25T04:33:00+00:00,Netherlands,0.5722578892910573,0,1,nl,NEU,Europe
@@ -135,6 +136,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '80277b831a',extremes,Precipitation,#d60d2b,wmo,stortbui sulawesi selatan,2026-02-27T04:26:00+00:00,Indonesia,0.3832064001672634,1,1,nl,SEA,Asia
 '3d6c571adb',extremes,Snow&Ice,#d60d2b,wmo,sneeuw west-vlaanderen,2026-03-15T04:45:00+00:00,Belgium,0.3830590389729454,3,1,nl,WCE,Europe
 'e55757c917',extremes,Precipitation,#d60d2b,wmo,stortbui papua selatan,2026-03-06T04:21:00+00:00,Indonesia,0.3830345910353977,1,1,nl,SEA,Asia
+'8447ef896b',extremes,Snow&Ice,#d60d2b,random,sneeuwbrij,2026-03-27T04:56:00+00:00,,0.38287652317156057,0,1,nl,,
 '36601cf272',extremes,Precipitation,#d60d2b,wmo,regen jambi,2026-03-14T04:22:00+00:00,Indonesia,0.3828201272552842,1,1,nl,SEA,Asia
 'edb0efe2d9',extremes,Precipitation,#d60d2b,wmo,neerslag Jawa Timur,2026-03-05T04:24:00+00:00,Indonesia,0.3827627974250954,1,1,nl,SEA,Asia
 'ce97430368',extremes,Earthquake,#870007,usgs,aardbeving banjar,2026-03-20T04:26:00+00:00,Indonesia,0.381981973396089,1,1,nl,SEA,Asia
@@ -153,6 +155,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c9e51f4015',extremes,Precipitation,#d60d2b,wmo,stortregens Jawa Barat,2026-02-18T04:34:00+00:00,Indonesia,0.3776012450664968,1,1,nl,SEA,Asia
 '2b356f2d32',extremes,Precipitation,#d60d2b,wmo,stortbui maluku utara,2026-03-11T04:22:00+00:00,Indonesia,0.3774919466981791,1,1,nl,SEA,Asia
 '21ee96b100',extremes,Precipitation,#d60d2b,wmo,neerslag sumatera utara,2026-03-14T04:22:00+00:00,Indonesia,0.3771275910515502,1,1,nl,SEA,Asia
+'54927bfe65',extremes,Flood,#030ba1,random,kustoverstromingen,2026-03-27T04:56:00+00:00,,0.377126579578721,0,1,nl,,
 '82cfc05680',extremes,Precipitation,#d60d2b,wmo,neerslag maluku utara,2026-03-19T04:35:00+00:00,Indonesia,0.3769538701204686,1,1,nl,SEA,Asia
 '784b5e8109',extremes,Precipitation,#d60d2b,wmo,stortbui sulawesi utara,2026-03-13T04:25:00+00:00,Indonesia,0.3765706670221048,1,1,nl,SEA,Asia
 '94887182ee',extremes,Precipitation,#d60d2b,wmo,neerslag jambi,2026-03-06T04:21:00+00:00,Indonesia,0.3755402912881835,1,1,nl,SEA,Asia
@@ -245,6 +248,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ed806b22f8',extremes,Drought,#edc291,edo,droogte bhutan,2026-03-19T04:35:00+00:00,Bhutan,0.3107393905397488,0,1,nl,TIB,Asia
 'af5e4ac005',extremes,Drought,#edc291,edo,droge periode Denemarken,2026-03-23T04:42:00+00:00,Denmark,0.3100632347004806,0,1,nl,NEU,Europe
 '30406c7856',extremes,Flood,#030ba1,cmeter,overstromingen in Brazilië,2026-03-07T04:13:00+00:00,Brazil,0.3091089347085962,1,1,nl,SES,South-America
+'7e68dc4baa',extremes,Drought,#edc291,edo,droogte bhutan,2026-03-20T04:26:00+00:00,Bhutan,0.30820087208060604,0,1,nl,TIB,Asia
 '62084daeb0',extremes,Earthquake,#870007,random,aardbeving,2026-02-27T04:25:00+00:00,,0.3079005847682544,1,1,nl,,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,zwaar weer,2026-03-04T04:20:00+00:00,,0.3075347476621451,1,2,nl,,
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,regen Argentinië,2026-02-26T04:29:00+00:00,Argentina,0.3063758801444256,1,1,nl,SES,South-America
