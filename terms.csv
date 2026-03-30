@@ -61,6 +61,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3d690ea060',extremes,Drought,#edc291,edo,droogte Aruba,2026-03-04T04:21:00+00:00,Aruba,0.4721402790886591,2,1,nl,CAR,North-America
 'c0185926db',extremes,Snow&Ice,#d60d2b,wmo,vorst namen,2026-03-15T04:45:00+00:00,Belgium,0.4717199345901351,2,1,nl,WCE,Europe
 '2fe1ef231c',extremes,Precipitation,#d60d2b,wmo,neerslag Jawa Tengah,2026-03-28T04:33:00+00:00,Indonesia,0.4660499065028761,0,1,nl,SEA,Asia
+'5384da72f3',extremes,Precipitation,#d60d2b,wmo,regen gorontalo,2026-03-29T05:00:00+00:00,Indonesia,0.4617441217832332,0,1,nl,SEA,Asia
 '2bb3d20abc',extremes,Fog,#d60d2b,wmo,mist belgië,2026-03-07T04:12:00+00:00,Belgium,0.4589350110122967,3,1,nl,WCE,Europe
 '7a124ae459',extremes,Precipitation,#d60d2b,wmo,neerslag sulawesi tengah,2026-03-26T04:56:00+00:00,Indonesia,0.4587637488900745,0,1,nl,SEA,Asia
 '06a732cd94',extremes,Storm,#b3b2b1,wmo,stormvloed vlissingen,2026-02-23T04:37:00+00:00,Netherlands,0.4568698429489799,2,1,nl,NEU,Europe
@@ -263,13 +264,21 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e7e7fc0a58',extremes,Snow&Ice,#d60d2b,wmo,vorst Bregenz,2026-03-25T04:33:00+00:00,Austria,0.3073919949138848,0,1,nl,WCE,Europe
 '4a4ee6b9d7',extremes,Storm,#b3b2b1,wmo,stormvloed wien währing,2026-03-25T04:33:00+00:00,Austria,0.3073227471149911,0,1,nl,WCE,Europe
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,stormvloed nieuw-zeeland,2026-03-25T04:33:00+00:00,New Zealand,0.3073017129476323,0,1,nl,NZ,Oceania
-'6171ca62b4',extremes,Storm,#b3b2b1,wmo,stormvloed ierland,2026-03-25T04:33:00+00:00,Ireland,0.30728715311751964,0,1,nl,NEU,Europe
-'ddcce350d3',extremes,Storm,#b3b2b1,wmo,storm auckland en groot barrière-eiland,2026-03-26T04:56:00+00:00,New Zealand,0.30728467476872445,0,1,nl,NZ,Oceania
+'6171ca62b4',extremes,Storm,#b3b2b1,wmo,stormvloed ierland,2026-03-25T04:33:00+00:00,Ireland,0.3072871531175196,0,1,nl,NEU,Europe
+'ddcce350d3',extremes,Storm,#b3b2b1,wmo,storm auckland en groot barrière-eiland,2026-03-26T04:56:00+00:00,New Zealand,0.3072846747687244,0,1,nl,NZ,Oceania
 '9883dfe0ae',extremes,Storm,#b3b2b1,wmo,stormvloed völkermarkt,2026-03-25T04:33:00+00:00,Austria,0.3072736921832093,0,1,nl,WCE,Europe
-'ee09381e1f',extremes,Snow&Ice,#d60d2b,wmo,vorst Tsjechië,2026-03-26T04:56:00+00:00,Czechia,0.30724760437654086,0,1,nl,WCE,Europe
-'0eea90a85e',extremes,Snow&Ice,#d60d2b,wmo,vorst oberwart,2026-03-25T04:33:00+00:00,Austria,0.30716181316063285,0,1,nl,WCE,Europe
+'ee09381e1f',extremes,Snow&Ice,#d60d2b,wmo,vorst Tsjechië,2026-03-26T04:56:00+00:00,Czechia,0.3072476043765408,0,1,nl,WCE,Europe
+'0eea90a85e',extremes,Snow&Ice,#d60d2b,wmo,vorst oberwart,2026-03-25T04:33:00+00:00,Austria,0.3071618131606328,0,1,nl,WCE,Europe
 '9443ce57dd',extremes,Snow&Ice,#d60d2b,wmo,ijskoude schwaz,2026-03-25T04:33:00+00:00,Austria,0.3071105483636682,0,1,nl,WCE,Europe
 '17a0212ee2',extremes,Storm,#b3b2b1,wmo,stormvloed mistelbach,2026-03-25T04:33:00+00:00,Austria,0.3071019545980102,0,1,nl,WCE,Europe
+'7ea2c869dc',extremes,Snow&Ice,#d60d2b,wmo,ijskoud kirchdorf an der krems,2026-03-25T04:33:00+00:00,Austria,0.3070813246008601,0,1,nl,WCE,Europe
+'a84fc06e39',extremes,Storm,#b3b2b1,wmo,stormvloed reutte,2026-03-25T04:33:00+00:00,Austria,0.3070474130848392,0,1,nl,WCE,Europe
+'c62db23b0d',extremes,Storm,#b3b2b1,wmo,stormvloed lilienfeld,2026-03-25T04:33:00+00:00,Austria,0.3070366672655601,0,1,nl,WCE,Europe
+'3f5d4b9ffe',extremes,Storm,#b3b2b1,wmo,stormspittal an der drau,2026-03-25T04:33:00+00:00,Austria,0.30694846495075995,0,1,nl,WCE,Europe
+'b0903e574b',extremes,Storm,#b3b2b1,wmo,storm Ierland,2026-03-25T04:33:00+00:00,Ireland,0.3069179904982869,0,1,nl,NEU,Europe
+'2a1438957e',extremes,Snow&Ice,#d60d2b,wmo,ijs hallein,2026-03-25T04:33:00+00:00,Austria,0.30685824655219757,0,1,nl,WCE,Europe
+'cda3b95773',extremes,Storm,#b3b2b1,wmo,storm Saoedi-Arabië,2026-03-18T04:36:00+00:00,Saudi Arabia,0.3067782886341297,0,1,nl,ARP,Asia
+'2db1256b65',extremes,Storm,#b3b2b1,wmo,stormvloed Noord-Macedonië,2026-03-26T04:56:00+00:00,North Macedonia,0.3066240679014336,0,1,nl,MED,Europe
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,regen Argentinië,2026-02-26T04:29:00+00:00,Argentina,0.3063758801444256,1,1,nl,SES,South-America
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,wervelwind,2026-03-14T04:22:00+00:00,,0.3062337714213271,1,1,nl,,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,sneeuwbui,2026-03-22T04:32:00+00:00,,0.3058887172815254,1,1,nl,,
