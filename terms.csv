@@ -233,7 +233,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '54549bc9ea',extremes,Drought,#edc291,edo,droge periode Indonesië,2026-02-26T04:29:00+00:00,Indonesia,0.3416171854969324,1,1,nl,SEA,Asia
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,zware regen,2026-03-26T04:56:00+00:00,,0.3412463241800087,0,1,nl,,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,koudste winter,2026-03-01T04:34:00+00:00,,0.3400933976397154,1,1,nl,,
-'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,koudegolf,2026-04-01T05:12:00+00:00,,0.33994740490945696,0,1,nl,,
+'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,koudegolf,2026-04-01T05:12:00+00:00,,0.3399474049094569,0,1,nl,,
 'd437bd7eeb',extremes,Precipitation,#d60d2b,wmo,hevige regen papoea,2026-02-23T04:37:00+00:00,Indonesia,0.3397949201842274,2,1,nl,SEA,Asia
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,koudste jaar,2026-03-05T04:23:00+00:00,,0.339101113100553,1,2,nl,,
 '82d648b882',extremes,Drought,#edc291,random,droogte,2026-03-23T04:41:00+00:00,,0.3390777467268525,1,1,nl,,
@@ -324,9 +324,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4508d0e7cc',extremes,Drought,#edc291,acwe,laag waterpeil Australië,2026-03-26T04:57:00+00:00,Australia,0.3064714702150453,0,1,nl,CAU,Oceania
 '6a3e3c9638',extremes,Storm,#b3b2b1,wmo,stormvloed regio grodno,2026-03-26T04:56:00+00:00,Belarus,0.3064317783458752,0,1,nl,WCE,Europe
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,regen Argentinië,2026-02-26T04:29:00+00:00,Argentina,0.3063758801444256,1,1,nl,SES,South-America
-'39afca9687',extremes,Storm,#b3b2b1,wmo,stormvloed regio skopje,2026-03-26T04:56:00+00:00,North Macedonia,0.30625169294225174,0,1,nl,MED,Europe
+'39afca9687',extremes,Storm,#b3b2b1,wmo,stormvloed regio skopje,2026-03-26T04:56:00+00:00,North Macedonia,0.3062516929422517,0,1,nl,MED,Europe
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,wervelwind,2026-03-14T04:22:00+00:00,,0.3062337714213271,1,1,nl,,
+'eff78b7be8',extremes,Drought,#edc291,edo,droogte bangladesh,2026-03-26T04:56:00+00:00,Bangladesh,0.3060542383045668,0,1,nl,SAS,Asia
+'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,sneeuw Canada,2026-03-18T04:36:00+00:00,Canada,0.3060357270000287,0,1,nl,NEN,North-America
+'283b154c38',extremes,Wet Spell,#d60d2b,random,natte periode,2026-03-25T04:33:00+00:00,,0.3060267968518284,0,1,nl,,
+'cb68d1153d',extremes,Storm,#b3b2b1,wmo,storm sierra norte y centro,2026-04-01T05:12:00+00:00,Ecuador,0.3060226239895141,0,1,nl,NWS,South-America
+'9131f8e093',extremes,Precipitation,#d60d2b,wmo,stortregens sierra norte y centro,2026-03-31T04:59:00+00:00,Ecuador,0.3059620150943005,0,1,nl,NWS,South-America
+'c8dd7549e0',extremes,Storm,#b3b2b1,wmo,storm zuidoostelijke regio,2026-03-26T04:56:00+00:00,North Macedonia,0.30595149406355693,0,1,nl,MED,Europe
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,sneeuwbui,2026-03-22T04:32:00+00:00,,0.3058887172815254,1,1,nl,,
+'2b54723d48',extremes,Precipitation,#d60d2b,wmo,stortbui Amazonië,2026-03-31T04:59:00+00:00,Ecuador,0.30586614845156623,0,1,nl,NWS,South-America
+'530909dfe4',extremes,Heat Wave,#c40202,wmo,hittegolf Rusland,2026-04-01T05:12:00+00:00,Russia,0.3056134234594387,0,1,nl,ESB,Europe
+'f5a98ca4eb',extremes,Storm,#b3b2b1,wmo,stormvloed litoraal noord en binnenland,2026-03-30T05:12:00+00:00,Ecuador,0.30553419190661624,0,1,nl,NWS,South-America
+'a5a19a733b',extremes,Flood,#030ba1,wmo,plotselinge overstroming Ethiopië,2026-03-29T05:00:00+00:00,Ethiopia,0.3055273488989083,0,1,nl,NEAF,Africa
 'be647fc7a4',extremes,Storm,#b3b2b1,wmo,stormvloed Ecuador,2026-02-17T04:31:00+00:00,Ecuador,0.3053862814232506,0,1,nl,NWS,South-America
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,neerslag nieuw-zeeland,2026-03-06T04:21:00+00:00,New Zealand,0.3053213352274406,0,1,nl,NZ,Oceania
 '5a404b2b5a',extremes,Precipitation,#d60d2b,wmo,stortregens Tanzania,2026-02-23T04:37:00+00:00,Tanzania,0.3053157527692265,0,1,nl,SEAF,Africa
