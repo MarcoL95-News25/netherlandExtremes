@@ -358,7 +358,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c62db23b0d',extremes,Storm,#b3b2b1,wmo,stormvloed lilienfeld,2026-03-25T04:33:00+00:00,Austria,0.3070366672655601,0,1,nl,WCE,Europe
 '3f5d4b9ffe',extremes,Storm,#b3b2b1,wmo,stormspittal an der drau,2026-03-25T04:33:00+00:00,Austria,0.3069484649507599,0,1,nl,WCE,Europe
 'b0903e574b',extremes,Storm,#b3b2b1,wmo,storm Ierland,2026-03-25T04:33:00+00:00,Ireland,0.3069179904982869,0,1,nl,NEU,Europe
-'0daffd462e',extremes,Storm,#b3b2b1,eonet,supertyfoon sinlaku,2026-04-13T05:27:00+00:00,,0.30688057824569137,0,1,nl,NPO,Pacific Ocean
+'0daffd462e',extremes,Storm,#b3b2b1,eonet,supertyfoon sinlaku,2026-04-13T05:27:00+00:00,,0.3068805782456913,0,1,nl,NPO,Pacific Ocean
 '2a1438957e',extremes,Snow&Ice,#d60d2b,wmo,ijs hallein,2026-03-25T04:33:00+00:00,Austria,0.3068582465521975,0,1,nl,WCE,Europe
 'a4ea76ca76',extremes,Storm,#b3b2b1,wmo,stormvloed algerije,2026-04-06T05:11:00+00:00,Algeria,0.306822394715412,0,1,nl,SAH,Africa
 'cda3b95773',extremes,Storm,#b3b2b1,wmo,storm Saoedi-Arabië,2026-03-18T04:36:00+00:00,Saudi Arabia,0.3067782886341297,0,1,nl,ARP,Asia
@@ -683,7 +683,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '93134788d8',extremes,Tropical Cyclone,#4f4f4f,aidr,tyfoon Australië,2026-04-07T04:59:00+00:00,Australia,0.3024207932401105,0,1,nl,NAU,Oceania
 '87f28505d1',extremes,Snow Avalanche,#deddd5,wmo,lawine spanje,2026-04-01T05:12:00+00:00,Spain,0.3024204177512646,0,1,nl,MED,Europe
 '356d25c0ef',extremes,Flood,#030ba1,wmo,overstroming hancock oh,2026-04-02T04:42:00+00:00,United States,0.3023741306699489,0,1,nl,CNA,North-America
-'38fb523e0e',extremes,Flood,#030ba1,wmo,plotselinge overstroming botswana,2026-04-15T05:12:00+00:00,Botswana,0.30236728476010805,0,1,nl,WSAF,Africa
+'38fb523e0e',extremes,Flood,#030ba1,wmo,plotselinge overstroming botswana,2026-04-15T05:12:00+00:00,Botswana,0.302367284760108,0,1,nl,WSAF,Africa
 '5e3f328cdd',extremes,Storm,#b3b2b1,wmo,storm voitsberg,2026-03-25T04:33:00+00:00,Austria,0.3023672675548977,0,1,nl,WCE,Europe
 '6fc7fa002d',extremes,Storm,#b3b2b1,wmo,stormvloed güssing,2026-03-25T04:33:00+00:00,Austria,0.3023612538371375,0,1,nl,WCE,Europe
 '7e5082b57e',extremes,Snow&Ice,#d60d2b,wmo,ijs sankt johann im pongau,2026-03-25T04:33:00+00:00,Austria,0.3023545533405109,0,1,nl,WCE,Europe
@@ -702,14 +702,24 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9298e9b0d8',extremes,Precipitation,#d60d2b,wmo,stortbui in de regio Nelson City,2026-04-12T05:12:00+00:00,New Zealand,0.3021127362136492,0,1,nl,NZ,Oceania
 'afccf77c89',extremes,Storm,#b3b2b1,wmo,storm litora interandina en amazonia,2026-04-14T05:11:00+00:00,Ecuador,0.3021078708143394,0,1,nl,NWS,South-America
 '420886cb54',extremes,Wildfire,#d60d2b,wmo,wildvuur autonome provincie eshan yi,2026-04-05T05:01:00+00:00,China,0.3021038007825634,0,1,nl,EAS,Asia
-'62d415428e',extremes,Snow Avalanche,#deddd5,wmo,lawine-irkutsk-regio,2026-04-01T05:12:00+00:00,Russia,0.30204669096830516,0,1,nl,ESB,Europe
-'9a93354f3b',extremes,Drought,#edc291,edo,droge periode angola,2026-04-05T05:01:00+00:00,Angola,0.30201268339607584,0,1,nl,WSAF,Africa
-'66dde132e2',extremes,Landslide,#572c03,wmo,modderstroom in de provincie Xiaojiang,2026-04-13T05:28:00+00:00,China,0.30198637587754085,0,1,nl,EAS,Asia
-'24b660695f',extremes,Landslide,#572c03,wmo,modderstroom china,2026-04-11T04:34:00+00:00,China,0.30196296131368006,0,1,nl,EAS,Asia
-'314d696add',extremes,Snow&Ice,#d60d2b,wmo,sneeuw verenigde staten,2026-04-06T05:11:00+00:00,United States,0.30193177444824526,0,1,nl,CNA,North-America
+'62d415428e',extremes,Snow Avalanche,#deddd5,wmo,lawine-irkutsk-regio,2026-04-01T05:12:00+00:00,Russia,0.3020466909683051,0,1,nl,ESB,Europe
+'9a93354f3b',extremes,Drought,#edc291,edo,droge periode angola,2026-04-05T05:01:00+00:00,Angola,0.3020126833960758,0,1,nl,WSAF,Africa
+'66dde132e2',extremes,Landslide,#572c03,wmo,modderstroom in de provincie Xiaojiang,2026-04-13T05:28:00+00:00,China,0.3019863758775408,0,1,nl,EAS,Asia
+'24b660695f',extremes,Landslide,#572c03,wmo,modderstroom china,2026-04-11T04:34:00+00:00,China,0.30196296131368,0,1,nl,EAS,Asia
+'314d696add',extremes,Snow&Ice,#d60d2b,wmo,sneeuw verenigde staten,2026-04-06T05:11:00+00:00,United States,0.3019317744482452,0,1,nl,CNA,North-America
 'debdbdb81a',extremes,Flood,#030ba1,wmo,overstroming mahoning oh trumbull oh,2026-04-02T04:42:00+00:00,United States,0.3019181240249782,0,1,nl,CNA,North-America
 'aafce152ff',extremes,Storm,#b3b2b1,wmo,storm litoral en estribación de cordillera,2026-04-14T05:11:00+00:00,Ecuador,0.3018960059907544,0,1,nl,NWS,South-America
 '1e31928c5b',extremes,Storm,#b3b2b1,wmo,stormvloed noordland,2026-04-11T04:34:00+00:00,New Zealand,0.3018863080576587,0,1,nl,NZ,Oceania
+'4eb2182ddc',extremes,Snow&Ice,#d60d2b,wmo,sneeuwfort hope lansdowne house ogoki,2026-04-09T04:58:00+00:00,Canada,0.301837122026619,0,1,nl,NEN,North-America
+'44211c95de',extremes,Flood,#030ba1,wmo,Australië onder water zetten,2026-04-06T05:11:00+00:00,Australia,0.30180441741639175,0,1,nl,CAU,Oceania
+'111942eccf',extremes,Storm,#b3b2b1,wmo,storm auckland,2026-04-10T05:13:00+00:00,New Zealand,0.3018012426400514,0,1,nl,NZ,Oceania
+'5ed391213f',extremes,Snow&Ice,#d60d2b,wmo,vorst verenigd koninkrijk,2026-04-04T04:30:00+00:00,United Kingdom,0.3017798721773943,0,1,nl,NEU,Europe
+'00aaa81565',extremes,Snow&Ice,#d60d2b,wmo,vorst Roemenië,2026-03-30T05:12:00+00:00,Romania,0.30175904384787094,0,1,nl,WCE,Europe
+'037bb37761',extremes,Flood,#030ba1,wmo,overstroming Verenigde Staten,2026-04-07T04:59:00+00:00,United States,0.30172854881773675,0,1,nl,CNA,North-America
+'6c7c509ea5',extremes,Flood,#030ba1,wmo,overstroming Zweden,2026-04-13T05:28:00+00:00,Sweden,0.30166573818444664,0,1,nl,NEU,Europe
+'23f678bf35',extremes,Wildfire,#d60d2b,wmo,wildvuur zhanyi-district,2026-03-27T04:57:00+00:00,China,0.3016395859224905,0,1,nl,EAS,Asia
+'26eda32389',extremes,Fog,#d60d2b,wmo,mist centrale Oostzee,2026-03-30T05:12:00+00:00,Latvia,0.3016293667313411,0,1,nl,WCE,Europe
+'5032c3d748',extremes,Wildfire,#d60d2b,wmo,wildvuur hongta,2026-04-06T05:11:00+00:00,China,0.30161634062489795,0,1,nl,EAS,Asia
 '2022b76598',extremes,Earthquake,#870007,usgs,aardbeving Bengkulu,2026-03-04T04:20:00+00:00,Indonesia,0.2994368202795244,1,1,nl,SEA,Asia
 '7b765a4d4c',extremes,Precipitation,#d60d2b,random,stortbui,2026-03-04T04:20:00+00:00,,0.2985361359556877,1,1,nl,,
 'b320c39ee1',extremes,Earthquake,#870007,usgs,aardbeving bandar lampung,2026-02-21T04:17:00+00:00,Indonesia,0.2979422113763283,1,1,nl,SEA,Asia
