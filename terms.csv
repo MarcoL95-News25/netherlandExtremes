@@ -300,7 +300,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f8f49c3313',extremes,Earthquake,#870007,usgs,aardbeving fakfak,2026-02-22T04:30:00+00:00,Indonesia,0.3216796170223943,1,1,nl,SEA,Asia
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-03-31T04:59:00+00:00,,0.3211439890830261,0,1,nl,,
 '931c533b56',extremes,Earthquake,#870007,usgs,aardbeving nusa dua,2026-03-02T04:27:00+00:00,Indonesia,0.3197939517612937,1,1,nl,SEA,Asia
-'72e8366c4b',extremes,Unknown,#d60d2b,cmeter,onbekend orlando,2026-04-17T05:16:00+00:00,United States,0.31949934454918827,0,1,nl,ENA,North-America
+'72e8366c4b',extremes,Unknown,#d60d2b,cmeter,onbekend orlando,2026-04-17T05:16:00+00:00,United States,0.3194993445491882,0,1,nl,ENA,North-America
 'c7fa466900',extremes,Cold Wave,#a7e9fa,acwe,koudegolf Nieuw Zuid-Wales,2026-03-30T05:12:00+00:00,Australia,0.3193784373370132,0,1,nl,EAU,Oceania
 'c759fb6bc1',extremes,Cold Wave,#a7e9fa,acwe,koud weer victoria,2026-03-30T05:12:00+00:00,Australia,0.3193759020564724,0,1,nl,SAU,Oceania
 'f5cbe3ea20',extremes,Drought,#edc291,acwe,droge periode Nieuw-Zuid-Wales,2026-03-19T04:36:00+00:00,Australia,0.3193675107648344,0,1,nl,EAU,Oceania
@@ -676,7 +676,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b2a5b5c7df',extremes,Flood,#030ba1,wmo,plotselinge overstroming erie oh,2026-04-02T04:42:00+00:00,United States,0.3025264869581631,0,1,nl,CNA,North-America
 'b7fc06d785',extremes,Storm,#b3b2b1,wmo,storm Amazonië,2026-04-14T05:11:00+00:00,Ecuador,0.3025234846705083,0,1,nl,NWS,South-America
 '279d701798',extremes,Flood,#030ba1,wmo,overstroming van de Cooper Creek in Zuid-Australië,2026-04-08T05:01:00+00:00,Australia,0.3025192970226363,0,1,nl,CAU,Oceania
-'a95a8736e1',extremes,Thunderstorm,#53785a,wmo,hagel Jordanië,2026-04-17T05:16:00+00:00,Jordan,0.30249786783529986,0,1,nl,MED,Asia
+'a95a8736e1',extremes,Thunderstorm,#53785a,wmo,hagel Jordanië,2026-04-17T05:16:00+00:00,Jordan,0.3024978678352998,0,1,nl,MED,Asia
 '27ff8af872',extremes,Drought,#edc291,edo,droogte Denemarken,2026-03-27T04:57:00+00:00,Denmark,0.3024971844832885,0,1,nl,NEU,Europe
 '300c9d7114',extremes,Snow&Ice,#d60d2b,wmo,sneeuw in het noordwesten van IJsland,2026-03-10T04:22:00+00:00,Iceland,0.3024868281791998,0,1,nl,GIC,Europe
 'c8be322002',extremes,Snow Avalanche,#deddd5,wmo,lawine hallingdal,2026-04-10T05:13:00+00:00,Norway,0.3024761698454896,0,1,nl,NEU,Europe
@@ -721,7 +721,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aafce152ff',extremes,Storm,#b3b2b1,wmo,storm litoral en estribación de cordillera,2026-04-14T05:11:00+00:00,Ecuador,0.3018960059907544,0,1,nl,NWS,South-America
 '1e31928c5b',extremes,Storm,#b3b2b1,wmo,stormvloed noordland,2026-04-11T04:34:00+00:00,New Zealand,0.3018863080576587,0,1,nl,NZ,Oceania
 '4eb2182ddc',extremes,Snow&Ice,#d60d2b,wmo,sneeuwfort hope lansdowne house ogoki,2026-04-09T04:58:00+00:00,Canada,0.301837122026619,0,1,nl,NEN,North-America
-'6d73764800',extremes,Earthquake,#870007,usgs,aardbeving zilveren bronnen,2026-04-14T05:10:00+00:00,United States,0.30182254740356573,0,1,nl,WNA,North-America
+'6d73764800',extremes,Earthquake,#870007,usgs,aardbeving zilveren bronnen,2026-04-14T05:10:00+00:00,United States,0.3018225474035657,0,1,nl,WNA,North-America
 '44211c95de',extremes,Flood,#030ba1,wmo,Australië onder water zetten,2026-04-06T05:11:00+00:00,Australia,0.3018044174163917,0,1,nl,CAU,Oceania
 '111942eccf',extremes,Storm,#b3b2b1,wmo,storm auckland,2026-04-10T05:13:00+00:00,New Zealand,0.3018012426400514,0,1,nl,NZ,Oceania
 '5ed391213f',extremes,Snow&Ice,#d60d2b,wmo,vorst verenigd koninkrijk,2026-04-04T04:30:00+00:00,United Kingdom,0.3017798721773943,0,1,nl,NEU,Europe
@@ -748,8 +748,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0021faf7b8',extremes,Fog,#d60d2b,wmo,mist Denemarken,2026-04-15T05:12:00+00:00,Denmark,0.301211075398662,0,1,nl,NEU,Europe
 '2b705832db',extremes,Snow Avalanche,#deddd5,wmo,"lawinerepubliek Noord-Ossetië, Alanië",2026-04-06T05:11:00+00:00,Russia,0.3011613019588631,0,1,nl,ESB,Europe
 '26c75cc7f3',extremes,Storm,#b3b2b1,wmo,stormvloedbaai van overvloed en rotorua,2026-04-11T04:34:00+00:00,New Zealand,0.3011588341091629,0,1,nl,NZ,Oceania
-'0dd277aa94',extremes,Flood,#030ba1,wmo,overstromingsregio Vladimir,2026-03-29T05:00:00+00:00,Russia,0.30108200402015817,0,1,nl,ESB,Europe
+'0dd277aa94',extremes,Flood,#030ba1,wmo,overstromingsregio Vladimir,2026-03-29T05:00:00+00:00,Russia,0.3010820040201581,0,1,nl,ESB,Europe
 'f259fec1b4',extremes,Precipitation,#d60d2b,wmo,neerslag galápagos,2026-04-14T05:11:00+00:00,Ecuador,0.3010746735934833,0,1,nl,NWS,South-America
+'fd071fede5',extremes,Landslide,#572c03,wmo,rotsverschuiving Ganzhou stad,2026-04-07T04:59:00+00:00,China,0.30106729475428384,0,1,nl,EAS,Asia
+'e6c551d0ec',extremes,Earthquake,#870007,usgs,aardbeving Kazachstan,2026-04-03T04:42:00+00:00,Kazakhstan,0.30105797179570504,0,1,nl,ECA,Asia
+'1af32d0d90',extremes,Precipitation,#d60d2b,wmo,regen Canada,2026-04-01T05:12:00+00:00,Canada,0.30104152884913965,0,1,nl,NEN,North-America
+'5966f3dffc',extremes,Storm,#b3b2b1,wmo,stormvloed letland,2026-04-04T04:30:00+00:00,Latvia,0.3010376338841719,0,1,nl,WCE,Europe
+'437e94763e',extremes,Landslide,#572c03,wmo,modderstroom fuzhou stad,2026-04-14T05:11:00+00:00,China,0.30102569691698,0,1,nl,EAS,Asia
+'935b5342fa',extremes,Wildfire,#d60d2b,wmo,wildvuur Luliang County,2026-04-10T05:13:00+00:00,China,0.30101087688292605,0,1,nl,EAS,Asia
+'c22c0da855',extremes,Precipitation,#d60d2b,wmo,neerslag canada,2026-04-17T05:16:00+00:00,Canada,0.30096282388814116,0,1,nl,NEN,North-America
+'86c5eacad8',extremes,Wildfire,#d60d2b,wmo,wildvuur provincie Tonghai,2026-04-05T05:01:00+00:00,China,0.30094988308438836,0,1,nl,EAS,Asia
+'af6a93b8a3',extremes,Heat Wave,#c40202,wmo,hittegolf hekou yao autonome provincie,2026-03-31T04:59:00+00:00,China,0.30094252433077084,0,1,nl,EAS,Asia
+'d7cc235c9c',extremes,Snow Avalanche,#deddd5,wmo,lawine trollheimen,2026-04-13T05:28:00+00:00,Norway,0.30092820879030346,0,1,nl,NEU,Europe
 '2022b76598',extremes,Earthquake,#870007,usgs,aardbeving Bengkulu,2026-03-04T04:20:00+00:00,Indonesia,0.2994368202795244,1,1,nl,SEA,Asia
 '7b765a4d4c',extremes,Precipitation,#d60d2b,random,stortbui,2026-03-04T04:20:00+00:00,,0.2985361359556877,1,1,nl,,
 'b320c39ee1',extremes,Earthquake,#870007,usgs,aardbeving bandar lampung,2026-02-21T04:17:00+00:00,Indonesia,0.2979422113763283,1,1,nl,SEA,Asia
