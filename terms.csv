@@ -4,21 +4,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '42d185b3a6',extremes,Fog,#d60d2b,wmo,mist gelderland,2026-04-01T05:12:00+00:00,Netherlands,0.6326574643491135,1,1,nl,NEU,Europe
 '28f9809f85',extremes,Drought,#edc291,edo,droogte bonaire sint eustatius en saba,2026-04-18T04:57:00+00:00,Bonaire; Saint Eustatius and Saba ,0.6317838037735434,0,1,nl,CAR,North-America
 '998c9f84db',extremes,Storm,#b3b2b1,wmo,storm nederland,2026-04-21T05:15:00+00:00,Netherlands,0.6240689769626488,1,1,nl,NEU,Europe
+'30bc906e71',extremes,Precipitation,#d60d2b,wmo,regen Indonesië,2026-04-11T04:34:00+00:00,Indonesia,0.6146128617755696,1,2,nl,SEA,Asia
 '2f19038a09',extremes,Snow&Ice,#d60d2b,wmo,sneeuw België,2026-03-15T04:45:00+00:00,Belgium,0.6000266185944005,2,2,nl,WCE,Europe
 '8efab12aed',extremes,Fog,#d60d2b,wmo,mist Luik,2026-04-01T05:12:00+00:00,Belgium,0.5874334383289174,1,1,nl,WCE,Europe
-'7da716f8d7',extremes,Precipitation,#d60d2b,wmo,neerslag indonesië,2026-04-06T05:11:00+00:00,Indonesia,0.5726949755145476,0,1,nl,SEA,Asia
 'bdeeebc881',extremes,Storm,#b3b2b1,wmo,stormvloed gelderland,2026-03-25T04:33:00+00:00,Netherlands,0.5699016044000715,1,1,nl,NEU,Europe
-'07babddb74',extremes,Drought,#edc291,edo,droogte sint maarten,2026-04-12T05:12:00+00:00,Sint Maarten,0.5687955793163085,0,1,nl,CAR,North-America
 '7106d0ba4f',extremes,Storm,#b3b2b1,wmo,stormvloed België,2026-04-01T05:12:00+00:00,Belgium,0.568596010072018,1,1,nl,WCE,Europe
 '286f532382',extremes,Snow&Ice,#d60d2b,wmo,ijs België,2026-03-15T04:45:00+00:00,Belgium,0.5667469998861886,1,1,nl,WCE,Europe
 '5689409e06',extremes,Storm,#b3b2b1,wmo,storm texel,2026-04-05T05:01:00+00:00,Netherlands,0.5625648414633945,1,1,nl,NEU,Europe
-'da0803d83b',extremes,Precipitation,#d60d2b,wmo,stortbui Indonesië,2026-04-07T04:59:00+00:00,Indonesia,0.5613413115613252,0,1,nl,SEA,Asia
 'ea7c6401f7',extremes,Fog,#d60d2b,wmo,mist drenthe,2026-04-14T05:11:00+00:00,Netherlands,0.5594385413169266,1,1,nl,NEU,Europe
 '6cfc55b8b1',extremes,Drought,#edc291,edo,droogte bonaire sint eustatius en saba,2026-04-13T05:28:00+00:00,Bonaire; Saint Eustatius and Saba ,0.5539306158700494,0,1,nl,CAR,North-America
 'd46ac7becc',extremes,Drought,#edc291,edo,gebrek aan regen Aruba,2026-04-03T04:43:00+00:00,Aruba,0.5504484313494109,1,1,nl,CAR,North-America
 '3d690ea060',extremes,Drought,#edc291,edo,droogte Aruba,2026-04-22T05:13:00+00:00,Aruba,0.5492781327772901,1,1,nl,CAR,North-America
 '96957773c4',extremes,Fog,#d60d2b,wmo,mist luxemburg,2026-04-01T05:12:00+00:00,Belgium,0.5485011786286599,1,1,nl,WCE,Europe
-'30bc906e71',extremes,Precipitation,#d60d2b,wmo,regen Indonesië,2026-04-11T04:34:00+00:00,Indonesia,0.5464268785594937,0,1,nl,SEA,Asia
 '26b7df1ccf',extremes,Drought,#edc291,edo,droogte sint maarten,2026-04-10T05:13:00+00:00,Sint Maarten,0.5393659003632126,1,1,nl,CAR,North-America
 'a6206dc774',extremes,Drought,#edc291,edo,gebrek aan regen bonaire sint eustatius en saba,2026-04-19T05:16:00+00:00,Bonaire; Saint Eustatius and Saba ,0.5377828933339653,0,1,nl,CAR,North-America
 '80a1b6ba6b',extremes,Drought,#edc291,edo,droogte belgie,2026-04-15T05:12:00+00:00,Belgium,0.5339108421642257,1,1,nl,WCE,Europe
@@ -52,8 +49,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b60d712c2d',extremes,Snow&Ice,#d60d2b,wmo,ijskoud antwerpen,2026-03-27T04:57:00+00:00,Belgium,0.4890339479979155,1,1,nl,WCE,Europe
 'fd68baa97f',extremes,Storm,#b3b2b1,wmo,stormvloed zuid holland,2026-03-25T04:33:00+00:00,Netherlands,0.4884081081629245,1,1,nl,NEU,Europe
 'dfef3989ad',extremes,Drought,#edc291,edo,droge periode nederland,2026-04-22T05:13:00+00:00,Netherlands,0.4873693191364742,1,1,nl,NEU,Europe
+'7da716f8d7',extremes,Precipitation,#d60d2b,wmo,neerslag indonesië,2026-04-06T05:11:00+00:00,Indonesia,0.4867907291873655,1,1,nl,SEA,Asia
 '463fcf97bd',extremes,Snow&Ice,#d60d2b,wmo,vorst limburg,2026-03-27T04:57:00+00:00,Belgium,0.4867606052981266,1,1,nl,WCE,Europe
 'd17aefc684',extremes,Storm,#b3b2b1,wmo,stormvloed hoek van holland,2026-03-25T04:33:00+00:00,Netherlands,0.4864192058973987,1,1,nl,NEU,Europe
+'07babddb74',extremes,Drought,#edc291,edo,droogte sint maarten,2026-04-12T05:12:00+00:00,Sint Maarten,0.4834762424188622,1,1,nl,CAR,North-America
+'da0803d83b',extremes,Precipitation,#d60d2b,wmo,stortbui Indonesië,2026-04-07T04:59:00+00:00,Indonesia,0.47714011482712637,1,1,nl,SEA,Asia
 'abb843243a',extremes,Precipitation,#d60d2b,wmo,regen Jawa Timur,2026-03-30T05:12:00+00:00,Indonesia,0.4741034862080374,0,1,nl,SEA,Asia
 'bcf2484ef5',extremes,Precipitation,#d60d2b,wmo,hevige regen Atjeh,2026-04-05T05:01:00+00:00,Indonesia,0.4730382240190982,0,1,nl,SEA,Asia
 '41b16cb606',extremes,Precipitation,#d60d2b,wmo,hevige regen sulawesi barat,2026-04-13T05:28:00+00:00,Indonesia,0.4729787731211771,0,1,nl,SEA,Asia
