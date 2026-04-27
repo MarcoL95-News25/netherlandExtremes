@@ -165,11 +165,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '410e980686',extremes,Earthquake,#870007,usgs,aardbeving gunungsitoli,2026-04-20T05:26:00+00:00,Indonesia,0.3506736773281427,1,1,nl,SEA,Asia
 '96fb61f7f7',extremes,Earthquake,#870007,usgs,aardbeving labuan bajo,2026-03-28T04:33:00+00:00,Indonesia,0.345736032722809,1,1,nl,SEA,Asia
 '32a7b42dae',extremes,Earthquake,#870007,usgs,aardbeving labuan,2026-03-22T04:33:00+00:00,Indonesia,0.3434470456871852,1,1,nl,SEA,Asia
-'949852dced',extremes,Earthquake,#870007,usgs,aardbeving sukabumi,2026-04-02T04:41:00+00:00,Indonesia,0.3431174052267864,0,1,nl,SEA,Asia
 '5284f472a6',extremes,Earthquake,#870007,usgs,aardbeving tuapejat,2026-04-05T05:01:00+00:00,Indonesia,0.3427762084152951,1,1,nl,SEA,Asia
 'b320c39ee1',extremes,Earthquake,#870007,usgs,aardbeving bandar lampung,2026-04-15T05:11:00+00:00,Indonesia,0.3425725555834803,1,1,nl,SEA,Asia
 '792a35d4a4',extremes,Flood,#030ba1,random,wateroverlast,2026-03-24T04:31:00+00:00,,0.3422313736317949,1,2,nl,,
-'3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,zware regen,2026-03-26T04:56:00+00:00,,0.3412463241800087,0,1,nl,,
 'a652c78afc',extremes,Drought,#edc291,random,megadroogte,2026-04-09T04:57:00+00:00,,0.3408340894496867,0,1,nl,,
 '7530c54c05',extremes,Earthquake,#870007,usgs,aardbeving waisai,2026-04-03T04:42:00+00:00,Indonesia,0.3406893939894573,1,1,nl,SEA,Asia
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,koudegolf,2026-04-01T05:12:00+00:00,,0.3399474049094569,0,1,nl,,
@@ -599,6 +597,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '11db661ab4',extremes,Thunderstorm,#53785a,wmo,zwaar weer Malediven,2026-04-16T05:17:00+00:00,Maldives,0.3000231411051195,0,1,nl,EIO,Indian Ocean
 '331c67a68a',extremes,Precipitation,#d60d2b,wmo,neerslag noordland,2026-04-07T04:59:00+00:00,New Zealand,0.3000062272043449,0,1,nl,NZ,Oceania
 '509082d6c7',extremes,Flood,#030ba1,wmo,overstroming sauk wi,2026-04-06T05:11:00+00:00,United States,0.2999960532061814,0,1,nl,CNA,North-America
+'949852dced',extremes,Earthquake,#870007,usgs,aardbeving sukabumi,2026-04-02T04:41:00+00:00,Indonesia,0.29164979444276845,1,1,nl,SEA,Asia
+'3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,zware regen,2026-03-26T04:56:00+00:00,,0.2914095105530074,1,1,nl,,
 '9969e8e386',extremes,Flood,#030ba1,emdat,overstroming centrale regio,2026-03-24T04:32:00+00:00,Kenya,0.264512410425559,1,1,nl,SEAF,Africa
 '8d5bbc659e',extremes,Flood,#030ba1,emdat,overstroming malawi,2026-03-24T04:32:00+00:00,Malawi,0.264391513327864,1,1,nl,ESAF,Africa
 '548a967433',extremes,Storm,#b3b2b1,emdat,stormtete,2026-03-24T04:32:00+00:00,Mozambique,0.2618360086084816,1,1,nl,ESAF,Africa
