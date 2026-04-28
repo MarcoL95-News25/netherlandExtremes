@@ -1,9 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '0d9b148c07',extremes,Fog,#d60d2b,wmo,mist antwerpen,2026-04-25T05:00:00+00:00,Belgium,0.74591070846334,1,1,nl,WCE,Europe
 'fa1ad4c940',extremes,Fog,#d60d2b,wmo,mist oost-vlaanderen,2026-04-25T05:00:00+00:00,Belgium,0.7456487054021678,1,1,nl,WCE,Europe
-'2bb3d20abc',extremes,Fog,#d60d2b,wmo,mist belgië,2026-04-25T05:00:00+00:00,Belgium,0.7446560106433305,0,1,nl,WCE,Europe
 '1512e9c6b2',extremes,Drought,#edc291,edo,droogte suriname,2026-04-15T05:12:00+00:00,Suriname,0.7115292320723199,0,1,nl,NSA,South-America
 'db5f39549c',extremes,Earthquake,#870007,usgs,aardbeving indonesië,2026-04-06T05:11:00+00:00,Indonesia,0.6606832597619205,1,2,nl,SEA,Asia
+'2bb3d20abc',extremes,Fog,#d60d2b,wmo,mist belgië,2026-04-25T05:00:00+00:00,Belgium,0.634907804046831,1,1,nl,WCE,Europe
 '42d185b3a6',extremes,Fog,#d60d2b,wmo,mist gelderland,2026-04-01T05:12:00+00:00,Netherlands,0.6326574643491135,1,1,nl,NEU,Europe
 '28f9809f85',extremes,Drought,#edc291,edo,droogte bonaire sint eustatius en saba,2026-04-18T04:57:00+00:00,Bonaire; Saint Eustatius and Saba ,0.6317838037735434,0,1,nl,CAR,North-America
 '58275fcc95',extremes,Fog,#d60d2b,wmo,mist west-vlaanderen,2026-04-25T05:00:00+00:00,Belgium,0.6313459468726145,1,1,nl,WCE,Europe
@@ -438,7 +438,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cb76411c7e',extremes,Storm,#b3b2b1,wmo,stormvloed oostenrijk,2026-03-25T04:33:00+00:00,Austria,0.302796385673814,0,1,nl,WCE,Europe
 'd56de5f4df',extremes,Drought,#edc291,edo,gebrek aan regen letland,2026-04-11T04:34:00+00:00,Latvia,0.3027847510710388,0,1,nl,WCE,Europe
 '2cb70e27d7',extremes,Snow Avalanche,#deddd5,wmo,lawinerepubliek buryatia,2026-04-10T05:13:00+00:00,Russia,0.3027725251001858,0,1,nl,ESB,Europe
-'1c38b19449',extremes,Storm,#b3b2b1,random,stofkommen,2026-04-18T04:56:00+00:00,,0.30277015003956537,1,1,nl,,
+'1c38b19449',extremes,Storm,#b3b2b1,random,stofkommen,2026-04-18T04:56:00+00:00,,0.3027701500395653,1,1,nl,,
 'a3bf116e36',extremes,Wildfire,#d60d2b,wmo,wildvuur Malong-district,2026-03-25T04:33:00+00:00,China,0.3027614718218533,0,1,nl,EAS,Asia
 '79e64835e0',extremes,Wildfire,#d60d2b,wmo,wildvuur provincie Qiubei,2026-04-05T05:01:00+00:00,China,0.3027483918448603,0,1,nl,EAS,Asia
 'e190a41be9',extremes,Precipitation,#d60d2b,wmo,regen على بعض مناطق غرب ليبيا.,2026-03-31T04:59:00+00:00,Libya,0.3027442274390931,0,1,nl,SAH,Africa
@@ -584,7 +584,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f96d822508',extremes,Storm,#b3b2b1,wmo,stormvloed offshore-pedrobankgebied,2026-04-04T04:30:00+00:00,Jamaica,0.3004276279218398,0,1,nl,CAR,North-America
 'be7b309c2b',extremes,Snow Avalanche,#deddd5,wmo,lawine svartisen,2026-04-13T05:28:00+00:00,Norway,0.300412796602603,0,1,nl,NEU,Europe
 '2f0d530ba3',extremes,Wildfire,#d60d2b,wmo,natuurbrand provincie huize,2026-04-10T05:13:00+00:00,China,0.3004082690622565,0,1,nl,EAS,Asia
-'8a1a9038c3',extremes,Storm,#b3b2b1,random,sneeuwstorm,2026-04-22T05:13:00+00:00,,0.30039634457007447,1,1,nl,,
+'8a1a9038c3',extremes,Storm,#b3b2b1,random,sneeuwstorm,2026-04-22T05:13:00+00:00,,0.3003963445700744,1,1,nl,,
 '97185764af',extremes,Snow Avalanche,#deddd5,wmo,lawine indre fjordane,2026-04-13T05:28:00+00:00,Norway,0.3003890395140738,0,1,nl,NEU,Europe
 '02f56319a7',extremes,Flood,#030ba1,aidr,overstroming Australië,2026-04-06T05:12:00+00:00,Australia,0.300376300747783,0,1,nl,CAU,Oceania
 '3e83a7feab',extremes,Storm,#b3b2b1,wmo,stormvloed iqaluit kimmirut kinngait,2026-04-12T05:12:00+00:00,Canada,0.300362633981648,0,1,nl,NEN,North-America
