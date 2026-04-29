@@ -184,6 +184,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b320c39ee1',extremes,Earthquake,#870007,usgs,aardbeving bandar lampung,2026-04-15T05:11:00+00:00,Indonesia,0.3425725555834803,1,1,nl,SEA,Asia
 '792a35d4a4',extremes,Flood,#030ba1,random,wateroverlast,2026-03-24T04:31:00+00:00,,0.3422313736317949,1,2,nl,,
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,hagel,2026-04-10T05:12:00+00:00,,0.3415908312087164,1,1,nl,,
+'8b4587c763',extremes,Storm,#b3b2b1,random,stofstorm,2026-04-28T05:44:00+00:00,,0.34084722609700613,0,1,nl,,
 '7530c54c05',extremes,Earthquake,#870007,usgs,aardbeving waisai,2026-04-03T04:42:00+00:00,Indonesia,0.3406893939894573,1,1,nl,SEA,Asia
 'c948617fef',extremes,Heat Wave,#c40202,random,blootstelling aan extreme hitte,2026-04-12T05:11:00+00:00,,0.3403493125865163,0,1,nl,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,afkalven van ijsbergen,2026-04-27T05:39:00+00:00,,0.3398697051047775,1,1,nl,,
@@ -198,19 +199,28 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-04-21T05:14:00+00:00,,0.333665592515051,0,1,nl,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,ijsberg antarctica,2026-04-03T04:42:00+00:00,,0.3330960748523434,1,1,nl,,
 '2d88e3d33a',extremes,Earthquake,#870007,usgs,aardbeving pototano,2026-04-18T04:56:00+00:00,Indonesia,0.3326725607254062,1,1,nl,SEA,Asia
+'e593608bfa',extremes,Snow&Ice,#d60d2b,random,sneeuwpakket,2026-04-20T05:26:00+00:00,,0.3321871475371254,0,1,nl,,
 '93171a11bc',extremes,Earthquake,#870007,usgs,aardbeving maumere,2026-04-09T04:57:00+00:00,Indonesia,0.3316889087924458,1,1,nl,SEA,Asia
 'da1ae5191e',extremes,Storm,#b3b2b1,random,stormvloed,2026-04-05T05:00:00+00:00,,0.3300096789303587,1,1,nl,,
+'80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,temperatuurdaling,2026-04-18T04:56:00+00:00,,0.32907292913252495,0,1,nl,,
+'633ed59c63',extremes,Iceberg,#d60d2b,random,arctisch zee-ijs,2026-04-15T05:11:00+00:00,,0.3287050051915511,0,1,nl,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,recordkoude,2026-04-07T04:58:00+00:00,,0.3280897327937368,1,1,nl,,
 '7b765a4d4c',extremes,Precipitation,#d60d2b,random,stortbui,2026-04-13T05:27:00+00:00,,0.3277126966076318,1,1,nl,,
+'4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,sprinkhanen,2026-04-27T05:39:00+00:00,,0.3264585973878632,0,1,nl,,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,koudste winter,2026-04-13T05:27:00+00:00,,0.3257289395512072,1,1,nl,,
+'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,nationaal orkaancentrum,2026-04-11T04:34:00+00:00,,0.32549499553721084,0,1,nl,,
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,sneeuwbrij,2026-03-27T04:56:00+00:00,,0.3254450446958264,1,1,nl,,
 '59b529f428',extremes,Thunderstorm,#53785a,random,hagelbui,2026-04-17T05:15:00+00:00,,0.3251297389530634,1,1,nl,,
 '16ec7582c8',extremes,Drought,#edc291,edo,droogte Indonesië,2026-04-21T05:15:00+00:00,Indonesia,0.3250659542220287,1,1,nl,SEA,Asia
+'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,kwikdaling,2026-04-26T05:25:00+00:00,,0.3245964723094341,0,1,nl,,
+'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,zware neerslag,2026-04-28T05:44:00+00:00,,0.32398242446580894,0,1,nl,,
+'20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-04-10T05:12:00+00:00,,0.3231968955189829,0,1,nl,,
 '9aceadd432',extremes,Heat Wave,#c40202,random,recordhitte,2026-03-30T05:11:00+00:00,,0.3227308390414464,1,1,nl,,
 '595acbcf9f',extremes,Heat Wave,#c40202,random,heetste dag,2026-04-04T04:30:00+00:00,,0.3226339267122532,0,1,nl,,
 'f37139fe2d',extremes,Landslide,#572c03,random,modderstroom,2026-03-29T04:59:00+00:00,,0.3222335607544052,0,1,nl,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-03-31T04:59:00+00:00,,0.3211439890830261,0,1,nl,,
 '54927bfe65',extremes,Flood,#030ba1,random,kustoverstromingen,2026-03-27T04:56:00+00:00,,0.3205575926419128,1,1,nl,,
+'0a8e5743d9',extremes,Landslide,#572c03,random,aardverschuiving,2026-04-12T05:11:00+00:00,,0.32047861492082896,0,1,nl,,
 'e1559df16c',extremes,Earthquake,#870007,usgs,aardbeving tobelo,2026-04-14T05:10:00+00:00,Indonesia,0.3204491415655233,1,1,nl,SEA,Asia
 '72e8366c4b',extremes,Unknown,#d60d2b,cmeter,onbekend orlando,2026-04-17T05:16:00+00:00,United States,0.3194993445491882,0,1,nl,ENA,North-America
 'c7fa466900',extremes,Cold Wave,#a7e9fa,acwe,koudegolf Nieuw Zuid-Wales,2026-03-30T05:12:00+00:00,Australia,0.3193784373370132,0,1,nl,EAU,Oceania
@@ -616,5 +626,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ccefefc59e',extremes,Drought,#edc291,random,plotselinge droogte,2026-04-12T05:11:00+00:00,,0.2944273189002455,1,1,nl,,
 '949852dced',extremes,Earthquake,#870007,usgs,aardbeving sukabumi,2026-04-02T04:41:00+00:00,Indonesia,0.2916497944427684,1,1,nl,SEA,Asia
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,zware regen,2026-03-26T04:56:00+00:00,,0.2914095105530074,1,1,nl,,
-'a652c78afc',extremes,Drought,#edc291,random,megadroogte,2026-04-09T04:57:00+00:00,,0.28970897603223367,1,1,nl,,
+'a652c78afc',extremes,Drought,#edc291,random,megadroogte,2026-04-09T04:57:00+00:00,,0.2897089760322336,1,1,nl,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,koudegolf,2026-04-01T05:12:00+00:00,,0.2891053091730384,1,1,nl,,
