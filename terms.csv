@@ -92,6 +92,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,zwaar weer Canada,2026-04-14T05:11:00+00:00,Canada,0.4102697193742241,1,2,nl,NEN,North-America
 'f90601fa23',extremes,Volcano,#b83202,random,vulkaanuitbarsting,2026-04-07T04:58:00+00:00,,0.4100075473236523,0,1,nl,,
 '854af57bd3',extremes,Fog,#d60d2b,wmo,mist Canada,2026-04-03T04:43:00+00:00,Canada,0.4088595510627085,1,2,nl,NEN,North-America
+'aab7909052',extremes,Fog,#d60d2b,wmo,mist Israël,2026-04-03T04:43:00+00:00,Israel,0.40878273501226015,1,2,nl,MED,Asia
 'eb7369414b',extremes,Precipitation,#d60d2b,wmo,hevige regen gorontalo,2026-03-30T05:12:00+00:00,Indonesia,0.4085243278561598,1,1,nl,SEA,Asia
 'a76ed106fb',extremes,Precipitation,#d60d2b,wmo,stortbui kalimantan timur,2026-04-06T05:11:00+00:00,Indonesia,0.4080593069143909,1,1,nl,SEA,Asia
 'a4e79576c1',extremes,Precipitation,#d60d2b,wmo,regen kep. riau,2026-04-11T04:34:00+00:00,Indonesia,0.4069100064942068,1,1,nl,SEA,Asia
@@ -240,21 +241,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b3805b8a4c',extremes,Heat Wave,#c40202,wmo,hittegolf 53 mandals,2026-04-03T04:43:00+00:00,India,0.3047026776826429,1,1,nl,SAS,Asia
 '0719424b4d',extremes,Snow&Ice,#d60d2b,wmo,sneeuwblida,2026-03-29T05:00:00+00:00,Algeria,0.3045986241432377,0,1,nl,SAH,Africa
 '271200cbb0',extremes,Wildfire,#d60d2b,wmo,wildvuur andhra pradesh,2026-04-03T04:43:00+00:00,India,0.3040574214873138,0,1,nl,SAS,Asia
-'af081911d9',extremes,Precipitation,#d60d2b,wmo,hevige regen Wellington met uitzondering van porirua,2026-04-20T05:27:00+00:00,New Zealand,0.3036008852647019,0,1,nl,NZ,Oceania
-'355605856d',extremes,Precipitation,#d60d2b,wmo,neerslag Tsjaad,2026-04-07T04:59:00+00:00,Chad,0.3035953716271062,0,1,nl,SAH,Africa
-'e8f2fdcc3a',extremes,Precipitation,#d60d2b,wmo,regen Thailand,2026-04-11T04:34:00+00:00,Thailand,0.3035903101001305,0,1,nl,SEA,Asia
-'1a5d7f7924',extremes,Wildfire,#d60d2b,wmo,wildvuur uttar pradesh,2026-04-03T04:43:00+00:00,India,0.3035490178801949,0,1,nl,SAS,Asia
-'8b022b84c7',extremes,Wildfire,#d60d2b,wmo,wildvuur madhya pradesh,2026-04-03T04:43:00+00:00,India,0.3035460948328474,0,1,nl,SAS,Asia
-'2f5808d63b',extremes,Storm,#b3b2b1,wmo,stormvloed verenigd koninkrijk,2026-04-04T04:30:00+00:00,United Kingdom,0.3035419732587088,0,1,nl,NEU,Europe
-'43e3252826',extremes,Storm,#b3b2b1,wmo,storm Moldavië,2026-04-08T05:01:00+00:00,Moldova,0.3035351835768036,0,1,nl,WCE,Europe
-'adacd65a27',extremes,Storm,#b3b2b1,wmo,storm paraguay,2026-04-12T05:12:00+00:00,Paraguay,0.3034871939336278,0,1,nl,SES,South-America
-'4849129548',extremes,Tropical Cyclone,#4f4f4f,wmo,tropische cycloon Salomonseilanden,2026-04-05T05:01:00+00:00,Solomon Islands,0.3034639200153801,0,1,nl,EPO,Oceania
-'4ae75fc210',extremes,Precipitation,#d60d2b,wmo,stortbui Saoedi-Arabië,2026-04-08T05:01:00+00:00,Saudi Arabia,0.3034468390158691,0,1,nl,ARP,Asia
-'589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,sneeuw Argentinië,2026-04-11T04:34:00+00:00,Argentina,0.3034391239708343,0,1,nl,SES,South-America
-'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,wildvuur uttarakhand,2026-04-03T04:43:00+00:00,India,0.3034241162624382,0,1,nl,SAS,Asia
-'97cf231a2f',extremes,Wildfire,#d60d2b,wmo,wildvuur odisha,2026-04-03T04:43:00+00:00,India,0.3034159997060623,0,1,nl,SAS,Asia
-'6e5947027b',extremes,Precipitation,#d60d2b,wmo,hevige regen waikato,2026-04-11T04:34:00+00:00,New Zealand,0.3033922672886855,0,1,nl,NZ,Oceania
-'aab7909052',extremes,Fog,#d60d2b,wmo,mist Israël,2026-04-03T04:43:00+00:00,Israel,0.3033913470732473,0,1,nl,MED,Asia
 'f19783ecd9',extremes,Heat Wave,#c40202,wmo,hittegolf honghe county,2026-04-01T05:12:00+00:00,China,0.3033167136551409,0,1,nl,EAS,Asia
 '22f763dc6a',extremes,Precipitation,#d60d2b,wmo,regen Amazonië,2026-03-30T05:12:00+00:00,Ecuador,0.3033161175312742,0,1,nl,NWS,South-America
 '8180415a6e',extremes,Storm,#b3b2b1,wmo,stormvloed solapur,2026-04-03T04:43:00+00:00,India,0.3032790462829553,0,1,nl,SAS,Asia
@@ -545,17 +531,31 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fda000bba3',extremes,Storm,#b3b2b1,wmo,stormvloed litoral y sierra,2026-04-05T05:01:00+00:00,Ecuador,0.2585963338340572,1,1,nl,NWS,South-America
 'a015920a8d',extremes,Precipitation,#d60d2b,wmo,stortregens in de Kaweka- en Ruahine-gebieden,2026-04-11T04:34:00+00:00,New Zealand,0.2585857498285822,1,1,nl,NZ,Oceania
 '6852666385',extremes,Earthquake,#870007,usgs,aardbeving haven Mathurin,2026-04-13T05:27:00+00:00,Mauritius,0.2585731735506393,1,1,nl,SIO,Indian Ocean
-'8f1c5d5139',extremes,Tropical Cyclone,#4f4f4f,wmo,tyfoon western isabel en choiseul,2026-04-05T05:01:00+00:00,Solomon Islands,0.25853461701417396,1,1,nl,EPO,Oceania
-'69840e877f',extremes,Storm,#b3b2b1,wmo,storm bulgarije,2026-04-08T05:01:00+00:00,Bulgaria,0.25849413717259495,1,1,nl,MED,Europe
-'919b5ab130',extremes,Earthquake,#870007,usgs,aardbeving jap,2026-04-10T05:12:00+00:00,Federated States,0.25842074233839946,1,1,nl,NPO,Pacific Ocean
-'9a99aaf69a',extremes,Snow&Ice,#d60d2b,wmo,ijskoude oostfjorden,2026-04-13T05:28:00+00:00,Iceland,0.25841140173244154,1,1,nl,GIC,Europe
+'8f1c5d5139',extremes,Tropical Cyclone,#4f4f4f,wmo,tyfoon western isabel en choiseul,2026-04-05T05:01:00+00:00,Solomon Islands,0.2585346170141739,1,1,nl,EPO,Oceania
+'69840e877f',extremes,Storm,#b3b2b1,wmo,storm bulgarije,2026-04-08T05:01:00+00:00,Bulgaria,0.2584941371725949,1,1,nl,MED,Europe
+'919b5ab130',extremes,Earthquake,#870007,usgs,aardbeving jap,2026-04-10T05:12:00+00:00,Federated States,0.2584207423383994,1,1,nl,NPO,Pacific Ocean
+'9a99aaf69a',extremes,Snow&Ice,#d60d2b,wmo,ijskoude oostfjorden,2026-04-13T05:28:00+00:00,Iceland,0.2584114017324415,1,1,nl,GIC,Europe
 'f986239716',extremes,Wildfire,#d60d2b,wmo,wildvuur gujarat,2026-04-03T04:43:00+00:00,India,0.258407667659866,1,1,nl,SAS,Asia
-'1c644a9153',extremes,Tropical Cyclone,#4f4f4f,wmo,tyfoon Salomonseilanden,2026-04-10T05:13:00+00:00,Solomon Islands,0.25833655905246855,1,1,nl,EPO,Oceania
+'1c644a9153',extremes,Tropical Cyclone,#4f4f4f,wmo,tyfoon Salomonseilanden,2026-04-10T05:13:00+00:00,Solomon Islands,0.2583365590524685,1,1,nl,EPO,Oceania
 '8ade601e1d',extremes,Precipitation,#d60d2b,wmo,stortbui Nieuw-Zeeland,2026-04-03T04:43:00+00:00,New Zealand,0.2583289569969627,1,1,nl,NZ,Oceania
 '1c54e04594',extremes,Precipitation,#d60d2b,wmo,hevige regen mila,2026-04-03T04:43:00+00:00,Algeria,0.2583067143984065,1,1,nl,SAH,Africa
 '5d4d529776',extremes,Storm,#b3b2b1,wmo,stormreg. 11 cordillera austral sur,2026-04-11T04:34:00+00:00,Chile,0.2582991952708087,1,1,nl,SWS,South-America
-'1b2dcb2db6',extremes,Storm,#b3b2b1,wmo,stormvloed groot barrière-eiland,2026-04-12T05:12:00+00:00,New Zealand,0.25824503479824357,1,1,nl,NZ,Oceania
+'1b2dcb2db6',extremes,Storm,#b3b2b1,wmo,stormvloed groot barrière-eiland,2026-04-12T05:12:00+00:00,New Zealand,0.2582450347982435,1,1,nl,NZ,Oceania
 'bd8c88b2ec',extremes,Drought,#edc291,edo,gebrek aan regen democratische republiek congo,2026-04-11T04:34:00+00:00,Democratic Republic of the Congo,0.2582225291646463,1,1,nl,CAF,Africa
-'48a9733a03',extremes,Storm,#b3b2b1,wmo,storm Malediven,2026-04-09T04:58:00+00:00,Maldives,0.25813453196729313,1,1,nl,EIO,Indian Ocean
-'0335b20cbc',extremes,Storm,#b3b2b1,wmo,stormvloed reg. 15 cordillera,2026-04-11T04:34:00+00:00,Chile,0.25811936042464034,1,1,nl,SWS,South-America
+'48a9733a03',extremes,Storm,#b3b2b1,wmo,storm Malediven,2026-04-09T04:58:00+00:00,Maldives,0.2581345319672931,1,1,nl,EIO,Indian Ocean
+'0335b20cbc',extremes,Storm,#b3b2b1,wmo,stormvloed reg. 15 cordillera,2026-04-11T04:34:00+00:00,Chile,0.2581193604246403,1,1,nl,SWS,South-America
 '071c3b0054',extremes,Thunderstorm,#53785a,wmo,hagel botswana,2026-04-13T05:28:00+00:00,Botswana,0.2580697033561041,1,1,nl,WSAF,Africa
+'af081911d9',extremes,Precipitation,#d60d2b,wmo,hevige regen Wellington met uitzondering van porirua,2026-04-20T05:27:00+00:00,New Zealand,0.2580607524749966,1,1,nl,NZ,Oceania
+'355605856d',extremes,Precipitation,#d60d2b,wmo,neerslag Tsjaad,2026-04-07T04:59:00+00:00,Chad,0.25805606588304025,1,1,nl,SAH,Africa
+'e8f2fdcc3a',extremes,Precipitation,#d60d2b,wmo,regen Thailand,2026-04-11T04:34:00+00:00,Thailand,0.2580517635851109,1,1,nl,SEA,Asia
+'1a5d7f7924',extremes,Wildfire,#d60d2b,wmo,wildvuur uttar pradesh,2026-04-03T04:43:00+00:00,India,0.25801666519816563,1,1,nl,SAS,Asia
+'8b022b84c7',extremes,Wildfire,#d60d2b,wmo,wildvuur madhya pradesh,2026-04-03T04:43:00+00:00,India,0.25801418060792025,1,1,nl,SAS,Asia
+'2f5808d63b',extremes,Storm,#b3b2b1,wmo,stormvloed verenigd koninkrijk,2026-04-04T04:30:00+00:00,United Kingdom,0.25801067726990246,1,1,nl,NEU,Europe
+'43e3252826',extremes,Storm,#b3b2b1,wmo,storm Moldavië,2026-04-08T05:01:00+00:00,Moldova,0.25800490604028303,1,1,nl,WCE,Europe
+'adacd65a27',extremes,Storm,#b3b2b1,wmo,storm paraguay,2026-04-12T05:12:00+00:00,Paraguay,0.2579641148435836,1,1,nl,SES,South-America
+'4849129548',extremes,Tropical Cyclone,#4f4f4f,wmo,tropische cycloon Salomonseilanden,2026-04-05T05:01:00+00:00,Solomon Islands,0.25794433201307304,1,1,nl,EPO,Oceania
+'4ae75fc210',extremes,Precipitation,#d60d2b,wmo,stortbui Saoedi-Arabië,2026-04-08T05:01:00+00:00,Saudi Arabia,0.25792981316348873,1,1,nl,ARP,Asia
+'589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,sneeuw Argentinië,2026-04-11T04:34:00+00:00,Argentina,0.2579232553752091,1,1,nl,SES,South-America
+'de7359a8f0',extremes,Wildfire,#d60d2b,wmo,wildvuur uttarakhand,2026-04-03T04:43:00+00:00,India,0.2579104988230725,1,1,nl,SAS,Asia
+'97cf231a2f',extremes,Wildfire,#d60d2b,wmo,wildvuur odisha,2026-04-03T04:43:00+00:00,India,0.257903599750153,1,1,nl,SAS,Asia
+'6e5947027b',extremes,Precipitation,#d60d2b,wmo,hevige regen waikato,2026-04-11T04:34:00+00:00,New Zealand,0.25788342719538265,1,1,nl,NZ,Oceania
