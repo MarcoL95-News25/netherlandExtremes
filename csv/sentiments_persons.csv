@@ -1,97 +1,113 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Bart De Wever,Bart De Wever,PERSON,-0.033783783783783786,0.033783783783783786,en,3.6999999999999997
+Donald Trump,Donald Trump,PERSON,0.10828877005347594,0.4393939393939394,en,3.4
 Maxime Prévot,Maxime Prévot,PERSON,-0.007936507936507934,0.16468253968253968,en,2.8
 Jutta Leerdam,Jutta Leerdam,PERSON,-0.11574074074074076,0.2893518518518519,en,2.4
-Donald Trump,Donald Trump,PERSON,0.0,0.045454545454545456,en,2.2
 Frank Deboosere,Frank Deboosere,PERSON,0.068280204643841,0.4782620578075123,en,2.2
 Ruben Weytjens,Ruben Weytjens,PERSON,0.3,0.325,en,2.0
+Wout van Aert,Wout van Aert,PERSON,-0.4444444444444444,0.6783625730994153,en,1.9
 Mathieu van der Poel,Mathieu van der Poel,PERSON,-0.15789473684210523,0.7105263157894738,en,1.9
-Miho Takagi,Miho Takagi,PERSON,0.0,0.0,en,1.9
+Vincent Van Quickenborne,Vincent Van Quickenborne,PERSON,0.02280701754385965,0.41578947368421054,en,1.9
+Jan Martens,Jan Martens,PERSON,0.0,0.0,en,1.9
+André Hazes,André Hazes,PERSON,-0.039473684210526314,0.3771929824561403,en,1.9
+Paul Seixas,Paul Seixas,PERSON,0.31052631578947376,0.3707602339181287,en,1.9
 Michael Freilich,Michael Freilich,PERSON,0.02105263157894737,0.168421052631579,en,1.9
-Storm Goretti,Storm Goretti,PERSON,0.15350877192982457,0.5131578947368421,en,1.9
 Kamp Waes,Kamp Waes,PERSON,0.543859649122807,0.8771929824561403,en,1.9
 Dries Borstlap,Dries Borstlap,PERSON,0.543859649122807,0.8771929824561403,en,1.9
 Matthieu Bonne,Matthieu Bonne,PERSON,0.543859649122807,0.8771929824561403,en,1.9
-Jan Martens,Jan Martens,PERSON,0.0,0.0,en,1.9
-Eva Demesmaeker,Eva Demesmaeker,PERSON,0.05994152046783626,0.66593567251462,en,1.9
-Dosko Beveren,Dosko Beveren,PERSON,0.3684210526315789,0.2210526315789474,en,1.9
-André Hazes,André Hazes,PERSON,-0.039473684210526314,0.3771929824561403,en,1.9
-Wout van Aert,Wout van Aert,PERSON,-0.4444444444444444,0.6783625730994153,en,1.9
 Alicia Bens,Alicia Bens,PERSON,0.07675438596491228,0.23026315789473686,en,1.9
-King Philip,King Philip,PERSON,0.0,0.0,en,1.9
+Dosko Beveren,Dosko Beveren,PERSON,0.3684210526315789,0.2210526315789474,en,1.9
+Eva Demesmaeker,Eva Demesmaeker,PERSON,0.05994152046783626,0.66593567251462,en,1.9
+Miho Takagi,Miho Takagi,PERSON,0.0,0.0,en,1.9
+Storm Goretti,Storm Goretti,PERSON,0.15350877192982457,0.5131578947368421,en,1.9
 De Wever,De Wever,PERSON,0.7894736842105263,0.8157894736842106,en,1.9
+King Philip,King Philip,PERSON,0.0,0.0,en,1.9
 Céline Cremer,Céline Cremer,PERSON,0.02777777777777777,0.16666666666666669,en,1.8
 Felipe Orts,Felipe Orts,PERSON,0.0,0.2777777777777778,en,1.8
+Dick Matena,Dick Matena,PERSON,0.0,0.0,en,1.7
+Peter van der Vorst,Peter van der Vorst,PERSON,0.5441176470588236,0.9215686274509804,en,1.7
 Snowstorm Johannes,Snowstorm Johannes,PERSON,-0.11764705882352942,0.29411764705882354,en,1.7
 Mario Schmidgall,Mario Schmidgall,PERSON,0.06862745098039216,0.303921568627451,en,1.7
-Peter van der Vorst,Peter van der Vorst,PERSON,0.5441176470588236,0.9215686274509804,en,1.7
 Mathieu Hagelaars,Mathieu Hagelaars,PERSON,-0.08578431372549018,0.3333333333333333,en,1.7
 Dick Schreuder,Dick Schreuder,PERSON,0.27499999999999997,0.41875,en,1.6
-Ajay Mitchell,Ajay Mitchell,PERSON,0.038461538461538464,0.15384615384615385,en,1.3
-Roy Meijer,Roy Meijer,PERSON,0.4230769230769231,1.3076923076923077,en,1.3
-Prince Bernhard,Prince Bernhard,PERSON,0.32051282051282054,0.9914529914529913,en,1.3
-Hebo Borsbeke-Herzele,Hebo Borsbeke-Herzele,PERSON,1.0384615384615385,0.6538461538461539,en,1.3
 Kevin Van der Perren,Kevin Van der Perren,PERSON,0.1282051282051282,0.15384615384615383,en,1.3
-Servais Knaven,Servais Knaven,PERSON,0.6153846153846154,0.3076923076923077,en,1.3
-Sandrine Tas,Sandrine Tas,PERSON,0.1282051282051282,0.27350427350427353,en,1.3
-Julie Brouwers,Julie Brouwers,PERSON,0.44545454545454544,0.895104895104895,en,1.3
 Jorge Rey,Jorge Rey,PERSON,0.12912087912087913,0.5274725274725276,en,1.3
-Nicky Hayen,Nicky Hayen,PERSON,1.0833333333333335,1.4583333333333335,en,1.2
-Anne Frank,Anne Frank,PERSON,-0.4166666666666667,0.75,en,1.2
+Servais Knaven,Servais Knaven,PERSON,0.6153846153846154,0.3076923076923077,en,1.3
+Richard Baldwin,Richard Baldwin,PERSON,0.10897435897435896,0.41025641025641024,en,1.3
+Lee Jae-myung,Lee Jae-myung,PERSON,0.21666666666666667,0.5987179487179487,en,1.3
+Prince Bernhard,Prince Bernhard,PERSON,0.32051282051282054,0.9914529914529913,en,1.3
+Julie Brouwers,Julie Brouwers,PERSON,0.44545454545454544,0.895104895104895,en,1.3
+Roy Meijer,Roy Meijer,PERSON,0.4230769230769231,1.3076923076923077,en,1.3
+Sandrine Tas,Sandrine Tas,PERSON,0.1282051282051282,0.27350427350427353,en,1.3
+Ajay Mitchell,Ajay Mitchell,PERSON,0.038461538461538464,0.15384615384615385,en,1.3
+Alejandro Zambra,Alejandro Zambra,PERSON,0.1346153846153846,0.9807692307692306,en,1.3
+Hebo Borsbeke-Herzele,Hebo Borsbeke-Herzele,PERSON,1.0384615384615385,0.6538461538461539,en,1.3
 Vladimir Putin,Vladimir Putin,PERSON,0.4444444444444445,0.7777777777777777,en,1.2
-Stephan Vanfleteren,Stephan Vanfleteren,PERSON,0.0,0.7272727272727272,en,1.1
-De Kempen B,De Kempen B,PERSON,0.0,0.0,en,1.1
-Igor Thiago,Igor Thiago,PERSON,1.1363636363636362,1.5909090909090908,en,1.1
-Excelsior Vorst,Excelsior Vorst,PERSON,0.0,0.0,en,1.1
-De Lijn,De Lijn,PERSON,0.0,0.0,en,1.1
+Anne Frank,Anne Frank,PERSON,-0.4166666666666667,0.75,en,1.2
+Nicky Hayen,Nicky Hayen,PERSON,1.0833333333333335,1.4583333333333335,en,1.2
 Frédéric V,Frédéric V,PERSON,-0.18181818181818182,0.25,en,1.1
 Barbara Gandolfi,Barbara Gandolfi,PERSON,-0.15016233766233766,0.4724025974025974,en,1.1
-Storm Kristin,Storm Kristin,PERSON,-0.05238095238095238,0.43809523809523815,en,1.0
-Dit Dan,Dit Dan,PERSON,1.0,0.3,en,1.0
-Charlène Descollonges,Charlène Descollonges,PERSON,0.0,0.0,en,1.0
-Edward Lorenz,Edward Lorenz,PERSON,0.0,0.0,en,1.0
-Tom Berendsen,Tom Berendsen,PERSON,0.0037878787878787845,0.1931818181818182,en,1.0
-Arnon Grunberg,Arnon Grunberg,PERSON,0.0,0.0,en,1.0
-Els Huybrechts,Els Huybrechts,PERSON,0.0,0.09999999999999999,en,1.0
-Lula da Silva,Lula da Silva,PERSON,0.0,0.0,en,1.0
-Bart Swings,Bart Swings,PERSON,0.0,0.0,en,1.0
-Eendracht Hooglede,Eendracht Hooglede,PERSON,0.35,0.21000000000000002,en,1.0
-De Verraders,De Verraders,PERSON,0.06818181818181818,0.37727272727272726,en,1.0
-Storm Marta,Storm Marta,PERSON,-0.25,0.4,en,1.0
-Karel Tanghe,Karel Tanghe,PERSON,0.35,0.21000000000000002,en,1.0
-Amy Vol,Amy Vol,PERSON,0.0,0.0,en,1.0
-Hilary Duff,Hilary Duff,PERSON,0.0,0.0,en,1.0
-Jordy Vandewalle,Jordy Vandewalle,PERSON,0.35,0.21000000000000002,en,1.0
-Paul Oostveen,Paul Oostveen,PERSON,0.0,0.0,en,1.0
-Gregory Anne,Gregory Anne,PERSON,0.35,0.21000000000000002,en,1.0
-Beau Schneider,Beau Schneider,PERSON,0.0,0.0,en,1.0
-Les Engagés,Les Engagés,PERSON,-0.125,0.125,en,1.0
-Daniel Bellinga,Daniel Bellinga,PERSON,0.17777777777777778,0.18888888888888888,en,1.0
-Sankt Anton,Sankt Anton,PERSON,0.0,0.0,en,1.0
-Filip Watteeuw,Filip Watteeuw,PERSON,-0.2,0.3,en,1.0
+De Lijn,De Lijn,PERSON,0.0,0.0,en,1.1
+Stephan Vanfleteren,Stephan Vanfleteren,PERSON,0.0,0.7272727272727272,en,1.1
+Igor Thiago,Igor Thiago,PERSON,1.1363636363636362,1.5909090909090908,en,1.1
+De Kempen B,De Kempen B,PERSON,0.0,0.0,en,1.1
+Excelsior Vorst,Excelsior Vorst,PERSON,0.0,0.0,en,1.1
 Antoinette Rijpma-de Jong,Antoinette Rijpma-de Jong,PERSON,0.26666666666666666,0.20000000000000004,en,1.0
-Sébastien Lecornu,Sébastien Lecornu,PERSON,0.0,0.0,en,1.0
-Shannan Moon,Shannan Moon,PERSON,0.0,0.0,en,1.0
-Bill White,Bill White,PERSON,0.04,0.22000000000000003,en,1.0
-Eric Goens,Eric Goens,PERSON,0.0,0.0,en,1.0
-Estelle Cruijff,Estelle Cruijff,PERSON,0.13636363636363635,0.45454545454545453,en,1.0
-Looiense Alicia Bens,Looiense Alicia Bens,PERSON,0.2,0.6,en,1.0
-Quentin Deranque,Quentin Deranque,PERSON,-0.26666666666666666,0.39999999999999997,en,1.0
 Michel Nulens,Michel Nulens,PERSON,0.0,0.0,en,1.0
+Quentin Deranque,Quentin Deranque,PERSON,-0.26666666666666666,0.39999999999999997,en,1.0
+Anton Mussert,Anton Mussert,PERSON,0.06818181818181818,0.22727272727272727,en,1.0
+Estelle Cruijff,Estelle Cruijff,PERSON,0.13636363636363635,0.45454545454545453,en,1.0
+Auke Kok,Auke Kok,PERSON,0.06818181818181818,0.22727272727272727,en,1.0
+Jacqueline Koopmans,Jacqueline Koopmans,PERSON,-0.2,0.1,en,1.0
 Marijke Groenewoud,Marijke Groenewoud,PERSON,0.26666666666666666,0.20000000000000004,en,1.0
-Jamal Oulel,Jamal Oulel,PERSON,0.06666666666666667,0.37777777777777777,en,1.0
-Marnique Van de Vijver,Marnique Van de Vijver,PERSON,0.15625,0.41666666666666663,en,1.0
 Joy Beune,Joy Beune,PERSON,0.26666666666666666,0.20000000000000004,en,1.0
 Kurt Alderweireldt,Kurt Alderweireldt,PERSON,0.8,0.9,en,1.0
+Venice Biennale,Venice Biennale,PERSON,0.0,0.0,en,1.0
+De Wroeter,De Wroeter,PERSON,0.0,0.0,en,1.0
+Olivier Nora,Olivier Nora,PERSON,0.0,0.0,en,1.0
+De Schuldenfabriek,De Schuldenfabriek,PERSON,0.1,0.4,en,1.0
+Jamal Oulel,Jamal Oulel,PERSON,0.06666666666666667,0.37777777777777777,en,1.0
+Filip Watteeuw,Filip Watteeuw,PERSON,-0.2,0.3,en,1.0
+Storm Marta,Storm Marta,PERSON,-0.25,0.4,en,1.0
+Daniel Bellinga,Daniel Bellinga,PERSON,0.17777777777777778,0.18888888888888888,en,1.0
+Els Huybrechts,Els Huybrechts,PERSON,0.0,0.09999999999999999,en,1.0
+Marcel Proust,Marcel Proust,PERSON,0.0,0.4,en,1.0
+Bill White,Bill White,PERSON,0.04,0.22000000000000003,en,1.0
+Beau Schneider,Beau Schneider,PERSON,0.0,0.0,en,1.0
+Shannan Moon,Shannan Moon,PERSON,0.0,0.0,en,1.0
+Eric Goens,Eric Goens,PERSON,0.0,0.0,en,1.0
+De Watergroep,De Watergroep,PERSON,0.0,0.0,en,1.0
+Omar Yaghi,Omar Yaghi,PERSON,0.0,0.0,en,1.0
+Paul Oostveen,Paul Oostveen,PERSON,0.0,0.0,en,1.0
+Tadej Pogacar,Tadej Pogacar,PERSON,0.24,0.45999999999999996,en,1.0
+La Marseillaise,La Marseillaise,PERSON,0.0,0.0,en,1.0
+Gronings Perspectief,Gronings Perspectief,PERSON,0.13333333333333333,0.2333333333333333,en,1.0
+Péter Magyar,Péter Magyar,PERSON,0.0,0.45,en,1.0
+Edward Lorenz,Edward Lorenz,PERSON,0.0,0.0,en,1.0
+Mohammed Benzakour,Mohammed Benzakour,PERSON,-0.08333333333333337,0.8333333333333334,en,1.0
+Tom Poes,Tom Poes,PERSON,0.1,0.5,en,1.0
 R8 inner,R8 inner,PERSON,0.05,0.2833333333333333,en,1.0
 David French,David French,PERSON,0.0,0.0,en,1.0
-Mohammed Benzakour,Mohammed Benzakour,PERSON,-0.08333333333333337,0.8333333333333334,en,1.0
+Sébastien Lecornu,Sébastien Lecornu,PERSON,0.0,0.0,en,1.0
 Dilan Yesilgöz,Dilan Yesilgöz,PERSON,0.0037878787878787845,0.1931818181818182,en,1.0
-De Schuldenfabriek,De Schuldenfabriek,PERSON,0.1,0.4,en,1.0
+Tom Berendsen,Tom Berendsen,PERSON,0.0037878787878787845,0.1931818181818182,en,1.0
+Hilary Duff,Hilary Duff,PERSON,0.0,0.0,en,1.0
+Marnique Van de Vijver,Marnique Van de Vijver,PERSON,0.15625,0.41666666666666663,en,1.0
+Amy Vol,Amy Vol,PERSON,0.0,0.0,en,1.0
+De Verraders,De Verraders,PERSON,0.06818181818181818,0.37727272727272726,en,1.0
+Lula da Silva,Lula da Silva,PERSON,0.0,0.0,en,1.0
+Charlène Descollonges,Charlène Descollonges,PERSON,0.0,0.0,en,1.0
+Sankt Anton,Sankt Anton,PERSON,0.0,0.0,en,1.0
+Ron Cornelissen,Ron Cornelissen,PERSON,0.5,0.5,en,1.0
+Bart Swings,Bart Swings,PERSON,0.0,0.0,en,1.0
+Arnon Grunberg,Arnon Grunberg,PERSON,0.0,0.0,en,1.0
 ill Ousmane Dembélé,ill Ousmane Dembélé,PERSON,-0.5,1.0,en,1.0
-Marcel Gerits,Marcel Gerits,PERSON,0.0,0.0,en,1.0
-Lake Müritz,Lake Müritz,PERSON,-0.3416666666666666,0.5416666666666666,en,1.0
-Jong AA,Jong AA,PERSON,0.5,0.5,en,1.0
+Dit Dan,Dit Dan,PERSON,1.0,0.3,en,1.0
+Helmut Jaspers,Helmut Jaspers,PERSON,0.26666666666666666,0.3333333333333333,en,1.0
+Muhammad D,Muhammad D,PERSON,0.0,0.0,en,1.0
+Arnold van den Bergh,Arnold van den Bergh,PERSON,0.0,0.0,en,1.0
+Lorenzo Van Moerkercke,Lorenzo Van Moerkercke,PERSON,0.1,0.5,en,1.0
+Kyra Eertink,Kyra Eertink,PERSON,0.0,0.0,en,1.0
 Albert De Geyter,Albert De Geyter,PERSON,0.05000000000000001,0.44166666666666665,en,1.0
 Zuhal Demir,Zuhal Demir,PERSON,-0.021212121212121165,0.5404040404040403,en,1.0
 Luk De Bruyker,Luk De Bruyker,PERSON,0.012121212121212116,0.22651515151515153,en,1.0
@@ -117,23 +133,32 @@ Jimmy Hu,Jimmy Hu,PERSON,0.5833333333333334,0.46666666666666673,en,1.0
 Caroline Gennez,Caroline Gennez,PERSON,0.175,0.20625,en,1.0
 Pedro Sánchez,Pedro Sánchez,PERSON,0.0,0.0,en,1.0
 Hasselts Aerocademy,Hasselts Aerocademy,PERSON,0.25,0.3333333333333333,en,1.0
-Kyra Eertink,Kyra Eertink,PERSON,0.0,0.0,en,1.0
-Lorenzo Van Moerkercke,Lorenzo Van Moerkercke,PERSON,0.1,0.5,en,1.0
-Arnold van den Bergh,Arnold van den Bergh,PERSON,0.0,0.0,en,1.0
-Hannes Feys,Hannes Feys,PERSON,-0.3,0.5625,en,1.0
+Arthur De Meyer,Arthur De Meyer,PERSON,0.0,0.0,en,1.0
+Anthony Albanese,Anthony Albanese,PERSON,-0.185,0.58,en,1.0
+Storm Kristin,Storm Kristin,PERSON,-0.05238095238095238,0.43809523809523815,en,1.0
+Peter Bosz,Peter Bosz,PERSON,0.0,0.125,en,1.0
+Eendracht Hooglede,Eendracht Hooglede,PERSON,0.35,0.21000000000000002,en,1.0
+Karel Tanghe,Karel Tanghe,PERSON,0.35,0.21000000000000002,en,1.0
+Jordy Vandewalle,Jordy Vandewalle,PERSON,0.35,0.21000000000000002,en,1.0
+Gregory Anne,Gregory Anne,PERSON,0.35,0.21000000000000002,en,1.0
+Les Engagés,Les Engagés,PERSON,-0.125,0.125,en,1.0
+Looiense Alicia Bens,Looiense Alicia Bens,PERSON,0.2,0.6,en,1.0
+Lake Müritz,Lake Müritz,PERSON,-0.3416666666666666,0.5416666666666666,en,1.0
+Jong AA,Jong AA,PERSON,0.5,0.5,en,1.0
 Thomas Matton,Thomas Matton,PERSON,0.5,0.5,en,1.0
 Noa Braaf,Noa Braaf,PERSON,-0.0375,0.3583333333333333,en,1.0
+Tatjana Hänni,Tatjana Hänni,PERSON,0.125,0.25,en,1.0
 Blizzard Fern,Blizzard Fern,PERSON,0.2,0.2,en,1.0
 Princess Annette,Princess Annette,PERSON,0.20833333333333334,0.6444444444444444,en,1.0
 Peter de Roos,Peter de Roos,PERSON,0.0,0.0,en,1.0
 Mevoc Meerbeke,Mevoc Meerbeke,PERSON,0.8,0.4,en,1.0
 Sint-Jan Hemelveerdegem,Sint-Jan Hemelveerdegem,PERSON,0.8,0.75,en,1.0
 SSJ Hemelveerdegem,SSJ Hemelveerdegem,PERSON,0.55,0.45,en,1.0
-Tatjana Hänni,Tatjana Hänni,PERSON,0.125,0.25,en,1.0
+Marcel Gerits,Marcel Gerits,PERSON,0.0,0.0,en,1.0
 Ben Schuurmans,Ben Schuurmans,PERSON,0.0,0.0,en,1.0
 Sparta Heestert,Sparta Heestert,PERSON,-0.3,0.5625,en,1.0
+Hannes Feys,Hannes Feys,PERSON,-0.3,0.5625,en,1.0
 Vol Liefde,Vol Liefde,PERSON,0.5,0.5,en,1.0
-Muhammad D,Muhammad D,PERSON,0.0,0.0,en,1.0
 De Panne,De Panne,PERSON,0.0,0.0,en,1.0
 Emile Henckaerts,Emile Henckaerts,PERSON,0.0,0.0,en,1.0
 Hans Thijs,Hans Thijs,PERSON,0.0,0.0,en,1.0
@@ -141,8 +166,4 @@ Tectum Achel,Tectum Achel,PERSON,0.0,0.0,en,1.0
 Bart De Bie,Bart De Bie,PERSON,0.0,0.0,en,1.0
 MMA Belgian Losene Keita,MMA Belgian Losene Keita,PERSON,-0.05,0.4,en,1.0
 Losene Keita,Losene Keita,PERSON,0.2,0.2,en,1.0
-Peter Bosz,Peter Bosz,PERSON,0.0,0.125,en,1.0
-Anthony Albanese,Anthony Albanese,PERSON,-0.185,0.58,en,1.0
-Helmut Jaspers,Helmut Jaspers,PERSON,0.26666666666666666,0.3333333333333333,en,1.0
-Arthur De Meyer,Arthur De Meyer,PERSON,0.0,0.0,en,1.0
-Omar Yaghi,Omar Yaghi,PERSON,0.0,0.0,en,1.0
+Vincent Bolloré,Vincent Bolloré,PERSON,0.0,0.4,en,1.0
