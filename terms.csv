@@ -103,7 +103,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd3d3fb7f10',extremes,Drought,#edc291,edo,droogte aruba,2026-04-07T04:59:00+00:00,Aruba,0.4157515811718962,1,1,nl,CAR,North-America
 'a4a9cbb9fe',extremes,Precipitation,#d60d2b,wmo,stortbui kep. bangka belitung,2026-04-07T04:59:00+00:00,Indonesia,0.4155192117205042,1,1,nl,SEA,Asia
 'a5ff1cde4a',extremes,Drought,#edc291,random,bodemvocht,2026-04-13T05:27:00+00:00,,0.4151345813862387,1,2,nl,,
-'dfef3989ad',extremes,Drought,#edc291,edo,droge periode nederland,2026-04-22T05:13:00+00:00,Netherlands,0.41486398126600305,2,1,nl,NEU,Europe
+'dfef3989ad',extremes,Drought,#edc291,edo,droge periode nederland,2026-04-22T05:13:00+00:00,Netherlands,0.414863981266003,2,1,nl,NEU,Europe
 'c873c30e78',extremes,Precipitation,#d60d2b,wmo,hevige regen sumatera utara,2026-04-15T05:12:00+00:00,Indonesia,0.4148041478252348,1,1,nl,SEA,Asia
 '8a9594f38b',extremes,Precipitation,#d60d2b,wmo,hevige regen sulawesi utara,2026-04-17T05:16:00+00:00,Indonesia,0.4138055200549861,1,1,nl,SEA,Asia
 'e34e90edf7',extremes,Precipitation,#d60d2b,wmo,neerslag nusa tenggara timur,2026-04-07T04:59:00+00:00,Indonesia,0.4133754292328799,1,1,nl,SEA,Asia
@@ -249,7 +249,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '16ec7582c8',extremes,Drought,#edc291,edo,droogte Indonesië,2026-04-21T05:15:00+00:00,Indonesia,0.3250659542220287,1,1,nl,SEA,Asia
 'ecc073b974',extremes,Earthquake,#870007,usgs,aardbeving cilacap,2026-05-04T05:49:00+00:00,Indonesia,0.3220609802415711,1,1,nl,SEA,Asia
 'e1559df16c',extremes,Earthquake,#870007,usgs,aardbeving tobelo,2026-04-14T05:10:00+00:00,Indonesia,0.3204491415655233,1,1,nl,SEA,Asia
-'e4c0eb1729',extremes,Wildfire,#d60d2b,random,bosbrand,2026-04-18T04:56:00+00:00,,0.3170833250209666,0,1,nl,,
 '72b6332728',extremes,Snow&Ice,#d60d2b,random,sneeuwstorm,2026-04-19T05:16:00+00:00,,0.3169045189859142,1,1,nl,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,orkaan,2026-04-11T04:34:00+00:00,,0.3158794119907913,1,1,nl,,
 '9b6669f818',extremes,Earthquake,#870007,usgs,aardbeving ambon,2026-04-21T05:14:00+00:00,Indonesia,0.3147975299465366,1,1,nl,SEA,Asia
@@ -411,6 +410,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ed6998ea23',extremes,Tropical Cyclone,#4f4f4f,eonet,tropische storm hagupit,2026-05-07T05:46:00+00:00,,0.2705681132367229,1,1,nl,EPO,Pacific Ocean
 'd53ef05f64',extremes,Precipitation,#d60d2b,acwe,natte periode West-Australië,2026-05-04T05:50:00+00:00,Australia,0.2702883774495468,1,1,nl,CAU,Oceania
 'ffcf460c48',extremes,Heat Wave,#c40202,acwe,hittegolf Queensland,2026-05-04T05:50:00+00:00,Australia,0.2702764055847532,1,1,nl,CAU,Oceania
+'e4c0eb1729',extremes,Wildfire,#d60d2b,random,bosbrand,2026-04-18T04:56:00+00:00,,0.2699708712678216,1,1,nl,,
 'f9a3abc8c2',extremes,Landslide,#572c03,random,modderstroom,2026-05-05T05:28:00+00:00,,0.2678850238807912,1,1,nl,,
 'ec9681f6d8',extremes,Flood,#030ba1,aidr,overstroming tasmanië juni juli 2016,2026-05-12T05:53:00+00:00,Australia,0.2677144455393865,1,1,nl,SAU,Oceania
 '152914913d',extremes,Heat Wave,#c40202,acwe,hittegolf Tasmanië,2026-04-28T05:45:00+00:00,Australia,0.2675166980509432,1,1,nl,SAU,Oceania
