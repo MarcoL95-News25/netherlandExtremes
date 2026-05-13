@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'68529927a3',extremes,Storm,#b3b2b1,wmo,storm noord holland,2026-05-10T05:51:00+00:00,Netherlands,0.6825937688503577,1,2,nl,NEU,Europe
 '0d9b148c07',extremes,Fog,#d60d2b,wmo,mist antwerpen,2026-04-25T05:00:00+00:00,Belgium,0.6672530701147632,3,2,nl,WCE,Europe
 'db5f39549c',extremes,Earthquake,#870007,usgs,aardbeving indonesië,2026-04-06T05:11:00+00:00,Indonesia,0.6606832597619205,1,2,nl,SEA,Asia
 '708206a69e',extremes,Storm,#b3b2b1,wmo,stormvloed nederland,2026-04-28T05:45:00+00:00,Netherlands,0.6496147576399388,2,1,nl,NEU,Europe
@@ -19,6 +18,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '90fce750f8',extremes,Fog,#d60d2b,wmo,mist Henegouwen,2026-05-04T05:50:00+00:00,Belgium,0.5937263515249346,2,1,nl,WCE,Europe
 'b32cdf78a9',extremes,Storm,#b3b2b1,wmo,stormvloed ijmuiden,2026-04-28T05:45:00+00:00,Netherlands,0.5894014152617408,1,1,nl,NEU,Europe
 '5342f1532c',extremes,Drought,#edc291,edo,droogte nederland,2026-04-11T04:34:00+00:00,Netherlands,0.5823494155285869,1,2,nl,NEU,Europe
+'68529927a3',extremes,Storm,#b3b2b1,wmo,storm noord holland,2026-05-10T05:51:00+00:00,Netherlands,0.5803547185228041,2,2,nl,NEU,Europe
 'ae236a7b44',extremes,Fog,#d60d2b,wmo,mist utrecht,2026-05-04T05:50:00+00:00,Netherlands,0.5694277089355022,1,1,nl,NEU,Europe
 '5689409e06',extremes,Storm,#b3b2b1,wmo,storm texel,2026-04-05T05:01:00+00:00,Netherlands,0.5625648414633945,1,1,nl,NEU,Europe
 'ea7c6401f7',extremes,Fog,#d60d2b,wmo,mist drenthe,2026-04-14T05:11:00+00:00,Netherlands,0.5594385413169266,1,1,nl,NEU,Europe
@@ -147,7 +147,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'af3e1373f1',extremes,Precipitation,#d60d2b,wmo,regen kalimantan barat,2026-04-30T05:46:00+00:00,Indonesia,0.388945094563456,1,1,nl,SEA,Asia
 '541021658a',extremes,Precipitation,#d60d2b,wmo,neerslag riau,2026-04-26T05:25:00+00:00,Indonesia,0.3880785327621022,1,1,nl,SEA,Asia
 '95e3ec4f68',extremes,Precipitation,#d60d2b,wmo,stortbui Jawa Barat,2026-04-30T05:46:00+00:00,Indonesia,0.3880419220729302,1,1,nl,SEA,Asia
-'b1ffb10ac8',extremes,Thunderstorm,#53785a,wmo,hagel limburg,2026-05-01T05:54:00+00:00,Netherlands,0.38797713927127897,2,1,nl,NEU,Europe
+'b1ffb10ac8',extremes,Thunderstorm,#53785a,wmo,hagel limburg,2026-05-01T05:54:00+00:00,Netherlands,0.3879771392712789,2,1,nl,NEU,Europe
 '16ded8e7e5',extremes,Precipitation,#d60d2b,wmo,regen kalimantan tengah,2026-04-14T05:11:00+00:00,Indonesia,0.3867666362178181,1,1,nl,SEA,Asia
 'f90601fa23',extremes,Volcano,#b83202,random,vulkaanuitbarsting,2026-04-07T04:58:00+00:00,,0.3866064752251044,1,1,nl,,
 '388a6955d7',extremes,Precipitation,#d60d2b,wmo,stortbui kalimantan barat,2026-04-20T05:27:00+00:00,Indonesia,0.3865001603682888,1,1,nl,SEA,Asia
@@ -250,7 +250,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7fced7e700',extremes,Precipitation,#d60d2b,wmo,stortbui luxemburg,2026-05-10T05:51:00+00:00,Luxembourg,0.305906196785266,0,1,nl,WCE,Europe
 'd7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,ijskoud Brazilië,2026-04-27T05:40:00+00:00,Brazil,0.3058387613440947,0,1,nl,SAM,South-America
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,vorst Australië,2026-04-24T05:22:00+00:00,Australia,0.3057239180036444,0,1,nl,CAU,Oceania
-'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,sneeuw Canada,2026-04-29T05:40:00+00:00,Canada,0.3055877453016766,0,1,nl,NEN,North-America
 '01b678efbf',extremes,Heat Wave,#c40202,wmo,hittegolfreg. 3 precordillera,2026-05-09T05:36:00+00:00,Chile,0.3053258841545402,0,1,nl,SWS,South-America
 '55c39b351d',extremes,Storm,#b3b2b1,random,stofduivel,2026-04-16T05:16:00+00:00,,0.3052415758614332,1,1,nl,,
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,regen Canada,2026-04-23T05:16:00+00:00,Canada,0.3052185870818603,0,1,nl,NEN,North-America
@@ -467,6 +466,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ea0aa28870',extremes,Drought,#edc291,edo,gebrek aan regen Finland,2026-04-22T05:13:00+00:00,Finland,0.259927689800541,1,1,nl,NEU,Europe
 '4dd12d0f3d',extremes,Precipitation,#d60d2b,wmo,stortregens Saoedi-Arabië,2026-04-28T05:45:00+00:00,Saudi Arabia,0.2598347417409009,1,1,nl,ARP,Asia
 '49f364b3e2',extremes,Precipitation,#d60d2b,wmo,stortbui formosa patino pirane.,2026-04-13T05:28:00+00:00,Argentina,0.259789477603012,1,1,nl,SES,South-America
+'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,sneeuw Canada,2026-04-29T05:40:00+00:00,Canada,0.2597495835064251,1,1,nl,NEN,North-America
 '6c11585835',extremes,Drought,#edc291,edo,droogte Litouwen,2026-04-16T05:17:00+00:00,Lithuania,0.2597364439099342,1,1,nl,WCE,Europe
 '5998b1a528',extremes,Thunderstorm,#53785a,wmo,hagel Seychellen,2026-04-22T05:13:00+00:00,Seychelles,0.2597097907338214,1,1,nl,EIO,Africa
 '1ec98711db',extremes,Snow&Ice,#d60d2b,wmo,sneeuw IJsland,2026-04-14T05:11:00+00:00,Iceland,0.2596759126658999,1,1,nl,GIC,Europe
@@ -527,7 +527,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6d73764800',extremes,Earthquake,#870007,usgs,aardbeving zilveren bronnen,2026-04-14T05:10:00+00:00,United States,0.2565491652930308,1,1,nl,WNA,North-America
 '755def29d6',extremes,Storm,#b3b2b1,wmo,stormvloed malawi,2026-04-21T05:15:00+00:00,Malawi,0.256412587541573,1,1,nl,ESAF,Africa
 'b42f77f692',extremes,Snow Avalanche,#deddd5,wmo,lawine finnmarkskysten,2026-04-12T05:12:00+00:00,Norway,0.2561322853251215,1,1,nl,NEU,Europe
-'c1cdcd78fa',extremes,Landslide,#572c03,wmo,aardverschuiving Fuzhou stad,2026-04-11T04:34:00+00:00,China,0.25560555576390326,1,1,nl,EAS,Asia
+'c1cdcd78fa',extremes,Landslide,#572c03,wmo,aardverschuiving Fuzhou stad,2026-04-11T04:34:00+00:00,China,0.2556055557639032,1,1,nl,EAS,Asia
 'f2d8a901f9',extremes,Snow&Ice,#d60d2b,wmo,vorst Milford Road sh94,2026-04-15T05:12:00+00:00,New Zealand,0.2554692858612886,1,1,nl,NZ,Oceania
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,hittegolf Zuid-Australië,2026-05-04T05:50:00+00:00,Australia,0.2307977940982496,2,1,nl,CAU,Oceania
 '2ad19fdc58',extremes,Precipitation,#d60d2b,wmo,stortbui Zuid-Afrika,2026-05-05T05:29:00+00:00,South Africa,0.222662264384173,2,1,nl,WSAF,Africa
