@@ -7,7 +7,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0d9b148c07',extremes,Fog,#d60d2b,wmo,mist antwerpen,2026-04-25T05:00:00+00:00,Belgium,0.5671651545975487,4,1,nl,WCE,Europe
 '708206a69e',extremes,Storm,#b3b2b1,wmo,stormvloed nederland,2026-04-28T05:45:00+00:00,Netherlands,0.552172543993948,3,1,nl,NEU,Europe
 '90353f7f8d',extremes,Fog,#d60d2b,wmo,mist nederland,2026-05-04T05:50:00+00:00,Netherlands,0.5465461130168199,2,1,nl,NEU,Europe
-'6cfc55b8b1',extremes,Drought,#edc291,edo,droogte bonaire sint eustatius en saba,2026-05-07T05:46:00+00:00,Bonaire; Saint Eustatius and Saba ,0.5424090428899673,1,1,nl,CAR,North-America
 '2bb3d20abc',extremes,Fog,#d60d2b,wmo,mist belgië,2026-04-25T05:00:00+00:00,Belgium,0.5410217684398063,2,1,nl,WCE,Europe
 'fa1ad4c940',extremes,Fog,#d60d2b,wmo,mist oost-vlaanderen,2026-04-25T05:00:00+00:00,Belgium,0.5387311896530662,3,1,nl,WCE,Europe
 '58275fcc95',extremes,Fog,#d60d2b,wmo,mist west-vlaanderen,2026-04-25T05:00:00+00:00,Belgium,0.5366440548417223,2,1,nl,WCE,Europe
@@ -32,6 +31,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'da0803d83b',extremes,Precipitation,#d60d2b,wmo,stortbui Indonesië,2026-04-27T05:40:00+00:00,Indonesia,0.4625142659840971,1,1,nl,SEA,Asia
 '767323c54a',extremes,Thunderstorm,#53785a,wmo,onweer groningen,2026-05-01T05:54:00+00:00,Netherlands,0.4624936467549721,1,1,nl,NEU,Europe
 'a4e79576c1',extremes,Precipitation,#d60d2b,wmo,regen kep. riau,2026-05-04T05:50:00+00:00,Indonesia,0.4614694698371693,0,1,nl,SEA,Asia
+'6cfc55b8b1',extremes,Drought,#edc291,edo,droogte bonaire sint eustatius en saba,2026-05-07T05:46:00+00:00,Bonaire; Saint Eustatius and Saba ,0.46119770145647215,2,1,nl,CAR,North-America
 'edb0efe2d9',extremes,Precipitation,#d60d2b,wmo,neerslag Jawa Timur,2026-05-03T05:44:00+00:00,Indonesia,0.4584860335302758,1,1,nl,SEA,Asia
 'd3d3fb7f10',extremes,Drought,#edc291,edo,droogte aruba,2026-04-30T05:46:00+00:00,Aruba,0.4578206689562981,2,1,nl,CAR,North-America
 '928b632d87',extremes,Precipitation,#d60d2b,wmo,neerslag brabant,2026-05-06T05:43:00+00:00,Belgium,0.4570698795256949,2,1,nl,WCE,Europe
@@ -228,7 +228,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bdd313a3f0',extremes,Earthquake,#870007,usgs,aardbeving ransiki,2026-05-02T05:23:00+00:00,Indonesia,0.327231842437679,1,1,nl,SEA,Asia
 '2d02d7ac8a',extremes,Earthquake,#870007,usgs,aardbeving sijunjung,2026-05-02T05:23:00+00:00,Indonesia,0.327166385592718,1,1,nl,SEA,Asia
 'ff848f8a0e',extremes,Precipitation,#d60d2b,wmo,stortbui sumatera selatan,2026-05-05T05:29:00+00:00,Indonesia,0.3265215271690382,2,1,nl,SEA,Asia
-'776fe47817',extremes,Wildfire,#d60d2b,random,wildvuur,2026-05-18T06:38:00+00:00,,0.3259273607693181,0,1,nl,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,nazomer,2026-05-03T05:43:00+00:00,,0.3258361493248519,1,1,nl,,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,koudste winter,2026-04-13T05:27:00+00:00,,0.3257289395512072,1,1,nl,,
 '59b529f428',extremes,Thunderstorm,#53785a,random,hagelbui,2026-04-17T05:15:00+00:00,,0.3251297389530634,1,1,nl,,
@@ -361,6 +360,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,temperatuurdaling,2026-04-18T04:56:00+00:00,,0.2797119897626461,1,1,nl,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,arctisch zee-ijs,2026-04-15T05:11:00+00:00,,0.2793992544128184,1,1,nl,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,sprinkhanen,2026-04-27T05:39:00+00:00,,0.2777898377796837,1,1,nl,,
+'776fe47817',extremes,Wildfire,#d60d2b,random,wildvuur,2026-05-18T06:38:00+00:00,,0.2770382566539204,1,1,nl,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,kwikdaling,2026-04-26T05:25:00+00:00,,0.275907001463019,1,1,nl,,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,zware neerslag,2026-04-28T05:44:00+00:00,,0.2753850607959375,1,1,nl,,
 '0fa8bbc8c4',extremes,Wildfire,#d60d2b,emdat,wildvuur kleiprovincies florida,2026-05-05T05:29:00+00:00,United States,0.2719040087289376,1,1,nl,WNA,North-America
