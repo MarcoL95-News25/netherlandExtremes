@@ -1,7 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '6871a315cf',extremes,Heat Wave,#c40202,wmo,hittegolf limburg,2026-05-26T06:31:00+00:00,Belgium,0.7801848984547844,1,2,nl,WCE,Europe
-'998c9f84db',extremes,Storm,#b3b2b1,wmo,storm nederland,2026-05-11T06:14:00+00:00,Netherlands,0.656280119111038,0,1,nl,NEU,Europe
 '6bab428eb7',extremes,Heat Wave,#c40202,wmo,hittegolf belgië,2026-05-26T06:31:00+00:00,Belgium,0.6354313843443894,1,1,nl,WCE,Europe
+'998c9f84db',extremes,Storm,#b3b2b1,wmo,storm nederland,2026-05-11T06:14:00+00:00,Netherlands,0.5803167776729536,1,1,nl,NEU,Europe
 '7cd4a5ace7',extremes,Fog,#d60d2b,wmo,mist noord holland,2026-05-04T05:50:00+00:00,Netherlands,0.5203325728854378,2,1,nl,NEU,Europe
 'f7a86f9ecd',extremes,Fog,#d60d2b,wmo,mist overijssel,2026-05-04T05:50:00+00:00,Netherlands,0.5200044159669837,4,1,nl,NEU,Europe
 '1f06bf574a',extremes,Snow&Ice,#d60d2b,wmo,vorst nederland,2026-05-11T06:14:00+00:00,Netherlands,0.5199775162928637,3,2,nl,NEU,Europe
@@ -67,7 +67,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0ef808aac9',extremes,Precipitation,#d60d2b,wmo,stortbui bali,2026-05-14T06:02:00+00:00,Indonesia,0.4017135029602512,1,1,nl,SEA,Asia
 '4481a600b6',extremes,Thunderstorm,#53785a,wmo,hagel Flevoland,2026-05-01T05:54:00+00:00,Netherlands,0.4000399018340417,2,1,nl,NEU,Europe
 '16ded8e7e5',extremes,Precipitation,#d60d2b,wmo,regen kalimantan tengah,2026-05-14T06:02:00+00:00,Indonesia,0.399386731178233,1,1,nl,SEA,Asia
-'0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-05-20T06:32:00+00:00,,0.3981054320760149,0,1,nl,,
 '4c8b5a8302',extremes,Precipitation,#d60d2b,wmo,stortbui jambi,2026-04-21T05:15:00+00:00,Indonesia,0.3976681670709843,1,1,nl,SEA,Asia
 '73b3077538',extremes,Drought,#edc291,edo,droogte suriname,2026-04-30T05:46:00+00:00,Suriname,0.3954753437920845,2,1,nl,NSA,South-America
 'fd68baa97f',extremes,Storm,#b3b2b1,wmo,stormvloed zuid holland,2026-05-01T05:54:00+00:00,Netherlands,0.3943972979298571,3,1,nl,NEU,Europe
@@ -214,6 +213,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,koudste dag,2026-05-26T06:31:00+00:00,,0.3388994617948031,1,1,nl,,
 '314ce0eea0',extremes,Precipitation,#d60d2b,wmo,regen sulawesi selatan,2026-05-14T06:02:00+00:00,Indonesia,0.3388783138000565,3,1,nl,SEA,Asia
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,laagste minimumtemperatuur,2026-04-23T05:16:00+00:00,,0.3385755480740421,1,1,nl,,
+'0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-05-20T06:32:00+00:00,,0.33838961726461264,1,1,nl,,
 '5fbbb92ebb',extremes,Precipitation,#d60d2b,wmo,neerslag Jawa barat,2026-04-30T05:46:00+00:00,Indonesia,0.3380813608430972,2,1,nl,SEA,Asia
 '4e5c37cdf1',extremes,Precipitation,#d60d2b,wmo,stortbui bengkulu,2026-05-16T05:40:00+00:00,Indonesia,0.3380135972311184,2,1,nl,SEA,Asia
 '5384da72f3',extremes,Precipitation,#d60d2b,wmo,regen gorontalo,2026-05-01T05:54:00+00:00,Indonesia,0.3378514407471388,2,1,nl,SEA,Asia
