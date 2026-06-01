@@ -1,8 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'70e952af3c',extremes,Thunderstorm,#53785a,wmo,onweer nederland,2026-05-29T06:38:00+00:00,Netherlands,0.7403507464776451,0,1,nl,NEU,Europe
 '102b463b04',extremes,Thunderstorm,#53785a,wmo,onweer waddeneilanden,2026-06-01T07:30:00+00:00,Netherlands,0.6813704053751722,0,1,nl,NEU,Europe
 'eb32bf4b87',extremes,Storm,#b3b2b1,wmo,stormvloed drenthe,2026-06-01T07:30:00+00:00,Netherlands,0.6473489624743558,0,1,nl,NEU,Europe
 '0c0937c867',extremes,Storm,#b3b2b1,wmo,stormvloed limburg,2026-06-01T07:30:00+00:00,Netherlands,0.6355706338562238,0,1,nl,NEU,Europe
+'70e952af3c',extremes,Thunderstorm,#53785a,wmo,onweer nederland,2026-05-29T06:38:00+00:00,Netherlands,0.6294481495059984,1,1,nl,NEU,Europe
 '4fa4ea1135',extremes,Storm,#b3b2b1,wmo,storm zuid holland,2026-06-01T07:30:00+00:00,Netherlands,0.6250080061814608,0,1,nl,NEU,Europe
 '6871a315cf',extremes,Heat Wave,#c40202,wmo,hittegolf limburg,2026-05-26T06:31:00+00:00,Belgium,0.5639836318835817,3,1,nl,WCE,Europe
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,regenbui,2026-05-25T06:52:00+00:00,,0.5604286385749102,2,2,nl,,
@@ -48,7 +48,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a4c2cea6a7',extremes,Drought,#edc291,edo,gebrek aan regen curacao,2026-05-19T06:33:00+00:00,Curacao,0.4482387216681587,2,1,nl,CAR,North-America
 'bfbd5b76d0',extremes,Precipitation,#d60d2b,wmo,regen Atjeh,2026-06-01T07:30:00+00:00,Indonesia,0.4465309246022029,0,1,nl,SEA,Asia
 '5faf426336',extremes,Storm,#b3b2b1,wmo,storm noord-brabant,2026-05-28T06:38:00+00:00,Netherlands,0.4418026386942261,2,1,nl,NEU,Europe
-'1b846b85cb',extremes,Earthquake,#870007,usgs,aardbeving ternate,2026-05-19T06:33:00+00:00,Indonesia,0.43838821152946733,0,1,nl,SEA,Asia
+'1b846b85cb',extremes,Earthquake,#870007,usgs,aardbeving ternate,2026-05-19T06:33:00+00:00,Indonesia,0.4383882115294673,0,1,nl,SEA,Asia
 '28f9809f85',extremes,Drought,#edc291,edo,droogte bonaire sint eustatius en saba,2026-05-14T06:02:00+00:00,Bonaire; Saint Eustatius and Saba ,0.4378053022195849,2,1,nl,CAR,North-America
 'd45fb3874f',extremes,Precipitation,#d60d2b,wmo,neerslag limburg,2026-05-06T05:43:00+00:00,Belgium,0.4363252747287073,2,1,nl,WCE,Europe
 '06a732cd94',extremes,Storm,#b3b2b1,wmo,stormvloed vlissingen,2026-05-19T06:33:00+00:00,Netherlands,0.433333107346507,2,1,nl,NEU,Europe
