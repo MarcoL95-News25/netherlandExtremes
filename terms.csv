@@ -1,8 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'fd68baa97f',extremes,Storm,#b3b2b1,wmo,stormvloed zuid holland,2026-06-02T07:08:00+00:00,Netherlands,0.6566271166833356,0,1,nl,NEU,Europe
-'7d5ec9981f',extremes,Storm,#b3b2b1,wmo,stormvloed noord-brabant,2026-06-02T07:08:00+00:00,Netherlands,0.6498194246737735,0,1,nl,NEU,Europe
-'351c432035',extremes,Thunderstorm,#53785a,wmo,onweer belgie,2026-06-02T07:08:00+00:00,Belgium,0.6170337112974985,1,1,nl,WCE,Europe
-'6448a46c1a',extremes,Thunderstorm,#53785a,wmo,hagel namen,2026-06-02T07:08:00+00:00,Belgium,0.6113731197944985,1,1,nl,WCE,Europe
 '7106d0ba4f',extremes,Storm,#b3b2b1,wmo,stormvloed belgie,2026-06-02T07:08:00+00:00,Belgium,0.6073430076468693,1,1,nl,WCE,Europe
 '4973016b05',extremes,Thunderstorm,#53785a,wmo,zwaar weer belgie,2026-06-02T07:08:00+00:00,Belgium,0.598771713056746,0,1,nl,WCE,Europe
 '894cfd2b00',extremes,Thunderstorm,#53785a,wmo,hagel België,2026-06-02T07:08:00+00:00,Belgium,0.5785965605927201,0,1,nl,WCE,Europe
@@ -11,13 +7,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,regenbui,2026-05-25T06:52:00+00:00,,0.5604286385749102,2,2,nl,,
 '6fab1b5e76',extremes,Thunderstorm,#53785a,wmo,zwaar weer antwerpen,2026-06-02T07:08:00+00:00,Belgium,0.5593619912797576,0,1,nl,WCE,Europe
 'ef5989629b',extremes,Thunderstorm,#53785a,wmo,zwaar weer flevoland,2026-06-02T07:08:00+00:00,Netherlands,0.5590958069480716,0,1,nl,NEU,Europe
+'fd68baa97f',extremes,Storm,#b3b2b1,wmo,stormvloed zuid holland,2026-06-02T07:08:00+00:00,Netherlands,0.5581330491808353,1,1,nl,NEU,Europe
+'7d5ec9981f',extremes,Storm,#b3b2b1,wmo,stormvloed noord-brabant,2026-06-02T07:08:00+00:00,Netherlands,0.5523465109727075,1,1,nl,NEU,Europe
 '70e952af3c',extremes,Thunderstorm,#53785a,wmo,onweer nederland,2026-05-29T06:38:00+00:00,Netherlands,0.5351809420800986,2,1,nl,NEU,Europe
 'dfef3989ad',extremes,Drought,#edc291,edo,droge periode nederland,2026-05-18T06:38:00+00:00,Netherlands,0.5275107187198522,2,1,nl,NEU,Europe
+'351c432035',extremes,Thunderstorm,#53785a,wmo,onweer belgie,2026-06-02T07:08:00+00:00,Belgium,0.5244786546028737,2,1,nl,WCE,Europe
 '6bab428eb7',extremes,Heat Wave,#c40202,wmo,hittegolf belgië,2026-05-26T06:31:00+00:00,Belgium,0.5231042306888214,3,1,nl,WCE,Europe
 '18eddb0302',extremes,Heat Wave,#c40202,wmo,hittegolf antwerpen,2026-05-29T06:38:00+00:00,Belgium,0.5204409003789282,2,1,nl,WCE,Europe
 '7cd4a5ace7',extremes,Fog,#d60d2b,wmo,mist noord holland,2026-05-04T05:50:00+00:00,Netherlands,0.5203325728854378,2,1,nl,NEU,Europe
 'f7a86f9ecd',extremes,Fog,#d60d2b,wmo,mist overijssel,2026-05-04T05:50:00+00:00,Netherlands,0.5200044159669837,4,1,nl,NEU,Europe
 '1f06bf574a',extremes,Snow&Ice,#d60d2b,wmo,vorst nederland,2026-05-11T06:14:00+00:00,Netherlands,0.5199775162928637,3,2,nl,NEU,Europe
+'6448a46c1a',extremes,Thunderstorm,#53785a,wmo,hagel namen,2026-06-02T07:08:00+00:00,Belgium,0.5199671818253238,2,1,nl,WCE,Europe
 '17ea782bc1',extremes,Thunderstorm,#53785a,wmo,hagel nederland,2026-05-01T05:54:00+00:00,Netherlands,0.519183285506689,2,1,nl,NEU,Europe
 '511543dad8',extremes,Drought,#edc291,edo,gebrek aan regen nederland,2026-05-15T06:09:00+00:00,Netherlands,0.514079035253283,2,1,nl,NEU,Europe
 '8b7bb07843',extremes,Storm,#b3b2b1,wmo,stormvloed Luik,2026-05-31T06:40:00+00:00,Belgium,0.5091622872150086,2,1,nl,WCE,Europe
@@ -277,7 +277,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a715281618',extremes,Storm,#b3b2b1,wmo,stormvloed vanuatu,2026-05-14T06:02:00+00:00,Vanuatu,0.3032332482846498,0,1,nl,SPO,Oceania
 '34fd30e809',extremes,Earthquake,#870007,usgs,aardbeving calama,2026-05-26T06:31:00+00:00,Chile,0.3032177329399749,0,1,nl,SWS,South-America
 '87403be846',extremes,Snow&Ice,#d60d2b,wmo,sneeuw Zuid-Afrika,2026-05-06T05:43:00+00:00,South Africa,0.3032073354416345,0,1,nl,WSAF,Africa
-'500172fc71',extremes,Snow&Ice,#d60d2b,wmo,ijskoud Rusland,2026-04-26T05:25:00+00:00,Russia,0.3032037841250155,0,1,nl,ESB,Europe
 'aa20e76f2d',extremes,Precipitation,#d60d2b,wmo,stortregens boven Strand Hermanus,2026-05-10T05:51:00+00:00,South Africa,0.3032014576748681,0,1,nl,WSAF,Africa
 '5cb766f03d',extremes,Storm,#b3b2b1,wmo,stormvloed gebied 2 – matig,2026-05-07T05:46:00+00:00,Paraguay,0.3031954448764587,0,1,nl,SES,South-America
 'a46ce587cc',extremes,Precipitation,#d60d2b,wmo,regenregio litoral,2026-05-12T05:52:00+00:00,Ecuador,0.3031784060855318,0,1,nl,NWS,South-America
