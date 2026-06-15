@@ -36,7 +36,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8c74eddf0a',extremes,Thunderstorm,#53785a,wmo,zwaar weer drenthe,2026-06-09T06:32:00+00:00,Netherlands,0.4680857937777286,2,1,nl,NEU,Europe
 'cef20f11db',extremes,Storm,#b3b2b1,wmo,storm gelderland,2026-05-29T06:38:00+00:00,Netherlands,0.467598811164655,2,1,nl,NEU,Europe
 '30bc906e71',extremes,Precipitation,#d60d2b,wmo,regen Indonesië,2026-05-22T06:32:00+00:00,Indonesia,0.4675649704997052,1,1,nl,SEA,Asia
-'fa9e452d04',extremes,Precipitation,#d60d2b,random,regenbui,2026-05-25T06:52:00+00:00,,0.46565981737037265,4,1,nl,,
+'fa9e452d04',extremes,Precipitation,#d60d2b,random,regenbui,2026-05-25T06:52:00+00:00,,0.4656598173703726,4,1,nl,,
 '3f51a8cb1e',extremes,Thunderstorm,#53785a,wmo,onweer noord-brabant,2026-06-09T06:32:00+00:00,Netherlands,0.4627864647270151,1,1,nl,NEU,Europe
 'a8a7d4d0f0',extremes,Storm,#b3b2b1,wmo,stormvloed flevoland,2026-06-09T06:32:00+00:00,Netherlands,0.4604544762182376,2,1,nl,NEU,Europe
 'd3d3fb7f10',extremes,Drought,#edc291,edo,droogte aruba,2026-05-22T06:32:00+00:00,Aruba,0.4567688648647189,2,1,nl,CAR,North-America
@@ -345,6 +345,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3bacdb81c7',extremes,Flood,#030ba1,wmo,plotselinge overstroming Canada,2026-05-28T06:38:00+00:00,Canada,0.3011714481068441,0,1,nl,NEN,North-America
 '1c0214d974',extremes,Storm,#b3b2b1,wmo,storm Zuid-Afrika,2026-06-03T07:23:00+00:00,South Africa,0.3011639531079541,0,1,nl,WSAF,Africa
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,sneeuw Canada,2026-06-13T06:38:00+00:00,Canada,0.3011625950309901,0,1,nl,NEN,North-America
+'ed5655acf2',extremes,Flood,#030ba1,wmo,overstroming Zuid-Australië Warburton,2026-05-29T06:38:00+00:00,Australia,0.30114203585170324,0,1,nl,CAU,Oceania
 '589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,sneeuw Argentinië,2026-05-25T06:53:00+00:00,Argentina,0.3011411991825682,0,1,nl,SES,South-America
 '9511bd27df',extremes,Flood,#030ba1,wmo,plotselinge overstroming Zuid-Australië Warburton,2026-05-13T06:03:00+00:00,Australia,0.3011350049989897,0,1,nl,CAU,Oceania
 'e058bc3eb7',extremes,Drought,#edc291,edo,droogte sri lanka,2026-05-26T06:31:00+00:00,Sri Lanka,0.3011122555880161,0,1,nl,BOB,Asia
@@ -353,12 +354,21 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0ebdc15703',extremes,Earthquake,#870007,usgs,aardbeving kahaluu keauhou,2026-06-03T07:22:00+00:00,Hawaii,0.3010736733373217,0,1,nl,NPO,Pacific Ocean
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,ijskoud Canada,2026-05-24T06:22:00+00:00,Canada,0.301065406631007,0,1,nl,NEN,North-America
 '2433af70de',extremes,Storm,#b3b2b1,wmo,stormvloed belize,2026-06-12T07:05:00+00:00,Belize,0.3010572736878001,0,1,nl,SCA,North-America
+'501b14a5de',extremes,Precipitation,#d60d2b,wmo,neerslagregio amazónica,2026-06-14T07:07:00+00:00,Ecuador,0.3010525913298929,0,1,nl,NWS,South-America
 '04915d4188',extremes,Precipitation,#d60d2b,wmo,stortbui macau,2026-06-08T07:13:00+00:00,Macao,0.3010469219789293,0,1,nl,EAS,Asia
 '1d7d327aa2',extremes,Storm,#b3b2b1,wmo,stormvloed taranaki en whanganui,2026-06-01T07:30:00+00:00,New Zealand,0.3010301252339655,0,1,nl,NZ,Oceania
+'c40c3d7ce2',extremes,Flood,#030ba1,wmo,overstroming Zweden,2026-06-12T07:05:00+00:00,Sweden,0.30102694613942077,0,1,nl,NEU,Europe
+'68a565abbc',extremes,Storm,#b3b2b1,wmo,stormvloed nieuw-zeeland,2026-06-08T07:13:00+00:00,New Zealand,0.3010229603531492,0,1,nl,NZ,Oceania
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,stormvloed Brazilië,2026-06-06T06:08:00+00:00,Brazil,0.3010044199190708,0,1,nl,SAM,South-America
 '7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,ijs IJsland,2026-05-29T06:38:00+00:00,Iceland,0.3009961849102301,0,1,nl,GIC,Europe
 'fc65ecc005',extremes,Cold Wave,#a7e9fa,wmo,koudegolf Brazilië,2026-06-06T06:08:00+00:00,Brazil,0.3009408922386101,0,1,nl,SAM,South-America
+'d0a1e0bc8b',extremes,Storm,#b3b2b1,wmo,stormvloed koeweit,2026-06-12T07:05:00+00:00,Kuwait,0.30090877200967,0,1,nl,ARP,Asia
+'85213d3f73',extremes,Heat Wave,#c40202,wmo,hittegolf lg quatre laforge en fontanges,2026-06-11T07:14:00+00:00,Canada,0.3008686094500825,0,1,nl,NEN,North-America
 '707a25fcab',extremes,Earthquake,#870007,usgs,aardbeving sungai penuh,2026-05-15T06:09:00+00:00,Indonesia,0.3008568544991472,1,1,nl,SEA,Asia
+'0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,ijskoud Duitsland,2026-06-11T07:14:00+00:00,Germany,0.3008053761376001,0,1,nl,WCE,Europe
+'10bce00d3d',extremes,Precipitation,#d60d2b,wmo,stortbui les zones citées ci haut,2026-06-10T06:49:00+00:00,Chad,0.30079310704184287,0,1,nl,SAH,Africa
+'6b471a0f5b',extremes,Storm,#b3b2b1,wmo,stormvloed Zuid-Afrika,2026-06-02T07:08:00+00:00,South Africa,0.30079121476468296,0,1,nl,WSAF,Africa
+'d77b825e5b',extremes,Flood,#030ba1,wmo,overstroming Canada,2026-06-09T06:32:00+00:00,Canada,0.3007909919386571,0,1,nl,NEN,North-America
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,antarctisch zee-ijs,2026-05-30T06:01:00+00:00,,0.3002273249417252,1,1,nl,,
 'f4e1bf0fdf',extremes,Flood,#030ba1,random,uitbraak van gletsjermeren,2026-06-04T07:06:00+00:00,,0.2978186499413199,1,1,nl,,
 '9b6669f818',extremes,Earthquake,#870007,usgs,aardbeving ambon,2026-05-11T06:14:00+00:00,Indonesia,0.297780528715065,1,1,nl,SEA,Asia
