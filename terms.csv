@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'a834b33b6c',extremes,Drought,#edc291,edo,droogte nederland,2026-06-04T07:06:00+00:00,Netherlands,0.5761506600341809,1,1,nl,NEU,Europe
 '998c9f84db',extremes,Storm,#b3b2b1,wmo,storm nederland,2026-06-02T07:08:00+00:00,Netherlands,0.5627357107899239,3,2,nl,NEU,Europe
 '19ce294d18',extremes,Drought,#edc291,edo,droogte curacao,2026-05-31T06:40:00+00:00,Curacao,0.545160430988631,2,1,nl,CAR,North-America
 'dfef3989ad',extremes,Drought,#edc291,edo,droge periode nederland,2026-05-18T06:38:00+00:00,Netherlands,0.5275107187198522,2,1,nl,NEU,Europe
@@ -24,6 +23,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '102b463b04',extremes,Thunderstorm,#53785a,wmo,onweer waddeneilanden,2026-06-01T07:30:00+00:00,Netherlands,0.4922901178835619,2,1,nl,NEU,Europe
 'a1d0950d4e',extremes,Heat Wave,#c40202,wmo,hittegolf oost-vlaanderen,2026-06-16T08:27:00+00:00,Belgium,0.4922085336844453,2,1,nl,WCE,Europe
 'c3776cfc46',extremes,Drought,#edc291,edo,droge periode Aruba,2026-05-25T06:53:00+00:00,Aruba,0.4911337110845753,1,1,nl,CAR,North-America
+'a834b33b6c',extremes,Drought,#edc291,edo,droogte nederland,2026-06-04T07:06:00+00:00,Netherlands,0.4909281810290538,2,1,nl,NEU,Europe
 '287e242879',extremes,Thunderstorm,#53785a,wmo,zwaar weer Brabant,2026-06-02T07:08:00+00:00,Belgium,0.4892814032733495,2,1,nl,WCE,Europe
 '6cfc55b8b1',extremes,Drought,#edc291,edo,droogte bonaire sint eustatius en saba,2026-05-31T06:40:00+00:00,Bonaire; Saint Eustatius and Saba ,0.4855130524008262,1,1,nl,CAR,North-America
 'a0b7f6aaa9',extremes,Thunderstorm,#53785a,wmo,onweer utrecht,2026-06-02T07:08:00+00:00,Netherlands,0.4847734278945343,1,1,nl,NEU,Europe
@@ -477,7 +477,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '64058b2dc1',extremes,Drought,#edc291,edo,droge periode hongarije,2026-05-16T05:40:00+00:00,Hungary,0.2589371318883576,1,1,nl,WCE,Europe
 '9e020e244e',extremes,Drought,#edc291,edo,droogte polen,2026-05-23T05:53:00+00:00,Poland,0.2588962289926274,1,1,nl,WCE,Europe
 '8b27d7924c',extremes,Precipitation,#d60d2b,wmo,hevige regen bechar,2026-06-14T07:07:00+00:00,Algeria,0.2588647050483609,1,1,nl,SAH,Africa
-'fe5ac6d3b6',extremes,Drought,#edc291,edo,gebrek aan regen Slowakije,2026-05-26T06:31:00+00:00,Slovakia,0.25884144152449107,1,1,nl,WCE,Europe
+'fe5ac6d3b6',extremes,Drought,#edc291,edo,gebrek aan regen Slowakije,2026-05-26T06:31:00+00:00,Slovakia,0.258841441524491,1,1,nl,WCE,Europe
 'e188f4e183',extremes,Storm,#b3b2b1,wmo,storm Tanzania,2026-05-20T06:33:00+00:00,Tanzania,0.2588399501843786,1,1,nl,SEAF,Africa
 '3421a57149',extremes,Storm,#b3b2b1,wmo,storm Ecuador,2026-05-18T06:38:00+00:00,Ecuador,0.2587913177864091,1,1,nl,NWS,South-America
 '98db96b6de',extremes,Drought,#edc291,edo,droogte Litouwen,2026-05-17T06:01:00+00:00,Lithuania,0.258746206538817,1,1,nl,WCE,Europe
