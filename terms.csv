@@ -1,14 +1,14 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'f9ae46e157',extremes,Heat Wave,#c40202,wmo,hittegolf Zeeland,2026-06-18T07:16:00+00:00,Netherlands,0.6901360109880846,0,1,nl,NEU,Europe
-'0af345fb0d',extremes,Heat Wave,#c40202,wmo,hittegolf overijssel,2026-06-18T07:16:00+00:00,Netherlands,0.6869563849207823,0,1,nl,NEU,Europe
-'8b68c80691',extremes,Heat Wave,#c40202,wmo,hittegolf flevoland,2026-06-18T07:16:00+00:00,Netherlands,0.6816220208705304,0,1,nl,NEU,Europe
-'ddbc45646b',extremes,Heat Wave,#c40202,wmo,hittegolf Henegouwen,2026-06-18T07:16:00+00:00,Belgium,0.6640027965460711,0,1,nl,WCE,Europe
-'aefd27a85e',extremes,Heat Wave,#c40202,wmo,hittegolf nederland,2026-06-18T07:16:00+00:00,Netherlands,0.6364695444631648,1,1,nl,NEU,Europe
 '61a00c0855',extremes,Drought,#edc291,edo,droogte suriname,2026-06-09T06:33:00+00:00,Suriname,0.60287874951393,0,1,nl,NSA,South-America
 'ae7f05dd01',extremes,Storm,#b3b2b1,wmo,stormkustzone,2026-06-18T07:16:00+00:00,Belgium,0.6028614920853455,0,1,nl,WCE,Europe
 '4074facf05',extremes,Snow&Ice,#d60d2b,wmo,ijs nederland,2026-06-18T07:16:00+00:00,Netherlands,0.588580208477582,1,1,nl,NEU,Europe
+'f9ae46e157',extremes,Heat Wave,#c40202,wmo,hittegolf Zeeland,2026-06-18T07:16:00+00:00,Netherlands,0.5866156093398719,1,1,nl,NEU,Europe
+'0af345fb0d',extremes,Heat Wave,#c40202,wmo,hittegolf overijssel,2026-06-18T07:16:00+00:00,Netherlands,0.5839129271826649,1,1,nl,NEU,Europe
+'8b68c80691',extremes,Heat Wave,#c40202,wmo,hittegolf flevoland,2026-06-18T07:16:00+00:00,Netherlands,0.5793787177399508,1,1,nl,NEU,Europe
+'ddbc45646b',extremes,Heat Wave,#c40202,wmo,hittegolf Henegouwen,2026-06-18T07:16:00+00:00,Belgium,0.5644023770641604,1,1,nl,WCE,Europe
 '998c9f84db',extremes,Storm,#b3b2b1,wmo,storm nederland,2026-06-02T07:08:00+00:00,Netherlands,0.5627357107899239,3,2,nl,NEU,Europe
 '19ce294d18',extremes,Drought,#edc291,edo,droogte curacao,2026-05-31T06:40:00+00:00,Curacao,0.545160430988631,2,1,nl,CAR,North-America
+'aefd27a85e',extremes,Heat Wave,#c40202,wmo,hittegolf nederland,2026-06-18T07:16:00+00:00,Netherlands,0.5420492177936901,2,1,nl,NEU,Europe
 'dfef3989ad',extremes,Drought,#edc291,edo,droge periode nederland,2026-05-18T06:38:00+00:00,Netherlands,0.5275107187198522,2,1,nl,NEU,Europe
 '6bab428eb7',extremes,Heat Wave,#c40202,wmo,hittegolf belgië,2026-05-26T06:31:00+00:00,Belgium,0.5231042306888214,3,1,nl,WCE,Europe
 '18eddb0302',extremes,Heat Wave,#c40202,wmo,hittegolf antwerpen,2026-05-29T06:38:00+00:00,Belgium,0.5204409003789282,2,1,nl,WCE,Europe
@@ -239,7 +239,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'abb843243a',extremes,Precipitation,#d60d2b,wmo,regen Jawa Timur,2026-05-21T06:35:00+00:00,Indonesia,0.3342274220946754,2,1,nl,SEA,Asia
 'd63f3f5f6a',extremes,Earthquake,#870007,usgs,aardbeving palu,2026-06-16T08:27:00+00:00,Indonesia,0.3336587306408237,2,1,nl,SEA,Asia
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,orkaan,2026-06-12T07:05:00+00:00,,0.3335680610220323,1,1,nl,,
-'563b781620',extremes,Thunderstorm,#53785a,wmo,zwaar weer nigeria,2026-05-08T05:16:00+00:00,Nigeria,0.3335138834685225,1,2,nl,WAF,Africa
 '6ea973219a',extremes,Earthquake,#870007,usgs,aardbeving kendari,2026-06-08T07:13:00+00:00,Indonesia,0.3328005929582506,1,1,nl,SEA,Asia
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,ijskoud,2026-06-11T07:14:00+00:00,,0.332238136943661,1,1,nl,,
 '86ce26c7f8',extremes,Precipitation,#d60d2b,wmo,regen nusa tenggara timur,2026-05-20T06:33:00+00:00,Indonesia,0.3314967751832959,2,1,nl,SEA,Asia
