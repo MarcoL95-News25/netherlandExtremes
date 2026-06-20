@@ -1,7 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'783c5b7b17',extremes,Heat Wave,#c40202,wmo,hittegolf Gelderland,2026-06-19T07:39:00+00:00,Netherlands,0.6703147899123357,0,1,nl,NEU,Europe
-'68529927a3',extremes,Storm,#b3b2b1,wmo,storm noord holland,2026-06-02T07:08:00+00:00,Netherlands,0.6632230179542373,0,1,nl,NEU,Europe
-'a68eac1625',extremes,Thunderstorm,#53785a,wmo,hagel Brabant,2026-06-19T07:39:00+00:00,Belgium,0.6349872624293352,0,1,nl,WCE,Europe
 'a4a485a1e1',extremes,Storm,#b3b2b1,wmo,storm ijsselmeergebied,2026-06-19T07:39:00+00:00,Netherlands,0.6327736920402248,0,1,nl,NEU,Europe
 '2dc80ac970',extremes,Thunderstorm,#53785a,wmo,onweer Henegouwen,2026-06-20T06:47:00+00:00,Belgium,0.6298012260980181,0,1,nl,WCE,Europe
 'a11e52efeb',extremes,Storm,#b3b2b1,wmo,storm limburg,2026-06-19T07:39:00+00:00,Netherlands,0.6259632638679158,0,1,nl,NEU,Europe
@@ -19,8 +16,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0c4c529b3b',extremes,Storm,#b3b2b1,wmo,storm belgie,2026-06-19T07:39:00+00:00,Belgium,0.5825460419941663,1,1,nl,WCE,Europe
 '8a9e4b2cb0',extremes,Heat Wave,#c40202,wmo,hittegolf utrecht,2026-06-19T07:39:00+00:00,Netherlands,0.5793424919423134,1,1,nl,NEU,Europe
 'dd844a9ce4',extremes,Heat Wave,#c40202,wmo,hittegolf groningen,2026-06-19T07:39:00+00:00,Netherlands,0.5719380749983066,1,1,nl,NEU,Europe
+'783c5b7b17',extremes,Heat Wave,#c40202,wmo,hittegolf Gelderland,2026-06-19T07:39:00+00:00,Netherlands,0.5697675714254854,1,1,nl,NEU,Europe
+'68529927a3',extremes,Storm,#b3b2b1,wmo,storm noord holland,2026-06-02T07:08:00+00:00,Netherlands,0.5637395652611017,1,1,nl,NEU,Europe
 '19ce294d18',extremes,Drought,#edc291,edo,droogte curacao,2026-05-31T06:40:00+00:00,Curacao,0.545160430988631,2,1,nl,CAR,North-America
 'aefd27a85e',extremes,Heat Wave,#c40202,wmo,hittegolf nederland,2026-06-18T07:16:00+00:00,Netherlands,0.5420492177936901,2,1,nl,NEU,Europe
+'a68eac1625',extremes,Thunderstorm,#53785a,wmo,hagel Brabant,2026-06-19T07:39:00+00:00,Belgium,0.5398891880649349,1,1,nl,WCE,Europe
 'dfef3989ad',extremes,Drought,#edc291,edo,droge periode nederland,2026-05-18T06:38:00+00:00,Netherlands,0.5275107187198522,2,1,nl,NEU,Europe
 '6bab428eb7',extremes,Heat Wave,#c40202,wmo,hittegolf belgië,2026-05-26T06:31:00+00:00,Belgium,0.5231042306888214,3,1,nl,WCE,Europe
 '18eddb0302',extremes,Heat Wave,#c40202,wmo,hittegolf antwerpen,2026-05-29T06:38:00+00:00,Belgium,0.5204409003789282,2,1,nl,WCE,Europe
