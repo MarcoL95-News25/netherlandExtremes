@@ -106,7 +106,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'da0803d83b',extremes,Precipitation,#d60d2b,wmo,stortbui Indonesië,2026-06-06T06:08:00+00:00,Indonesia,0.4259088326777964,1,1,nl,SEA,Asia
 '0af345fb0d',extremes,Heat Wave,#c40202,wmo,hittegolf overijssel,2026-06-18T07:16:00+00:00,Netherlands,0.4218770898894753,3,1,nl,NEU,Europe
 '1512e9c6b2',extremes,Drought,#edc291,edo,droogte suriname,2026-05-29T06:39:00+00:00,Suriname,0.4212618402598426,2,1,nl,NSA,South-America
-'8a9e4b2cb0',extremes,Heat Wave,#c40202,wmo,hittegolf utrecht,2026-06-19T07:39:00+00:00,Netherlands,0.41900249317832133,3,1,nl,NEU,Europe
+'8a9e4b2cb0',extremes,Heat Wave,#c40202,wmo,hittegolf utrecht,2026-06-19T07:39:00+00:00,Netherlands,0.4190024931783213,3,1,nl,NEU,Europe
 'c948617fef',extremes,Heat Wave,#c40202,random,blootstelling aan extreme hitte,2026-05-25T06:52:00+00:00,,0.4189837989399533,1,2,nl,,
 'a834b33b6c',extremes,Drought,#edc291,edo,droogte nederland,2026-06-04T07:06:00+00:00,Netherlands,0.4183390588746957,3,1,nl,NEU,Europe
 'a4a9cbb9fe',extremes,Precipitation,#d60d2b,wmo,stortbui kep. bangka belitung,2026-05-22T06:32:00+00:00,Indonesia,0.4166821658383689,1,1,nl,SEA,Asia
@@ -166,7 +166,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bf94dc5e84',extremes,Precipitation,#d60d2b,wmo,hevige regen jakarta,2026-06-04T07:06:00+00:00,Indonesia,0.388820292611772,1,1,nl,SEA,Asia
 '633ed59c63',extremes,Iceberg,#d60d2b,random,arctisch zee-ijs,2026-06-21T07:16:00+00:00,,0.3887853068820866,0,1,nl,,
 'b7332447df',extremes,Precipitation,#d60d2b,wmo,regen riau,2026-06-14T07:07:00+00:00,Indonesia,0.3886279294556808,1,1,nl,SEA,Asia
-'a4a485a1e1',extremes,Storm,#b3b2b1,wmo,storm ijsselmeergebied,2026-06-19T07:39:00+00:00,Netherlands,0.38860214362420303,3,1,nl,NEU,Europe
+'a4a485a1e1',extremes,Storm,#b3b2b1,wmo,storm ijsselmeergebied,2026-06-19T07:39:00+00:00,Netherlands,0.388602143624203,3,1,nl,NEU,Europe
 '5384da72f3',extremes,Precipitation,#d60d2b,wmo,regen gorontalo,2026-05-24T06:22:00+00:00,Indonesia,0.3884775220320681,1,1,nl,SEA,Asia
 '48b9bccdd2',extremes,Precipitation,#d60d2b,wmo,stortbui riau,2026-06-15T08:36:00+00:00,Indonesia,0.3884056751705089,1,1,nl,SEA,Asia
 '24838d529a',extremes,Precipitation,#d60d2b,wmo,stortbui sulawesi tengah,2026-06-08T07:13:00+00:00,Indonesia,0.3882384107857254,1,1,nl,SEA,Asia
@@ -350,7 +350,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0514da3654',extremes,Snow&Ice,#d60d2b,wmo,ijs Brazilië,2026-05-22T06:32:00+00:00,Brazil,0.3015563031300498,0,1,nl,SAM,South-America
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,ijs Argentinië,2026-06-09T06:32:00+00:00,Argentina,0.3014288778648876,0,1,nl,SES,South-America
 '023d124975',extremes,Drought,#edc291,edo,droogte sri lanka,2026-06-04T07:06:00+00:00,Sri Lanka,0.3014238102859009,0,1,nl,BOB,Asia
-'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,vorst Argentinië,2026-06-09T06:32:00+00:00,Argentina,0.3013415686908535,0,1,nl,SES,South-America
+'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,vorst Argentinië,2026-06-09T06:32:00+00:00,Argentina,0.3013415686908535,1,1,nl,SES,South-America
 '869ff000f5',extremes,Precipitation,#d60d2b,wmo,regen belize,2026-06-11T07:14:00+00:00,Belize,0.3012865105781053,0,1,nl,SCA,North-America
 '38d6fb4787',extremes,Earthquake,#870007,usgs,aardbeving Owen breukzoneregio,2026-05-27T06:46:00+00:00,,0.301237269873381,0,1,nl,ARS,Indian Ocean
 'f497a982c3',extremes,Storm,#b3b2b1,wmo,stormvloed Salomonseilanden,2026-06-09T06:32:00+00:00,Solomon Islands,0.3012127618326192,0,1,nl,EPO,Oceania
