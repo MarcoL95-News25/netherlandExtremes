@@ -332,6 +332,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8f34ad3c51',extremes,Tropical Cyclone,#4f4f4f,eonet,tropische storm higos,2026-06-24T06:29:00+00:00,,0.3103684974252076,0,1,nl,NPO,Pacific Ocean
 '053bb10e09',extremes,Heat Wave,#c40202,random,nazomer,2026-06-18T07:16:00+00:00,,0.3100124845776585,1,1,nl,,
 '792a35d4a4',extremes,Flood,#030ba1,random,wateroverlast,2026-06-18T07:16:00+00:00,,0.3094191771759335,0,1,nl,,
+'0514da3654',extremes,Snow&Ice,#d60d2b,wmo,ijs Brazilië,2026-06-15T08:36:00+00:00,Brazil,0.3091617003445708,0,1,nl,SAM,South-America
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,regen Brazilië,2026-06-17T07:33:00+00:00,Brazil,0.3085132658720165,0,1,nl,SAM,South-America
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,regen nieuw-zeeland,2026-06-20T06:47:00+00:00,New Zealand,0.3085034812219495,0,1,nl,NZ,Oceania
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,neerslag nieuw-zeeland,2026-06-19T07:39:00+00:00,New Zealand,0.3084934625323377,0,1,nl,NZ,Oceania
@@ -357,7 +358,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '82ed5705b2',extremes,Precipitation,#d60d2b,wmo,stortbui costa rica,2026-06-23T06:33:00+00:00,Costa Rica,0.3063112568852629,0,1,nl,SCA,North-America
 '26dc110943',extremes,Drought,#edc291,edo,gebrek aan regen Nicaragua,2026-06-12T07:05:00+00:00,Nicaragua,0.3061832656966554,0,1,nl,SCA,North-America
 'dba9977fc1',extremes,Drought,#edc291,edo,gebrek aan regen Faeröer,2026-06-18T07:16:00+00:00,Faroe Islands,0.3060934984252197,0,1,nl,NEU,Europe
+'92035e2c20',extremes,Drought,#edc291,edo,droge periode Madagascar,2026-06-20T06:47:00+00:00,Madagascar,0.30609296949601666,0,1,nl,MDG,Africa
+'7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,sneeuw Brazilië,2026-06-14T07:07:00+00:00,Brazil,0.3057649852416182,0,1,nl,SAM,South-America
 '32a7b42dae',extremes,Earthquake,#870007,usgs,aardbeving labuan,2026-06-07T06:48:00+00:00,Indonesia,0.3057010366099869,1,1,nl,SEA,Asia
+'766190540a',extremes,Storm,#b3b2b1,wmo,stormvloed Tanzania,2026-06-14T07:07:00+00:00,Tanzania,0.305655587076048,0,1,nl,SEAF,Africa
+'e528d858c2',extremes,Snow&Ice,#d60d2b,wmo,vorst brazilië,2026-06-15T08:36:00+00:00,Brazil,0.30561891596238305,0,1,nl,SAM,South-America
+'e188f4e183',extremes,Storm,#b3b2b1,wmo,storm Tanzania,2026-06-13T06:38:00+00:00,Tanzania,0.30548530955316067,0,1,nl,SEAF,Africa
+'c229b0919c',extremes,Precipitation,#d60d2b,wmo,regen Saoedi-Arabië,2026-06-23T06:33:00+00:00,Saudi Arabia,0.30546293539811137,0,1,nl,ARP,Asia
+'0d1e3addbf',extremes,Storm,#b3b2b1,wmo,storm Brazilië,2026-06-12T07:05:00+00:00,Brazil,0.30542450444257696,0,1,nl,SAM,South-America
+'dac860fd6d',extremes,Storm,#b3b2b1,wmo,stormvloed madagaskar,2026-06-22T08:39:00+00:00,Madagascar,0.30541204315942044,0,1,nl,MDG,Africa
+'a840b9c328',extremes,Snow&Ice,#d60d2b,wmo,sneeuw Nieuw-Zeeland,2026-06-23T06:33:00+00:00,New Zealand,0.3051839076413183,0,1,nl,NZ,Oceania
 '55c39b351d',extremes,Storm,#b3b2b1,random,stofduivel,2026-06-17T07:33:00+00:00,,0.3050403589886913,1,1,nl,,
 'b6cef22543',extremes,Drought,#edc291,random,waterbeperking,2026-06-08T07:13:00+00:00,,0.3040291416237642,1,1,nl,,
 '5ce57f419d',extremes,Earthquake,#870007,usgs,aardbeving venezuela,2026-05-30T06:01:00+00:00,Venezuela,0.3032219624565238,0,1,nl,NSA,South-America
