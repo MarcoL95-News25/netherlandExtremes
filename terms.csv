@@ -96,7 +96,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0b2190bc40',extremes,Storm,#b3b2b1,wmo,stormvloed west-vlaanderen,2026-06-20T06:47:00+00:00,Belgium,0.4445902888314105,2,1,nl,WCE,Europe
 'b13d51452d',extremes,Storm,#b3b2b1,wmo,storm antwerpen,2026-06-19T07:39:00+00:00,Belgium,0.4423597640721017,2,1,nl,WCE,Europe
 '5faf426336',extremes,Storm,#b3b2b1,wmo,storm noord-brabant,2026-05-28T06:38:00+00:00,Netherlands,0.4418026386942261,2,1,nl,NEU,Europe
-'cd532c5fd8',extremes,Precipitation,#d60d2b,wmo,hevige regen kep. bangka belitung,2026-06-15T08:36:00+00:00,Indonesia,0.4403676863809709,0,1,nl,SEA,Asia
 'c08d6f4547',extremes,Storm,#b3b2b1,wmo,storm luxemburg,2026-06-19T07:39:00+00:00,Belgium,0.4402696934546675,2,1,nl,WCE,Europe
 'f593c935b4',extremes,Storm,#b3b2b1,wmo,storm vlissingen,2026-06-02T07:08:00+00:00,Netherlands,0.4397819160602225,2,1,nl,NEU,Europe
 '43ab572e78',extremes,Storm,#b3b2b1,wmo,stormvloed kustgebied,2026-06-19T07:39:00+00:00,Belgium,0.4392026391434228,2,1,nl,WCE,Europe
@@ -234,6 +233,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c02e9e8830',extremes,Precipitation,#d60d2b,wmo,stortbui nusa tenggara timur,2026-06-26T06:36:00+00:00,Indonesia,0.3762000576394587,1,1,nl,SEA,Asia
 'a92e6658be',extremes,Precipitation,#d60d2b,wmo,neerslag sulawesi tenggara,2026-06-26T06:36:00+00:00,Indonesia,0.3747145539109885,1,1,nl,SEA,Asia
 '87af8cf49d',extremes,Precipitation,#d60d2b,wmo,hevige regen kalimantan selatan,2026-06-03T07:23:00+00:00,Indonesia,0.3743643903862167,1,1,nl,SEA,Asia
+'cd532c5fd8',extremes,Precipitation,#d60d2b,wmo,hevige regen kep. bangka belitung,2026-06-15T08:36:00+00:00,Indonesia,0.37431253342382526,1,1,nl,SEA,Asia
 '0fc3cd4ca5',extremes,Precipitation,#d60d2b,wmo,regen kalimantan selatan,2026-06-15T08:36:00+00:00,Indonesia,0.3738539843330007,1,1,nl,SEA,Asia
 'bcf2484ef5',extremes,Precipitation,#d60d2b,wmo,hevige regen Atjeh,2026-05-31T06:40:00+00:00,Indonesia,0.3727258086048806,1,1,nl,SEA,Asia
 'e874fee514',extremes,Precipitation,#d60d2b,wmo,regen Jawa Barat,2026-06-15T08:36:00+00:00,Indonesia,0.3727133641449778,1,1,nl,SEA,Asia
@@ -251,7 +251,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,ijsberg antarctica,2026-06-06T06:08:00+00:00,,0.3639301588090604,1,1,nl,,
 'cdb3eaf147',extremes,Drought,#edc291,edo,droogte Indonesië,2026-06-16T08:27:00+00:00,Indonesia,0.3627206130788441,1,1,nl,SEA,Asia
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,zware regen,2026-06-16T08:27:00+00:00,,0.3560715356842887,1,1,nl,,
-'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,natte sneeuw,2026-06-24T06:29:00+00:00,,0.3555401294808705,0,1,nl,,
 '62084daeb0',extremes,Earthquake,#870007,random,aardbeving,2026-06-21T07:16:00+00:00,,0.3552446103817414,1,1,nl,,
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,hittekoepel,2026-06-07T06:48:00+00:00,,0.3551694510969091,0,1,nl,,
 '59fe64444b',extremes,Drought,#edc291,edo,gebrek aan regen Indonesië,2026-05-29T06:39:00+00:00,Indonesia,0.3515877694069318,1,1,nl,SEA,Asia
@@ -381,6 +380,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '39b673714a',extremes,Storm,#b3b2b1,wmo,bestormt alle kustwateren.,2026-06-08T07:13:00+00:00,Vanuatu,0.3024956445297468,0,1,nl,SPO,Oceania
 '3d6bde5b08',extremes,Storm,#b3b2b1,wmo,stormvloed Seychellen,2026-06-16T08:27:00+00:00,Seychelles,0.3024951940556014,0,1,nl,EIO,Africa
 '4c0e0f411e',extremes,Storm,#b3b2b1,wmo,stormregio amazónica,2026-06-15T08:36:00+00:00,Ecuador,0.3024597322920832,0,1,nl,NWS,South-America
+'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,natte sneeuw,2026-06-24T06:29:00+00:00,,0.3023591250587399,1,1,nl,,
 'de55985e54',extremes,Earthquake,#870007,usgs,aardbeving hadibu,2026-06-08T07:13:00+00:00,Yemen,0.3021574008185134,0,1,nl,ARS,Indian Ocean
 '72b6332728',extremes,Snow&Ice,#d60d2b,random,sneeuwstorm,2026-06-03T07:22:00+00:00,,0.3021500572490472,1,1,nl,,
 '70f725b0f1',extremes,Tropical Cyclone,#4f4f4f,wmo,tropische cycloon verenigde staten,2026-06-17T07:33:00+00:00,United States,0.3021356617959042,0,1,nl,CNA,North-America
