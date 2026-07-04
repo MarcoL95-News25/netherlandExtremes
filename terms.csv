@@ -264,7 +264,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '283b154c38',extremes,Wet Spell,#d60d2b,random,natte periode,2026-05-31T06:40:00+00:00,,0.3394892855897449,1,1,nl,,
 'ecc073b974',extremes,Earthquake,#870007,usgs,aardbeving cilacap,2026-05-31T06:40:00+00:00,Indonesia,0.339068561862027,1,1,nl,SEA,Asia
 '35cc9cbf75',extremes,Precipitation,#d60d2b,random,stortregens,2026-06-29T07:12:00+00:00,,0.3374365893091749,1,1,nl,,
-'595acbcf9f',extremes,Heat Wave,#c40202,random,heetste dag,2026-06-06T06:08:00+00:00,,0.3366342280914307,0,1,nl,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,nationaal orkaancentrum,2026-06-18T07:16:00+00:00,,0.3365621808132981,1,1,nl,,
 '23321560ef',extremes,Precipitation,#d60d2b,wmo,regen sulawesi tengah,2026-06-04T07:06:00+00:00,Indonesia,0.3351682069386351,2,1,nl,SEA,Asia
 'a77c5c4f2b',extremes,Precipitation,#d60d2b,wmo,neerslag kep. bangka belitung,2026-06-03T07:23:00+00:00,Indonesia,0.3350198713049419,2,1,nl,SEA,Asia
@@ -321,6 +320,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,bomcycloon,2026-06-14T07:06:00+00:00,,0.3108829597266327,1,1,nl,,
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,koudegolf,2026-06-04T07:06:00+00:00,,0.3108156595454028,1,1,nl,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,nazomer,2026-06-18T07:16:00+00:00,,0.3100124845776585,1,1,nl,,
+'595acbcf9f',extremes,Heat Wave,#c40202,random,heetste dag,2026-06-06T06:08:00+00:00,,0.3096678753062875,1,1,nl,,
 '792a35d4a4',extremes,Flood,#030ba1,random,wateroverlast,2026-06-18T07:16:00+00:00,,0.3094191771759335,0,1,nl,,
 '589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,sneeuw Argentinië,2026-06-16T08:27:00+00:00,Argentina,0.3093084855443285,0,1,nl,SES,South-America
 '0514da3654',extremes,Snow&Ice,#d60d2b,wmo,ijs Brazilië,2026-06-15T08:36:00+00:00,Brazil,0.3091617003445708,0,1,nl,SAM,South-America
@@ -358,7 +358,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8adbdb9546',extremes,Thunderstorm,#53785a,wmo,hagel Canada,2026-06-18T07:16:00+00:00,Canada,0.3059841244849919,0,1,nl,NEN,North-America
 '4dd12d0f3d',extremes,Precipitation,#d60d2b,wmo,stortregens Saoedi-Arabië,2026-06-23T06:33:00+00:00,Saudi Arabia,0.3058235883279693,0,1,nl,ARP,Asia
 '33355e5510',extremes,Thunderstorm,#53785a,wmo,zwaar weer algerije,2026-07-02T06:24:00+00:00,Algeria,0.3057708344779594,0,1,nl,SAH,Africa
-'7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,sneeuw Brazilië,2026-06-14T07:07:00+00:00,Brazil,0.3057649852416182,0,1,nl,SAM,South-America
 '32a7b42dae',extremes,Earthquake,#870007,usgs,aardbeving labuan,2026-06-07T06:48:00+00:00,Indonesia,0.3057010366099869,1,1,nl,SEA,Asia
 '766190540a',extremes,Storm,#b3b2b1,wmo,stormvloed Tanzania,2026-06-14T07:07:00+00:00,Tanzania,0.305655587076048,0,1,nl,SEAF,Africa
 'e528d858c2',extremes,Snow&Ice,#d60d2b,wmo,vorst brazilië,2026-06-15T08:36:00+00:00,Brazil,0.305618915962383,0,1,nl,SAM,South-America
@@ -479,6 +478,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '970305e1b7',extremes,Precipitation,#d60d2b,wmo,stortbui canada,2026-06-09T06:32:00+00:00,Canada,0.2605888346250299,1,1,nl,NEN,North-America
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,storm Brazilië,2026-06-12T07:05:00+00:00,Brazil,0.2602108887761903,1,1,nl,SAM,South-America
 '48bbc2ab73',extremes,Thunderstorm,#53785a,wmo,onweer ghana,2026-06-11T07:14:00+00:00,Ghana,0.2600131746932644,1,1,nl,WAF,Africa
+'7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,sneeuw Brazilië,2026-06-14T07:07:00+00:00,Brazil,0.2599002374553755,1,1,nl,SAM,South-America
 '3a81ba6638',extremes,Landslide,#572c03,aidr,aardverschuiving ergens in Nieuw-Zuid-Wales,2026-06-06T06:08:00+00:00,Australia,0.25976393910675,1,1,nl,EAU,Oceania
 '7cfed20fae',extremes,Precipitation,#d60d2b,wmo,stortregens in Auckland en Great Barrier Island,2026-06-01T07:30:00+00:00,New Zealand,0.2595844606152651,1,1,nl,NZ,Oceania
 '39a886a9b9',extremes,Wildfire,#d60d2b,cmeter,wildvuur antarctica,2026-06-24T06:30:00+00:00,Antarctica,0.2593463934593147,1,1,nl,EAN,
