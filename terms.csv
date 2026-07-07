@@ -109,6 +109,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c948617fef',extremes,Heat Wave,#c40202,random,blootstelling aan extreme hitte,2026-05-25T06:52:00+00:00,,0.4189837989399533,1,2,nl,,
 '8b68c80691',extremes,Heat Wave,#c40202,wmo,hittegolf flevoland,2026-06-18T07:16:00+00:00,Netherlands,0.4186011235671144,3,1,nl,NEU,Europe
 '4ca75da48b',extremes,Thunderstorm,#53785a,wmo,zwaar weer gelderland,2026-06-27T06:08:00+00:00,Netherlands,0.4174463442371389,1,1,nl,NEU,Europe
+'a345aca9eb',extremes,Heat Wave,#c40202,acwe,hittegolf victoria,2026-06-20T06:47:00+00:00,Australia,0.41549413827612725,1,2,nl,SAU,Oceania
 'a198ca8d3a',extremes,Thunderstorm,#53785a,wmo,zwaar weer Henegouwen,2026-06-19T07:39:00+00:00,Belgium,0.4144421263093182,1,1,nl,WCE,Europe
 'e3c939cbb2',extremes,Precipitation,#d60d2b,wmo,regenlampung,2026-06-24T06:30:00+00:00,Indonesia,0.4141515277002687,1,1,nl,SEA,Asia
 '9c446693a2',extremes,Precipitation,#d60d2b,wmo,regen algerije,2026-06-10T06:49:00+00:00,Algeria,0.411333779902837,1,2,nl,SAH,Africa
@@ -287,11 +288,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,zwaar weer,2026-06-12T07:05:00+00:00,,0.3163427559733155,1,2,nl,,
 '8f777edd5c',extremes,Earthquake,#870007,usgs,aardbeving sibolga,2026-06-11T07:14:00+00:00,Indonesia,0.3152523526669438,1,1,nl,SEA,Asia
 '63cb22b655',extremes,Earthquake,#870007,usgs,aardbeving masohi,2026-06-22T08:39:00+00:00,Indonesia,0.3146104738201891,1,1,nl,SEA,Asia
-'f314bb7747',extremes,Flood,#030ba1,aidr,wateroverlast in Australië,2026-06-13T06:38:00+00:00,Australia,0.3136863097585858,0,1,nl,EAU,Oceania
-'0ad6d97d8f',extremes,Iceberg,#d60d2b,eonet,ijsberg d33d,2026-06-30T06:39:00+00:00,,0.31346038271247,0,1,nl,SOO,Antarctica
-'3894a694d1',extremes,Flood,#030ba1,aidr,plotselinge overstroming Australië,2026-06-17T07:34:00+00:00,Australia,0.3131441299896199,0,1,nl,EAU,Oceania
-'5fbcbe15d8',extremes,Iceberg,#d60d2b,eonet,ijsberg d33b,2026-06-24T06:29:00+00:00,,0.3124380319247081,0,1,nl,EAN,
-'a345aca9eb',extremes,Heat Wave,#c40202,acwe,hittegolf victoria,2026-06-20T06:47:00+00:00,Australia,0.3121695567954438,0,1,nl,SAU,Oceania
 'b320c39ee1',extremes,Earthquake,#870007,usgs,aardbeving bandar lampung,2026-06-28T06:44:00+00:00,Indonesia,0.3117921656756069,1,1,nl,SEA,Asia
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,sneeuwpakket,2026-07-01T06:52:00+00:00,,0.3117604310116892,0,1,nl,,
 'a652c78afc',extremes,Drought,#edc291,random,megadroogte,2026-06-22T08:39:00+00:00,,0.311667023984557,1,1,nl,,
@@ -461,10 +457,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '729f81e9bb',extremes,Iceberg,#d60d2b,eonet,ijsberg b22h,2026-06-24T06:29:00+00:00,Antarctica,0.2679130219265768,1,1,nl,WAN,Antarctica
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,koudegolf,2026-06-15T08:36:00+00:00,,0.2677164514709534,1,1,nl,,
 'acd0e1409b',extremes,Flood,#030ba1,acwe,Nieuw-Zuid-Wales onder water zetten,2026-06-13T06:38:00+00:00,Australia,0.2675949338982001,1,1,nl,EAU,Oceania
-'ec9681f6d8',extremes,Flood,#030ba1,aidr,overstroming tasmanië juni juli 2016,2026-06-24T06:30:00+00:00,Australia,0.26741844130976256,1,1,nl,SAU,Oceania
+'ec9681f6d8',extremes,Flood,#030ba1,aidr,overstroming tasmanië juni juli 2016,2026-06-24T06:30:00+00:00,Australia,0.2674184413097625,1,1,nl,SAU,Oceania
 '3296e9a239',extremes,Flood,#030ba1,aidr,hevige regen in Australië,2026-06-07T06:49:00+00:00,Australia,0.2670438149503095,1,1,nl,SAU,Oceania
 '16afad5339',extremes,Heat Wave,#c40202,acwe,milde winter Zuid-Australië,2026-06-19T07:39:00+00:00,Australia,0.2670255796907015,1,1,nl,CAU,Oceania
+'f314bb7747',extremes,Flood,#030ba1,aidr,wateroverlast in Australië,2026-06-13T06:38:00+00:00,Australia,0.2666333632947979,1,1,nl,EAU,Oceania
 '60a34b83b0',extremes,Flood,#030ba1,acwe,overstroming van Zuid-Australië,2026-06-04T07:06:00+00:00,Australia,0.2665703782992989,1,1,nl,SAU,Oceania
+'0ad6d97d8f',extremes,Iceberg,#d60d2b,eonet,ijsberg d33d,2026-06-30T06:39:00+00:00,,0.2664413253055995,1,1,nl,SOO,Antarctica
+'3894a694d1',extremes,Flood,#030ba1,aidr,plotselinge overstroming Australië,2026-06-17T07:34:00+00:00,Australia,0.2661725104911769,1,1,nl,EAU,Oceania
+'5fbcbe15d8',extremes,Iceberg,#d60d2b,eonet,ijsberg d33b,2026-06-24T06:29:00+00:00,,0.2655723271360019,1,1,nl,EAN,
 '806dd08d67',extremes,Flood,#030ba1,acwe,Victoria onder water zetten,2026-06-15T08:36:00+00:00,Australia,0.2649509740894119,1,1,nl,SAU,Oceania
 '8f34ad3c51',extremes,Tropical Cyclone,#4f4f4f,eonet,tropische storm higos,2026-06-24T06:29:00+00:00,,0.2638132228114264,1,1,nl,NPO,Pacific Ocean
 '6b28028a94',extremes,Heat Wave,#c40202,acwe,hittegolf Zuid-Australië,2026-06-04T07:06:00+00:00,Australia,0.2635491782052749,1,1,nl,SAU,Oceania
