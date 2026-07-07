@@ -125,7 +125,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1974024f9a',extremes,Precipitation,#d60d2b,wmo,neerslag sulawesi barat,2026-06-09T06:32:00+00:00,Indonesia,0.4029544777827822,1,1,nl,SEA,Asia
 '5ce57f419d',extremes,Earthquake,#870007,usgs,aardbeving venezuela,2026-05-30T06:01:00+00:00,Venezuela,0.4021056047547118,1,2,nl,NSA,South-America
 'd46ac7becc',extremes,Drought,#edc291,edo,gebrek aan regen Aruba,2026-06-16T08:27:00+00:00,Aruba,0.4017939665065022,1,1,nl,CAR,North-America
-'cf16ced5cf',extremes,Precipitation,#d60d2b,wmo,hevige regen bengkulu,2026-07-07T06:30:00+00:00,Indonesia,0.40175649517205997,1,1,nl,SEA,Asia
+'cf16ced5cf',extremes,Precipitation,#d60d2b,wmo,hevige regen bengkulu,2026-07-07T06:30:00+00:00,Indonesia,0.4017564951720599,1,1,nl,SEA,Asia
 'e1559df16c',extremes,Earthquake,#870007,usgs,aardbeving tobelo,2026-06-14T07:06:00+00:00,Indonesia,0.4011965985112811,1,1,nl,SEA,Asia
 'a4a9cbb9fe',extremes,Precipitation,#d60d2b,wmo,stortbui kep. bangka belitung,2026-06-24T06:30:00+00:00,Indonesia,0.4006816190747262,1,1,nl,SEA,Asia
 '82cfc05680',extremes,Precipitation,#d60d2b,wmo,neerslag maluku utara,2026-06-07T06:48:00+00:00,Indonesia,0.4002108646588277,1,1,nl,SEA,Asia
@@ -248,7 +248,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4d9577e33d',extremes,Volcano,#b83202,random,vulkaan,2026-06-20T06:46:00+00:00,,0.3452680358922882,1,1,nl,,
 '13519cd08c',extremes,Earthquake,#870007,usgs,aardbeving padang,2026-06-10T06:49:00+00:00,Indonesia,0.3444616174070323,1,1,nl,SEA,Asia
 'adf8f0eb65',extremes,Thunderstorm,#53785a,wmo,hagel Henegouwen,2026-06-19T07:39:00+00:00,Belgium,0.3423251204618613,2,1,nl,WCE,Europe
-'a5ff1cde4a',extremes,Drought,#edc291,random,bodemvocht,2026-06-22T08:39:00+00:00,,0.3413961467016578,0,1,nl,,
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,koudegolf,2026-06-23T06:32:00+00:00,,0.3378934004457866,1,1,nl,,
 '35cc9cbf75',extremes,Precipitation,#d60d2b,random,stortregens,2026-06-29T07:12:00+00:00,,0.3374365893091749,1,1,nl,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,nationaal orkaancentrum,2026-06-18T07:16:00+00:00,,0.3365621808132981,1,1,nl,,
@@ -279,7 +278,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,bosbrand,2026-06-19T07:39:00+00:00,,0.3207901723975555,0,1,nl,,
 '045f25d55b',extremes,Earthquake,#870007,usgs,aardbeving trenggalek,2026-06-28T06:44:00+00:00,Indonesia,0.3201799228592442,1,1,nl,SEA,Asia
 '28039b81f2',extremes,Earthquake,#870007,usgs,aardbeving soe,2026-06-17T07:33:00+00:00,Indonesia,0.3194905481145249,1,1,nl,NAU,Oceania
-'845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-07-07T06:30:00+00:00,,0.3192716333762291,0,1,nl,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,recordkoude,2026-06-16T08:27:00+00:00,,0.3166466207544914,1,1,nl,,
 '9b6669f818',extremes,Earthquake,#870007,usgs,aardbeving ambon,2026-06-26T06:35:00+00:00,Indonesia,0.3165995871468328,1,1,nl,SEA,Asia
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,zwaar weer,2026-06-12T07:05:00+00:00,,0.3163427559733155,1,2,nl,,
@@ -292,6 +290,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '053bb10e09',extremes,Heat Wave,#c40202,random,nazomer,2026-06-18T07:16:00+00:00,,0.3100124845776585,1,1,nl,,
 '595acbcf9f',extremes,Heat Wave,#c40202,random,heetste dag,2026-06-06T06:08:00+00:00,,0.3096678753062875,1,1,nl,,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,warmste jaar,2026-06-07T06:48:00+00:00,,0.3095192216854006,1,2,nl,,
+'845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-07-07T06:30:00+00:00,,0.30948094836979473,1,1,nl,,
 '0514da3654',extremes,Snow&Ice,#d60d2b,wmo,ijs Brazilië,2026-06-15T08:36:00+00:00,Brazil,0.3091617003445708,0,1,nl,SAM,South-America
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,regen Brazilië,2026-06-17T07:33:00+00:00,Brazil,0.3085132658720165,0,1,nl,SAM,South-America
 '283b154c38',extremes,Wet Spell,#d60d2b,random,natte periode,2026-06-20T06:46:00+00:00,,0.3081315275655315,0,1,nl,,
@@ -430,6 +429,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f4d0c74cd0',extremes,Earthquake,#870007,usgs,aardbeving manokwari,2026-06-21T07:16:00+00:00,Indonesia,0.2946311048009559,1,1,nl,SEA,Asia
 '40f675561f',extremes,Heat Wave,#c40202,random,heetste zomer,2026-06-11T07:14:00+00:00,,0.2944436532708976,1,1,nl,,
 'da1ae5191e',extremes,Storm,#b3b2b1,random,stormvloed,2026-06-14T07:06:00+00:00,,0.2930468808287308,1,1,nl,,
+'a5ff1cde4a',extremes,Drought,#edc291,random,bodemvocht,2026-06-22T08:39:00+00:00,,0.2901867246964091,1,1,nl,,
 '7e303c7e63',extremes,Snow Avalanche,#deddd5,random,sneeuwlawine,2026-06-21T07:16:00+00:00,,0.2886453637441452,1,1,nl,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,kwikdaling,2026-06-08T07:13:00+00:00,,0.281892713175703,1,1,nl,,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,weerfront,2026-06-04T07:06:00+00:00,,0.2814086524929676,1,1,nl,,
