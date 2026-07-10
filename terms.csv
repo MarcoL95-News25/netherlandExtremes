@@ -110,7 +110,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,neerslag canada,2026-06-09T06:32:00+00:00,Canada,0.41155083857743,1,2,nl,NEN,North-America
 '9c446693a2',extremes,Precipitation,#d60d2b,wmo,regen algerije,2026-06-10T06:49:00+00:00,Algeria,0.411333779902837,1,2,nl,SAH,Africa
 '84febdd06c',extremes,Thunderstorm,#53785a,random,onweer,2026-06-10T06:49:00+00:00,,0.4112314402794226,1,2,nl,,
-'f44890a60b',extremes,Thunderstorm,#53785a,wmo,onweer Canada,2026-06-28T06:44:00+00:00,Canada,0.41105924253374637,1,2,nl,NEN,North-America
+'f44890a60b',extremes,Thunderstorm,#53785a,wmo,onweer Canada,2026-06-28T06:44:00+00:00,Canada,0.4110592425337463,1,2,nl,NEN,North-America
 'f20891ccf9',extremes,Precipitation,#d60d2b,wmo,regen Zuid-Afrika,2026-06-03T07:23:00+00:00,South Africa,0.4107942267370721,1,2,nl,WSAF,Africa
 '41b16cb606',extremes,Precipitation,#d60d2b,wmo,hevige regen sulawesi barat,2026-06-30T06:39:00+00:00,Indonesia,0.4096752611481293,1,1,nl,SEA,Asia
 '4c8b5a8302',extremes,Precipitation,#d60d2b,wmo,stortbui jambi,2026-06-10T06:49:00+00:00,Indonesia,0.4088229553979188,1,1,nl,SEA,Asia
@@ -289,9 +289,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,ijsberg arctis,2026-06-12T07:05:00+00:00,,0.3078522543934463,1,1,nl,,
 'df78e658d0',extremes,Earthquake,#870007,usgs,aardbeving komodo,2026-06-15T08:36:00+00:00,Indonesia,0.3070884414286023,1,1,nl,SEA,Asia
 '538eadceb4',extremes,Heat Wave,#c40202,random,milde winter,2026-06-08T07:13:00+00:00,,0.3069971794247236,1,1,nl,,
-'23c3deb0ec',extremes,Precipitation,#d60d2b,wmo,stortbui Tanzania,2026-07-07T06:30:00+00:00,Tanzania,0.3068204318088275,0,1,nl,SEAF,Africa
-'d5f19885f3',extremes,Wildfire,#d60d2b,wmo,wildvuur autonome wijk Khanty Mansi,2026-06-17T07:33:00+00:00,Russia,0.3067780905307507,0,1,nl,ESB,Europe
-'19312d8f44',extremes,Snow&Ice,#d60d2b,wmo,vorst nieuw-zeeland,2026-06-24T06:30:00+00:00,New Zealand,0.3065608205759063,0,1,nl,NZ,Oceania
 '8768fed4c8',extremes,Wildfire,#d60d2b,wmo,wildvuur regio Kemerovo,2026-06-26T06:36:00+00:00,Russia,0.3065589455691014,0,1,nl,ESB,Europe
 'b42ca6333d',extremes,Fog,#d60d2b,wmo,mist omsk-regio,2026-06-17T07:33:00+00:00,Russia,0.3064635132666935,0,1,nl,ESB,Europe
 'aacf82e274',extremes,Drought,#edc291,edo,droge periode Faeröer,2026-06-17T07:34:00+00:00,Faroe Islands,0.3064454341520451,0,1,nl,NEU,Europe
@@ -497,6 +494,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,neerslag Argentinië,2026-06-18T07:16:00+00:00,Argentina,0.2611958529916749,1,1,nl,SES,South-America
 '355605856d',extremes,Precipitation,#d60d2b,wmo,neerslag Tsjaad,2026-06-28T06:44:00+00:00,Chad,0.2611847480556495,1,1,nl,SAH,Africa
 'd68189cbca',extremes,Precipitation,#d60d2b,wmo,stortbui algerije,2026-06-26T06:36:00+00:00,Algeria,0.2609166812427231,1,1,nl,SAH,Africa
+'23c3deb0ec',extremes,Precipitation,#d60d2b,wmo,stortbui Tanzania,2026-07-07T06:30:00+00:00,Tanzania,0.2607973670375034,1,1,nl,SEAF,Africa
+'d5f19885f3',extremes,Wildfire,#d60d2b,wmo,wildvuur autonome wijk Khanty Mansi,2026-06-17T07:33:00+00:00,Russia,0.2607613769511381,1,1,nl,ESB,Europe
+'19312d8f44',extremes,Snow&Ice,#d60d2b,wmo,vorst nieuw-zeeland,2026-06-24T06:30:00+00:00,New Zealand,0.26072671248952034,1,1,nl,NZ,Oceania
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,aanlanding,2026-06-13T06:38:00+00:00,,0.2606470823423356,1,1,nl,,
 '970305e1b7',extremes,Precipitation,#d60d2b,wmo,stortbui canada,2026-06-09T06:32:00+00:00,Canada,0.2605888346250299,1,1,nl,NEN,North-America
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,storm Brazilië,2026-06-12T07:05:00+00:00,Brazil,0.2602108887761903,1,1,nl,SAM,South-America
