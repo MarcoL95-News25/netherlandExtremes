@@ -294,6 +294,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0514da3654',extremes,Snow&Ice,#d60d2b,wmo,ijs Brazilië,2026-06-15T08:36:00+00:00,Brazil,0.3091617003445708,0,1,nl,SAM,South-America
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,regen Brazilië,2026-06-17T07:33:00+00:00,Brazil,0.3085132658720165,0,1,nl,SAM,South-America
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,ijsberg arctis,2026-06-12T07:05:00+00:00,,0.3078522543934463,1,1,nl,,
+'8d298839a5',extremes,Precipitation,#d60d2b,wmo,stortbui ver,2026-07-10T06:27:00+00:00,Mexico,0.30722853563956937,0,1,nl,NCA,North-America
 'df78e658d0',extremes,Earthquake,#870007,usgs,aardbeving komodo,2026-06-15T08:36:00+00:00,Indonesia,0.3070884414286023,1,1,nl,SEA,Asia
 '538eadceb4',extremes,Heat Wave,#c40202,random,milde winter,2026-06-08T07:13:00+00:00,,0.3069971794247236,1,1,nl,,
 '26dc110943',extremes,Drought,#edc291,edo,gebrek aan regen Nicaragua,2026-06-12T07:05:00+00:00,Nicaragua,0.3061832656966554,0,1,nl,SCA,North-America
@@ -407,7 +408,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,vorst Australië,2026-06-24T06:30:00+00:00,Australia,0.3014654432964623,0,1,nl,CAU,Oceania
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,ijs Argentinië,2026-06-09T06:32:00+00:00,Argentina,0.3014288778648876,0,1,nl,SES,South-America
 '023d124975',extremes,Drought,#edc291,edo,droogte sri lanka,2026-06-04T07:06:00+00:00,Sri Lanka,0.3014238102859009,0,1,nl,BOB,Asia
+'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,neerslag Tanzania,2026-07-04T05:59:00+00:00,Tanzania,0.3014057390895612,0,1,nl,SEAF,Africa
+'d7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,ijskoud Brazilië,2026-07-02T06:24:00+00:00,Brazil,0.3013964549004087,0,1,nl,SAM,South-America
 'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,vorst Argentinië,2026-06-09T06:32:00+00:00,Argentina,0.3013415686908535,1,1,nl,SES,South-America
+'24b660695f',extremes,Landslide,#572c03,wmo,modderstroom china,2026-07-03T06:09:00+00:00,China,0.3013207689017331,0,1,nl,EAS,Asia
 '869ff000f5',extremes,Precipitation,#d60d2b,wmo,regen belize,2026-06-11T07:14:00+00:00,Belize,0.3012865105781053,0,1,nl,SCA,North-America
 'f497a982c3',extremes,Storm,#b3b2b1,wmo,stormvloed Salomonseilanden,2026-06-09T06:32:00+00:00,Solomon Islands,0.3012127618326192,0,1,nl,EPO,Oceania
 '1c0214d974',extremes,Storm,#b3b2b1,wmo,storm Zuid-Afrika,2026-06-03T07:23:00+00:00,South Africa,0.3011639531079541,0,1,nl,WSAF,Africa
@@ -415,10 +419,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2433af70de',extremes,Storm,#b3b2b1,wmo,stormvloed belize,2026-06-12T07:05:00+00:00,Belize,0.3010572736878001,0,1,nl,SCA,North-America
 '501b14a5de',extremes,Precipitation,#d60d2b,wmo,neerslagregio amazónica,2026-06-14T07:07:00+00:00,Ecuador,0.3010525913298929,0,1,nl,NWS,South-America
 '04915d4188',extremes,Precipitation,#d60d2b,wmo,stortbui macau,2026-06-08T07:13:00+00:00,Macao,0.3010469219789293,0,1,nl,EAS,Asia
+'fc89d99879',extremes,Heat Wave,#c40202,wmo,hittegolf attawapiskat fort albany moosonee,2026-07-06T06:52:00+00:00,Canada,0.3010377238105338,0,1,nl,NEN,North-America
 'c40c3d7ce2',extremes,Flood,#030ba1,wmo,overstroming Zweden,2026-06-12T07:05:00+00:00,Sweden,0.3010269461394207,0,1,nl,NEU,Europe
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,stormvloed nieuw-zeeland,2026-06-08T07:13:00+00:00,New Zealand,0.3010229603531492,0,1,nl,NZ,Oceania
+'be647fc7a4',extremes,Storm,#b3b2b1,wmo,stormvloed Ecuador,2026-07-03T06:09:00+00:00,Ecuador,0.30101693878368474,0,1,nl,NWS,South-America
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,stormvloed Brazilië,2026-06-06T06:08:00+00:00,Brazil,0.3010044199190708,0,1,nl,SAM,South-America
+'62e1a55c0b',extremes,Wildfire,#d60d2b,wmo,wildvuur Penza-regio,2026-07-09T06:27:00+00:00,Russia,0.3009989176410653,0,1,nl,ESB,Europe
+'9d5914f39c',extremes,Storm,#b3b2b1,wmo,storm zuid-ijsland,2026-07-08T05:37:00+00:00,Iceland,0.300979556887035,0,1,nl,GIC,Europe
 'fc65ecc005',extremes,Cold Wave,#a7e9fa,wmo,koudegolf Brazilië,2026-06-06T06:08:00+00:00,Brazil,0.3009408922386101,0,1,nl,SAM,South-America
+'72fa239364',extremes,Precipitation,#d60d2b,wmo,stortbui dgo nee zonde,2026-07-10T06:27:00+00:00,Mexico,0.3009089038484969,0,1,nl,NCA,North-America
+'08226562a9',extremes,Earthquake,#870007,usgs,aardbeving fais,2026-06-25T06:32:00+00:00,Micronesia,0.3009038804513771,0,1,nl,NPO,Pacific Ocean
 '85213d3f73',extremes,Heat Wave,#c40202,wmo,hittegolf lg quatre laforge en fontanges,2026-06-11T07:14:00+00:00,Canada,0.3008686094500825,0,1,nl,NEN,North-America
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,ijskoud Duitsland,2026-06-11T07:14:00+00:00,Germany,0.3008053761376001,0,1,nl,WCE,Europe
 'd77b825e5b',extremes,Flood,#030ba1,wmo,overstroming Canada,2026-06-09T06:32:00+00:00,Canada,0.3007909919386571,0,1,nl,NEN,North-America
@@ -503,12 +513,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,aanlanding,2026-06-13T06:38:00+00:00,,0.2606470823423356,1,1,nl,,
 '970305e1b7',extremes,Precipitation,#d60d2b,wmo,stortbui canada,2026-06-09T06:32:00+00:00,Canada,0.2605888346250299,1,1,nl,NEN,North-America
 '8768fed4c8',extremes,Wildfire,#d60d2b,wmo,wildvuur regio Kemerovo,2026-06-26T06:36:00+00:00,Russia,0.2605751037337362,1,1,nl,ESB,Europe
-'b42ca6333d',extremes,Fog,#d60d2b,wmo,mist omsk-regio,2026-06-17T07:33:00+00:00,Russia,0.26049398627668946,1,1,nl,ESB,Europe
-'aacf82e274',extremes,Drought,#edc291,edo,droge periode Faeröer,2026-06-17T07:34:00+00:00,Faroe Islands,0.26047861902923836,1,1,nl,NEU,Europe
+'b42ca6333d',extremes,Fog,#d60d2b,wmo,mist omsk-regio,2026-06-17T07:33:00+00:00,Russia,0.2604939862766894,1,1,nl,ESB,Europe
+'aacf82e274',extremes,Drought,#edc291,edo,droge periode Faeröer,2026-06-17T07:34:00+00:00,Faroe Islands,0.2604786190292383,1,1,nl,NEU,Europe
 '8f29727ea9',extremes,Drought,#edc291,edo,droogte Equatoriaal-Guinea,2026-06-23T06:33:00+00:00,Equatorial Guinea,0.2604707175286284,1,1,nl,WAF,Africa
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,ijskoud Argentinië,2026-06-17T07:33:00+00:00,Argentina,0.2604153968314115,1,1,nl,SES,South-America
-'82ed5705b2',extremes,Precipitation,#d60d2b,wmo,stortbui costa rica,2026-06-23T06:33:00+00:00,Costa Rica,0.26036456835247346,1,1,nl,SCA,North-America
-'fa06cd330a',extremes,Landslide,#572c03,wmo,aardverschuiving China,2026-07-04T05:59:00+00:00,China,0.26029800153492005,1,1,nl,EAS,Asia
+'82ed5705b2',extremes,Precipitation,#d60d2b,wmo,stortbui costa rica,2026-06-23T06:33:00+00:00,Costa Rica,0.2603645683524734,1,1,nl,SCA,North-America
+'fa06cd330a',extremes,Landslide,#572c03,wmo,aardverschuiving China,2026-07-04T05:59:00+00:00,China,0.26029800153492,1,1,nl,EAS,Asia
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,storm Brazilië,2026-06-12T07:05:00+00:00,Brazil,0.2602108887761903,1,1,nl,SAM,South-America
 '48bbc2ab73',extremes,Thunderstorm,#53785a,wmo,onweer ghana,2026-06-11T07:14:00+00:00,Ghana,0.2600131746932644,1,1,nl,WAF,Africa
 '7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,sneeuw Brazilië,2026-06-14T07:07:00+00:00,Brazil,0.2599002374553755,1,1,nl,SAM,South-America
