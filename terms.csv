@@ -91,7 +91,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2d8085b6d1',extremes,Thunderstorm,#53785a,wmo,hagel groningen,2026-06-19T07:39:00+00:00,Netherlands,0.4326424532601604,1,1,nl,NEU,Europe
 'dd4c653a93',extremes,Drought,#edc291,edo,droogte curacao,2026-06-22T08:39:00+00:00,Curacao,0.4305913263896298,1,1,nl,CAR,North-America
 '26b7df1ccf',extremes,Drought,#edc291,edo,droogte sint maarten,2026-06-17T07:34:00+00:00,Sint Maarten,0.4284262570026447,1,1,nl,CAR,North-America
-'135f8534c2',extremes,Precipitation,#d60d2b,random,meer neerslag,2026-07-15T05:15:00+00:00,,0.42616538116790403,1,2,nl,,
+'135f8534c2',extremes,Precipitation,#d60d2b,random,meer neerslag,2026-07-15T05:15:00+00:00,,0.426165381167904,1,2,nl,,
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,regenbui,2026-07-12T05:43:00+00:00,,0.4258618629700516,1,2,nl,,
 '0a8e5743d9',extremes,Landslide,#572c03,random,aardverschuiving,2026-06-14T07:06:00+00:00,,0.4251764763323126,3,2,nl,,
 '0af345fb0d',extremes,Heat Wave,#c40202,wmo,hittegolf overijssel,2026-06-18T07:16:00+00:00,Netherlands,0.4218770898894753,3,1,nl,NEU,Europe
@@ -136,6 +136,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2f5bc36e8b',extremes,Precipitation,#d60d2b,wmo,stortregens sumatera selatan,2026-07-06T06:52:00+00:00,Indonesia,0.397346450787873,1,1,nl,SEA,Asia
 '5cf16b0388',extremes,Precipitation,#d60d2b,wmo,regen in yogyakarta,2026-06-14T07:07:00+00:00,Indonesia,0.3960639346862122,1,1,nl,SEA,Asia
 '7cd116b03d',extremes,Precipitation,#d60d2b,wmo,neerslag sulawesi utara,2026-06-10T06:49:00+00:00,Indonesia,0.3955040222693773,1,1,nl,SEA,Asia
+'9aceadd432',extremes,Heat Wave,#c40202,random,recordhitte,2026-07-14T05:14:00+00:00,,0.3950582931467439,1,2,nl,,
 '23321560ef',extremes,Precipitation,#d60d2b,wmo,regen sulawesi tengah,2026-06-29T07:13:00+00:00,Indonesia,0.3944698305585192,1,1,nl,SEA,Asia
 '28f9809f85',extremes,Drought,#edc291,edo,droogte bonaire sint eustatius en saba,2026-06-16T08:27:00+00:00,Bonaire; Saint Eustatius and Saba ,0.3943806608432999,1,1,nl,CAR,North-America
 '4e64b96216',extremes,Precipitation,#d60d2b,wmo,regen nusa tenggara barat,2026-06-11T07:14:00+00:00,Indonesia,0.3942090992460295,1,1,nl,SEA,Asia
@@ -256,7 +257,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '792a35d4a4',extremes,Flood,#030ba1,random,wateroverlast,2026-06-18T07:16:00+00:00,,0.3237563755995434,1,1,nl,,
 'b6cef22543',extremes,Drought,#edc291,random,waterbeperking,2026-07-01T06:52:00+00:00,,0.3229727009338708,1,1,nl,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,afkalven van gletsjers,2026-07-15T05:15:00+00:00,,0.3227521115973539,1,1,nl,,
-'9aceadd432',extremes,Heat Wave,#c40202,random,recordhitte,2026-07-14T05:14:00+00:00,,0.3218331095844046,0,1,nl,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,sneeuwstorm,2026-06-14T07:06:00+00:00,,0.3216877743345158,1,1,nl,,
 'b44cc7bdf4',extremes,Earthquake,#870007,usgs,aardbeving poso,2026-06-17T07:33:00+00:00,Indonesia,0.3215483043130181,1,1,nl,SEA,Asia
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,tropische storm,2026-06-13T06:38:00+00:00,,0.3215053047878139,1,1,nl,,
