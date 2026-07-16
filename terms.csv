@@ -109,7 +109,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9c446693a2',extremes,Precipitation,#d60d2b,wmo,regen algerije,2026-06-10T06:49:00+00:00,Algeria,0.411333779902837,1,2,nl,SAH,Africa
 '84febdd06c',extremes,Thunderstorm,#53785a,random,onweer,2026-06-10T06:49:00+00:00,,0.4112314402794226,1,2,nl,,
 'f44890a60b',extremes,Thunderstorm,#53785a,wmo,onweer Canada,2026-06-28T06:44:00+00:00,Canada,0.4110592425337463,1,2,nl,NEN,North-America
-'83f2a9deea',extremes,Drought,#edc291,edo,droge periode frankrijk,2026-06-26T06:36:00+00:00,France,0.41072248091591845,1,2,nl,WCE,Europe
+'83f2a9deea',extremes,Drought,#edc291,edo,droge periode frankrijk,2026-06-26T06:36:00+00:00,France,0.4107224809159184,1,2,nl,WCE,Europe
 '3421a57149',extremes,Storm,#b3b2b1,wmo,storm Ecuador,2026-07-04T05:59:00+00:00,Ecuador,0.4099843219991708,1,2,nl,NWS,South-America
 '41b16cb606',extremes,Precipitation,#d60d2b,wmo,hevige regen sulawesi barat,2026-06-30T06:39:00+00:00,Indonesia,0.4096752611481293,1,1,nl,SEA,Asia
 '4c8b5a8302',extremes,Precipitation,#d60d2b,wmo,stortbui jambi,2026-06-10T06:49:00+00:00,Indonesia,0.4088229553979188,1,1,nl,SEA,Asia
@@ -228,6 +228,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '35cc9cbf75',extremes,Precipitation,#d60d2b,random,stortregens,2026-06-29T07:12:00+00:00,,0.3374365893091749,1,1,nl,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,nationaal orkaancentrum,2026-06-18T07:16:00+00:00,,0.3365621808132981,1,1,nl,,
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,koudegolf,2026-06-25T06:32:00+00:00,,0.3361175543239968,1,1,nl,,
+'d2400dbe3d',extremes,Precipitation,#d60d2b,wmo,stortregens,2026-07-13T05:53:00+00:00,Mexico,0.3356582053022945,1,2,nl,NCA,North-America
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,laagste minimumtemperatuur,2026-06-25T06:32:00+00:00,,0.3355532411825448,1,1,nl,,
 '33355e5510',extremes,Thunderstorm,#53785a,wmo,zwaar weer algerije,2026-07-02T06:24:00+00:00,Algeria,0.3352052393062655,1,2,nl,SAH,Africa
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,opwaaiende sneeuw,2026-06-27T06:08:00+00:00,,0.3340479201711619,1,1,nl,,
@@ -272,7 +273,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,regen Brazilië,2026-06-17T07:33:00+00:00,Brazil,0.3085132658720165,0,1,nl,SAM,South-America
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,ijsberg arctis,2026-06-12T07:05:00+00:00,,0.3078522543934463,1,1,nl,,
 'df78e658d0',extremes,Earthquake,#870007,usgs,aardbeving komodo,2026-06-15T08:36:00+00:00,Indonesia,0.3070884414286023,1,1,nl,SEA,Asia
-'d2400dbe3d',extremes,Precipitation,#d60d2b,wmo,stortregens,2026-07-13T05:53:00+00:00,Mexico,0.3059507591791701,0,1,nl,NCA,North-America
 '8a654473a4',extremes,Drought,#edc291,edo,droogte sao tome en principe,2026-07-07T06:30:00+00:00,Sao Tome and Principe,0.3058603535028943,0,1,nl,WAF,Africa
 'b2ab090487',extremes,Precipitation,#d60d2b,wmo,regen chis gro oax pue ver,2026-07-13T05:53:00+00:00,Mexico,0.3054190529625011,0,1,nl,NCA,North-America
 'a03bfb69ba',extremes,Drought,#edc291,edo,droge periode zwitserland,2026-06-26T06:36:00+00:00,Switzerland,0.3051533382415271,0,1,nl,WCE,Europe
@@ -454,7 +454,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,regen nieuw-zeeland,2026-06-20T06:47:00+00:00,New Zealand,0.262527989038657,1,1,nl,NZ,Oceania
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,regen Argentinië,2026-06-18T07:16:00+00:00,Argentina,0.2623843397659069,1,1,nl,SES,South-America
 'e45d15d7d1',extremes,Landslide,#572c03,wmo,aardverschuiving Shuangyang district,2026-07-14T05:14:00+00:00,China,0.2623528536804039,1,1,nl,EAS,Asia
-'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,vorst Argentinië,2026-06-30T06:39:00+00:00,Argentina,0.26229880670979344,1,1,nl,SES,South-America
+'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,vorst Argentinië,2026-06-30T06:39:00+00:00,Argentina,0.2622988067097934,1,1,nl,SES,South-America
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,neerslag nieuw-zeeland,2026-06-19T07:39:00+00:00,New Zealand,0.2622194431524871,1,1,nl,NZ,Oceania
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,stortbui Brazilië,2026-06-18T07:16:00+00:00,Brazil,0.2621948948558504,1,1,nl,SAM,South-America
 '538eadceb4',extremes,Heat Wave,#c40202,random,milde winter,2026-06-29T07:12:00+00:00,,0.2621105131939768,1,1,nl,,
