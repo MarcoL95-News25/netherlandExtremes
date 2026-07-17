@@ -112,6 +112,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3421a57149',extremes,Storm,#b3b2b1,wmo,storm Ecuador,2026-07-04T05:59:00+00:00,Ecuador,0.4099843219991708,1,2,nl,NWS,South-America
 '41b16cb606',extremes,Precipitation,#d60d2b,wmo,hevige regen sulawesi barat,2026-06-30T06:39:00+00:00,Indonesia,0.4096752611481293,1,1,nl,SEA,Asia
 'bc85c67872',extremes,Storm,#b3b2b1,wmo,storm koeweit,2026-06-17T07:33:00+00:00,Kuwait,0.408623410512114,1,2,nl,ARP,Asia
+'9778ee6716',extremes,Earthquake,#870007,usgs,aardbeving Yumare,2026-06-25T06:32:00+00:00,Venezuela,0.40833227238353575,1,2,nl,NSA,South-America
 '3ee2ef44c7',extremes,Precipitation,#d60d2b,wmo,neerslag gorontalo,2026-06-26T06:36:00+00:00,Indonesia,0.4070783495100337,1,1,nl,SEA,Asia
 'cc1c8b9d70',extremes,Thunderstorm,#53785a,wmo,onweer Brabant,2026-06-19T07:39:00+00:00,Belgium,0.4066610304226573,1,1,nl,WCE,Europe
 'f94480c6dc',extremes,Precipitation,#d60d2b,wmo,neerslag kep. riau,2026-07-03T06:09:00+00:00,Indonesia,0.4065994972554682,1,1,nl,SEA,Asia
@@ -273,8 +274,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0077950340',extremes,Wildfire,#d60d2b,wmo,wildvuur Noorwegen,2026-06-27T06:08:00+00:00,Norway,0.3050699430520862,1,1,nl,NEU,Europe
 '55c39b351d',extremes,Storm,#b3b2b1,random,stofduivel,2026-06-17T07:33:00+00:00,,0.3050403589886913,1,1,nl,,
 'e739a7d025',extremes,Storm,#b3b2b1,wmo,stormregio litoral,2026-07-03T06:09:00+00:00,Ecuador,0.3050363543900766,1,1,nl,NWS,South-America
-'e7ee03fac9',extremes,Snow&Ice,#d60d2b,wmo,ijskoude Crown Range Road,2026-06-24T06:30:00+00:00,New Zealand,0.3038529177732031,0,1,nl,NZ,Oceania
-'9778ee6716',extremes,Earthquake,#870007,usgs,aardbeving Yumare,2026-06-25T06:32:00+00:00,Venezuela,0.3037438322159245,0,1,nl,NSA,South-America
 '13104e853c',extremes,Drought,#edc291,edo,droge periode gabon,2026-06-23T06:33:00+00:00,Gabon,0.3036339854521939,0,1,nl,CAF,Africa
 'ce884fadc9',extremes,Earthquake,#870007,usgs,aardbeving guadeloupe,2026-06-27T06:08:00+00:00,Guadeloupe,0.303617383522765,0,1,nl,NAO,Atlantic Ocean
 '80d50b76c6',extremes,Storm,#b3b2b1,wmo,stormvloed Saoedi-Arabië,2026-06-23T06:33:00+00:00,Saudi Arabia,0.303573607378131,0,1,nl,ARP,Asia
@@ -549,6 +548,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a43b4b4e31',extremes,Storm,#b3b2b1,wmo,stormregio litoraal en interandina,2026-06-25T06:32:00+00:00,Ecuador,0.2583319955428714,1,1,nl,NWS,South-America
 'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,ijskoud Canada,2026-06-22T08:39:00+00:00,Canada,0.2582926553729798,1,1,nl,NEN,North-America
 'ee2bb6403c',extremes,Wildfire,#d60d2b,wmo,wildvuur republiek basjkortostan,2026-06-24T06:30:00+00:00,Russia,0.2582919990814946,1,1,nl,ESB,Europe
+'e7ee03fac9',extremes,Snow&Ice,#d60d2b,wmo,ijskoude Crown Range Road,2026-06-24T06:30:00+00:00,New Zealand,0.25827498010722266,1,1,nl,NZ,Oceania
 'f3f61a0510',extremes,Flood,#030ba1,wmo,overstroming Tomsk-regio,2026-06-15T08:36:00+00:00,Russia,0.258185455866725,1,1,nl,ESB,Europe
 '042968096b',extremes,Storm,#b3b2b1,wmo,storm ijsland,2026-07-07T06:30:00+00:00,Iceland,0.2580606496758322,1,1,nl,GIC,Europe
 '769c0da087',extremes,Storm,#b3b2b1,wmo,stormstaat Koeweit,2026-06-16T08:27:00+00:00,Kuwait,0.2579506700598931,1,1,nl,ARP,Asia
