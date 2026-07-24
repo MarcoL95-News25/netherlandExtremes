@@ -2,7 +2,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd638582ba4',extremes,Heat Wave,#c40202,wmo,hittegolf Luik,2026-07-07T06:30:00+00:00,Belgium,0.7232336904219588,0,1,nl,WCE,Europe
 '0b02c9df7a',extremes,Heat Wave,#c40202,wmo,hittegolf west-vlaanderen,2026-07-07T06:30:00+00:00,Belgium,0.6954180129077012,1,2,nl,WCE,Europe
 '8a9e4b2cb0',extremes,Heat Wave,#c40202,wmo,hittegolf utrecht,2026-07-13T05:53:00+00:00,Netherlands,0.6835736110687437,1,2,nl,NEU,Europe
-'ae7f05dd01',extremes,Storm,#b3b2b1,wmo,stormkustzone,2026-07-10T06:27:00+00:00,Belgium,0.6742385729658151,0,1,nl,WCE,Europe
 '9ea0e31db4',extremes,Drought,#edc291,edo,gebrek aan regen belgië,2026-07-08T05:37:00+00:00,Belgium,0.6737321630605891,0,1,nl,WCE,Europe
 'a834b33b6c',extremes,Drought,#edc291,edo,droogte nederland,2026-06-26T06:36:00+00:00,Netherlands,0.6601587193468212,1,2,nl,NEU,Europe
 '18eddb0302',extremes,Heat Wave,#c40202,wmo,hittegolf antwerpen,2026-06-19T07:39:00+00:00,Belgium,0.6452480146005611,1,1,nl,WCE,Europe
@@ -14,7 +13,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a1d0950d4e',extremes,Heat Wave,#c40202,wmo,hittegolf Oost-Vlaanderen,2026-07-07T06:30:00+00:00,Belgium,0.629276512812348,1,1,nl,WCE,Europe
 '708206a69e',extremes,Storm,#b3b2b1,wmo,stormvloed nederland,2026-06-19T07:39:00+00:00,Netherlands,0.626688820628968,1,1,nl,NEU,Europe
 '6bab428eb7',extremes,Heat Wave,#c40202,wmo,hittegolf belgië,2026-06-16T08:27:00+00:00,Belgium,0.6186197222145053,2,2,nl,WCE,Europe
-'28f9809f85',extremes,Drought,#edc291,edo,droogte bonaire sint eustatius en saba,2026-07-12T05:43:00+00:00,Bonaire; Saint Eustatius and Saba ,0.6164468052158751,0,1,nl,CAR,North-America
 '6871a315cf',extremes,Heat Wave,#c40202,wmo,hittegolf limburg,2026-06-16T08:27:00+00:00,Belgium,0.6126599863179103,2,1,nl,WCE,Europe
 '5342f1532c',extremes,Drought,#edc291,edo,droogte nederland,2026-07-13T05:53:00+00:00,Netherlands,0.6065733794672631,0,1,nl,NEU,Europe
 '73b3077538',extremes,Drought,#edc291,edo,droogte suriname,2026-07-12T05:43:00+00:00,Suriname,0.6005075828930561,0,1,nl,NSA,South-America
@@ -29,6 +27,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '511543dad8',extremes,Drought,#edc291,edo,gebrek aan regen nederland,2026-06-29T07:13:00+00:00,Netherlands,0.5788028887368228,1,2,nl,NEU,Europe
 '751eb90eff',extremes,Storm,#b3b2b1,wmo,stormvloed Texel,2026-07-19T05:37:00+00:00,Netherlands,0.574839353071348,1,1,nl,NEU,Europe
 'f9ae46e157',extremes,Heat Wave,#c40202,wmo,hittegolf Zeeland,2026-06-18T07:16:00+00:00,Netherlands,0.5739797927480574,3,2,nl,NEU,Europe
+'ae7f05dd01',extremes,Storm,#b3b2b1,wmo,stormkustzone,2026-07-10T06:27:00+00:00,Belgium,0.5731027870209429,1,1,nl,WCE,Europe
 '812393f39a',extremes,Storm,#b3b2b1,wmo,stormvloed ijsselmeer,2026-07-22T05:35:00+00:00,Netherlands,0.568738441012315,1,1,nl,NEU,Europe
 'b0d80a3f36',extremes,Storm,#b3b2b1,wmo,stormvloed rottum,2026-07-07T06:30:00+00:00,Netherlands,0.5654073190241601,1,1,nl,NEU,Europe
 '0af345fb0d',extremes,Heat Wave,#c40202,wmo,hittegolf overijssel,2026-07-13T05:53:00+00:00,Netherlands,0.5649308583125443,1,1,nl,NEU,Europe
@@ -39,10 +38,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aefd27a85e',extremes,Heat Wave,#c40202,wmo,hittegolf nederland,2026-06-18T07:16:00+00:00,Netherlands,0.5420492177936901,2,1,nl,NEU,Europe
 '1512e9c6b2',extremes,Drought,#edc291,edo,droogte suriname,2026-06-20T06:47:00+00:00,Suriname,0.540467518228526,1,1,nl,NSA,South-America
 'e1559df16c',extremes,Earthquake,#870007,usgs,aardbeving tobelo,2026-07-05T06:24:00+00:00,Indonesia,0.5361411015285796,1,1,nl,SEA,Asia
-'d46ac7becc',extremes,Drought,#edc291,edo,gebrek aan regen Aruba,2026-07-07T06:30:00+00:00,Aruba,0.5338028385679133,0,1,nl,CAR,North-America
 '19ce294d18',extremes,Drought,#edc291,edo,droogte curacao,2026-06-21T07:16:00+00:00,Curacao,0.5334994894277617,1,1,nl,CAR,North-America
 'c3776cfc46',extremes,Drought,#edc291,edo,droge periode Aruba,2026-06-18T07:16:00+00:00,Aruba,0.5296012838041693,1,1,nl,CAR,North-America
-'dfef3989ad',extremes,Drought,#edc291,edo,droge periode nederland,2026-07-07T06:30:00+00:00,Netherlands,0.5230163397227148,0,1,nl,NEU,Europe
+'28f9809f85',extremes,Drought,#edc291,edo,droogte bonaire sint eustatius en saba,2026-07-12T05:43:00+00:00,Bonaire; Saint Eustatius and Saba ,0.5239797844334938,1,1,nl,CAR,North-America
 'c65fc17a5a',extremes,Heat Wave,#c40202,wmo,hittegolf brabant,2026-06-17T07:33:00+00:00,Belgium,0.5190640529539227,2,1,nl,WCE,Europe
 '4262ff0da9',extremes,Thunderstorm,#53785a,wmo,onweer limburg,2026-06-20T06:47:00+00:00,Belgium,0.5129485646391886,1,2,nl,WCE,Europe
 '6cfc55b8b1',extremes,Drought,#edc291,edo,droogte bonaire sint eustatius en saba,2026-06-23T06:33:00+00:00,Bonaire; Saint Eustatius and Saba ,0.5128045205554014,1,1,nl,CAR,North-America
@@ -78,6 +76,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,aanlanding,2026-07-09T06:27:00+00:00,,0.4604951358468913,1,2,nl,,
 '07babddb74',extremes,Drought,#edc291,edo,droogte sint maarten,2026-07-14T05:15:00+00:00,Sint Maarten,0.4555880183778836,0,1,nl,CAR,North-America
 'ad0d79f37c',extremes,Drought,#edc291,edo,droogte bonaire sint eustatius en saba,2026-06-27T06:08:00+00:00,Bonaire; Saint Eustatius and Saba ,0.4545235252688175,1,1,nl,CAR,North-America
+'d46ac7becc',extremes,Drought,#edc291,edo,gebrek aan regen Aruba,2026-07-07T06:30:00+00:00,Aruba,0.4537324127827263,1,1,nl,CAR,North-America
 '17ea782bc1',extremes,Thunderstorm,#53785a,wmo,hagel nederland,2026-06-27T06:08:00+00:00,Netherlands,0.4529474076210457,1,1,nl,NEU,Europe
 '2c3e19e4c4',extremes,Drought,#edc291,edo,droogte curacao,2026-07-07T06:30:00+00:00,Curacao,0.4521770940719511,1,1,nl,CAR,North-America
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,temperatuurdaling,2026-06-24T06:29:00+00:00,,0.4516569530048724,1,2,nl,,
@@ -86,6 +85,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a22e073273',extremes,Storm,#b3b2b1,wmo,stormvloed Zeeland,2026-06-19T07:39:00+00:00,Netherlands,0.4467752138216235,2,1,nl,NEU,Europe
 '1ff36d7a46',extremes,Drought,#edc291,edo,droogte belgie,2026-06-16T08:27:00+00:00,Belgium,0.446765430688323,1,1,nl,WCE,Europe
 '1a9f36f193',extremes,Storm,#b3b2b1,wmo,storm waddenzee,2026-06-27T06:08:00+00:00,Netherlands,0.445702581370978,2,1,nl,NEU,Europe
+'dfef3989ad',extremes,Drought,#edc291,edo,droge periode nederland,2026-07-07T06:30:00+00:00,Netherlands,0.4447139037643075,1,1,nl,NEU,Europe
 '0b2190bc40',extremes,Storm,#b3b2b1,wmo,stormvloed west-vlaanderen,2026-06-20T06:47:00+00:00,Belgium,0.4445902888314105,2,1,nl,WCE,Europe
 'b13d51452d',extremes,Storm,#b3b2b1,wmo,storm antwerpen,2026-06-19T07:39:00+00:00,Belgium,0.4423597640721017,2,1,nl,WCE,Europe
 'c5e46c3cfb',extremes,Precipitation,#d60d2b,wmo,neerslag sumatera barat,2026-07-20T05:54:00+00:00,Indonesia,0.4408613158374443,1,1,nl,SEA,Asia
