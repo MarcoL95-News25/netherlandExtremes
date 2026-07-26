@@ -5,13 +5,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6871a315cf',extremes,Heat Wave,#c40202,wmo,hittegolf limburg,2026-07-08T05:37:00+00:00,Belgium,0.6970226640655007,1,2,nl,WCE,Europe
 '0b02c9df7a',extremes,Heat Wave,#c40202,wmo,hittegolf west-vlaanderen,2026-07-07T06:30:00+00:00,Belgium,0.6954180129077012,1,2,nl,WCE,Europe
 '8a9e4b2cb0',extremes,Heat Wave,#c40202,wmo,hittegolf utrecht,2026-07-13T05:53:00+00:00,Netherlands,0.6835736110687437,1,2,nl,NEU,Europe
-'f7772f7a70',extremes,Storm,#b3b2b1,wmo,storm delfzijl,2026-07-26T05:46:00+00:00,Netherlands,0.6830971476967631,0,1,nl,NEU,Europe
 'c65fc17a5a',extremes,Heat Wave,#c40202,wmo,hittegolf brabant,2026-07-08T05:37:00+00:00,Belgium,0.6780906973681304,1,1,nl,WCE,Europe
-'e6d31a1970',extremes,Storm,#b3b2b1,wmo,storm harlingen,2026-07-26T05:46:00+00:00,Netherlands,0.6750282318415809,0,1,nl,NEU,Europe
 '9ea0e31db4',extremes,Drought,#edc291,edo,gebrek aan regen belgië,2026-07-08T05:37:00+00:00,Belgium,0.6737321630605891,0,1,nl,WCE,Europe
-'528c58d45c',extremes,Heat Wave,#c40202,wmo,hittegolf zuid holland,2026-07-12T05:43:00+00:00,Netherlands,0.6713828751304486,0,1,nl,NEU,Europe
 'f75d6dd14a',extremes,Storm,#b3b2b1,wmo,stormvloedmarken,2026-07-26T05:46:00+00:00,Netherlands,0.6661181445014928,0,1,nl,NEU,Europe
 'a834b33b6c',extremes,Drought,#edc291,edo,droogte nederland,2026-06-26T06:36:00+00:00,Netherlands,0.6601587193468212,1,2,nl,NEU,Europe
+'528c58d45c',extremes,Heat Wave,#c40202,wmo,hittegolf zuid holland,2026-07-12T05:43:00+00:00,Netherlands,0.6459754738608813,1,2,nl,NEU,Europe
 '18eddb0302',extremes,Heat Wave,#c40202,wmo,hittegolf antwerpen,2026-06-19T07:39:00+00:00,Belgium,0.6452480146005611,1,1,nl,WCE,Europe
 '70e952af3c',extremes,Thunderstorm,#53785a,wmo,onweer nederland,2026-06-19T07:39:00+00:00,Netherlands,0.6450996282108225,2,2,nl,NEU,Europe
 '8cb4d45a69',extremes,Heat Wave,#c40202,wmo,hittegolf namen,2026-07-07T06:30:00+00:00,Belgium,0.6450199401801686,1,1,nl,WCE,Europe
@@ -31,6 +29,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '43ab572e78',extremes,Storm,#b3b2b1,wmo,stormvloed kustgebied,2026-07-12T05:43:00+00:00,Belgium,0.5865997927807982,1,1,nl,WCE,Europe
 '67880a4685',extremes,Thunderstorm,#53785a,wmo,zwaar weer noord-brabant,2026-06-26T06:36:00+00:00,Netherlands,0.5823864403275748,1,2,nl,NEU,Europe
 'add102af34',extremes,Storm,#b3b2b1,wmo,stormvloedspoeling,2026-07-12T05:43:00+00:00,Netherlands,0.5809125606958744,1,1,nl,NEU,Europe
+'f7772f7a70',extremes,Storm,#b3b2b1,wmo,storm delfzijl,2026-07-26T05:46:00+00:00,Netherlands,0.5806325755422487,1,1,nl,NEU,Europe
 '68529927a3',extremes,Storm,#b3b2b1,wmo,storm noord holland,2026-06-27T06:08:00+00:00,Netherlands,0.580496702381581,2,1,nl,NEU,Europe
 '3b8ec0c54a',extremes,Storm,#b3b2b1,wmo,storm ijmuiden,2026-07-12T05:43:00+00:00,Netherlands,0.579092662706033,1,1,nl,NEU,Europe
 '511543dad8',extremes,Drought,#edc291,edo,gebrek aan regen nederland,2026-06-29T07:13:00+00:00,Netherlands,0.5788028887368228,1,2,nl,NEU,Europe
@@ -39,6 +38,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '751eb90eff',extremes,Storm,#b3b2b1,wmo,stormvloed Texel,2026-07-19T05:37:00+00:00,Netherlands,0.574839353071348,1,1,nl,NEU,Europe
 '783c5b7b17',extremes,Heat Wave,#c40202,wmo,hittegolf gelderland,2026-07-11T05:27:00+00:00,Netherlands,0.5743349791629303,1,1,nl,NEU,Europe
 'f9ae46e157',extremes,Heat Wave,#c40202,wmo,hittegolf Zeeland,2026-06-18T07:16:00+00:00,Netherlands,0.5739797927480574,3,2,nl,NEU,Europe
+'e6d31a1970',extremes,Storm,#b3b2b1,wmo,storm harlingen,2026-07-26T05:46:00+00:00,Netherlands,0.5737739970653437,1,1,nl,NEU,Europe
 'ae7f05dd01',extremes,Storm,#b3b2b1,wmo,stormkustzone,2026-07-10T06:27:00+00:00,Belgium,0.5731027870209429,1,1,nl,WCE,Europe
 '812393f39a',extremes,Storm,#b3b2b1,wmo,stormvloed ijsselmeer,2026-07-22T05:35:00+00:00,Netherlands,0.568738441012315,1,1,nl,NEU,Europe
 'b0d80a3f36',extremes,Storm,#b3b2b1,wmo,stormvloed rottum,2026-07-07T06:30:00+00:00,Netherlands,0.5654073190241601,1,1,nl,NEU,Europe
@@ -257,7 +257,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a03bfb69ba',extremes,Drought,#edc291,edo,droge periode zwitserland,2026-06-26T06:36:00+00:00,Switzerland,0.305153338241527,1,1,nl,WCE,Europe
 '0077950340',extremes,Wildfire,#d60d2b,wmo,wildvuur Noorwegen,2026-06-27T06:08:00+00:00,Norway,0.3050699430520862,1,1,nl,NEU,Europe
 'e739a7d025',extremes,Storm,#b3b2b1,wmo,stormregio litoral,2026-07-03T06:09:00+00:00,Ecuador,0.3050363543900766,1,1,nl,NWS,South-America
-'accf7e59ae',extremes,Thunderstorm,#53785a,wmo,zwaar weer Wit-Rusland,2026-07-13T05:53:00+00:00,Belarus,0.30490466809705435,0,1,nl,WCE,Europe
+'accf7e59ae',extremes,Thunderstorm,#53785a,wmo,zwaar weer Wit-Rusland,2026-07-13T05:53:00+00:00,Belarus,0.3049046680970543,0,1,nl,WCE,Europe
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,regen Brazilië,2026-07-08T05:37:00+00:00,Brazil,0.3044508481860377,0,1,nl,SAM,South-America
 'c3bed96c37',extremes,Precipitation,#d60d2b,wmo,stortbui Mexico,2026-07-12T05:43:00+00:00,Mexico,0.3033632979836823,1,1,nl,NCA,North-America
 'b8a0990dab',extremes,Heat Wave,#c40202,wmo,hittegolf frankrijk,2026-07-04T05:59:00+00:00,France,0.3031686104171125,0,1,nl,WCE,Europe
