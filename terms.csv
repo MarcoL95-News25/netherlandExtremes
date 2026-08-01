@@ -206,10 +206,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,koudste winter,2026-07-09T06:27:00+00:00,,0.3277686674440376,1,1,nl,,
 'ea87be5bd8',extremes,Heat Wave,#c40202,random,verzengende temperatuur,2026-07-30T05:24:00+00:00,,0.3265736259153281,1,1,nl,,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,laagste minimumtemperatuur,2026-07-20T05:54:00+00:00,,0.3260991727088914,1,1,nl,,
+'3e4b341619',extremes,Storm,#b3b2b1,random,storm,2026-07-02T06:23:00+00:00,,0.324774033505071,1,2,nl,,
 '15a9c61e3e',extremes,Landslide,#572c03,random,aardverschuiving,2026-07-02T06:23:00+00:00,,0.3241761835476146,1,1,nl,,
 '9b18cf21ec',extremes,Earthquake,#870007,usgs,aardbeving pelabuhanratu,2026-07-21T05:36:00+00:00,Indonesia,0.3232810046935465,1,1,nl,SEA,Asia
 'b6cef22543',extremes,Drought,#edc291,random,waterbeperking,2026-07-01T06:52:00+00:00,,0.3229727009338708,1,1,nl,,
-'3e4b341619',extremes,Storm,#b3b2b1,random,storm,2026-07-02T06:23:00+00:00,,0.3227869977065006,0,1,nl,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,afkalven van gletsjers,2026-07-15T05:15:00+00:00,,0.3227521115973539,1,1,nl,,
 'f8f49c3313',extremes,Earthquake,#870007,usgs,aardbeving fakfak,2026-07-20T05:54:00+00:00,Indonesia,0.3208851476892921,1,1,nl,SEA,Asia
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,kwikdaling,2026-06-29T07:12:00+00:00,,0.3206112943949928,1,1,nl,,
@@ -229,7 +229,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-07-07T06:30:00+00:00,,0.3094809483697947,1,1,nl,,
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,zandstorm,2026-07-03T06:09:00+00:00,,0.3091612809466982,1,1,nl,,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,recordregenval,2026-07-05T06:24:00+00:00,,0.3054647743786265,1,1,nl,,
-'c6ce45829e',extremes,Storm,#b3b2b1,wmo,stormvloed Brazilië,2026-07-18T05:10:00+00:00,Brazil,0.3052837859245118,0,1,nl,SAM,South-America
 'e739a7d025',extremes,Storm,#b3b2b1,wmo,stormregio litoral,2026-07-03T06:09:00+00:00,Ecuador,0.3050363543900766,1,1,nl,NWS,South-America
 '1617e554bb',extremes,Storm,#b3b2b1,wmo,stormvloed in kust- en offshoregebieden.,2026-07-31T05:51:00+00:00,Belize,0.3036453610679229,0,1,nl,SCA,North-America
 'c3bed96c37',extremes,Precipitation,#d60d2b,wmo,stortbui Mexico,2026-07-12T05:43:00+00:00,Mexico,0.3033632979836823,1,1,nl,NCA,North-America
@@ -433,6 +432,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f94537514d',extremes,Snow&Ice,#d60d2b,wmo,vorst haast pass sh6,2026-07-04T05:59:00+00:00,New Zealand,0.2595611993973886,1,1,nl,NZ,Oceania
 'a78a18febe',extremes,Fog,#d60d2b,wmo,mist zabaykalsky krai,2026-06-30T06:39:00+00:00,Russia,0.2595440625791954,1,1,nl,ESB,Europe
 '12775cc05a',extremes,Drought,#edc291,wmo,droogte Brazilië,2026-07-07T06:30:00+00:00,Brazil,0.25950422346778,1,1,nl,SAM,South-America
+'c6ce45829e',extremes,Storm,#b3b2b1,wmo,stormvloed Brazilië,2026-07-18T05:10:00+00:00,Brazil,0.259491218035835,1,1,nl,SAM,South-America
 '5a69bd9b04',extremes,Fog,#d60d2b,wmo,mist novay zemly,2026-06-30T06:39:00+00:00,Russia,0.2594668806708828,1,1,nl,ESB,Europe
 'd709206c08',extremes,Storm,#b3b2b1,wmo,stormreg. 15 cordillera,2026-07-03T06:09:00+00:00,Chile,0.2594147538233447,1,1,nl,SWS,South-America
 '8a32dbbe9e',extremes,Storm,#b3b2b1,wmo,storm nigeria,2026-07-28T05:31:00+00:00,Nigeria,0.259412190707697,1,1,nl,WAF,Africa
