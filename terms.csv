@@ -135,6 +135,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a76ed106fb',extremes,Precipitation,#d60d2b,wmo,stortbui kalimantan timur,2026-07-02T06:24:00+00:00,Indonesia,0.3913243150782464,1,1,nl,SEA,Asia
 'd59a7e48d7',extremes,Drought,#edc291,random,verdamping,2026-07-08T05:37:00+00:00,,0.3907149009647006,1,1,nl,,
 'b13743c828',extremes,Precipitation,#d60d2b,wmo,hevige regen nusa tenggara barat,2026-07-26T05:46:00+00:00,Indonesia,0.390366500137422,1,1,nl,SEA,Asia
+'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,overstromingen,2026-08-02T05:41:00+00:00,,0.3886446079793746,1,2,nl,,
 'ec721edfcc',extremes,Precipitation,#d60d2b,wmo,hevige regen sulawesi tenggara,2026-06-27T06:08:00+00:00,Indonesia,0.3886087912192111,1,1,nl,SEA,Asia
 'b9418001ff',extremes,Earthquake,#870007,usgs,aardbeving bitung,2026-07-01T06:52:00+00:00,Indonesia,0.3883727929211613,1,1,nl,SEA,Asia
 'cd532c5fd8',extremes,Precipitation,#d60d2b,wmo,hevige regen kep. bangka belitung,2026-07-06T06:52:00+00:00,Indonesia,0.3882842461975471,1,1,nl,SEA,Asia
@@ -154,7 +155,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '32a7b42dae',extremes,Earthquake,#870007,usgs,aardbeving labuan,2026-07-08T05:37:00+00:00,Indonesia,0.3803364907738178,1,1,nl,SEA,Asia
 '08b046b949',extremes,Precipitation,#d60d2b,wmo,regen sulawesi utara,2026-06-30T06:39:00+00:00,Indonesia,0.3795437889180777,1,1,nl,SEA,Asia
 '24db51674d',extremes,Earthquake,#870007,usgs,aardbeving abepura,2026-07-05T06:24:00+00:00,Indonesia,0.3792498425873314,1,1,nl,SEA,Asia
-'784b5e8109',extremes,Precipitation,#d60d2b,wmo,stortbui sulawesi utara,2026-06-29T07:13:00+00:00,Indonesia,0.3790384422213756,1,1,nl,SEA,Asia
 'a77c5c4f2b',extremes,Precipitation,#d60d2b,wmo,neerslag kep. bangka belitung,2026-06-27T06:08:00+00:00,Indonesia,0.3789531616054749,1,1,nl,SEA,Asia
 'c873c30e78',extremes,Precipitation,#d60d2b,wmo,hevige regen sumatera utara,2026-06-30T06:39:00+00:00,Indonesia,0.3788669153770994,1,1,nl,SEA,Asia
 '7acd1fddb0',extremes,Precipitation,#d60d2b,wmo,hevige regen lampung,2026-06-28T06:44:00+00:00,Indonesia,0.3782919942211772,1,1,nl,SEA,Asia
@@ -165,7 +165,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '63cb22b655',extremes,Earthquake,#870007,usgs,aardbeving masohi,2026-07-14T05:14:00+00:00,Indonesia,0.3744916336400052,1,1,nl,SEA,Asia
 '943aaaedeb',extremes,Precipitation,#d60d2b,wmo,neerslag kalimantan barat,2026-06-28T06:44:00+00:00,Indonesia,0.3724799056174178,1,1,nl,SEA,Asia
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,zware neerslag,2026-07-30T05:24:00+00:00,,0.3721454953124959,1,2,nl,,
-'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,overstromingen,2026-08-02T05:41:00+00:00,,0.3711908468206547,0,1,nl,,
 '8739ef25d6',extremes,Heat Wave,#c40202,wmo,hittegolf portugal,2026-07-10T06:27:00+00:00,Portugal,0.3703562215053422,1,2,nl,MED,Europe
 '3d690ea060',extremes,Drought,#edc291,edo,droogte Aruba,2026-06-29T07:13:00+00:00,Aruba,0.3701847150433074,1,1,nl,CAR,North-America
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,hitte,2026-07-06T06:52:00+00:00,,0.3695560905220854,1,3,nl,,
@@ -175,7 +174,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,lawine,2026-07-04T05:59:00+00:00,,0.3656632300719767,1,2,nl,,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,zware regen,2026-08-01T05:41:00+00:00,,0.3634740544477297,0,1,nl,,
 '1b846b85cb',extremes,Earthquake,#870007,usgs,aardbeving ternate,2026-06-29T07:12:00+00:00,Indonesia,0.3623983894954127,1,1,nl,SEA,Asia
-'b320c39ee1',extremes,Earthquake,#870007,usgs,aardbeving bandar lampung,2026-07-20T05:54:00+00:00,Indonesia,0.36149240013808887,1,1,nl,SEA,Asia
+'b320c39ee1',extremes,Earthquake,#870007,usgs,aardbeving bandar lampung,2026-07-20T05:54:00+00:00,Indonesia,0.3614924001380888,1,1,nl,SEA,Asia
 '84febdd06c',extremes,Thunderstorm,#53785a,random,onweer,2026-07-28T05:30:00+00:00,,0.3574444931859145,1,1,nl,,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-08-02T05:41:00+00:00,,0.3560232141096267,0,1,nl,,
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,vorst,2026-07-17T05:27:00+00:00,,0.3547348873011291,1,1,nl,,
