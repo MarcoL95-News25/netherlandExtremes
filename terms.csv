@@ -1,7 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'dd844a9ce4',extremes,Heat Wave,#c40202,wmo,hittegolf groningen,2026-08-03T05:57:00+00:00,Netherlands,0.7513727662680433,1,2,nl,NEU,Europe
 'aefd27a85e',extremes,Heat Wave,#c40202,wmo,hittegolf nederland,2026-07-11T05:27:00+00:00,Netherlands,0.7074692517219482,1,3,nl,NEU,Europe
-'49be8fe6a5',extremes,Heat Wave,#c40202,wmo,hittegolf drenthe,2026-08-03T05:57:00+00:00,Netherlands,0.7031784612096723,0,1,nl,NEU,Europe
 '6bab428eb7',extremes,Heat Wave,#c40202,wmo,hittegolf belgië,2026-07-28T05:31:00+00:00,Belgium,0.7025635304163554,2,2,nl,WCE,Europe
 '6871a315cf',extremes,Heat Wave,#c40202,wmo,hittegolf limburg,2026-07-08T05:37:00+00:00,Belgium,0.6970226640655007,1,2,nl,WCE,Europe
 '0b02c9df7a',extremes,Heat Wave,#c40202,wmo,hittegolf west-vlaanderen,2026-07-07T06:30:00+00:00,Belgium,0.6954180129077012,1,2,nl,WCE,Europe
@@ -20,6 +19,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8b68c80691',extremes,Heat Wave,#c40202,wmo,hittegolf flevoland,2026-08-03T05:57:00+00:00,Netherlands,0.6005891936160587,1,1,nl,NEU,Europe
 '4deeefd49c',extremes,Thunderstorm,#53785a,wmo,zwaar weer nederland,2026-06-27T06:08:00+00:00,Netherlands,0.5992170943716698,1,3,nl,NEU,Europe
 '0820907322',extremes,Storm,#b3b2b1,wmo,stormrottum,2026-07-31T05:51:00+00:00,Netherlands,0.5985961810378424,1,1,nl,NEU,Europe
+'49be8fe6a5',extremes,Heat Wave,#c40202,wmo,hittegolf drenthe,2026-08-03T05:57:00+00:00,Netherlands,0.5977016920282214,1,1,nl,NEU,Europe
 'e086ae0157',extremes,Storm,#b3b2b1,wmo,stormhaak van holland,2026-07-02T06:24:00+00:00,Netherlands,0.5936056356210757,1,1,nl,NEU,Europe
 '73e546842e',extremes,Heat Wave,#c40202,wmo,hittegolf noord holland,2026-08-03T05:57:00+00:00,Netherlands,0.5928895681657088,1,1,nl,NEU,Europe
 '0c4c529b3b',extremes,Storm,#b3b2b1,wmo,storm belgie,2026-07-11T05:27:00+00:00,Belgium,0.5913833181785082,1,1,nl,WCE,Europe
@@ -72,7 +72,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dd4c653a93',extremes,Drought,#edc291,edo,droogte curacao,2026-07-13T05:53:00+00:00,Curacao,0.4686425175666571,2,1,nl,CAR,North-America
 '30bc906e71',extremes,Precipitation,#d60d2b,wmo,regen Indonesië,2026-07-03T06:09:00+00:00,Indonesia,0.4661342705287729,1,1,nl,SEA,Asia
 '7a5b8216d0',extremes,Storm,#b3b2b1,wmo,storm ijsselmeer,2026-07-02T06:24:00+00:00,Netherlands,0.4656989763567899,2,1,nl,NEU,Europe
-'ad0d79f37c',extremes,Drought,#edc291,edo,droogte bonaire sint eustatius en saba,2026-07-20T05:54:00+00:00,Bonaire; Saint Eustatius and Saba ,0.46399453380050465,1,1,nl,CAR,North-America
+'ad0d79f37c',extremes,Drought,#edc291,edo,droogte bonaire sint eustatius en saba,2026-07-20T05:54:00+00:00,Bonaire; Saint Eustatius and Saba ,0.4639945338005046,1,1,nl,CAR,North-America
 '19ce294d18',extremes,Drought,#edc291,edo,droogte curacao,2026-07-12T05:43:00+00:00,Curacao,0.4557839568584685,1,1,nl,CAR,North-America
 '7da716f8d7',extremes,Precipitation,#d60d2b,wmo,neerslag indonesië,2026-07-21T05:36:00+00:00,Indonesia,0.4546304917900366,1,1,nl,SEA,Asia
 'd46ac7becc',extremes,Drought,#edc291,edo,gebrek aan regen Aruba,2026-07-07T06:30:00+00:00,Aruba,0.4537324127827263,1,1,nl,CAR,North-America
@@ -91,7 +91,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'db5f39549c',extremes,Earthquake,#870007,usgs,aardbeving indonesië,2026-07-18T05:10:00+00:00,Indonesia,0.428466055078437,2,1,nl,SEA,Asia
 'd3d3fb7f10',extremes,Drought,#edc291,edo,droogte aruba,2026-07-04T05:59:00+00:00,Aruba,0.4278560520166664,1,1,nl,CAR,North-America
 'f2b29262f2',extremes,Drought,#edc291,edo,droge periode belgië,2026-07-11T05:27:00+00:00,Belgium,0.4271523585849739,1,1,nl,WCE,Europe
-'b3c70e88b6',extremes,Precipitation,#d60d2b,wmo,neerslag kalimantan selatan,2026-07-27T06:05:00+00:00,Indonesia,0.42629868802702897,1,1,nl,SEA,Asia
+'b3c70e88b6',extremes,Precipitation,#d60d2b,wmo,neerslag kalimantan selatan,2026-07-27T06:05:00+00:00,Indonesia,0.4262986880270289,1,1,nl,SEA,Asia
 'c2ee424917',extremes,Precipitation,#d60d2b,wmo,hevige regen kalimantan barat,2026-07-21T05:36:00+00:00,Indonesia,0.4262960680045246,1,1,nl,SEA,Asia
 '135f8534c2',extremes,Precipitation,#d60d2b,random,meer neerslag,2026-07-15T05:15:00+00:00,,0.426165381167904,1,2,nl,,
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,regenbui,2026-07-12T05:43:00+00:00,,0.4258618629700516,1,2,nl,,
@@ -112,7 +112,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f94480c6dc',extremes,Precipitation,#d60d2b,wmo,neerslag kep. riau,2026-07-03T06:09:00+00:00,Indonesia,0.4065994972554682,1,1,nl,SEA,Asia
 'a6206dc774',extremes,Drought,#edc291,edo,gebrek aan regen bonaire sint eustatius en saba,2026-07-01T06:52:00+00:00,Bonaire; Saint Eustatius and Saba ,0.4055227441026416,1,1,nl,CAR,North-America
 'eed2efe6b4',extremes,Precipitation,#d60d2b,wmo,hevige regen kep. riau,2026-07-08T05:37:00+00:00,Indonesia,0.4054525425512109,1,1,nl,SEA,Asia
-'1b846b85cb',extremes,Earthquake,#870007,usgs,aardbeving ternate,2026-07-21T05:36:00+00:00,Indonesia,0.40311810962762196,1,1,nl,SEA,Asia
+'1b846b85cb',extremes,Earthquake,#870007,usgs,aardbeving ternate,2026-07-21T05:36:00+00:00,Indonesia,0.4031181096276219,1,1,nl,SEA,Asia
 'cf16ced5cf',extremes,Precipitation,#d60d2b,wmo,hevige regen bengkulu,2026-07-07T06:30:00+00:00,Indonesia,0.4017564951720599,1,1,nl,SEA,Asia
 'a95678c0b5',extremes,Precipitation,#d60d2b,wmo,stortbui kalimantan selatan,2026-07-29T05:37:00+00:00,Indonesia,0.4007678482380595,1,1,nl,SEA,Asia
 'c948617fef',extremes,Heat Wave,#c40202,random,blootstelling aan extreme hitte,2026-07-10T06:27:00+00:00,,0.3997421746825707,1,2,nl,,
@@ -174,7 +174,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8498eec448',extremes,Earthquake,#870007,usgs,aardbeving langsa,2026-07-24T05:35:00+00:00,Indonesia,0.352568969988782,1,1,nl,SEA,Asia
 '16ec7582c8',extremes,Drought,#edc291,edo,droogte Indonesië,2026-07-14T05:15:00+00:00,Indonesia,0.3524471133751215,1,1,nl,SEA,Asia
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-08-02T05:41:00+00:00,,0.3491198819931826,1,1,nl,,
-'80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,temperatuurdaling,2026-08-04T05:31:00+00:00,,0.34770378010616193,1,1,nl,,
+'80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,temperatuurdaling,2026-08-04T05:31:00+00:00,,0.3477037801061619,1,1,nl,,
 '0ad538a863',extremes,Heat Wave,#c40202,wmo,hittegolf zwitserland,2026-07-08T05:37:00+00:00,Switzerland,0.3434243686060091,1,2,nl,WCE,Europe
 '59fe64444b',extremes,Drought,#edc291,edo,gebrek aan regen Indonesië,2026-07-16T05:25:00+00:00,Indonesia,0.3395288163920768,1,1,nl,SEA,Asia
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,orkaan,2026-07-29T05:37:00+00:00,,0.3384397418487691,1,1,nl,,
@@ -184,12 +184,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '33355e5510',extremes,Thunderstorm,#53785a,wmo,zwaar weer algerije,2026-07-02T06:24:00+00:00,Algeria,0.3352052393062655,1,2,nl,SAH,Africa
 'f66f7ccb4e',extremes,Earthquake,#870007,usgs,aardbeving sorong,2026-07-16T05:25:00+00:00,Indonesia,0.3349767046047815,1,1,nl,SEA,Asia
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,ijsberg arctis,2026-07-05T06:24:00+00:00,,0.334931906599438,1,1,nl,,
+'b8a0990dab',extremes,Heat Wave,#c40202,wmo,hittegolf frankrijk,2026-07-04T05:59:00+00:00,France,0.3344575469579939,1,3,nl,WCE,Europe
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,regen Brazilië,2026-07-08T05:37:00+00:00,Brazil,0.334083250958132,1,2,nl,SAM,South-America
 'f8f606549c',extremes,Earthquake,#870007,usgs,aardbeving pariaman,2026-07-20T05:54:00+00:00,Indonesia,0.3338862532926744,1,1,nl,SEA,Asia
 '9e020e244e',extremes,Drought,#edc291,edo,droogte polen,2026-07-04T05:59:00+00:00,Poland,0.3328446949088727,1,2,nl,WCE,Europe
 '90522631da',extremes,Precipitation,#d60d2b,wmo,neerslag india,2026-07-03T06:09:00+00:00,India,0.3327595991838955,1,2,nl,SAS,Asia
 '68b210e33f',extremes,Earthquake,#870007,usgs,aardbeving kawalu,2026-07-29T05:37:00+00:00,Indonesia,0.3321431514607532,1,1,nl,SEA,Asia
-'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,rijp winter,2026-07-21T05:36:00+00:00,,0.33165185265958524,1,1,nl,,
+'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,rijp winter,2026-07-21T05:36:00+00:00,,0.3316518526595852,1,1,nl,,
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,kwik daalt,2026-07-10T06:27:00+00:00,,0.3315123243799274,1,1,nl,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,koudegolf,2026-07-11T05:26:00+00:00,,0.3314596445079357,1,1,nl,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,bomcycloon,2026-07-07T06:30:00+00:00,,0.330705405055347,1,1,nl,,
@@ -223,7 +224,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,recordregenval,2026-07-05T06:24:00+00:00,,0.3054647743786265,1,1,nl,,
 'e739a7d025',extremes,Storm,#b3b2b1,wmo,stormregio litoral,2026-07-03T06:09:00+00:00,Ecuador,0.3050363543900766,1,1,nl,NWS,South-America
 'c3bed96c37',extremes,Precipitation,#d60d2b,wmo,stortbui Mexico,2026-07-12T05:43:00+00:00,Mexico,0.3033632979836823,1,1,nl,NCA,North-America
-'b8a0990dab',extremes,Heat Wave,#c40202,wmo,hittegolf frankrijk,2026-07-04T05:59:00+00:00,France,0.3031686104171125,0,1,nl,WCE,Europe
 '2cfcf7a5d7',extremes,Storm,#b3b2b1,wmo,storm,2026-06-30T06:39:00+00:00,Bahrain,0.3031330029248353,0,1,nl,ARP,Asia
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,sneeuwstorm,2026-07-12T05:43:00+00:00,,0.3030967143958669,1,1,nl,,
 '854af57bd3',extremes,Fog,#d60d2b,wmo,mist Canada,2026-07-21T05:36:00+00:00,Canada,0.3029665906790517,0,1,nl,NEN,North-America
@@ -231,7 +231,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,sprinkhaan,2026-07-14T05:14:00+00:00,,0.3025856252618509,1,1,nl,,
 'a652d575aa',extremes,Thunderstorm,#53785a,wmo,zwaar weer roemenië,2026-07-01T06:52:00+00:00,Romania,0.3025803415073196,0,1,nl,WCE,Europe
 '053bb10e09',extremes,Heat Wave,#c40202,random,nazomer,2026-07-11T05:26:00+00:00,,0.3023125195738854,1,1,nl,,
-'dac860fd6d',extremes,Storm,#b3b2b1,wmo,stormvloed madagaskar,2026-07-23T05:40:00+00:00,Madagascar,0.3022791661683013,0,1,nl,MDG,Africa
 'ade1211f3d',extremes,Flood,#030ba1,wmo,overstromingscentrum van de Sakha-republiek,2026-07-21T05:36:00+00:00,Russia,0.3022693643127032,0,1,nl,ESB,Europe
 '27ff8af872',extremes,Drought,#edc291,edo,droogte Denemarken,2026-07-11T05:27:00+00:00,Denmark,0.3022676031426677,0,1,nl,NEU,Europe
 'b918e7fca0',extremes,Wildfire,#d60d2b,wmo,wildvuurdelen van agder en telemark,2026-07-27T06:05:00+00:00,Norway,0.3022279218269266,0,1,nl,NEU,Europe
@@ -430,7 +429,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2e28dfa4bf',extremes,Heat Wave,#c40202,wmo,hittegolf Cyprus,2026-07-12T05:43:00+00:00,Cyprus,0.2585843167974233,1,1,nl,MED,Europe
 '1b98918e9b',extremes,Storm,#b3b2b1,wmo,stormvloed noordelijk water.,2026-07-28T05:31:00+00:00,Vanuatu,0.2585338602724059,1,1,nl,SPO,Oceania
 'afad3750e1',extremes,Heat Wave,#c40202,wmo,hittegolf regio skopje,2026-07-17T05:27:00+00:00,North Macedonia,0.2585117221092529,1,1,nl,MED,Europe
-'8e164fcef9',extremes,Storm,#b3b2b1,wmo,stormvloed alle kustwateren.,2026-08-02T05:42:00+00:00,Vanuatu,0.25838827172978357,1,1,nl,SPO,Oceania
+'8e164fcef9',extremes,Storm,#b3b2b1,wmo,stormvloed alle kustwateren.,2026-08-02T05:42:00+00:00,Vanuatu,0.2583882717297835,1,1,nl,SPO,Oceania
 '1db33a60d4',extremes,Heat Wave,#c40202,wmo,hittegolf grootste delen van Egypte,2026-07-31T05:51:00+00:00,Egypt,0.258289652718045,1,1,nl,SAH,Africa
 '9ad3f02e70',extremes,Storm,#b3b2b1,wmo,stormreg. 3 litoraal,2026-08-01T05:42:00+00:00,Chile,0.2582165147347377,1,1,nl,SWS,South-America
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,storm Chili,2026-07-07T06:30:00+00:00,Chile,0.2581663721356512,1,1,nl,SWS,South-America
@@ -469,7 +468,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f6414f90dd',extremes,Snow&Ice,#d60d2b,wmo,ijskoude woestijnweg sh1,2026-07-31T05:51:00+00:00,New Zealand,0.2573416222007769,1,1,nl,NZ,Oceania
 'c229b0919c',extremes,Precipitation,#d60d2b,wmo,regen Saoedi-Arabië,2026-07-14T05:14:00+00:00,Saudi Arabia,0.2573397435379024,1,1,nl,ARP,Asia
 '234a5c1f72',extremes,Storm,#b3b2b1,wmo,stormvloed alle wateren van vanuatu.,2026-07-17T05:27:00+00:00,Vanuatu,0.2573392022497748,1,1,nl,SPO,Oceania
-'0b8f5a0e51',extremes,Iceberg,#d60d2b,random,ijsberg antarctica,2026-07-17T05:27:00+00:00,,0.25733831301060267,1,1,nl,,
+'0b8f5a0e51',extremes,Iceberg,#d60d2b,random,ijsberg antarctica,2026-07-17T05:27:00+00:00,,0.2573383130106026,1,1,nl,,
 'ec565ce4e2',extremes,Storm,#b3b2b1,wmo,stormvloed alle wateren,2026-07-10T06:27:00+00:00,Solomon Islands,0.2573192461115014,1,1,nl,EPO,Oceania
 '39dc68f588',extremes,Snow&Ice,#d60d2b,wmo,vriesreg. 11 Patagonië subandina norte,2026-07-17T05:27:00+00:00,Chile,0.2573091481704213,1,1,nl,SWS,South-America
 'b24acb5e76',extremes,Snow&Ice,#d60d2b,wmo,sneeuw dunedin naar waitati snelweg sh1,2026-07-24T05:36:00+00:00,New Zealand,0.2573081677983109,1,1,nl,NZ,Oceania
@@ -501,10 +500,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '16664cc668',extremes,Heat Wave,#c40202,wmo,hittegolf verzasca,2026-07-08T05:37:00+00:00,Switzerland,0.2569894228153356,1,1,nl,WCE,Europe
 '8d1767f806',extremes,Storm,#b3b2b1,wmo,stormvloed ijsland,2026-07-12T05:43:00+00:00,Iceland,0.2569879993970974,1,1,nl,GIC,Europe
 '4bfa6ec544',extremes,Storm,#b3b2b1,wmo,stormvloed paraguay,2026-07-29T05:37:00+00:00,Paraguay,0.2569789937210163,1,1,nl,SES,South-America
-'0fbe8e5718',extremes,Storm,#b3b2b1,wmo,stormvloed Australië,2026-07-21T05:36:00+00:00,Australia,0.25697730407800135,1,1,nl,CAU,Oceania
+'0fbe8e5718',extremes,Storm,#b3b2b1,wmo,stormvloed Australië,2026-07-21T05:36:00+00:00,Australia,0.2569773040780013,1,1,nl,CAU,Oceania
 'ac4720587c',extremes,Snow&Ice,#d60d2b,wmo,vriesreg. 3 cordillera,2026-07-15T05:15:00+00:00,Chile,0.2569594006742083,1,1,nl,SWS,South-America
 '54559d4fe4',extremes,Thunderstorm,#53785a,wmo,onweersbui moosonee,2026-07-14T05:14:00+00:00,Canada,0.2569459286830937,1,1,nl,NEN,North-America
 'be4e178bab',extremes,Storm,#b3b2b1,wmo,stormvloed uruguay,2026-07-19T05:37:00+00:00,Uruguay,0.2569413223454939,1,1,nl,SES,South-America
+'dac860fd6d',extremes,Storm,#b3b2b1,wmo,stormvloed madagaskar,2026-07-23T05:40:00+00:00,Madagascar,0.2569372912430561,1,1,nl,MDG,Africa
 '5bcfa907bb',extremes,Storm,#b3b2b1,wmo,storm quito,2026-07-12T05:43:00+00:00,Ecuador,0.2568351386417612,1,1,nl,NWS,South-America
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,stormvloed canada,2026-07-11T05:27:00+00:00,Canada,0.2567838161252256,1,1,nl,NEN,North-America
 'b47c7fe559',extremes,Snow&Ice,#d60d2b,wmo,ijswoestijnweg sh1,2026-07-24T05:36:00+00:00,New Zealand,0.2566859006402279,1,1,nl,NZ,Oceania
