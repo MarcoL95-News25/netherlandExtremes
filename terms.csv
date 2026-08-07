@@ -61,7 +61,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '73b3077538',extremes,Drought,#edc291,edo,droogte suriname,2026-07-12T05:43:00+00:00,Suriname,0.5104314454590977,1,1,nl,NSA,South-America
 '808600b33a',extremes,Earthquake,#870007,usgs,aardbeving lembar,2026-07-02T06:23:00+00:00,Indonesia,0.5072716574316539,1,1,nl,NAU,Oceania
 '6cfc55b8b1',extremes,Drought,#edc291,edo,droogte bonaire sint eustatius en saba,2026-07-19T05:37:00+00:00,Bonaire; Saint Eustatius and Saba ,0.5040527437409023,1,1,nl,CAR,North-America
-'f90601fa23',extremes,Volcano,#b83202,random,vulkaanuitbarsting,2026-07-25T05:28:00+00:00,,0.49910647522510443,1,2,nl,,
+'f90601fa23',extremes,Volcano,#b83202,random,vulkaanuitbarsting,2026-07-25T05:28:00+00:00,,0.4991064752251044,1,2,nl,,
 '43ab572e78',extremes,Storm,#b3b2b1,wmo,stormvloed kustgebied,2026-07-12T05:43:00+00:00,Belgium,0.4986098238636784,2,1,nl,WCE,Europe
 '1512e9c6b2',extremes,Drought,#edc291,edo,droogte suriname,2026-07-11T05:27:00+00:00,Suriname,0.4973666102182153,1,1,nl,NSA,South-America
 '59b529f428',extremes,Thunderstorm,#53785a,random,hagelbui,2026-07-08T05:37:00+00:00,,0.4942844861775555,1,2,nl,,
@@ -94,7 +94,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '87af8cf49d',extremes,Precipitation,#d60d2b,wmo,hevige regen kalimantan selatan,2026-07-29T05:37:00+00:00,Indonesia,0.4313340122507108,1,1,nl,SEA,Asia
 'db5f39549c',extremes,Earthquake,#870007,usgs,aardbeving indonesië,2026-07-18T05:10:00+00:00,Indonesia,0.428466055078437,2,1,nl,SEA,Asia
 'd3d3fb7f10',extremes,Drought,#edc291,edo,droogte aruba,2026-07-04T05:59:00+00:00,Aruba,0.4278560520166664,1,1,nl,CAR,North-America
-'16ded8e7e5',extremes,Precipitation,#d60d2b,wmo,regen kalimantan tengah,2026-07-27T06:05:00+00:00,Indonesia,0.42767152979432954,1,1,nl,SEA,Asia
+'16ded8e7e5',extremes,Precipitation,#d60d2b,wmo,regen kalimantan tengah,2026-07-27T06:05:00+00:00,Indonesia,0.4276715297943295,1,1,nl,SEA,Asia
 'f2b29262f2',extremes,Drought,#edc291,edo,droge periode belgië,2026-07-11T05:27:00+00:00,Belgium,0.4271523585849739,1,1,nl,WCE,Europe
 'b3c70e88b6',extremes,Precipitation,#d60d2b,wmo,neerslag kalimantan selatan,2026-07-27T06:05:00+00:00,Indonesia,0.4262986880270289,1,1,nl,SEA,Asia
 'c2ee424917',extremes,Precipitation,#d60d2b,wmo,hevige regen kalimantan barat,2026-07-21T05:36:00+00:00,Indonesia,0.4262960680045246,1,1,nl,SEA,Asia
@@ -249,7 +249,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7747997246',extremes,Fog,#d60d2b,wmo,mist rusland,2026-07-17T05:27:00+00:00,Russia,0.3020434692587306,0,1,nl,ESB,Europe
 'a724fe9ab3',extremes,Wildfire,#d60d2b,wmo,wildvuur Rusland,2026-07-17T05:27:00+00:00,Russia,0.3020339335349336,0,1,nl,ESB,Europe
 '66c12f18a7',extremes,Storm,#b3b2b1,wmo,storm zuidwestelijke en zuidelijke kusten.,2026-07-25T05:29:00+00:00,Madagascar,0.302027040243327,0,1,nl,MDG,Africa
-'388a6dbadc',extremes,Storm,#b3b2b1,wmo,storm algerije,2026-08-01T05:42:00+00:00,Algeria,0.3020171664359052,0,1,nl,SAH,Africa
+'388a6dbadc',extremes,Storm,#b3b2b1,wmo,storm algerije,2026-08-01T05:42:00+00:00,Algeria,0.30201716643590515,1,1,nl,SAH,Africa
 '195341cfcf',extremes,Wildfire,#d60d2b,wmo,wildvuur tomsk-regio,2026-07-15T05:15:00+00:00,Russia,0.3020085425281754,0,1,nl,ESB,Europe
 'bab5de556b',extremes,Storm,#b3b2b1,wmo,stormvloed Wellington,2026-07-29T05:37:00+00:00,New Zealand,0.3020084302866917,0,1,nl,NZ,Oceania
 '96fce9e739',extremes,Flood,#030ba1,wmo,overstroming van Trinidad en Tobago,2026-07-13T05:53:00+00:00,Trinidad and Tobago,0.3020076375943224,0,1,nl,NSA,North-America
