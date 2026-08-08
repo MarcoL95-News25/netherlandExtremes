@@ -117,7 +117,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1b846b85cb',extremes,Earthquake,#870007,usgs,aardbeving ternate,2026-07-21T05:36:00+00:00,Indonesia,0.4031181096276219,1,1,nl,SEA,Asia
 '08b046b949',extremes,Precipitation,#d60d2b,wmo,regen sulawesi utara,2026-07-22T05:35:00+00:00,Indonesia,0.4021543148346812,1,1,nl,SEA,Asia
 'cf16ced5cf',extremes,Precipitation,#d60d2b,wmo,hevige regen bengkulu,2026-07-07T06:30:00+00:00,Indonesia,0.4017564951720599,1,1,nl,SEA,Asia
-'a4c2cea6a7',extremes,Drought,#edc291,edo,gebrek aan regen Curacao,2026-07-09T06:27:00+00:00,Curacao,0.40165686290023894,2,1,nl,CAR,North-America
+'a4c2cea6a7',extremes,Drought,#edc291,edo,gebrek aan regen Curacao,2026-07-09T06:27:00+00:00,Curacao,0.4016568629002389,2,1,nl,CAR,North-America
 'a95678c0b5',extremes,Precipitation,#d60d2b,wmo,stortbui kalimantan selatan,2026-07-29T05:37:00+00:00,Indonesia,0.4007678482380595,1,1,nl,SEA,Asia
 'c948617fef',extremes,Heat Wave,#c40202,random,blootstelling aan extreme hitte,2026-07-10T06:27:00+00:00,,0.3997421746825707,1,2,nl,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tyfoon,2026-07-19T05:37:00+00:00,,0.3992221171533711,1,2,nl,,
@@ -210,6 +210,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,afkalven van gletsjers,2026-07-15T05:15:00+00:00,,0.3227521115973539,1,1,nl,,
 '0842acc513',extremes,Earthquake,#870007,usgs,aardbeving banda atjeh,2026-08-01T05:41:00+00:00,Indonesia,0.3211554945419073,1,1,nl,SEA,Asia
 'f8f49c3313',extremes,Earthquake,#870007,usgs,aardbeving fakfak,2026-07-20T05:54:00+00:00,Indonesia,0.3208851476892921,1,1,nl,SEA,Asia
+'9c704e4826',extremes,Wildfire,#d60d2b,effis,wild vuur Libanon,2026-08-07T11:06:00+00:00,Lebanon,0.31975751439977185,0,1,nl,MED,Asia
+'3ecff8bdd9',extremes,Wildfire,#d60d2b,effis,bosbrand Libanon,2026-08-07T11:06:00+00:00,Lebanon,0.31975673338533467,0,1,nl,MED,Asia
+'5b2f7ef723',extremes,Wildfire,#d60d2b,effis,wildvuur Sarafend Libanon,2026-08-07T11:06:00+00:00,Lebanon,0.31975624818756754,0,1,nl,MED,Asia
+'2094eeff3e',extremes,Wildfire,#d60d2b,effis,wild vuur nabi youcheaa libanon,2026-08-07T11:06:00+00:00,Lebanon,0.3197562420673727,0,1,nl,MED,Asia
+'84da2917b8',extremes,Wildfire,#d60d2b,effis,wildvuur mardin kalkoen,2026-08-07T11:06:00+00:00,Turkey,0.319756239491052,0,1,nl,WCA,Asia
+'5400f1e65e',extremes,Wildfire,#d60d2b,effis,bosbrand kilis syrië,2026-08-07T11:06:00+00:00,Syria,0.31975623943359593,0,1,nl,MED,Asia
+'4e07fc8f74',extremes,Wildfire,#d60d2b,effis,wild vuur habbouche libanon,2026-08-07T11:06:00+00:00,Lebanon,0.3197562382976543,0,1,nl,MED,Asia
+'7bc6211e3c',extremes,Wildfire,#d60d2b,effis,bosbrand n.v.t. Syrië,2026-08-07T11:06:00+00:00,Syria,0.3197562365017188,0,1,nl,MED,Asia
+'fcaebcf157',extremes,Wildfire,#d60d2b,effis,bosbrand n.v.t. Tunesië,2026-08-07T11:06:00+00:00,Tunisia,0.31975623531663944,0,1,nl,MED,Africa
+'9e49dcdaa1',extremes,Wildfire,#d60d2b,effis,bosbrand bab bered marokko,2026-08-07T09:56:00+00:00,Morocco,0.31975623528649666,0,1,nl,MED,Africa
 'f9a3abc8c2',extremes,Landslide,#572c03,random,modderstroom,2026-07-13T05:53:00+00:00,,0.3195097104714772,1,1,nl,,
 'fbd9629147',extremes,Earthquake,#870007,usgs,aardbeving kotabumi,2026-07-25T05:28:00+00:00,Indonesia,0.3193481479498506,1,1,nl,SEA,Asia
 '9b6669f818',extremes,Earthquake,#870007,usgs,aardbeving ambon,2026-07-31T05:51:00+00:00,Indonesia,0.3188239939431949,1,1,nl,SEA,Asia
