@@ -108,7 +108,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3421a57149',extremes,Storm,#b3b2b1,wmo,storm Ecuador,2026-07-04T05:59:00+00:00,Ecuador,0.4099843219991708,1,2,nl,NWS,South-America
 '4c8b5a8302',extremes,Precipitation,#d60d2b,wmo,stortbui jambi,2026-07-06T06:52:00+00:00,Indonesia,0.4085009706400836,1,1,nl,SEA,Asia
 '530909dfe4',extremes,Heat Wave,#c40202,wmo,hittegolf Rusland,2026-07-03T06:09:00+00:00,Russia,0.4083820025536057,1,2,nl,ESB,Europe
-'15a9c61e3e',extremes,Landslide,#572c03,random,aardverschuiving,2026-08-08T03:51:00+00:00,,0.4082566473886058,0,1,nl,,
 '199a71ffe8',extremes,Heat Wave,#c40202,wmo,hittegolf montenegro,2026-06-30T06:39:00+00:00,Montenegro,0.4078255476991348,1,2,nl,MED,Europe
 '7df86bf1c9',extremes,Snow&Ice,#d60d2b,wmo,sneeuw Australië,2026-07-03T06:09:00+00:00,Australia,0.4072238814101958,1,2,nl,CAU,Oceania
 'eed2efe6b4',extremes,Precipitation,#d60d2b,wmo,hevige regen kep. riau,2026-07-08T05:37:00+00:00,Indonesia,0.4054525425512109,1,1,nl,SEA,Asia
@@ -121,6 +120,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tyfoon,2026-07-19T05:37:00+00:00,,0.3992221171533711,1,2,nl,,
 '87e680dea9',extremes,Precipitation,#d60d2b,wmo,stortbui kep. riau,2026-08-07T04:37:00+00:00,Indonesia,0.3985723034658634,1,1,nl,SEA,Asia
 '91cb2483f3',extremes,Precipitation,#d60d2b,wmo,regen papoea barat daya,2026-07-08T05:37:00+00:00,Indonesia,0.3979855861939824,1,1,nl,SEA,Asia
+'15a9c61e3e',extremes,Landslide,#572c03,random,aardverschuiving,2026-08-08T03:51:00+00:00,,0.3974681952803149,1,1,nl,,
 '2f5bc36e8b',extremes,Precipitation,#d60d2b,wmo,stortregens sumatera selatan,2026-07-06T06:52:00+00:00,Indonesia,0.397346450787873,1,1,nl,SEA,Asia
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,bosbrand,2026-07-31T05:51:00+00:00,,0.3971944551407819,1,2,nl,,
 '7ebd4b0801',extremes,Precipitation,#d60d2b,wmo,stortbui kalimantan tengah,2026-07-23T05:40:00+00:00,Indonesia,0.3966599093444862,1,1,nl,SEA,Asia
@@ -306,7 +306,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '829105287e',extremes,Storm,#b3b2b1,wmo,storm Jamaica,2026-07-09T06:27:00+00:00,Jamaica,0.3015123490138555,0,1,nl,CAR,North-America
 'f6f32944d1',extremes,Heat Wave,#c40202,wmo,hittegolf gros de vaud,2026-07-09T06:27:00+00:00,Switzerland,0.3015102311919501,0,1,nl,WCE,Europe
 '184472a9b7',extremes,Heat Wave,#c40202,wmo,hittegolfpologregio,2026-07-16T05:25:00+00:00,North Macedonia,0.3015012515128243,0,1,nl,MED,Europe
-'ffd87268c6',extremes,Storm,#b3b2b1,wmo,storm zuidoostelijke wateren,2026-07-24T05:36:00+00:00,Solomon Islands,0.3014870424215059,0,1,nl,EPO,Oceania
 '27fd81d198',extremes,Storm,#b3b2b1,wmo,storm Salomonseilanden,2026-07-25T05:29:00+00:00,Solomon Islands,0.301482253240154,0,1,nl,EPO,Oceania
 '0fa68c0b80',extremes,Earthquake,#870007,usgs,aardbeving santa cruz das flores,2026-07-12T05:43:00+00:00,Portugal,0.3014804895787029,0,1,nl,NAO,Atlantic Ocean
 '04fb5dc5bd',extremes,Tropical Cyclone,#4f4f4f,wmo,orkaan hong kong sar china,2026-07-25T05:29:00+00:00,Hong Kong,0.3014533883769734,0,1,nl,EAS,Asia
@@ -522,6 +521,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cf99db758d',extremes,Fog,#d60d2b,wmo,mist letland,2026-07-12T05:43:00+00:00,Latvia,0.2565140020049394,1,1,nl,WCE,Europe
 '19312d8f44',extremes,Snow&Ice,#d60d2b,wmo,vorst nieuw-zeeland,2026-07-25T05:29:00+00:00,New Zealand,0.2564788344690153,1,1,nl,NZ,Oceania
 '355605856d',extremes,Precipitation,#d60d2b,wmo,neerslag Tsjaad,2026-08-02T05:42:00+00:00,Chad,0.2563327268287251,1,1,nl,SAH,Africa
+'ffd87268c6',extremes,Storm,#b3b2b1,wmo,storm zuidoostelijke wateren,2026-07-24T05:36:00+00:00,Solomon Islands,0.25626398605828005,1,1,nl,EPO,Oceania
 '29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,hevige regen nieuw-zeeland,2026-07-14T05:14:00+00:00,New Zealand,0.256234872628562,1,1,nl,NZ,Oceania
 '288e7f4724',extremes,Wildfire,#d60d2b,wmo,wildvuur turukhanskiy m.r.,2026-07-26T05:46:00+00:00,Russia,0.2562059676608371,1,1,nl,ESB,Europe
 '7ba1677e33',extremes,Wildfire,#d60d2b,wmo,wildvuur evenkiyskiy m.r.,2026-07-26T05:46:00+00:00,Russia,0.2561861370330657,1,1,nl,ESB,Europe
