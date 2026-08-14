@@ -1,8 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'ee7d35826f',extremes,Snow&Ice,#d60d2b,wmo,ijskoud groningen,2026-08-13T04:26:00+00:00,Netherlands,0.7460053607138157,1,1,nl,NEU,Europe
 'd638582ba4',extremes,Heat Wave,#c40202,wmo,hittegolf Luik,2026-07-07T06:30:00+00:00,Belgium,0.6503138690798652,2,2,nl,WCE,Europe
 '6871a315cf',extremes,Heat Wave,#c40202,wmo,hittegolf limburg,2026-07-08T05:37:00+00:00,Belgium,0.6442694444556756,2,2,nl,WCE,Europe
 'dd844a9ce4',extremes,Heat Wave,#c40202,wmo,hittegolf groningen,2026-08-03T05:57:00+00:00,Netherlands,0.6386668513278367,2,1,nl,NEU,Europe
+'ee7d35826f',extremes,Snow&Ice,#d60d2b,wmo,ijskoud groningen,2026-08-13T04:26:00+00:00,Netherlands,0.6342545716067434,2,1,nl,NEU,Europe
 'aefd27a85e',extremes,Heat Wave,#c40202,wmo,hittegolf nederland,2026-07-11T05:27:00+00:00,Netherlands,0.6248776453922273,2,3,nl,NEU,Europe
 '8cb4d45a69',extremes,Heat Wave,#c40202,wmo,hittegolf namen,2026-07-07T06:30:00+00:00,Belgium,0.6235669791531433,2,2,nl,WCE,Europe
 'a1d0950d4e',extremes,Heat Wave,#c40202,wmo,hittegolf oost-vlaanderen,2026-07-28T05:31:00+00:00,Belgium,0.6094228933256878,1,1,nl,WCE,Europe
@@ -184,7 +184,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,afkalven van gletsjers,2026-07-15T05:15:00+00:00,,0.3227521115973539,1,1,nl,,
 '0842acc513',extremes,Earthquake,#870007,usgs,aardbeving banda atjeh,2026-08-01T05:41:00+00:00,Indonesia,0.3211554945419073,1,1,nl,SEA,Asia
 'f8f49c3313',extremes,Earthquake,#870007,usgs,aardbeving fakfak,2026-07-20T05:54:00+00:00,Indonesia,0.3208851476892921,1,1,nl,SEA,Asia
-'8fac42b03a',extremes,Wildfire,#d60d2b,effis,wildvuur kahramanmaraş kalkoen,2026-08-07T11:06:00+00:00,Turkey,0.3197560818932606,0,1,nl,MED,Asia
 '811df2b2bd',extremes,Wildfire,#d60d2b,effis,bosbrand malatya kalkoen,2026-08-07T11:06:00+00:00,Turkey,0.3197560720204154,0,1,nl,MED,Asia
 '3efcf61c61',extremes,Wildfire,#d60d2b,effis,wildvuur Harouf Libanon,2026-08-07T11:06:00+00:00,Lebanon,0.3197560483109282,0,1,nl,MED,Asia
 'b136fb0b82',extremes,Wildfire,#d60d2b,effis,bosbrand majdel baana libanon,2026-08-07T11:06:00+00:00,Lebanon,0.3197560265685291,0,1,nl,MED,Asia
@@ -360,7 +359,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '19e2e5e511',extremes,Wildfire,#d60d2b,effis,wildvuur isparta kalkoen,2026-08-07T09:56:00+00:00,Turkey,0.271792781253831,1,1,nl,MED,Asia
 'eec56caa4e',extremes,Wildfire,#d60d2b,effis,bosbrand caraş severin roemenië,2026-08-07T09:56:00+00:00,Romania,0.2717927801349598,1,1,nl,WCE,Europe
 'f931fb4985',extremes,Wildfire,#d60d2b,effis,wildvuur монтана bulgarije,2026-08-07T09:56:00+00:00,Bulgaria,0.2717927786647267,1,1,nl,MED,Europe
-'3f3e4a1622',extremes,Wildfire,#d60d2b,effis,wild vuur рашка област servië,2026-08-07T11:06:00+00:00,Serbia,0.2717927786148378,1,1,nl,MED,Europe
 'e7298fae8f',extremes,Wildfire,#d60d2b,effis,wild vuur btaaboura libanon,2026-08-07T11:06:00+00:00,Lebanon,0.2717927771700369,1,1,nl,MED,Asia
 '27290ff5eb',extremes,Wildfire,#d60d2b,effis,wildvuur kladanj Bosnië en Herzegovina,2026-08-07T11:06:00+00:00,Bosnia and Herzegovina,0.2717927770771624,1,1,nl,MED,Europe
 '39a5dc9dbd',extremes,Wildfire,#d60d2b,effis,wildvuur ankara kalkoen,2026-08-07T11:06:00+00:00,Turkey,0.271792776946164,1,1,nl,MED,Asia
@@ -379,7 +377,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e2609489f3',extremes,Wildfire,#d60d2b,effis,wildvuur ankoune libanon,2026-08-07T11:06:00+00:00,Lebanon,0.2717927282565607,1,1,nl,MED,Asia
 '9dda4c0cd4',extremes,Wildfire,#d60d2b,effis,wildvuur midden west Ierland,2026-08-07T11:06:00+00:00,Ireland,0.2717926991930154,1,1,nl,NEU,Europe
 'fe300e279f',extremes,Wildfire,#d60d2b,effis,wildvuur n.v.t. Kosovo,2026-08-07T09:56:00+00:00,Kosovo,0.2717926957719017,1,1,nl,MED,Europe
-'51639203d2',extremes,Wildfire,#d60d2b,effis,wildvuur denizli kalkoen,2026-08-07T11:06:00+00:00,Turkey,0.27179061458611975,1,1,nl,MED,Asia
+'8fac42b03a',extremes,Wildfire,#d60d2b,effis,wildvuur kahramanmaraş kalkoen,2026-08-07T11:06:00+00:00,Turkey,0.2717926696092715,1,1,nl,MED,Asia
+'51639203d2',extremes,Wildfire,#d60d2b,effis,wildvuur denizli kalkoen,2026-08-07T11:06:00+00:00,Turkey,0.2717906145861197,1,1,nl,MED,Asia
 '41f3b5b396',extremes,Storm,#b3b2b1,aidr,storm hevige wind en regenval victoria 2024,2026-08-04T05:32:00+00:00,Australia,0.2682545297120347,1,1,nl,SAU,Oceania
 '5f0b68fcc5',extremes,Storm,#b3b2b1,aidr,storm Melbourne Victoria 2020,2026-08-05T05:31:00+00:00,Australia,0.2679099362880121,1,1,nl,SAU,Oceania
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,onweersbui Australië,2026-07-22T05:35:00+00:00,Australia,0.2674430133272083,1,1,nl,EAU,Oceania
@@ -507,4 +506,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0308bedb90',extremes,Fog,#d60d2b,wmo,mist montenegro,2026-07-23T05:40:00+00:00,Montenegro,0.2561712265113072,1,1,nl,MED,Europe
 '432bab655c',extremes,Wildfire,#d60d2b,eonet,wildvuur verenigde staten,2026-07-18T05:10:00+00:00,United States,0.256076278661927,1,1,nl,WNA,North-America
 'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,storm Bahrein,2026-07-21T05:36:00+00:00,Bahrain,0.2560281285445657,1,1,nl,ARP,Asia
+'3f3e4a1622',extremes,Wildfire,#d60d2b,effis,wild vuur рашка област servië,2026-08-07T11:06:00+00:00,Serbia,0.23102386182261211,2,1,nl,MED,Europe
 '2453bd993e',extremes,Snow&Ice,#d60d2b,wmo,vorst Arthur's pas sh73,2026-07-30T05:24:00+00:00,New Zealand,0.2233176264404887,2,1,nl,NZ,Oceania
