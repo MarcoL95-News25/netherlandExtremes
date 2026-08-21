@@ -1,8 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'8cb4d45a69',extremes,Heat Wave,#c40202,wmo,hittegolf namen,2026-08-18T03:24:00+00:00,Belgium,0.7168123527411775,0,1,nl,WCE,Europe
 'aefd27a85e',extremes,Heat Wave,#c40202,wmo,hittegolf nederland,2026-07-11T05:27:00+00:00,Netherlands,0.6248776453922273,2,3,nl,NEU,Europe
 'f2b29262f2',extremes,Drought,#edc291,edo,droge periode belgië,2026-08-06T05:33:00+00:00,Belgium,0.6156366484013186,2,1,nl,WCE,Europe
 '1512e9c6b2',extremes,Drought,#edc291,edo,droogte suriname,2026-08-01T05:42:00+00:00,Suriname,0.6109831241129892,1,1,nl,NSA,South-America
+'8cb4d45a69',extremes,Heat Wave,#c40202,wmo,hittegolf namen,2026-08-18T03:24:00+00:00,Belgium,0.6095905298300008,1,1,nl,WCE,Europe
 'ddbc45646b',extremes,Heat Wave,#c40202,wmo,hittegolf Henegouwen,2026-07-30T05:24:00+00:00,Belgium,0.6016442851260054,1,1,nl,WCE,Europe
 '6871a315cf',extremes,Heat Wave,#c40202,wmo,hittegolf limburg,2026-07-31T05:51:00+00:00,Belgium,0.6005429015327223,2,1,nl,WCE,Europe
 '998c9f84db',extremes,Storm,#b3b2b1,wmo,storm nederland,2026-07-26T05:46:00+00:00,Netherlands,0.5996876964130107,3,2,nl,NEU,Europe
@@ -55,7 +55,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3d690ea060',extremes,Drought,#edc291,edo,droogte Aruba,2026-07-20T05:54:00+00:00,Aruba,0.4707192200661476,2,1,nl,CAR,North-America
 '61a00c0855',extremes,Drought,#edc291,edo,droogte suriname,2026-07-23T05:40:00+00:00,Suriname,0.4686017724394122,2,1,nl,NSA,South-America
 'e3941c8a87',extremes,Earthquake,#870007,usgs,aardbeving teluk dalam,2026-08-21T03:30:00+00:00,Indonesia,0.4680442926953838,0,1,nl,SEA,Asia
-'95ce1fcf89',extremes,Precipitation,#d60d2b,wmo,neerslag atjeh,2026-08-19T03:26:00+00:00,Indonesia,0.46369834703380824,0,1,nl,SEA,Asia
+'95ce1fcf89',extremes,Precipitation,#d60d2b,wmo,neerslag atjeh,2026-08-19T03:26:00+00:00,Indonesia,0.4636983470338082,0,1,nl,SEA,Asia
 '371f783e78',extremes,Wildfire,#d60d2b,effis,wildvuur arr. Virton België,2026-08-19T03:26:00+00:00,Belgium,0.4514706169196892,2,1,nl,WCE,Europe
 '4df976df54',extremes,Heat Wave,#c40202,wmo,hittegolf waddeneilanden,2026-08-05T05:31:00+00:00,Netherlands,0.4414378056646534,2,1,nl,NEU,Europe
 'dfef3989ad',extremes,Drought,#edc291,edo,droge periode nederland,2026-07-29T05:38:00+00:00,Netherlands,0.4356750267635937,3,1,nl,NEU,Europe
@@ -229,7 +229,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0c7c458c2c',extremes,Wildfire,#d60d2b,effis,wildvuur libanon nabi youcheaa n.v.t.,2026-08-07T11:06:00+00:00,Lebanon,0.3197437052676699,0,1,nl,MED,Asia
 '785f49402b',extremes,Wildfire,#d60d2b,effis,wild vuur Libanon Haret Jandal n.v.t.,2026-08-07T11:06:00+00:00,Lebanon,0.3197436704433075,0,1,nl,MED,Asia
 '7772fc9cde',extremes,Wildfire,#d60d2b,effis,wildvuur portugal,2026-08-07T09:56:00+00:00,Portugal,0.3197434781827317,0,1,nl,MED,Europe
-'df6e516080',extremes,Wildfire,#d60d2b,effis,bosbrand Tunesië,2026-08-07T11:06:00+00:00,Tunisia,0.31974316450029766,0,1,nl,MED,Africa
+'df6e516080',extremes,Wildfire,#d60d2b,effis,bosbrand Tunesië,2026-08-07T11:06:00+00:00,Tunisia,0.3197431645002976,0,1,nl,MED,Africa
 '3bd8e103de',extremes,Wildfire,#d60d2b,effis,wildvuur tunesië n.v.t. n.v.t.,2026-08-07T09:56:00+00:00,Tunisia,0.3197430577515282,0,1,nl,MED,Africa
 '2a295685a3',extremes,Wildfire,#d60d2b,effis,wildvuur srbija сpбија зајечарска област zaječar,2026-08-07T11:06:00+00:00,Serbia,0.3197430353863468,0,1,nl,MED,Europe
 'fbd9629147',extremes,Earthquake,#870007,usgs,aardbeving kotabumi,2026-07-25T05:28:00+00:00,Indonesia,0.3193481479498506,1,1,nl,SEA,Asia
