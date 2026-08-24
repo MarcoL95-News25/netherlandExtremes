@@ -67,6 +67,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,lawine,2026-07-27T06:05:00+00:00,,0.4242405639413387,2,1,nl,,
 '07babddb74',extremes,Drought,#edc291,edo,droogte sint maarten,2026-08-03T05:58:00+00:00,Sint Maarten,0.4238332691952358,2,1,nl,CAR,North-America
 'e1559df16c',extremes,Earthquake,#870007,usgs,aardbeving tobelo,2026-07-26T05:46:00+00:00,Indonesia,0.4232677872461598,1,1,nl,SEA,Asia
+'44e28cc926',extremes,Wildfire,#d60d2b,effis,bosbrand portugal,2026-08-07T09:56:00+00:00,Portugal,0.422389677953673,1,2,nl,MED,Europe
 '75e7d0319a',extremes,Heat Wave,#c40202,wmo,hittegolf luxemburg,2026-07-30T05:24:00+00:00,Belgium,0.4176119560641467,3,1,nl,WCE,Europe
 '1ff36d7a46',extremes,Drought,#edc291,edo,droogte belgie,2026-08-05T05:31:00+00:00,Belgium,0.417079078817325,1,1,nl,WCE,Europe
 '82d648b882',extremes,Drought,#edc291,random,droogte,2026-08-04T05:31:00+00:00,,0.4154381909218152,1,3,nl,,
@@ -188,7 +189,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5ab0a2836b',extremes,Wildfire,#d60d2b,effis,bosbrand kalkoen,2026-08-07T09:56:00+00:00,Turkey,0.3197539496443208,0,1,nl,MED,Asia
 '934c9595eb',extremes,Wildfire,#d60d2b,effis,wildvuur Servië,2026-08-07T11:06:00+00:00,Serbia,0.3197534747282727,0,1,nl,MED,Europe
 '6d6528d836',extremes,Wildfire,#d60d2b,effis,wildvuur Albanië,2026-08-07T09:56:00+00:00,Albania,0.3197530742103976,0,1,nl,MED,Europe
-'44e28cc926',extremes,Wildfire,#d60d2b,effis,bosbrand portugal,2026-08-07T09:56:00+00:00,Portugal,0.3197524917102035,0,1,nl,MED,Europe
 '3ca745d421',extremes,Wildfire,#d60d2b,effis,bosbranden in Algerije,2026-08-07T09:56:00+00:00,Algeria,0.3197522125424853,0,1,nl,MED,Africa
 'be6eea75ee',extremes,Wildfire,#d60d2b,effis,wildvuur Tunesië,2026-08-07T09:56:00+00:00,Tunisia,0.3197521335415536,0,1,nl,MED,Africa
 '5746fa4adb',extremes,Wildfire,#d60d2b,effis,wildvuur spanje,2026-08-07T09:56:00+00:00,Spain,0.3197520416149289,0,1,nl,MED,Europe
@@ -278,7 +278,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0077950340',extremes,Wildfire,#d60d2b,wmo,wildvuur Noorwegen,2026-07-18T05:10:00+00:00,Norway,0.3020044263857814,0,1,nl,NEU,Europe
 '83b144ae1c',extremes,Storm,#b3b2b1,wmo,bestorm het kanaal en de zuidelijke wateren.,2026-07-20T05:54:00+00:00,Vanuatu,0.3019913678735016,0,1,nl,SPO,Oceania
 '2267094058',extremes,Snow&Ice,#d60d2b,wmo,ijs Nieuw-Zeeland,2026-07-24T05:36:00+00:00,New Zealand,0.301975483162938,0,1,nl,NZ,Oceania
-'584710ade2',extremes,Storm,#b3b2b1,wmo,stormvloed pribilof-eilanden nabij de kustwateren,2026-07-21T05:36:00+00:00,United States,0.3019541755234832,0,1,nl,CNA,North-America
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,storm nieuw-zeeland,2026-07-24T05:36:00+00:00,New Zealand,0.301910036774814,0,1,nl,NZ,Oceania
 '30e79eda20',extremes,Storm,#b3b2b1,wmo,storm zuidoost-IJsland,2026-07-25T05:29:00+00:00,Iceland,0.3018918934720696,0,1,nl,GIC,Europe
 '8768fed4c8',extremes,Wildfire,#d60d2b,wmo,wildvuur regio Kemerovo,2026-07-18T05:10:00+00:00,Russia,0.3018784320610052,0,1,nl,ESB,Europe
