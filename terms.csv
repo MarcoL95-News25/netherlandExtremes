@@ -1,9 +1,19 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'b7f6fa02a0',extremes,Wildfire,#d60d2b,effis,natuurbrand nederland,2026-08-25T03:27:00+00:00,Netherlands,0.7570290869006642,1,2,nl,NEU,Europe
 '17ea782bc1',extremes,Thunderstorm,#53785a,wmo,hagel nederland,2026-08-27T13:00:00+00:00,Netherlands,0.691657698370404,2,2,nl,NEU,Europe
+'3a4ffc24df',extremes,Storm,#b3b2b1,wmo,stormvloed harlingen,2026-08-28T14:32:00+00:00,Netherlands,0.6820342368404382,0,1,nl,NEU,Europe
+'812393f39a',extremes,Storm,#b3b2b1,wmo,stormvloed ijsselmeer,2026-08-28T14:32:00+00:00,Netherlands,0.6663643743813524,0,1,nl,NEU,Europe
+'abfab9faf1',extremes,Thunderstorm,#53785a,wmo,onweer namen,2026-08-28T14:32:00+00:00,Belgium,0.6639581898533615,0,1,nl,WCE,Europe
+'0704eae962',extremes,Thunderstorm,#53785a,wmo,hagel ijsselmeergebied,2026-08-28T14:32:00+00:00,Netherlands,0.6612270868197069,0,1,nl,NEU,Europe
+'b32cdf78a9',extremes,Storm,#b3b2b1,wmo,stormvloed ijmuiden,2026-08-28T14:32:00+00:00,Netherlands,0.6607904098625479,0,1,nl,NEU,Europe
+'de7f22b1ee',extremes,Storm,#b3b2b1,wmo,stormvloed friesland,2026-08-28T14:32:00+00:00,Netherlands,0.6597684301518274,0,1,nl,NEU,Europe
+'09e24a7204',extremes,Storm,#b3b2b1,wmo,stormvloed Utrecht,2026-08-28T14:32:00+00:00,Netherlands,0.6494515069286162,0,1,nl,NEU,Europe
 'c6cd9ab4bf',extremes,Thunderstorm,#53785a,wmo,zwaar weer oost-vlaanderen,2026-08-28T14:32:00+00:00,Belgium,0.6376587538085774,2,1,nl,WCE,Europe
 'cc1c8b9d70',extremes,Thunderstorm,#53785a,wmo,onweer Brabant,2026-08-27T13:00:00+00:00,Belgium,0.6375283669806635,2,1,nl,WCE,Europe
 '61a00c0855',extremes,Drought,#edc291,edo,droogte suriname,2026-08-17T03:28:00+00:00,Suriname,0.6343508910050281,1,1,nl,NSA,South-America
+'cec71c5978',extremes,Storm,#b3b2b1,wmo,stormvloed oost-vlaanderen,2026-08-28T14:32:00+00:00,Belgium,0.6338143353622117,0,1,nl,WCE,Europe
+'70e952af3c',extremes,Thunderstorm,#53785a,meteo,onweer nederland,2026-08-27T13:00:00+00:00,Netherlands,0.6095675385162896,0,1,nl,WCE,Europe
+'4deeefd49c',extremes,Thunderstorm,#53785a,wmo,zwaar weer nederland,2026-08-27T13:00:00+00:00,Netherlands,0.6048213073740859,0,1,nl,NEU,Europe
 '6871a315cf',extremes,Heat Wave,#c40202,wmo,hittegolf limburg,2026-07-31T05:51:00+00:00,Belgium,0.6005429015327223,2,1,nl,WCE,Europe
 '998c9f84db',extremes,Storm,#b3b2b1,wmo,storm nederland,2026-07-26T05:46:00+00:00,Netherlands,0.5996876964130107,3,2,nl,NEU,Europe
 'f2b29262f2',extremes,Drought,#edc291,edo,droge periode belgië,2026-08-06T05:33:00+00:00,Belgium,0.5985911811411208,3,2,nl,WCE,Europe
@@ -55,13 +65,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f9ae46e157',extremes,Heat Wave,#c40202,wmo,hittegolf Zeeland,2026-08-05T05:31:00+00:00,Netherlands,0.50220211919181,2,1,nl,NEU,Europe
 '0b02c9df7a',extremes,Heat Wave,#c40202,wmo,hittegolf west-vlaanderen,2026-07-28T05:31:00+00:00,Belgium,0.5018048821213684,3,2,nl,WCE,Europe
 'c110d7e75a',extremes,Storm,#b3b2b1,wmo,storm west-vlaanderen,2026-08-27T13:00:00+00:00,Belgium,0.4993036399550681,2,1,nl,WCE,Europe
-'ba2d9bb3c9',extremes,Thunderstorm,#53785a,wmo,hagel Gelderland,2026-08-28T14:32:00+00:00,Netherlands,0.49904543684657066,2,1,nl,NEU,Europe
-'c2bf136fab',extremes,Thunderstorm,#53785a,wmo,onweer flevoland,2026-08-28T14:32:00+00:00,Netherlands,0.49879669221633033,2,1,nl,NEU,Europe
+'ba2d9bb3c9',extremes,Thunderstorm,#53785a,wmo,hagel Gelderland,2026-08-28T14:32:00+00:00,Netherlands,0.4990454368465706,2,1,nl,NEU,Europe
+'c2bf136fab',extremes,Thunderstorm,#53785a,wmo,onweer flevoland,2026-08-28T14:32:00+00:00,Netherlands,0.4987966922163303,2,1,nl,NEU,Europe
 '783c5b7b17',extremes,Heat Wave,#c40202,wmo,hittegolf gelderland,2026-07-31T05:51:00+00:00,Netherlands,0.4985449879433815,2,1,nl,NEU,Europe
 'b9bd1f29b2',extremes,Storm,#b3b2b1,wmo,storm brabant,2026-08-27T13:00:00+00:00,Belgium,0.4983457755614262,2,1,nl,WCE,Europe
 '8a9e4b2cb0',extremes,Heat Wave,#c40202,wmo,hittegolf utrecht,2026-08-04T05:32:00+00:00,Netherlands,0.496760940134243,2,1,nl,NEU,Europe
 '0af345fb0d',extremes,Heat Wave,#c40202,wmo,hittegolf overijssel,2026-08-05T05:31:00+00:00,Netherlands,0.4948437118119945,2,1,nl,NEU,Europe
-'6fab1b5e76',extremes,Thunderstorm,#53785a,wmo,zwaar weer antwerpen,2026-08-27T13:00:00+00:00,Belgium,0.49447467054428385,2,1,nl,WCE,Europe
+'6fab1b5e76',extremes,Thunderstorm,#53785a,wmo,zwaar weer antwerpen,2026-08-27T13:00:00+00:00,Belgium,0.4944746705442838,2,1,nl,WCE,Europe
 'ae7f05dd01',extremes,Storm,#b3b2b1,wmo,stormkustzone,2026-08-07T11:06:00+00:00,Belgium,0.4941814041686769,2,1,nl,WCE,Europe
 '7a5b8216d0',extremes,Storm,#b3b2b1,wmo,storm ijsselmeer,2026-07-26T05:46:00+00:00,Netherlands,0.4934200820283932,2,1,nl,NEU,Europe
 '52a05313d8',extremes,Earthquake,#870007,usgs,aardbeving sabang,2026-08-12T04:22:00+00:00,Indonesia,0.4930285645151341,0,1,nl,SEA,Asia
