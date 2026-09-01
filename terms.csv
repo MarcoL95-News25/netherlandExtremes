@@ -1,8 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'b7f6fa02a0',extremes,Wildfire,#d60d2b,effis,natuurbrand nederland,2026-08-25T03:27:00+00:00,Netherlands,0.7570290869006642,1,2,nl,NEU,Europe
 '17ea782bc1',extremes,Thunderstorm,#53785a,wmo,hagel nederland,2026-08-27T13:00:00+00:00,Netherlands,0.691657698370404,2,2,nl,NEU,Europe
-'3b8ec0c54a',extremes,Storm,#b3b2b1,wmo,storm ijmuiden,2026-08-31T08:51:00+00:00,Netherlands,0.6561105767871223,0,1,nl,NEU,Europe
-'dfef3989ad',extremes,Drought,#edc291,edo,droge periode nederland,2026-08-20T03:26:00+00:00,Netherlands,0.6558272585235595,0,1,nl,NEU,Europe
 'cbcc1af566',extremes,Storm,#b3b2b1,wmo,stormvloed zierikzee,2026-08-29T09:18:00+00:00,Netherlands,0.6391333609197931,0,1,nl,NEU,Europe
 'c6cd9ab4bf',extremes,Thunderstorm,#53785a,wmo,zwaar weer oost-vlaanderen,2026-08-28T14:32:00+00:00,Belgium,0.6376587538085774,2,1,nl,WCE,Europe
 'cc1c8b9d70',extremes,Thunderstorm,#53785a,wmo,onweer Brabant,2026-08-27T13:00:00+00:00,Belgium,0.6375283669806635,2,1,nl,WCE,Europe
@@ -23,6 +21,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '18eddb0302',extremes,Heat Wave,#c40202,wmo,hittegolf antwerpen,2026-08-02T05:42:00+00:00,Belgium,0.5784076964407022,1,2,nl,WCE,Europe
 'b24aced88d',extremes,Wildfire,#d60d2b,effis,wildfire belgië belgië arr. virton habay,2026-08-19T03:26:00+00:00,Belgium,0.5729960794082996,2,1,nl,WCE,Europe
 'b32cdf78a9',extremes,Storm,#b3b2b1,wmo,stormvloed ijmuiden,2026-08-28T14:32:00+00:00,Netherlands,0.5616718483831656,1,1,nl,NEU,Europe
+'dfef3989ad',extremes,Drought,#edc291,edo,droge periode nederland,2026-08-20T03:26:00+00:00,Netherlands,0.5585032747450256,1,1,nl,NEU,Europe
+'3b8ec0c54a',extremes,Storm,#b3b2b1,wmo,storm ijmuiden,2026-08-31T08:51:00+00:00,Netherlands,0.5576939902690539,1,1,nl,NEU,Europe
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,sneeuwstorm,2026-08-02T05:41:00+00:00,,0.5504363285031212,2,2,nl,,
 '6b28b42456',extremes,Heat Wave,#c40202,meteo,hoge temperatuur België,2026-08-08T03:51:00+00:00,Belgium,0.5486420730318387,3,1,nl,WCE,Europe
 'dd844a9ce4',extremes,Heat Wave,#c40202,wmo,hittegolf groningen,2026-08-03T05:57:00+00:00,Netherlands,0.5428668236286612,3,1,nl,NEU,Europe
