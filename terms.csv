@@ -12,15 +12,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c65fc17a5a',extremes,Heat Wave,#c40202,wmo,hittegolf brabant,2026-07-29T05:37:00+00:00,Belgium,0.5842816522521995,2,2,nl,WCE,Europe
 '18eddb0302',extremes,Heat Wave,#c40202,wmo,hittegolf antwerpen,2026-08-02T05:42:00+00:00,Belgium,0.5784076964407022,1,2,nl,WCE,Europe
 'b24aced88d',extremes,Wildfire,#d60d2b,effis,wildfire belgië belgië arr. virton habay,2026-08-19T03:26:00+00:00,Belgium,0.5729960794082996,2,1,nl,WCE,Europe
-'894cfd2b00',extremes,Thunderstorm,#53785a,wmo,hagel België,2026-08-27T13:00:00+00:00,Belgium,0.5702171792194215,1,2,nl,WCE,Europe
 'b32cdf78a9',extremes,Storm,#b3b2b1,wmo,stormvloed ijmuiden,2026-08-28T14:32:00+00:00,Netherlands,0.5616718483831656,1,1,nl,NEU,Europe
-'351c432035',extremes,Thunderstorm,#53785a,meteo,onweer belgie,2026-08-27T13:00:00+00:00,Belgium,0.5585715896379422,0,1,nl,WCE,Europe
 'dfef3989ad',extremes,Drought,#edc291,edo,droge periode nederland,2026-08-20T03:26:00+00:00,Netherlands,0.5585032747450256,1,1,nl,NEU,Europe
-'f7cb48bc61',extremes,Thunderstorm,#53785a,wmo,onweer Zeeland,2026-08-27T13:00:00+00:00,Netherlands,0.5546425274854192,0,1,nl,NEU,Europe
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,sneeuwstorm,2026-08-02T05:41:00+00:00,,0.5504363285031212,2,2,nl,,
 '6b28b42456',extremes,Heat Wave,#c40202,meteo,hoge temperatuur België,2026-08-08T03:51:00+00:00,Belgium,0.5486420730318387,3,1,nl,WCE,Europe
 'dd844a9ce4',extremes,Heat Wave,#c40202,wmo,hittegolf groningen,2026-08-03T05:57:00+00:00,Netherlands,0.5428668236286612,3,1,nl,NEU,Europe
-'c90f85775b',extremes,Thunderstorm,#53785a,wmo,zwaar weer luxemburg,2026-08-27T13:00:00+00:00,Belgium,0.541760147671838,0,1,nl,WCE,Europe
 '20c34c3dda',extremes,Thunderstorm,#53785a,wmo,zwaar weer overijssel,2026-08-27T13:00:00+00:00,Netherlands,0.5414056202599516,0,1,nl,NEU,Europe
 'ee7d35826f',extremes,Snow&Ice,#d60d2b,wmo,ijskoud groningen,2026-08-13T04:26:00+00:00,Netherlands,0.5392664008657319,3,1,nl,NEU,Europe
 '102b463b04',extremes,Thunderstorm,#53785a,wmo,onweer waddeneilanden,2026-08-31T08:51:00+00:00,Netherlands,0.5375144518169749,1,1,nl,NEU,Europe
@@ -77,6 +73,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3a4ffc24df',extremes,Storm,#b3b2b1,wmo,stormvloed harlingen,2026-08-28T14:32:00+00:00,Netherlands,0.4927697361172165,2,1,nl,NEU,Europe
 'd279270e93',extremes,Storm,#b3b2b1,wmo,stormvloed namen,2026-08-27T13:00:00+00:00,Belgium,0.4925248620340957,2,1,nl,WCE,Europe
 '43ab572e78',extremes,Storm,#b3b2b1,wmo,stormvloed kustgebied,2026-08-08T03:51:00+00:00,Belgium,0.4923151994200584,2,1,nl,WCE,Europe
+'894cfd2b00',extremes,Thunderstorm,#53785a,wmo,hagel België,2026-08-27T13:00:00+00:00,Belgium,0.48468463233650827,2,1,nl,WCE,Europe
 'abd48f77c3',extremes,Snow&Ice,#d60d2b,wmo,sneeuw nederland,2026-08-04T05:32:00+00:00,Netherlands,0.4841531983044192,3,1,nl,NEU,Europe
 '812393f39a',extremes,Storm,#b3b2b1,wmo,stormvloed ijsselmeer,2026-08-28T14:32:00+00:00,Netherlands,0.4814482604905271,2,1,nl,NEU,Europe
 'abfab9faf1',extremes,Thunderstorm,#53785a,wmo,onweer namen,2026-08-28T14:32:00+00:00,Belgium,0.4797097921690536,2,1,nl,WCE,Europe
@@ -86,10 +83,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f148dd9203',extremes,Heat Wave,#c40202,wmo,hittegolf friesland,2026-08-03T05:57:00+00:00,Netherlands,0.4770570420176551,2,1,nl,NEU,Europe
 'de7f22b1ee',extremes,Storm,#b3b2b1,wmo,stormvloed friesland,2026-08-28T14:32:00+00:00,Netherlands,0.4766826907846953,2,1,nl,NEU,Europe
 'a6206dc774',extremes,Drought,#edc291,edo,gebrek aan regen bonaire sint eustatius en saba,2026-08-01T05:42:00+00:00,Bonaire; Saint Eustatius and Saba ,0.4763954660220381,2,1,nl,CAR,North-America
+'351c432035',extremes,Thunderstorm,#53785a,meteo,onweer belgie,2026-08-27T13:00:00+00:00,Belgium,0.47478585119225086,1,1,nl,WCE,Europe
 '3b8ec0c54a',extremes,Storm,#b3b2b1,wmo,storm ijmuiden,2026-08-31T08:51:00+00:00,Netherlands,0.4740398917286957,2,1,nl,NEU,Europe
+'f7cb48bc61',extremes,Thunderstorm,#53785a,wmo,onweer Zeeland,2026-08-27T13:00:00+00:00,Netherlands,0.4714461483626063,1,1,nl,NEU,Europe
 '09e24a7204',extremes,Storm,#b3b2b1,wmo,stormvloed Utrecht,2026-08-28T14:32:00+00:00,Netherlands,0.4692287137559252,2,1,nl,NEU,Europe
 '4deeefd49c',extremes,Thunderstorm,#53785a,wmo,zwaar weer nederland,2026-08-27T13:00:00+00:00,Netherlands,0.4648183468470078,2,1,nl,NEU,Europe
 'cbcc1af566',extremes,Storm,#b3b2b1,wmo,stormvloed zierikzee,2026-08-29T09:18:00+00:00,Netherlands,0.4617738532645505,2,1,nl,NEU,Europe
+'c90f85775b',extremes,Thunderstorm,#53785a,wmo,zwaar weer luxemburg,2026-08-27T13:00:00+00:00,Belgium,0.4606461405210623,1,1,nl,WCE,Europe
 '44e28cc926',extremes,Wildfire,#d60d2b,effis,bosbrand portugal,2026-08-07T09:56:00+00:00,Portugal,0.459481271260622,2,2,nl,MED,Europe
 '33fae2b821',extremes,Thunderstorm,#53785a,wmo,hagel overijssel,2026-08-31T08:51:00+00:00,Netherlands,0.4579432624440251,2,1,nl,NEU,Europe
 'cec71c5978',extremes,Storm,#b3b2b1,wmo,stormvloed oost-vlaanderen,2026-08-28T14:32:00+00:00,Belgium,0.4579308572991978,2,1,nl,WCE,Europe
