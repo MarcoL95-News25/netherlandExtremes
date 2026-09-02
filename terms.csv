@@ -1,6 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'b7f6fa02a0',extremes,Wildfire,#d60d2b,effis,natuurbrand nederland,2026-08-25T03:27:00+00:00,Netherlands,0.7570290869006642,1,2,nl,NEU,Europe
+'9ea0e31db4',extremes,Drought,#edc291,edo,gebrek aan regen belgië,2026-08-21T03:30:00+00:00,Belgium,0.7555277936805657,0,1,nl,WCE,Europe
+'6bab428eb7',extremes,Heat Wave,#c40202,wmo,hittegolf belgië,2026-08-18T03:24:00+00:00,Belgium,0.7451872450718318,0,1,nl,WCE,Europe
 '17ea782bc1',extremes,Thunderstorm,#53785a,wmo,hagel nederland,2026-08-27T13:00:00+00:00,Netherlands,0.691657698370404,2,2,nl,NEU,Europe
+'0820907322',extremes,Storm,#b3b2b1,wmo,stormrottum,2026-08-30T08:30:00+00:00,Netherlands,0.6389932985964093,0,1,nl,NEU,Europe
 'c6cd9ab4bf',extremes,Thunderstorm,#53785a,wmo,zwaar weer oost-vlaanderen,2026-08-28T14:32:00+00:00,Belgium,0.6376587538085774,2,1,nl,WCE,Europe
 'cc1c8b9d70',extremes,Thunderstorm,#53785a,wmo,onweer Brabant,2026-08-27T13:00:00+00:00,Belgium,0.6375283669806635,2,1,nl,WCE,Europe
 '61a00c0855',extremes,Drought,#edc291,edo,droogte suriname,2026-08-17T03:28:00+00:00,Suriname,0.6343508910050281,1,1,nl,NSA,South-America
@@ -19,28 +22,35 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ee7d35826f',extremes,Snow&Ice,#d60d2b,wmo,ijskoud groningen,2026-08-13T04:26:00+00:00,Netherlands,0.5392664008657319,3,1,nl,NEU,Europe
 '73b3077538',extremes,Drought,#edc291,edo,droogte suriname,2026-08-03T05:58:00+00:00,Suriname,0.5374780506891349,1,1,nl,NSA,South-America
 'c320cdfabf',extremes,Thunderstorm,#53785a,wmo,zwaar weer limburg,2026-08-28T14:32:00+00:00,Belgium,0.5318871803569439,1,2,nl,WCE,Europe
+'b56391a2fd',extremes,Storm,#b3b2b1,meteo,wind nederland,2026-08-29T09:18:00+00:00,Netherlands,0.5311034014219377,0,1,nl,NEU,Europe
 '5342f1532c',extremes,Drought,#edc291,edo,droogte nederland,2026-08-04T05:32:00+00:00,Netherlands,0.5308433265231086,3,2,nl,NEU,Europe
 '80a1b6ba6b',extremes,Drought,#edc291,edo,droogte belgie,2026-08-07T11:06:00+00:00,Belgium,0.5306214603793444,2,1,nl,WCE,Europe
 '5d1ed533b1',extremes,Precipitation,#d60d2b,wmo,regen noord holland,2026-08-31T08:51:00+00:00,Netherlands,0.5298848355425281,1,2,nl,NEU,Europe
 '0c4c529b3b',extremes,Storm,#b3b2b1,wmo,storm belgie,2026-08-27T13:00:00+00:00,Belgium,0.5293720507977391,2,1,nl,WCE,Europe
 '5689409e06',extremes,Storm,#b3b2b1,wmo,storm texel,2026-08-31T08:51:00+00:00,Netherlands,0.5291467386389942,1,1,nl,NEU,Europe
 'f03296aeea',extremes,Drought,#edc291,edo,gebrek aan regen suriname,2026-07-31T05:51:00+00:00,Suriname,0.5287568236789852,2,1,nl,NSA,South-America
+'30bc906e71',extremes,Precipitation,#d60d2b,wmo,regen Indonesië,2026-08-18T03:24:00+00:00,Indonesia,0.5275863249432312,0,1,nl,SEA,Asia
 'db5f39549c',extremes,Earthquake,#870007,usgs,aardbeving indonesië,2026-08-07T09:56:00+00:00,Indonesia,0.5273356547072768,2,1,nl,SEA,Asia
 '4973016b05',extremes,Thunderstorm,#53785a,wmo,zwaar weer belgie,2026-08-27T13:00:00+00:00,Belgium,0.5270175992347177,2,1,nl,WCE,Europe
 '708206a69e',extremes,Storm,#b3b2b1,wmo,stormvloed nederland,2026-08-05T05:31:00+00:00,Netherlands,0.5263302728196705,2,1,nl,NEU,Europe
 '7106d0ba4f',extremes,Storm,#b3b2b1,wmo,stormvloed België,2026-08-27T13:00:00+00:00,Belgium,0.5255499541586763,2,1,nl,WCE,Europe
 'f90601fa23',extremes,Volcano,#b83202,random,vulkaanuitbarsting,2026-07-25T05:28:00+00:00,,0.5246905489413387,2,2,nl,,
+'adf8f0eb65',extremes,Thunderstorm,#53785a,wmo,hagel Henegouwen,2026-08-27T13:00:00+00:00,Belgium,0.5243610921806163,0,1,nl,WCE,Europe
 'd638582ba4',extremes,Heat Wave,#c40202,wmo,hittegolf Luik,2026-07-28T05:31:00+00:00,Belgium,0.5236940961524461,2,1,nl,WCE,Europe
+'cb9c42ecbf',extremes,Thunderstorm,#53785a,wmo,zwaar weer Luik,2026-08-28T14:32:00+00:00,Belgium,0.5218884206316619,0,1,nl,WCE,Europe
+'a0b71b7e4f',extremes,Thunderstorm,#53785a,wmo,onweer waddenzee,2026-08-28T14:32:00+00:00,Netherlands,0.5207972297406194,0,1,nl,NEU,Europe
 'ea059d1253',extremes,Thunderstorm,#53785a,wmo,onweer zuid holland,2026-08-27T13:00:00+00:00,Netherlands,0.5198507822381885,2,1,nl,NEU,Europe
 '1512e9c6b2',extremes,Drought,#edc291,edo,droogte suriname,2026-08-01T05:42:00+00:00,Suriname,0.5193356554960408,2,1,nl,NSA,South-America
 '5973f157cd',extremes,Heat Wave,#c40202,wmo,hittegolf kustgebied,2026-08-01T05:42:00+00:00,Belgium,0.5188951030471357,2,1,nl,WCE,Europe
 'a1d0950d4e',extremes,Heat Wave,#c40202,wmo,hittegolf oost-vlaanderen,2026-07-28T05:31:00+00:00,Belgium,0.5181594743268346,2,1,nl,WCE,Europe
+'287e242879',extremes,Thunderstorm,#53785a,wmo,zwaar weer Brabant,2026-08-28T14:32:00+00:00,Belgium,0.5167947197925712,0,1,nl,WCE,Europe
 '44ba32ddc4',extremes,Heat Wave,#c40202,wmo,hittegolf noord-brabant,2026-08-03T05:57:00+00:00,Netherlands,0.515127274669832,2,1,nl,NEU,Europe
 '70f4b573ea',extremes,Wildfire,#d60d2b,effis,wildvuur belgie,2026-08-19T03:26:00+00:00,Belgium,0.5141489105388903,2,1,nl,WCE,Europe
 '32a7b42dae',extremes,Earthquake,#870007,usgs,aardbeving labuan,2026-08-22T03:22:00+00:00,Indonesia,0.5138328710489064,3,1,nl,SEA,Asia
 'b0d80a3f36',extremes,Storm,#b3b2b1,wmo,stormvloed rottum,2026-08-29T09:18:00+00:00,Netherlands,0.5129640042456323,1,1,nl,NEU,Europe
 'ef5989629b',extremes,Thunderstorm,#53785a,wmo,zwaar weer flevoland,2026-08-31T08:51:00+00:00,Netherlands,0.5117798463148177,1,1,nl,NEU,Europe
 'ddbc45646b',extremes,Heat Wave,#c40202,wmo,hittegolf Henegouwen,2026-07-30T05:24:00+00:00,Belgium,0.5113976423571046,2,1,nl,WCE,Europe
+'327e923c0c',extremes,Thunderstorm,#53785a,wmo,hagel noord holland,2026-08-28T14:32:00+00:00,Netherlands,0.509767572798735,0,1,nl,NEU,Europe
 '49be8fe6a5',extremes,Heat Wave,#c40202,wmo,hittegolf drenthe,2026-08-03T05:57:00+00:00,Netherlands,0.5080464382239882,2,1,nl,NEU,Europe
 '26b7df1ccf',extremes,Drought,#edc291,edo,droogte sint maarten,2026-07-31T05:51:00+00:00,Sint Maarten,0.5074654582279216,2,1,nl,CAR,North-America
 'add102af34',extremes,Storm,#b3b2b1,wmo,stormvloedspoeling,2026-08-28T14:32:00+00:00,Netherlands,0.5065174873277705,2,1,nl,NEU,Europe
