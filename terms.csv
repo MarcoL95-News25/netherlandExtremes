@@ -39,15 +39,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '70f4b573ea',extremes,Wildfire,#d60d2b,effis,wildvuur belgie,2026-08-19T03:26:00+00:00,Belgium,0.5141489105388903,2,1,nl,WCE,Europe
 '32a7b42dae',extremes,Earthquake,#870007,usgs,aardbeving labuan,2026-08-22T03:22:00+00:00,Indonesia,0.5138328710489064,3,1,nl,SEA,Asia
 'b0d80a3f36',extremes,Storm,#b3b2b1,wmo,stormvloed rottum,2026-08-29T09:18:00+00:00,Netherlands,0.5129640042456323,1,1,nl,NEU,Europe
-'ef5989629b',extremes,Thunderstorm,#53785a,wmo,zwaar weer flevoland,2026-08-31T08:51:00+00:00,Netherlands,0.5117798463148177,1,1,nl,NEU,Europe
 'ddbc45646b',extremes,Heat Wave,#c40202,wmo,hittegolf Henegouwen,2026-07-30T05:24:00+00:00,Belgium,0.5113976423571046,2,1,nl,WCE,Europe
-'327e923c0c',extremes,Thunderstorm,#53785a,wmo,hagel noord holland,2026-08-28T14:32:00+00:00,Netherlands,0.509767572798735,0,1,nl,NEU,Europe
 '49be8fe6a5',extremes,Heat Wave,#c40202,wmo,hittegolf drenthe,2026-08-03T05:57:00+00:00,Netherlands,0.5080464382239882,2,1,nl,NEU,Europe
 '26b7df1ccf',extremes,Drought,#edc291,edo,droogte sint maarten,2026-07-31T05:51:00+00:00,Sint Maarten,0.5074654582279216,2,1,nl,CAR,North-America
 'add102af34',extremes,Storm,#b3b2b1,wmo,stormvloedspoeling,2026-08-28T14:32:00+00:00,Netherlands,0.5065174873277705,2,1,nl,NEU,Europe
 '2dc80ac970',extremes,Thunderstorm,#53785a,wmo,onweer Henegouwen,2026-08-28T14:32:00+00:00,Belgium,0.5061473383881746,2,1,nl,WCE,Europe
 '511543dad8',extremes,Drought,#edc291,edo,gebrek aan regen nederland,2026-08-23T03:30:00+00:00,Netherlands,0.5059822292739878,2,1,nl,NEU,Europe
-'68529927a3',extremes,Storm,#b3b2b1,wmo,storm noord holland,2026-08-31T08:51:00+00:00,Netherlands,0.505612990746843,1,1,nl,NEU,Europe
 'e42609a1cb',extremes,Storm,#b3b2b1,wmo,stormvloed,2026-08-18T03:24:00+00:00,Netherlands,0.5051682170777207,2,1,nl,NEU,Europe
 'a3b6d6082f',extremes,Thunderstorm,#53785a,wmo,zwaar weer west-vlaanderen,2026-08-28T14:32:00+00:00,Belgium,0.5051252541687277,0,1,nl,WCE,Europe
 '3227305149',extremes,Thunderstorm,#53785a,wmo,hagel noord-brabant,2026-08-28T14:32:00+00:00,Netherlands,0.5049544327653928,2,1,nl,NEU,Europe
@@ -121,13 +118,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '292a8c3820',extremes,Precipitation,#d60d2b,meteo,neerslag nederland,2026-08-31T08:51:00+00:00,Netherlands,0.4462553121099132,0,1,nl,WCE,Europe
 'adf8f0eb65',extremes,Thunderstorm,#53785a,wmo,hagel Henegouwen,2026-08-27T13:00:00+00:00,Belgium,0.4457069283535239,1,1,nl,WCE,Europe
 'a0b71b7e4f',extremes,Thunderstorm,#53785a,wmo,onweer waddenzee,2026-08-28T14:32:00+00:00,Netherlands,0.4426776452795264,1,1,nl,NEU,Europe
-'2c3e19e4c4',extremes,Drought,#edc291,edo,droogte curacao,2026-08-20T03:26:00+00:00,Curacao,0.44206715805483876,1,1,nl,CAR,North-America
-'287e242879',extremes,Thunderstorm,#53785a,wmo,zwaar weer Brabant,2026-08-28T14:32:00+00:00,Belgium,0.43987557182368553,1,1,nl,WCE,Europe
+'2c3e19e4c4',extremes,Drought,#edc291,edo,droogte curacao,2026-08-20T03:26:00+00:00,Curacao,0.4420671580548387,1,1,nl,CAR,North-America
+'287e242879',extremes,Thunderstorm,#53785a,wmo,zwaar weer Brabant,2026-08-28T14:32:00+00:00,Belgium,0.4398755718236855,1,1,nl,WCE,Europe
 'cdb3eaf147',extremes,Drought,#edc291,edo,droogte Indonesië,2026-07-31T05:51:00+00:00,Indonesia,0.43932695038908,3,2,nl,SEA,Asia
 '56c0e42b68',extremes,Storm,#b3b2b1,meteo,wind belgie,2026-08-29T09:18:00+00:00,Belgium,0.4354923603954755,0,1,nl,WCE,Europe
+'ef5989629b',extremes,Thunderstorm,#53785a,wmo,zwaar weer flevoland,2026-08-31T08:51:00+00:00,Netherlands,0.435012869367595,2,1,nl,NEU,Europe
 '8b68c80691',extremes,Heat Wave,#c40202,wmo,hittegolf flevoland,2026-08-03T05:57:00+00:00,Netherlands,0.4339256923876023,3,1,nl,NEU,Europe
 'a834b33b6c',extremes,Drought,#edc291,edo,droogte nederland,2026-08-11T04:01:00+00:00,Netherlands,0.4335121174690722,1,2,nl,NEU,Europe
+'327e923c0c',extremes,Thunderstorm,#53785a,wmo,hagel noord holland,2026-08-28T14:32:00+00:00,Netherlands,0.4333024368789247,1,1,nl,NEU,Europe
 '9391f481ee',extremes,Storm,#b3b2b1,random,storm,2026-08-16T03:27:00+00:00,,0.4308294966934437,1,3,nl,,
+'68529927a3',extremes,Storm,#b3b2b1,wmo,storm noord holland,2026-08-31T08:51:00+00:00,Netherlands,0.4299210571348165,2,1,nl,NEU,Europe
 '07babddb74',extremes,Drought,#edc291,edo,droogte sint maarten,2026-08-03T05:58:00+00:00,Sint Maarten,0.4238332691952358,2,1,nl,CAR,North-America
 'b7c7b7d962',extremes,Wildfire,#d60d2b,effis,bosbrand Kroatië,2026-08-07T11:06:00+00:00,Croatia,0.4220910689492532,1,2,nl,WCE,Europe
 'deb9684635',extremes,Wildfire,#d60d2b,effis,wildfire nederland agglomeratie ’s gravenhage wassenaar,2026-08-25T03:27:00+00:00,Netherlands,0.4193435664169358,0,1,nl,NEU,Europe
