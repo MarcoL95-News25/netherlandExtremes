@@ -32,11 +32,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '708206a69e',extremes,Storm,#b3b2b1,wmo,stormvloed nederland,2026-08-05T05:31:00+00:00,Netherlands,0.5263302728196705,2,1,nl,NEU,Europe
 '7106d0ba4f',extremes,Storm,#b3b2b1,wmo,stormvloed België,2026-08-27T13:00:00+00:00,Belgium,0.5255499541586763,2,1,nl,WCE,Europe
 'f90601fa23',extremes,Volcano,#b83202,random,vulkaanuitbarsting,2026-07-25T05:28:00+00:00,,0.5246905489413387,2,2,nl,,
-'2c3e19e4c4',extremes,Drought,#edc291,edo,droogte curacao,2026-08-20T03:26:00+00:00,Curacao,0.5200790094762809,0,1,nl,CAR,North-America
 'ea059d1253',extremes,Thunderstorm,#53785a,wmo,onweer zuid holland,2026-08-27T13:00:00+00:00,Netherlands,0.5198507822381885,2,1,nl,NEU,Europe
 '1512e9c6b2',extremes,Drought,#edc291,edo,droogte suriname,2026-08-01T05:42:00+00:00,Suriname,0.5193356554960408,2,1,nl,NSA,South-America
 '5973f157cd',extremes,Heat Wave,#c40202,wmo,hittegolf kustgebied,2026-08-01T05:42:00+00:00,Belgium,0.5188951030471357,2,1,nl,WCE,Europe
-'287e242879',extremes,Thunderstorm,#53785a,wmo,zwaar weer Brabant,2026-08-28T14:32:00+00:00,Belgium,0.5167947197925712,0,1,nl,WCE,Europe
 '44ba32ddc4',extremes,Heat Wave,#c40202,wmo,hittegolf noord-brabant,2026-08-03T05:57:00+00:00,Netherlands,0.515127274669832,2,1,nl,NEU,Europe
 '70f4b573ea',extremes,Wildfire,#d60d2b,effis,wildvuur belgie,2026-08-19T03:26:00+00:00,Belgium,0.5141489105388903,2,1,nl,WCE,Europe
 '32a7b42dae',extremes,Earthquake,#870007,usgs,aardbeving labuan,2026-08-22T03:22:00+00:00,Indonesia,0.5138328710489064,3,1,nl,SEA,Asia
@@ -117,12 +115,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '371f783e78',extremes,Wildfire,#d60d2b,effis,wildvuur arr. Virton België,2026-08-19T03:26:00+00:00,Belgium,0.4514706169196892,2,1,nl,WCE,Europe
 'e1559df16c',extremes,Earthquake,#870007,usgs,aardbeving tobelo,2026-08-17T03:28:00+00:00,Indonesia,0.4509692010838008,0,1,nl,SEA,Asia
 '5d1ed533b1',extremes,Precipitation,#d60d2b,wmo,regen noord holland,2026-08-31T08:51:00+00:00,Netherlands,0.4507021402111488,2,2,nl,NEU,Europe
-'5689409e06',extremes,Storm,#b3b2b1,wmo,storm texel,2026-08-31T08:51:00+00:00,Netherlands,0.44977472784314504,2,1,nl,NEU,Europe
+'5689409e06',extremes,Storm,#b3b2b1,wmo,storm texel,2026-08-31T08:51:00+00:00,Netherlands,0.449774727843145,2,1,nl,NEU,Europe
 '3d690ea060',extremes,Drought,#edc291,edo,droogte Aruba,2026-08-12T04:23:00+00:00,Aruba,0.4469710299917571,2,1,nl,CAR,North-America
 'ad0d79f37c',extremes,Drought,#edc291,edo,droogte bonaire sint eustatius en saba,2026-08-12T04:23:00+00:00,Bonaire; Saint Eustatius and Saba ,0.4468890867867444,2,1,nl,CAR,North-America
 '292a8c3820',extremes,Precipitation,#d60d2b,meteo,neerslag nederland,2026-08-31T08:51:00+00:00,Netherlands,0.4462553121099132,0,1,nl,WCE,Europe
 'adf8f0eb65',extremes,Thunderstorm,#53785a,wmo,hagel Henegouwen,2026-08-27T13:00:00+00:00,Belgium,0.4457069283535239,1,1,nl,WCE,Europe
-'a0b71b7e4f',extremes,Thunderstorm,#53785a,wmo,onweer waddenzee,2026-08-28T14:32:00+00:00,Netherlands,0.44267764527952647,1,1,nl,NEU,Europe
+'a0b71b7e4f',extremes,Thunderstorm,#53785a,wmo,onweer waddenzee,2026-08-28T14:32:00+00:00,Netherlands,0.4426776452795264,1,1,nl,NEU,Europe
+'2c3e19e4c4',extremes,Drought,#edc291,edo,droogte curacao,2026-08-20T03:26:00+00:00,Curacao,0.44206715805483876,1,1,nl,CAR,North-America
+'287e242879',extremes,Thunderstorm,#53785a,wmo,zwaar weer Brabant,2026-08-28T14:32:00+00:00,Belgium,0.43987557182368553,1,1,nl,WCE,Europe
 'cdb3eaf147',extremes,Drought,#edc291,edo,droogte Indonesië,2026-07-31T05:51:00+00:00,Indonesia,0.43932695038908,3,2,nl,SEA,Asia
 '56c0e42b68',extremes,Storm,#b3b2b1,meteo,wind belgie,2026-08-29T09:18:00+00:00,Belgium,0.4354923603954755,0,1,nl,WCE,Europe
 '8b68c80691',extremes,Heat Wave,#c40202,wmo,hittegolf flevoland,2026-08-03T05:57:00+00:00,Netherlands,0.4339256923876023,3,1,nl,NEU,Europe
@@ -379,4 +379,3 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3f3e4a1622',extremes,Wildfire,#d60d2b,effis,wild vuur рашка област servië,2026-08-07T11:06:00+00:00,Serbia,0.2310238618226121,2,1,nl,MED,Europe
 'c4cd5dbcd4',extremes,Wildfire,#d60d2b,effis,wildvuur Zuidwest-Ierland,2026-08-07T11:06:00+00:00,Ireland,0.2310236787383323,2,1,nl,NEU,Europe
 '1e3db537cb',extremes,Wildfire,#d60d2b,effis,bosbrand niederösterreich zuid oostenrijk,2026-08-07T11:06:00+00:00,Austria,0.2310232792101146,2,1,nl,WCE,Europe
-'3617de9e43',extremes,Wildfire,#d60d2b,effis,wildvuur Libanon,2026-08-07T11:06:00+00:00,Lebanon,0.1963686059322765,3,1,nl,MED,Asia
