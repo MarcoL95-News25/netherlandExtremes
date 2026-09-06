@@ -1,7 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'b7f6fa02a0',extremes,Wildfire,#d60d2b,effis,natuurbrand nederland,2026-08-25T03:27:00+00:00,Netherlands,0.7570290869006642,1,2,nl,NEU,Europe
-'998c9f84db',extremes,Storm,#b3b2b1,meteo,storm nederland,2026-08-18T03:24:00+00:00,Netherlands,0.7440844357819677,0,1,nl,NEU,Europe
 '17ea782bc1',extremes,Thunderstorm,#53785a,wmo,hagel nederland,2026-08-27T13:00:00+00:00,Netherlands,0.691657698370404,2,2,nl,NEU,Europe
+'998c9f84db',extremes,Storm,#b3b2b1,meteo,storm nederland,2026-08-18T03:24:00+00:00,Netherlands,0.6639719204146726,1,1,nl,NEU,Europe
 'c6cd9ab4bf',extremes,Thunderstorm,#53785a,wmo,zwaar weer oost-vlaanderen,2026-08-28T14:32:00+00:00,Belgium,0.6376587538085774,2,1,nl,WCE,Europe
 'cc1c8b9d70',extremes,Thunderstorm,#53785a,wmo,onweer Brabant,2026-08-27T13:00:00+00:00,Belgium,0.6375283669806635,2,1,nl,WCE,Europe
 '61a00c0855',extremes,Drought,#edc291,edo,droogte suriname,2026-08-17T03:28:00+00:00,Suriname,0.6343508910050281,1,1,nl,NSA,South-America
@@ -126,7 +126,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b7eef1586d',extremes,Earthquake,#870007,usgs,aardbeving labuha,2026-08-31T08:51:00+00:00,Indonesia,0.4121671537144649,1,1,nl,SEA,Asia
 '16ec7582c8',extremes,Drought,#edc291,edo,droogte Indonesië,2026-08-08T03:51:00+00:00,Indonesia,0.4120979847934392,1,2,nl,SEA,Asia
 '4d9577e33d',extremes,Volcano,#b83202,random,vulkaan,2026-08-01T05:41:00+00:00,,0.4116710628522629,1,2,nl,,
-'1d8acd6268',extremes,Earthquake,#870007,aidr,aardbeving Sumatra Indonesië,2026-09-06T07:16:00+00:00,Indonesia,0.40864451136215585,0,1,nl,SEA,Asia
+'1d8acd6268',extremes,Earthquake,#870007,aidr,aardbeving Sumatra Indonesië,2026-09-06T07:16:00+00:00,Indonesia,0.4086445113621558,0,1,nl,SEA,Asia
 '59fe64444b',extremes,Drought,#edc291,edo,gebrek aan regen Indonesië,2026-08-05T05:31:00+00:00,Indonesia,0.408569132700368,1,1,nl,SEA,Asia
 'b56391a2fd',extremes,Storm,#b3b2b1,meteo,wind nederland,2026-08-29T09:18:00+00:00,Netherlands,0.4077249105273499,2,1,nl,NEU,Europe
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,regenbui,2026-08-02T05:41:00+00:00,,0.4076460253388864,1,2,nl,,
@@ -150,7 +150,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '23321560ef',extremes,Precipitation,#d60d2b,wmo,regen sulawesi tengah,2026-08-24T03:32:00+00:00,Indonesia,0.389207535337911,1,1,nl,SEA,Asia
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,overstromingen,2026-08-02T05:41:00+00:00,,0.3886446079793746,1,2,nl,,
 'b44cc7bdf4',extremes,Earthquake,#870007,usgs,aardbeving poso,2026-08-18T03:23:00+00:00,Indonesia,0.3869290210717381,1,1,nl,SEA,Asia
-'f90601fa23',extremes,Volcano,#b83202,random,vulkaanuitbarsting,2026-09-04T07:23:00+00:00,,0.38513216324651484,0,1,nl,,
+'f90601fa23',extremes,Volcano,#b83202,random,vulkaanuitbarsting,2026-09-04T07:23:00+00:00,,0.3851321632465148,0,1,nl,,
 '24db51674d',extremes,Earthquake,#870007,usgs,aardbeving abepura,2026-08-16T03:27:00+00:00,Indonesia,0.3840352512879363,1,1,nl,SEA,Asia
 'bfbd5b76d0',extremes,Precipitation,#d60d2b,wmo,regen Atjeh,2026-08-03T05:57:00+00:00,Indonesia,0.3839752591726066,1,1,nl,SEA,Asia
 'e1559df16c',extremes,Earthquake,#870007,usgs,aardbeving tobelo,2026-08-17T03:28:00+00:00,Indonesia,0.3833238209212307,1,1,nl,SEA,Asia
@@ -189,7 +189,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'deb9684635',extremes,Wildfire,#d60d2b,effis,wildfire nederland agglomeratie ’s gravenhage wassenaar,2026-08-25T03:27:00+00:00,Netherlands,0.3564420314543954,1,1,nl,NEU,Europe
 '129f5858cd',extremes,Earthquake,#870007,usgs,aardbeving baubau,2026-08-25T03:27:00+00:00,Indonesia,0.3562598469619305,1,1,nl,SEA,Asia
 '1ff36d7a46',extremes,Drought,#edc291,edo,droogte belgie,2026-08-05T05:31:00+00:00,Belgium,0.3545172169947262,2,1,nl,WCE,Europe
-'f4e1bf0fdf',extremes,Flood,#030ba1,random,uitbraak van gletsjermeren,2026-08-18T03:23:00+00:00,,0.35298481451989155,0,1,nl,,
+'f4e1bf0fdf',extremes,Flood,#030ba1,random,uitbraak van gletsjermeren,2026-08-18T03:23:00+00:00,,0.3529848145198915,0,1,nl,,
 '2d88e3d33a',extremes,Earthquake,#870007,usgs,aardbeving pototano,2026-08-19T03:25:00+00:00,Indonesia,0.3521719606828279,1,1,nl,SEA,Asia
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,hitte,2026-08-19T03:25:00+00:00,,0.3507815681014081,1,2,nl,,
 '96fb61f7f7',extremes,Earthquake,#870007,usgs,aardbeving labuan bajo,2026-08-15T03:13:00+00:00,Indonesia,0.3505262833333997,1,1,nl,SEA,Asia
