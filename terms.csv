@@ -144,8 +144,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ecc073b974',extremes,Earthquake,#870007,usgs,aardbeving cilacap,2026-09-06T07:16:00+00:00,Indonesia,0.3893037638689989,1,1,nl,SEA,Asia
 '23321560ef',extremes,Precipitation,#d60d2b,wmo,regen sulawesi tengah,2026-08-24T03:32:00+00:00,Indonesia,0.389207535337911,1,1,nl,SEA,Asia
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,overstromingen,2026-08-02T05:41:00+00:00,,0.3886446079793746,1,2,nl,,
+'f90601fa23',extremes,Volcano,#b83202,random,vulkaanuitbarsting,2026-09-04T07:23:00+00:00,,0.3881124137595376,1,1,nl,,
 'b44cc7bdf4',extremes,Earthquake,#870007,usgs,aardbeving poso,2026-08-18T03:23:00+00:00,Indonesia,0.3869290210717381,1,1,nl,SEA,Asia
-'f90601fa23',extremes,Volcano,#b83202,random,vulkaanuitbarsting,2026-09-04T07:23:00+00:00,,0.3851321632465148,0,1,nl,,
 '24db51674d',extremes,Earthquake,#870007,usgs,aardbeving abepura,2026-08-16T03:27:00+00:00,Indonesia,0.3840352512879363,1,1,nl,SEA,Asia
 'bfbd5b76d0',extremes,Precipitation,#d60d2b,wmo,regen Atjeh,2026-08-03T05:57:00+00:00,Indonesia,0.3839752591726066,1,1,nl,SEA,Asia
 'e1559df16c',extremes,Earthquake,#870007,usgs,aardbeving tobelo,2026-08-17T03:28:00+00:00,Indonesia,0.3833238209212307,1,1,nl,SEA,Asia
@@ -362,7 +362,3 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2d3399b55d',extremes,Wildfire,#d60d2b,effis,wildvuur românia tulcea jurilovca,2026-08-07T09:56:00+00:00,Romania,0.2717736174542192,1,1,nl,MED,Europe
 'e9a96833dc',extremes,Wildfire,#d60d2b,effis,wild vuur libanon btaaboura n.v.t.,2026-08-07T11:06:00+00:00,Lebanon,0.2717732924803549,1,1,nl,MED,Asia
 '5f0b68fcc5',extremes,Storm,#b3b2b1,aidr,storm Melbourne Victoria 2020,2026-08-05T05:31:00+00:00,Australia,0.2679099362880121,1,1,nl,SAU,Oceania
-'c86de2820d',extremes,Wildfire,#d60d2b,effis,bosbrand el charkiyé libanon,2026-08-07T11:06:00+00:00,Lebanon,0.2310238720456567,2,1,nl,MED,Asia
-'3f3e4a1622',extremes,Wildfire,#d60d2b,effis,wild vuur рашка област servië,2026-08-07T11:06:00+00:00,Serbia,0.2310238618226121,2,1,nl,MED,Europe
-'c4cd5dbcd4',extremes,Wildfire,#d60d2b,effis,wildvuur Zuidwest-Ierland,2026-08-07T11:06:00+00:00,Ireland,0.2310236787383323,2,1,nl,NEU,Europe
-'1e3db537cb',extremes,Wildfire,#d60d2b,effis,bosbrand niederösterreich zuid oostenrijk,2026-08-07T11:06:00+00:00,Austria,0.2310232792101146,2,1,nl,WCE,Europe
