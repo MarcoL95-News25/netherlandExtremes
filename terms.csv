@@ -169,12 +169,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '56c0e42b68',extremes,Storm,#b3b2b1,meteo,wind belgie,2026-08-29T09:18:00+00:00,Belgium,0.3701685063361541,1,1,nl,WCE,Europe
 '31d9a59415',extremes,Earthquake,#870007,usgs,aardbeving pematangsiantar,2026-08-17T03:28:00+00:00,Indonesia,0.3694006424843842,2,1,nl,SEA,Asia
 '1b846b85cb',extremes,Earthquake,#870007,usgs,aardbeving ternate,2026-08-11T04:01:00+00:00,Indonesia,0.3678999301472553,2,1,nl,SEA,Asia
-'1c38b19449',extremes,Storm,#b3b2b1,random,stofkommen,2026-08-27T13:00:00+00:00,,0.3669731558328676,0,1,nl,,
+'3e4b341619',extremes,Storm,#b3b2b1,random,storm,2026-08-20T03:26:00+00:00,,0.3666414796202562,1,2,nl,,
 '6cfc55b8b1',extremes,Drought,#edc291,edo,droogte bonaire sint eustatius en saba,2026-08-15T03:13:00+00:00,Bonaire; Saint Eustatius and Saba ,0.366151658471593,1,1,nl,CAR,North-America
 '1d1d954a2c',extremes,Earthquake,#870007,usgs,aardbeving pagar alam,2026-08-10T04:13:00+00:00,Indonesia,0.3648228790277281,1,1,nl,SEA,Asia
 '135f8534c2',extremes,Precipitation,#d60d2b,random,meer neerslag,2026-08-26T03:33:00+00:00,,0.3646092668500039,1,1,nl,,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,warmste jaar,2026-08-11T04:01:00+00:00,,0.3629401258933272,1,1,nl,,
-'3e4b341619',extremes,Storm,#b3b2b1,random,storm,2026-08-20T03:26:00+00:00,,0.3613473118527079,0,1,nl,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmosferische rivier,2026-09-01T07:57:00+00:00,,0.3601453100730642,0,1,nl,,
 '93171a11bc',extremes,Earthquake,#870007,usgs,aardbeving maumere,2026-09-07T07:29:00+00:00,Indonesia,0.356535649373129,0,1,nl,SEA,Asia
 'deb9684635',extremes,Wildfire,#d60d2b,effis,wildfire nederland agglomeratie ’s gravenhage wassenaar,2026-08-25T03:27:00+00:00,Netherlands,0.3564420314543954,1,1,nl,NEU,Europe
@@ -251,6 +250,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ed96a847da',extremes,Wildfire,#d60d2b,effis,wildvuur magyarország fejér székesfehérvár,2026-08-07T11:06:00+00:00,Hungary,0.319729408991695,0,1,nl,WCE,Europe
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,ijskoud,2026-08-18T03:23:00+00:00,,0.3180893412014645,1,1,nl,,
 'c90cb2df01',extremes,Earthquake,#870007,usgs,aardbeving luwuk,2026-08-16T03:27:00+00:00,Indonesia,0.3176251597586325,1,1,nl,SEA,Asia
+'1c38b19449',extremes,Storm,#b3b2b1,random,stofkommen,2026-08-27T13:00:00+00:00,,0.31192718245793744,1,1,nl,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,nationaal orkaancentrum,2026-08-10T04:13:00+00:00,,0.3113728696515931,1,1,nl,,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,koudste winter,2026-08-07T11:06:00+00:00,,0.3093688675634833,1,1,nl,,
 'f37139fe2d',extremes,Landslide,#572c03,random,modderstroom,2026-08-15T03:13:00+00:00,,0.3091182973862149,1,1,nl,,
