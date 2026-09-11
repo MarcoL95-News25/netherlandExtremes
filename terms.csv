@@ -45,7 +45,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e42609a1cb',extremes,Storm,#b3b2b1,wmo,stormvloed,2026-08-18T03:24:00+00:00,Netherlands,0.5051682170777207,2,1,nl,NEU,Europe
 '3227305149',extremes,Thunderstorm,#53785a,wmo,hagel noord-brabant,2026-08-28T14:32:00+00:00,Netherlands,0.5049544327653928,2,1,nl,NEU,Europe
 'b10ea74015',extremes,Storm,#b3b2b1,wmo,stormvloed delfzijl,2026-08-05T05:31:00+00:00,Netherlands,0.5042194485615561,2,1,nl,NEU,Europe
-'e086ae0157',extremes,Storm,#b3b2b1,wmo,stormhaak van holland,2026-08-05T05:31:00+00:00,Netherlands,0.5023826778903354,2,1,nl,NEU,Europe
 'f9ae46e157',extremes,Heat Wave,#c40202,wmo,hittegolf Zeeland,2026-08-05T05:31:00+00:00,Netherlands,0.50220211919181,2,1,nl,NEU,Europe
 'c110d7e75a',extremes,Storm,#b3b2b1,wmo,storm west-vlaanderen,2026-08-27T13:00:00+00:00,Belgium,0.4993036399550681,2,1,nl,WCE,Europe
 'ba2d9bb3c9',extremes,Thunderstorm,#53785a,wmo,hagel Gelderland,2026-08-28T14:32:00+00:00,Netherlands,0.4990454368465706,2,1,nl,NEU,Europe
@@ -85,6 +84,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ad0d79f37c',extremes,Drought,#edc291,edo,droogte bonaire sint eustatius en saba,2026-08-12T04:23:00+00:00,Bonaire; Saint Eustatius and Saba ,0.4468890867867444,2,1,nl,CAR,North-America
 'a6206dc774',extremes,Drought,#edc291,edo,gebrek aan regen bonaire sint eustatius en saba,2026-08-24T03:32:00+00:00,Bonaire; Saint Eustatius and Saba ,0.4460882686129986,2,1,nl,CAR,North-America
 'da8a0a0841',extremes,Drought,#edc291,edo,droge periode sint maarten,2026-08-26T03:34:00+00:00,Sint Maarten,0.4372412280104196,2,1,nl,CAR,North-America
+'283b154c38',extremes,Wet Spell,#d60d2b,random,natte periode,2026-08-25T03:27:00+00:00,,0.4364791734255804,2,2,nl,,
 'b0d80a3f36',extremes,Storm,#b3b2b1,wmo,stormvloed rottum,2026-08-29T09:18:00+00:00,Netherlands,0.4360194036087874,2,1,nl,NEU,Europe
 'ef5989629b',extremes,Thunderstorm,#53785a,wmo,zwaar weer flevoland,2026-08-31T08:51:00+00:00,Netherlands,0.435012869367595,2,1,nl,NEU,Europe
 'a834b33b6c',extremes,Drought,#edc291,edo,droogte nederland,2026-08-11T04:01:00+00:00,Netherlands,0.4335121174690722,1,2,nl,NEU,Europe
@@ -121,7 +121,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,regenbui,2026-08-02T05:41:00+00:00,,0.4076460253388864,1,2,nl,,
 '67880a4685',extremes,Thunderstorm,#53785a,wmo,zwaar weer noord-brabant,2026-08-31T08:51:00+00:00,Netherlands,0.4075565033801728,1,1,nl,NEU,Europe
 '7da716f8d7',extremes,Precipitation,#d60d2b,wmo,neerslag indonesië,2026-08-13T04:26:00+00:00,Indonesia,0.4071745860567349,2,1,nl,SEA,Asia
-'283b154c38',extremes,Wet Spell,#d60d2b,random,natte periode,2026-08-25T03:27:00+00:00,,0.4067401157948005,1,2,nl,,
 'f8f49c3313',extremes,Earthquake,#870007,usgs,aardbeving fakfak,2026-08-10T04:13:00+00:00,Indonesia,0.4065076323633591,1,1,nl,SEA,Asia
 '351c432035',extremes,Thunderstorm,#53785a,meteo,onweer belgie,2026-08-27T13:00:00+00:00,Belgium,0.4035679735134131,2,1,nl,WCE,Europe
 '913a98e6ca',extremes,Thunderstorm,#53785a,wmo,zwaar weer groningen,2026-08-31T08:51:00+00:00,Netherlands,0.4030631065929724,1,1,nl,NEU,Europe
@@ -179,7 +178,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,warmste jaar,2026-08-11T04:01:00+00:00,,0.3629401258933272,1,1,nl,,
 'deb9684635',extremes,Wildfire,#d60d2b,effis,wildfire nederland agglomeratie ’s gravenhage wassenaar,2026-08-25T03:27:00+00:00,Netherlands,0.3564420314543954,1,1,nl,NEU,Europe
 '129f5858cd',extremes,Earthquake,#870007,usgs,aardbeving baubau,2026-08-25T03:27:00+00:00,Indonesia,0.3562598469619305,1,1,nl,SEA,Asia
-'1fefacbadb',extremes,Iceberg,#d60d2b,random,afkalven van gletsjers,2026-09-01T07:57:00+00:00,,0.3541953189746344,0,1,nl,,
 'f4e1bf0fdf',extremes,Flood,#030ba1,random,uitbraak van gletsjermeren,2026-08-18T03:23:00+00:00,,0.3529848145198915,0,1,nl,,
 '2d88e3d33a',extremes,Earthquake,#870007,usgs,aardbeving pototano,2026-08-19T03:25:00+00:00,Indonesia,0.3521719606828279,1,1,nl,SEA,Asia
 '62084daeb0',extremes,Earthquake,#870007,random,aardbeving,2026-09-05T07:04:00+00:00,,0.3517191669714787,0,1,nl,,
@@ -221,7 +219,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,afkalven van ijsbergen,2026-08-30T08:29:00+00:00,,0.3243818809054661,1,1,nl,,
 'e2900f47a9',extremes,Earthquake,#870007,usgs,aardbeving gambiran satu,2026-08-15T03:13:00+00:00,Indonesia,0.3240760734152125,1,1,nl,SEA,Asia
 '0d261f252d',extremes,Storm,#b3b2b1,random,winterstorm,2026-08-26T03:33:00+00:00,,0.3238638718289943,1,1,nl,,
-'053bb10e09',extremes,Heat Wave,#c40202,random,nazomer,2026-08-07T04:37:00+00:00,,0.3219379734784509,1,1,nl,,
 'a652c78afc',extremes,Drought,#edc291,random,megadroogte,2026-09-03T07:20:00+00:00,,0.3218654491131005,1,1,nl,,
 '9cf7521bff',extremes,Earthquake,#870007,usgs,aardbeving sinabang,2026-09-07T07:29:00+00:00,Indonesia,0.3212804881194609,1,1,nl,SEA,Asia
 '4dc8bdbf14',extremes,Flood,#030ba1,random,rivieroverstromingen,2026-08-31T08:51:00+00:00,,0.3211999749991262,1,1,nl,,
@@ -273,7 +270,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7530c54c05',extremes,Earthquake,#870007,usgs,aardbeving waisai,2026-08-21T03:30:00+00:00,Indonesia,0.3076881140989196,1,1,nl,SEA,Asia
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,koudegolf,2026-08-08T03:51:00+00:00,,0.3075000404822339,1,1,nl,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmosferische rivier,2026-09-01T07:57:00+00:00,,0.3061235135621046,1,1,nl,,
-'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,koudegolf,2026-08-07T04:37:00+00:00,,0.3001688018175716,1,1,nl,,
+'1fefacbadb',extremes,Iceberg,#d60d2b,random,afkalven van gletsjers,2026-09-01T07:57:00+00:00,,0.3010660211284392,1,1,nl,,
 '7b765a4d4c',extremes,Precipitation,#d60d2b,random,stortbui,2026-08-15T03:13:00+00:00,,0.2856722122198692,1,1,nl,,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,weerfront,2026-08-09T03:59:00+00:00,,0.2813342959199072,1,1,nl,,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,nachtvorst,2026-08-14T04:24:00+00:00,,0.2783990398404128,1,1,nl,,
