@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'fa532c3ea4',extremes,Fog,#d60d2b,wmo,mist brabant,2026-09-12T07:19:00+00:00,Belgium,0.7363255505526075,0,1,nl,WCE,Europe
 '77ad77fbfe',extremes,Fog,#d60d2b,wmo,mist namen,2026-09-12T07:19:00+00:00,Belgium,0.7342448119588161,0,1,nl,WCE,Europe
 '73b3077538',extremes,Drought,#edc291,edo,droogte suriname,2026-08-24T03:32:00+00:00,Suriname,0.7335345628541889,0,1,nl,NSA,South-America
 'ae7f05dd01',extremes,Storm,#b3b2b1,wmo,stormkustzone,2026-08-27T13:00:00+00:00,Belgium,0.6784405557832637,0,1,nl,WCE,Europe
@@ -15,6 +14,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '708206a69e',extremes,Storm,#b3b2b1,wmo,stormvloed nederland,2026-08-27T13:00:00+00:00,Netherlands,0.627730259261069,1,1,nl,NEU,Europe
 '6279d44f5f',extremes,Fog,#d60d2b,wmo,mist limburg,2026-09-12T07:19:00+00:00,Belgium,0.6267184190561966,0,1,nl,WCE,Europe
 'fa1ad4c940',extremes,Fog,#d60d2b,wmo,mist oost-vlaanderen,2026-09-12T07:19:00+00:00,Belgium,0.626331708449766,1,1,nl,WCE,Europe
+'fa532c3ea4',extremes,Fog,#d60d2b,wmo,mist brabant,2026-09-12T07:19:00+00:00,Belgium,0.6261767479697163,1,1,nl,WCE,Europe
 '17ea782bc1',extremes,Thunderstorm,#53785a,wmo,hagel nederland,2026-08-27T13:00:00+00:00,Netherlands,0.6260091036148434,3,2,nl,NEU,Europe
 '6b28b42456',extremes,Heat Wave,#c40202,meteo,hoge temperatuur België,2026-08-08T03:51:00+00:00,Belgium,0.6172458520770628,4,2,nl,WCE,Europe
 '6bab428eb7',extremes,Heat Wave,#c40202,wmo,hittegolf belgië,2026-08-18T03:24:00+00:00,Belgium,0.6029129510643984,2,1,nl,WCE,Europe
@@ -202,7 +202,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '707a25fcab',extremes,Earthquake,#870007,usgs,aardbeving sungai penuh,2026-08-23T03:30:00+00:00,Indonesia,0.3367310469941904,1,1,nl,SEA,Asia
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,ijsberg arctis,2026-09-08T07:23:00+00:00,,0.3343663529343995,1,1,nl,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,sprinkhanen,2026-08-12T04:22:00+00:00,,0.3333061843480178,1,1,nl,,
-'1f2ead8b9f',extremes,Earthquake,#870007,usgs,aardbeving batang,2026-08-08T03:51:00+00:00,Indonesia,0.3331464565698774,1,1,nl,SEA,Asia
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,zware regen,2026-08-22T03:22:00+00:00,,0.3320515747906253,0,1,nl,,
 '1405131905',extremes,Thunderstorm,#53785a,random,hagel,2026-08-29T09:18:00+00:00,,0.3316834689090747,0,1,nl,,
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,vorst,2026-08-31T08:51:00+00:00,,0.3315847465255091,0,1,nl,,
@@ -274,7 +273,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f4e1bf0fdf',extremes,Flood,#030ba1,random,uitbraak van gletsjermeren,2026-08-18T03:23:00+00:00,,0.3000370923419078,1,1,nl,,
 '8b4587c763',extremes,Storm,#b3b2b1,random,stofstorm,2026-09-05T07:04:00+00:00,,0.2887523701247447,1,1,nl,,
 '7b765a4d4c',extremes,Precipitation,#d60d2b,random,stortbui,2026-08-15T03:13:00+00:00,,0.2856722122198692,1,1,nl,,
-'59b5340b69',extremes,Precipitation,#d60d2b,random,weerfront,2026-08-09T03:59:00+00:00,,0.2813342959199072,1,1,nl,,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,nachtvorst,2026-08-14T04:24:00+00:00,,0.2783990398404128,1,1,nl,,
 '52af874334',extremes,Drought,#edc291,random,dorheid,2026-08-12T04:22:00+00:00,,0.2725768076353395,1,1,nl,,
 'b7f999932e',extremes,Tropical Cyclone,#4f4f4f,eonet,tropische storm etau,2026-08-31T08:51:00+00:00,,0.270433117953901,1,1,nl,NPO,Pacific Ocean
