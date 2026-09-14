@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'6279d44f5f',extremes,Fog,#d60d2b,wmo,mist limburg,2026-09-12T07:19:00+00:00,Belgium,0.667109113268102,2,2,nl,WCE,Europe
 '998c9f84db',extremes,Storm,#b3b2b1,meteo,storm nederland,2026-08-18T03:24:00+00:00,Netherlands,0.6408762823524716,2,2,nl,NEU,Europe
 'c6cd9ab4bf',extremes,Thunderstorm,#53785a,wmo,zwaar weer oost-vlaanderen,2026-08-28T14:32:00+00:00,Belgium,0.6376587538085774,2,1,nl,WCE,Europe
 'cc1c8b9d70',extremes,Thunderstorm,#53785a,wmo,onweer Brabant,2026-08-27T13:00:00+00:00,Belgium,0.6375283669806635,2,1,nl,WCE,Europe
@@ -9,7 +10,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '77ad77fbfe',extremes,Fog,#d60d2b,wmo,mist namen,2026-09-12T07:19:00+00:00,Belgium,0.6242581051649937,1,1,nl,WCE,Europe
 '73b3077538',extremes,Drought,#edc291,edo,droogte suriname,2026-08-24T03:32:00+00:00,Suriname,0.6235043784260605,1,1,nl,NSA,South-America
 '6b28b42456',extremes,Heat Wave,#c40202,meteo,hoge temperatuur België,2026-08-08T03:51:00+00:00,Belgium,0.6172458520770628,4,2,nl,WCE,Europe
-'6279d44f5f',extremes,Fog,#d60d2b,wmo,mist limburg,2026-09-12T07:19:00+00:00,Belgium,0.6080106861977671,1,2,nl,WCE,Europe
 '2bb3d20abc',extremes,Fog,#d60d2b,meteo,mist belgië,2026-09-12T07:19:00+00:00,Belgium,0.6032370121391877,2,1,nl,WCE,Europe
 '6bab428eb7',extremes,Heat Wave,#c40202,wmo,hittegolf belgië,2026-08-18T03:24:00+00:00,Belgium,0.6029129510643984,2,1,nl,WCE,Europe
 '30bc906e71',extremes,Precipitation,#d60d2b,wmo,regen Indonesië,2026-08-18T03:24:00+00:00,Indonesia,0.5985983912017465,1,2,nl,SEA,Asia
@@ -214,25 +214,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4dc8bdbf14',extremes,Flood,#030ba1,random,rivieroverstromingen,2026-08-31T08:51:00+00:00,,0.3211999749991262,1,1,nl,,
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,opwaaiende sneeuw,2026-09-06T07:16:00+00:00,,0.3204770036748139,1,1,nl,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,arctisch zee-ijs,2026-08-25T03:27:00+00:00,,0.319968984358037,1,1,nl,,
-'f66335160e',extremes,Wildfire,#d60d2b,effis,wildfire libanon aïn jarfa n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.3197458410373079,0,1,nl,MED,Asia
-'fe6ff1821c',extremes,Wildfire,#d60d2b,effis,bosbrand Spanje,2026-08-07T11:06:00+00:00,Spain,0.3197455367749227,0,1,nl,MED,Europe
-'0c7c458c2c',extremes,Wildfire,#d60d2b,effis,wildvuur libanon nabi youcheaa n.v.t.,2026-08-07T11:06:00+00:00,Lebanon,0.3197437052676699,0,1,nl,MED,Asia
-'785f49402b',extremes,Wildfire,#d60d2b,effis,wild vuur Libanon Haret Jandal n.v.t.,2026-08-07T11:06:00+00:00,Lebanon,0.3197436704433075,0,1,nl,MED,Asia
-'df6e516080',extremes,Wildfire,#d60d2b,effis,bosbrand Tunesië,2026-08-07T11:06:00+00:00,Tunisia,0.3197431645002976,0,1,nl,MED,Africa
-'2a295685a3',extremes,Wildfire,#d60d2b,effis,wildvuur srbija сpбија зајечарска област zaječar,2026-08-07T11:06:00+00:00,Serbia,0.3197430353863468,0,1,nl,MED,Europe
-'d417ec4e5f',extremes,Wildfire,#d60d2b,effis,wildvuur portugal grootstedelijk gebied in de porto canedo vale en vila maior,2026-08-07T11:06:00+00:00,Portugal,0.3197391827361551,0,1,nl,MED,Europe
-'648f46497d',extremes,Wildfire,#d60d2b,effis,wild vuur libanon habbouche n.v.t.,2026-08-07T11:06:00+00:00,Lebanon,0.3197385564974444,0,1,nl,MED,Asia
-'9f352d30ee',extremes,Wildfire,#d60d2b,effis,wildvuur Libanon machha n.v.t.,2026-08-07T11:06:00+00:00,Lebanon,0.319738196131598,0,1,nl,MED,Asia
-'bd617db6de',extremes,Wildfire,#d60d2b,effis,bosbrand Libanon machha n.v.t.,2026-08-07T11:06:00+00:00,Lebanon,0.31973783199617,0,1,nl,MED,Asia
-'afda8bb534',extremes,Wildfire,#d60d2b,effis,bosbrand Libanon bchatfine n.v.t.,2026-08-07T11:06:00+00:00,Lebanon,0.3197375880964018,0,1,nl,MED,Asia
-'1b1a0d5e03',extremes,Wildfire,#d60d2b,effis,wildvuur Libanon bazouriat n.v.t.,2026-08-07T11:06:00+00:00,Lebanon,0.3197364641078535,0,1,nl,MED,Asia
-'74cac206cd',extremes,Wildfire,#d60d2b,effis,wildvuur shqipëria elbasan prrenjas,2026-08-07T11:06:00+00:00,Albania,0.3197353664771929,0,1,nl,MED,Europe
-'ce94c172f7',extremes,Wildfire,#d60d2b,effis,bosbrand Libanon el kfour n.v.t.,2026-08-07T11:06:00+00:00,Lebanon,0.3197352823927595,0,1,nl,MED,Asia
-'707bddbfca',extremes,Wildfire,#d60d2b,effis,wildvuur северна македонија пелагониски prilep,2026-08-07T11:06:00+00:00,North Macedonia,0.3197352235286209,0,1,nl,MED,Europe
-'7eef914348',extremes,Wildfire,#d60d2b,effis,wildvuur türkiye malatya n.v.t.,2026-08-07T11:06:00+00:00,Turkey,0.3197345034383588,0,1,nl,MED,Asia
-'3d29c3ec38',extremes,Wildfire,#d60d2b,effis,wild vuur libanon hayzouk n.v.t.,2026-08-07T11:06:00+00:00,Lebanon,0.3197327539412151,0,1,nl,MED,Asia
-'ef4a458ea0',extremes,Wildfire,#d60d2b,effis,bosbrand Tunesië n.v.t. n.v.t.,2026-08-07T11:06:00+00:00,Tunisia,0.3197315673152994,0,1,nl,MED,Africa
-'ed96a847da',extremes,Wildfire,#d60d2b,effis,wildvuur magyarország fejér székesfehérvár,2026-08-07T11:06:00+00:00,Hungary,0.319729408991695,0,1,nl,WCE,Europe
 '69791e5a17',extremes,Flood,#030ba1,random,plotselinge overstroming,2026-09-03T07:20:00+00:00,,0.3183492652701583,0,1,nl,,
 '54927bfe65',extremes,Flood,#030ba1,random,kustoverstromingen,2026-08-22T03:22:00+00:00,,0.3181116401583331,0,1,nl,,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,ijskoud,2026-08-18T03:23:00+00:00,,0.3180893412014645,1,1,nl,,
