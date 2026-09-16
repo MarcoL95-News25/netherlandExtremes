@@ -25,7 +25,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ee7d35826f',extremes,Snow&Ice,#d60d2b,wmo,ijskoud groningen,2026-08-13T04:26:00+00:00,Netherlands,0.5392664008657319,3,1,nl,NEU,Europe
 '61a00c0855',extremes,Drought,#edc291,edo,droogte suriname,2026-08-17T03:28:00+00:00,Suriname,0.5391982573542738,2,1,nl,NSA,South-America
 '90fce750f8',extremes,Fog,#d60d2b,wmo,mist Henegouwen,2026-09-12T07:19:00+00:00,Belgium,0.5377087372767116,1,1,nl,WCE,Europe
-'fa532c3ea4',extremes,Fog,#d60d2b,wmo,mist brabant,2026-09-12T07:19:00+00:00,Belgium,0.5325502657742589,2,1,nl,WCE,Europe
 'a1d0950d4e',extremes,Heat Wave,#c40202,wmo,hittegolf Oost-Vlaanderen,2026-08-18T03:24:00+00:00,Belgium,0.52974958448175,2,1,nl,WCE,Europe
 '70e952af3c',extremes,Thunderstorm,#53785a,meteo,onweer nederland,2026-08-27T13:00:00+00:00,Netherlands,0.5294218039413163,3,2,nl,WCE,Europe
 '0c4c529b3b',extremes,Storm,#b3b2b1,wmo,storm belgie,2026-08-27T13:00:00+00:00,Belgium,0.5293720507977391,2,1,nl,WCE,Europe
@@ -70,6 +69,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4262ff0da9',extremes,Thunderstorm,#53785a,wmo,onweer limburg,2026-08-27T13:00:00+00:00,Belgium,0.4574950505225831,2,1,nl,WCE,Europe
 '102b463b04',extremes,Thunderstorm,#53785a,wmo,onweer waddeneilanden,2026-08-31T08:51:00+00:00,Netherlands,0.4568872840444286,2,1,nl,NEU,Europe
 '93171a11bc',extremes,Earthquake,#870007,usgs,aardbeving maumere,2026-09-07T07:29:00+00:00,Indonesia,0.4532053169671596,1,2,nl,SEA,Asia
+'fa532c3ea4',extremes,Fog,#d60d2b,wmo,mist brabant,2026-09-12T07:19:00+00:00,Belgium,0.45296775590812005,3,1,nl,WCE,Europe
 'd3d3fb7f10',extremes,Drought,#edc291,edo,droogte aruba,2026-08-29T09:19:00+00:00,Aruba,0.4518525640870046,2,1,nl,CAR,North-America
 '371f783e78',extremes,Wildfire,#d60d2b,effis,wildvuur arr. Virton België,2026-08-19T03:26:00+00:00,Belgium,0.4514706169196892,2,1,nl,WCE,Europe
 '5d1ed533b1',extremes,Precipitation,#d60d2b,wmo,regen noord holland,2026-08-31T08:51:00+00:00,Netherlands,0.4507021402111488,2,2,nl,NEU,Europe
@@ -161,7 +161,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'deb9684635',extremes,Wildfire,#d60d2b,effis,wildfire nederland agglomeratie ’s gravenhage wassenaar,2026-08-25T03:27:00+00:00,Netherlands,0.3564420314543954,1,1,nl,NEU,Europe
 '129f5858cd',extremes,Earthquake,#870007,usgs,aardbeving baubau,2026-08-25T03:27:00+00:00,Indonesia,0.3562598469619305,1,1,nl,SEA,Asia
 '2d88e3d33a',extremes,Earthquake,#870007,usgs,aardbeving pototano,2026-08-19T03:25:00+00:00,Indonesia,0.3521719606828279,1,1,nl,SEA,Asia
-'3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,zware regen,2026-08-22T03:22:00+00:00,,0.35207582175384966,1,1,nl,,
+'3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,zware regen,2026-08-22T03:22:00+00:00,,0.3520758217538496,1,1,nl,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-08-21T03:30:00+00:00,,0.3510112356206117,1,1,nl,,
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,hitte,2026-08-19T03:25:00+00:00,,0.3507815681014081,1,2,nl,,
 '96fb61f7f7',extremes,Earthquake,#870007,usgs,aardbeving labuan bajo,2026-08-15T03:13:00+00:00,Indonesia,0.3505262833333997,1,1,nl,SEA,Asia
