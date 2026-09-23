@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'cdb3eaf147',extremes,Drought,#edc291,edo,droogte Indonesië,2026-08-21T03:30:00+00:00,Indonesia,0.5920058920055142,4,2,nl,SEA,Asia
+'cdb3eaf147',extremes,Drought,#edc291,edo,droogte Indonesië,2026-08-21T03:30:00+00:00,Indonesia,0.603655053204687,5,2,nl,SEA,Asia
 '8efab12aed',extremes,Fog,#d60d2b,wmo,mist Luik,2026-09-12T07:19:00+00:00,Belgium,0.5515338061066392,3,1,nl,WCE,Europe
 '9ea0e31db4',extremes,Drought,#edc291,edo,gebrek aan regen belgië,2026-08-21T03:30:00+00:00,Belgium,0.5464238864342087,2,1,nl,WCE,Europe
 '1512e9c6b2',extremes,Drought,#edc291,edo,droogte suriname,2026-08-30T08:30:00+00:00,Suriname,0.5459649688930404,2,1,nl,NSA,South-America
@@ -27,7 +27,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '894cfd2b00',extremes,Thunderstorm,#53785a,wmo,hagel België,2026-08-27T13:00:00+00:00,Belgium,0.4846846323365082,2,1,nl,WCE,Europe
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,hagel,2026-08-20T03:26:00+00:00,,0.4826602821352386,2,2,nl,,
 '812393f39a',extremes,Storm,#b3b2b1,wmo,stormvloed ijsselmeer,2026-08-28T14:32:00+00:00,Netherlands,0.4814482604905271,2,1,nl,NEU,Europe
-'abfab9faf1',extremes,Thunderstorm,#53785a,wmo,onweer namen,2026-08-28T14:32:00+00:00,Belgium,0.4797097921690536,2,1,nl,WCE,Europe
 '0704eae962',extremes,Thunderstorm,#53785a,wmo,hagel ijsselmeergebied,2026-08-28T14:32:00+00:00,Netherlands,0.4777365702272382,2,1,nl,NEU,Europe
 'de7f22b1ee',extremes,Storm,#b3b2b1,wmo,stormvloed friesland,2026-08-28T14:32:00+00:00,Netherlands,0.4766826907846953,2,1,nl,NEU,Europe
 '053bb10e09',extremes,Heat Wave,#c40202,random,nazomer,2026-08-30T08:29:00+00:00,,0.4758350154664229,1,2,nl,,
@@ -53,9 +52,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5689409e06',extremes,Storm,#b3b2b1,wmo,storm texel,2026-08-31T08:51:00+00:00,Netherlands,0.449774727843145,2,1,nl,NEU,Europe
 'c320cdfabf',extremes,Thunderstorm,#53785a,wmo,zwaar weer limburg,2026-08-28T14:32:00+00:00,Belgium,0.4484435283078919,3,2,nl,WCE,Europe
 '751eb90eff',extremes,Storm,#b3b2b1,wmo,stormvloed Texel,2026-09-04T07:23:00+00:00,Netherlands,0.4480595917467292,2,1,nl,NEU,Europe
-'7106d0ba4f',extremes,Storm,#b3b2b1,wmo,stormvloed België,2026-08-27T13:00:00+00:00,Belgium,0.44671746103487486,3,1,nl,WCE,Europe
+'7106d0ba4f',extremes,Storm,#b3b2b1,wmo,stormvloed België,2026-08-27T13:00:00+00:00,Belgium,0.4467174610348748,3,1,nl,WCE,Europe
 'a6206dc774',extremes,Drought,#edc291,edo,gebrek aan regen bonaire sint eustatius en saba,2026-08-24T03:32:00+00:00,Bonaire; Saint Eustatius and Saba ,0.4460882686129986,2,1,nl,CAR,North-America
-'c948617fef',extremes,Heat Wave,#c40202,random,blootstelling aan extreme hitte,2026-08-22T03:22:00+00:00,,0.44051250200358716,2,2,nl,,
+'c948617fef',extremes,Heat Wave,#c40202,random,blootstelling aan extreme hitte,2026-08-22T03:22:00+00:00,,0.4405125020035871,2,2,nl,,
 'da8a0a0841',extremes,Drought,#edc291,edo,droge periode sint maarten,2026-08-26T03:34:00+00:00,Sint Maarten,0.4372412280104196,2,1,nl,CAR,North-America
 '283b154c38',extremes,Wet Spell,#d60d2b,random,natte periode,2026-08-25T03:27:00+00:00,,0.4364791734255804,2,2,nl,,
 'b0d80a3f36',extremes,Storm,#b3b2b1,wmo,stormvloed rottum,2026-08-29T09:18:00+00:00,Netherlands,0.4360194036087874,2,1,nl,NEU,Europe
@@ -84,6 +83,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0b63e33e8a',extremes,Storm,#b3b2b1,wmo,storm Zeeland,2026-09-03T07:20:00+00:00,Netherlands,0.4179871996698566,2,1,nl,NEU,Europe
 '07babddb74',extremes,Drought,#edc291,edo,droogte sint maarten,2026-08-25T03:27:00+00:00,Sint Maarten,0.4173498222187784,2,1,nl,CAR,North-America
 'fd68baa97f',extremes,Storm,#b3b2b1,wmo,stormvloed zuid holland,2026-09-03T07:20:00+00:00,Netherlands,0.4168073905869054,2,1,nl,NEU,Europe
+'abfab9faf1',extremes,Thunderstorm,#53785a,wmo,onweer namen,2026-08-28T14:32:00+00:00,Belgium,0.4077533233436955,3,1,nl,WCE,Europe
 'b56391a2fd',extremes,Storm,#b3b2b1,meteo,wind nederland,2026-08-29T09:18:00+00:00,Netherlands,0.4077249105273499,2,1,nl,NEU,Europe
 '8b7bb07843',extremes,Storm,#b3b2b1,wmo,stormvloed Luik,2026-08-27T13:00:00+00:00,Belgium,0.4059468622159282,3,1,nl,WCE,Europe
 '351c432035',extremes,Thunderstorm,#53785a,meteo,onweer belgie,2026-08-27T13:00:00+00:00,Belgium,0.4035679735134131,2,1,nl,WCE,Europe
