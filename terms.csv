@@ -22,7 +22,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5689409e06',extremes,Storm,#b3b2b1,wmo,storm texel,2026-08-31T08:51:00+00:00,Netherlands,0.449774727843145,2,1,nl,NEU,Europe
 'c320cdfabf',extremes,Thunderstorm,#53785a,wmo,zwaar weer limburg,2026-08-28T14:32:00+00:00,Belgium,0.4484435283078919,3,2,nl,WCE,Europe
 '751eb90eff',extremes,Storm,#b3b2b1,wmo,stormvloed Texel,2026-09-04T07:23:00+00:00,Netherlands,0.4480595917467292,2,1,nl,NEU,Europe
-'c948617fef',extremes,Heat Wave,#c40202,random,blootstelling aan extreme hitte,2026-08-22T03:22:00+00:00,,0.4405125020035871,2,2,nl,,
 '283b154c38',extremes,Wet Spell,#d60d2b,random,natte periode,2026-08-25T03:27:00+00:00,,0.4364791734255804,2,2,nl,,
 'b0d80a3f36',extremes,Storm,#b3b2b1,wmo,stormvloed rottum,2026-08-29T09:18:00+00:00,Netherlands,0.4360194036087874,2,1,nl,NEU,Europe
 'e6d31a1970',extremes,Storm,#b3b2b1,wmo,storm harlingen,2026-09-09T07:32:00+00:00,Netherlands,0.4355865608331835,2,1,nl,NEU,Europe
@@ -33,7 +32,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9391f481ee',extremes,Storm,#b3b2b1,random,storm,2026-08-16T03:27:00+00:00,,0.4308294966934437,1,3,nl,,
 '68529927a3',extremes,Storm,#b3b2b1,wmo,storm noord holland,2026-08-31T08:51:00+00:00,Netherlands,0.4299210571348165,2,1,nl,NEU,Europe
 'a4a485a1e1',extremes,Storm,#b3b2b1,wmo,storm ijsselmeergebied,2026-09-04T07:23:00+00:00,Netherlands,0.4285822572173071,2,1,nl,NEU,Europe
-'80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,cycloon,2026-09-01T07:57:00+00:00,,0.42636391992033285,2,2,nl,,
+'80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,cycloon,2026-09-01T07:57:00+00:00,,0.4263639199203328,2,2,nl,,
 '287e242879',extremes,Thunderstorm,#53785a,wmo,zwaar weer Brabant,2026-08-28T14:32:00+00:00,Belgium,0.4243442810501326,2,1,nl,WCE,Europe
 '54c91b207e',extremes,Storm,#b3b2b1,wmo,stormmarken,2026-08-29T09:18:00+00:00,Netherlands,0.4241867672807237,2,1,nl,NEU,Europe
 '9401c267f1',extremes,Storm,#b3b2b1,wmo,stormvloed waddenzee,2026-09-04T07:23:00+00:00,Netherlands,0.4232712591853917,2,1,nl,NEU,Europe
@@ -42,6 +41,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fd68baa97f',extremes,Storm,#b3b2b1,wmo,stormvloed zuid holland,2026-09-03T07:20:00+00:00,Netherlands,0.4168073905869054,2,1,nl,NEU,Europe
 'b56391a2fd',extremes,Storm,#b3b2b1,meteo,wind nederland,2026-08-29T09:18:00+00:00,Netherlands,0.4077249105273499,2,1,nl,NEU,Europe
 '9f0423d739',extremes,Drought,#edc291,random,droogte,2026-08-27T13:00:00+00:00,,0.3991412182877042,1,3,nl,,
+'8b4587c763',extremes,Storm,#b3b2b1,random,stofstorm,2026-09-05T07:04:00+00:00,,0.395589529606033,2,2,nl,,
 '9aceadd432',extremes,Heat Wave,#c40202,random,recordhitte,2026-09-02T07:16:00+00:00,,0.3942167453699643,2,1,nl,,
 '913a98e6ca',extremes,Thunderstorm,#53785a,wmo,zwaar weer groningen,2026-08-31T08:51:00+00:00,Netherlands,0.3930536856040265,2,1,nl,NEU,Europe
 'e5d9717cc6',extremes,Drought,#edc291,edo,gebrek aan regen sint maarten,2026-08-30T08:30:00+00:00,Sint Maarten,0.3925136595126872,2,1,nl,CAR,North-America
@@ -64,21 +64,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7cac7af0d7',extremes,Earthquake,#870007,usgs,aardbeving manado,2026-08-30T08:29:00+00:00,Indonesia,0.340488642307608,2,1,nl,SEA,Asia
 '3270c6910f',extremes,Earthquake,#870007,usgs,aardbeving maba,2026-09-03T07:20:00+00:00,Indonesia,0.334835806647555,2,1,nl,SEA,Asia
 'ecc073b974',extremes,Earthquake,#870007,usgs,aardbeving cilacap,2026-09-06T07:16:00+00:00,Indonesia,0.330908199288649,2,1,nl,SEA,Asia
-'5b8cf400f9',extremes,Iceberg,#d60d2b,random,afkalven van ijsbergen,2026-08-30T08:29:00+00:00,,0.3243818809054661,1,1,nl,,
 '292a8c3820',extremes,Precipitation,#d60d2b,meteo,neerslag nederland,2026-08-31T08:51:00+00:00,Netherlands,0.3234845694994123,2,1,nl,WCE,Europe
 '8f777edd5c',extremes,Earthquake,#870007,usgs,aardbeving sibolga,2026-09-08T07:23:00+00:00,Indonesia,0.3221699084767772,2,1,nl,SEA,Asia
-'4dc8bdbf14',extremes,Flood,#030ba1,random,rivieroverstromingen,2026-08-31T08:51:00+00:00,,0.3211999749991262,1,1,nl,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,kwikdaling,2026-09-07T07:29:00+00:00,,0.3167372852373631,2,1,nl,,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,rijp,2026-09-10T07:28:00+00:00,,0.3093615200190985,2,1,nl,,
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,vorst,2026-08-31T08:51:00+00:00,,0.3074008523646803,2,2,nl,,
-'95b2881221',extremes,Precipitation,#d60d2b,random,atmosferische rivier,2026-09-01T07:57:00+00:00,,0.3061235135621046,1,1,nl,,
-'8b4587c763',extremes,Storm,#b3b2b1,random,stofstorm,2026-09-05T07:04:00+00:00,,0.2887523701247447,1,1,nl,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,ijsberg arctis,2026-09-08T07:23:00+00:00,,0.2842113999942395,2,1,nl,,
 'a652c78afc',extremes,Drought,#edc291,random,megadroogte,2026-09-03T07:20:00+00:00,,0.2735856317461354,2,1,nl,,
 '9cf7521bff',extremes,Earthquake,#870007,usgs,aardbeving sinabang,2026-09-07T07:29:00+00:00,Indonesia,0.2730884149015418,2,1,nl,SEA,Asia
+'4dc8bdbf14',extremes,Flood,#030ba1,random,rivieroverstromingen,2026-08-31T08:51:00+00:00,,0.27301997874925726,2,1,nl,,
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,opwaaiende sneeuw,2026-09-06T07:16:00+00:00,,0.2724054531235918,2,1,nl,,
 '7d72d405be',extremes,Tropical Cyclone,#4f4f4f,eonet,orkaan Lowell,2026-09-02T07:16:00+00:00,,0.2696496247709545,1,1,nl,NPO,Pacific Ocean
 'db3be3f429',extremes,Tropical Cyclone,#4f4f4f,eonet,tropische storm bang lang,2026-08-31T08:51:00+00:00,,0.2694121232757997,1,1,nl,NPO,Pacific Ocean
 'ccefefc59e',extremes,Drought,#edc291,random,plotselinge droogte,2026-09-08T07:23:00+00:00,,0.2693015165326242,1,1,nl,,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,sneeuwbui,2026-09-09T07:32:00+00:00,,0.2628718025815535,2,1,nl,,
+'95b2881221',extremes,Precipitation,#d60d2b,random,atmosferische rivier,2026-09-01T07:57:00+00:00,,0.2602049865277889,2,1,nl,,
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,onweersbui Australië,2026-09-01T07:58:00+00:00,Australia,0.2286960932510924,2,1,nl,EAU,Oceania
